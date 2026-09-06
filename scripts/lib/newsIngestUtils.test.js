@@ -183,6 +183,22 @@ test("detectTeamSide uses RSS category and league cues", () => {
     }),
     "Herr"
   );
+  assert.equal(
+    detectTeamSide({
+      title: "Malva efter förlusten",
+      summary: "Vi ska fortsätta jobba för varandra",
+      players: [{ name: "Malva Larsson", side: "Dam" }],
+    }),
+    "Dam"
+  );
+  assert.equal(
+    detectTeamSide({
+      title: "Brönner från start",
+      summary: "Chansen kom mot Ljungskile",
+      players: [{ name: "Axel Brönner", side: "Herr" }],
+    }),
+    "Herr"
+  );
 });
 
 test("enrichTeamSideTags cross-links same-day opponent articles", () => {

@@ -1,6 +1,10 @@
 {
-  "schemaVersion": 1,
-  "itemCount": 778,
+  "schemaVersion": 2,
+  "itemCount": 801,
+  "sides": {
+    "Herr": 777,
+    "Dam": 24
+  },
   "players": [
     {
       "name": "Abbas Hassan",
@@ -9,14 +13,16 @@
         2010,
         2011,
         2012
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Abderahman Kabous",
       "slug": "abderahman-kabous",
       "seasons": [
         2005
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Abdoulie Tamba",
@@ -24,7 +30,8 @@
       "seasons": [
         2025,
         2026
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Abdul Aziz",
@@ -32,7 +39,8 @@
       "seasons": [
         2016,
         2020
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Abdulrazaq Ishaq",
@@ -42,7 +50,8 @@
         2020,
         2021,
         2022
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Adin Bukva",
@@ -50,7 +59,8 @@
       "seasons": [
         2016,
         2017
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Adnan Kojic",
@@ -58,56 +68,72 @@
       "seasons": [
         2013,
         2015
-      ]
+      ],
+      "side": "Herr"
+    },
+    {
+      "name": "Agnes Ekberg",
+      "slug": "agnes-ekberg",
+      "seasons": [
+        2026
+      ],
+      "side": "Dam"
     },
     {
       "name": "Akpe Shanomi",
       "slug": "akpe-shanomi",
       "seasons": [
         2026
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Alain Amougou",
       "slug": "alain-amougou",
       "seasons": [
         2002
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Albert Aleksanjan",
       "slug": "albert-aleksanjan",
       "seasons": [
         2026
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Aleck Tembo",
       "slug": "aleck-tembo",
       "seasons": [
         2005
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Aleksandar Azizovic",
       "slug": "aleksandar-azizovic",
       "seasons": [
         2022
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Aleksander Opsahl",
       "slug": "aleksander-opsahl",
       "seasons": [
         2026
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Alen Marcina",
       "slug": "alen-marcina",
       "seasons": [
         2004
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Alexander Fransson",
@@ -122,7 +148,8 @@
         2021,
         2025,
         2026
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Alexander Jakobsen",
@@ -131,7 +158,8 @@
         2017,
         2018,
         2019
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Alexander Petras",
@@ -139,14 +167,16 @@
       "seasons": [
         2001,
         2002
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Alexander Radesjö",
       "slug": "alexander-radesjo",
       "seasons": [
         2005
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Alexander Östlund",
@@ -156,7 +186,8 @@
         2000,
         2001,
         2002
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Alfons Sampsted",
@@ -166,21 +197,24 @@
         2018,
         2019,
         2020
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Algot Hjelm",
       "slug": "algot-hjelm",
       "seasons": [
         2026
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Algot Wulff",
       "slug": "algot-wulff",
       "seasons": [
         1930
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Alhaji Kamara",
@@ -188,7 +222,8 @@
       "seasons": [
         2014,
         2015
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Allan Hasselmark",
@@ -198,7 +233,8 @@
         1925,
         1926,
         1927
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Allan Johansson",
@@ -212,7 +248,8 @@
         1930,
         1931,
         1932
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Amadeus Sögaard",
@@ -220,14 +257,24 @@
       "seasons": [
         2024,
         2025
-      ]
+      ],
+      "side": "Herr"
+    },
+    {
+      "name": "Amanda Sundström",
+      "slug": "amanda-sundstrom",
+      "seasons": [
+        2026
+      ],
+      "side": "Dam"
     },
     {
       "name": "Anders Ale",
       "slug": "anders-ale",
       "seasons": [
         2005
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Anders Jonander",
@@ -235,21 +282,24 @@
       "seasons": [
         1991,
         1992
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Anders Nykvist",
       "slug": "anders-nykvist",
       "seasons": [
         1992
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Anders Sellgren",
       "slug": "anders-sellgren",
       "seasons": [
         2000
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Anders Whass",
@@ -263,14 +313,16 @@
         2009,
         2010,
         2011
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Anders Wikström",
       "slug": "anders-wikstrom",
       "seasons": [
         2011
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Andreas Alm",
@@ -279,7 +331,8 @@
         2003,
         2004,
         2005
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Andreas Blomqvist",
@@ -290,14 +343,16 @@
         2018,
         2019,
         2020
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Andreas Bäckmark",
       "slug": "andreas-backmark",
       "seasons": [
         2007
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Andreas Dahlén",
@@ -305,7 +360,8 @@
       "seasons": [
         2004,
         2005
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Andreas Hadenius",
@@ -318,7 +374,8 @@
         2016,
         2017,
         2021
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Andreas Haglund",
@@ -328,7 +385,8 @@
         2008,
         2009,
         2011
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Andreas Johansson",
@@ -341,7 +399,8 @@
         2016,
         2017,
         2018
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Andreas Lindberg",
@@ -353,21 +412,24 @@
         2012,
         2013,
         2014
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Andreas Lindström",
       "slug": "andreas-lindstrom",
       "seasons": [
         2011
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Andreas Lindvall",
       "slug": "andreas-lindvall",
       "seasons": [
         2009
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Andreas Thomas",
@@ -375,7 +437,8 @@
       "seasons": [
         1998,
         1999
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Andreas Vaikla",
@@ -383,7 +446,8 @@
       "seasons": [
         2016,
         2019
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Andri Lucas Gudjohnsen",
@@ -391,7 +455,8 @@
       "seasons": [
         2022,
         2023
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Anton Eriksson",
@@ -402,28 +467,32 @@
         2024,
         2025,
         2026
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Anton Fagerström",
       "slug": "anton-fagerstrom",
       "seasons": [
         2009
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Anton Hallstensson",
       "slug": "anton-hallstensson",
       "seasons": [
         2017
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Anton Stuhrmann",
       "slug": "anton-stuhrmann",
       "seasons": [
         2026
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Anton Ståhl",
@@ -432,7 +501,8 @@
         2020,
         2021,
         2022
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Antti Sumiala",
@@ -440,7 +510,8 @@
       "seasons": [
         2002,
         2003
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Ari Freyr Skúlason",
@@ -449,14 +520,16 @@
         2021,
         2022,
         2023
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Arkade Zenin",
       "slug": "arkade-zenin",
       "seasons": [
         1997
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Armando Ibrakovic",
@@ -464,7 +537,8 @@
       "seasons": [
         2008,
         2009
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Armin Tankovic",
@@ -475,28 +549,32 @@
         2011,
         2012,
         2014
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Arne Andersson",
       "slug": "arne-andersson",
       "seasons": [
         1933
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Arne Eriksson",
       "slug": "arne-eriksson",
       "seasons": [
         1935
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Arne Rehnberg",
       "slug": "arne-rehnberg",
       "seasons": [
         1969
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Arne Törnqvist",
@@ -505,7 +583,8 @@
         1931,
         1932,
         1935
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Arnor Sigurdsson",
@@ -515,7 +594,8 @@
         2018,
         2022,
         2023
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Arnor Traustason",
@@ -528,7 +608,8 @@
         2023,
         2024,
         2025
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Arthur Åstrand",
@@ -538,14 +619,16 @@
         1925,
         1928,
         1929
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Aslak Falch",
       "slug": "aslak-falch",
       "seasons": [
         2017
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Astrit Ajdarevic",
@@ -553,7 +636,8 @@
       "seasons": [
         2011,
         2012
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Axel Brönner",
@@ -562,14 +646,16 @@
         2024,
         2025,
         2026
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Axel Floric",
       "slug": "axel-floric",
       "seasons": [
         2025
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Axel Jansson",
@@ -581,42 +667,56 @@
         1927,
         1928,
         1929
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Axel Pressfeldt",
       "slug": "axel-pressfeldt",
       "seasons": [
         1934
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Aziz Tafer",
       "slug": "aziz-tafer",
       "seasons": [
         2005
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Badou Sene",
       "slug": "badou-sene",
       "seasons": [
         2026
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Balázs Rabóczkí",
       "slug": "balazs-raboczki",
       "seasons": [
         2002
-      ]
+      ],
+      "side": "Herr"
+    },
+    {
+      "name": "Beatrice Persson",
+      "slug": "beatrice-persson",
+      "seasons": [
+        2026
+      ],
+      "side": "Dam"
     },
     {
       "name": "Bengt Carlson",
       "slug": "bengt-carlson",
       "seasons": [
         1947
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Bengt Carlsson",
@@ -627,7 +727,8 @@
         1926,
         1927,
         1929
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Bengt Flisberg",
@@ -638,7 +739,8 @@
         1933,
         1934,
         1935
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Bengt Gustavsson",
@@ -653,7 +755,8 @@
         1953,
         1954,
         1955
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Bengt Lindström",
@@ -667,14 +770,16 @@
         1971,
         1972,
         1973
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Bengt Nilsson",
       "slug": "bengt-nilsson",
       "seasons": [
         1950
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Bengt Nyholm",
@@ -695,7 +800,8 @@
         1963,
         1964,
         1965
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Bengt Rosén",
@@ -703,7 +809,8 @@
       "seasons": [
         1952,
         1953
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Bennard Yao Kumordzi",
@@ -711,14 +818,16 @@
       "seasons": [
         2005,
         2006
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Benny Gall, målvakt (inlånad från Fremad)",
       "slug": "benny-gall-malvakt-inlanad-fran-fremad",
       "seasons": [
         1990
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Benny Wendt",
@@ -731,7 +840,8 @@
         1973,
         1974,
         1975
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Bert Ottar Blom",
@@ -741,7 +851,8 @@
         1967,
         1968,
         1969
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Bert-Olof Haglund",
@@ -750,7 +861,8 @@
         1964,
         1965,
         1967
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Bertil Andersson",
@@ -764,14 +876,16 @@
         1934,
         1935,
         1936
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Bertil Ramsten",
       "slug": "bertil-ramsten",
       "seasons": [
         1931
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Bertil Remnegård",
@@ -779,7 +893,8 @@
       "seasons": [
         1949,
         1950
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Bill Björklund",
@@ -793,7 +908,8 @@
         1966,
         1967,
         1968
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Birger Lönn",
@@ -802,7 +918,8 @@
         1962,
         1963,
         1964
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Birger Rosengren",
@@ -821,14 +938,16 @@
         1947,
         1948,
         1949
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Birkir Kristinsson",
       "slug": "birkir-kristinsson",
       "seasons": [
         1998
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Björn Franzén",
@@ -836,7 +955,8 @@
       "seasons": [
         1968,
         1969
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Björn Nordqvist",
@@ -854,7 +974,8 @@
         1970,
         1971,
         1972
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Bo la Fleur",
@@ -866,7 +987,8 @@
         1968,
         1969,
         1970
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Bo Lagerlund",
@@ -876,7 +998,8 @@
         1963,
         1964,
         1965
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Bo Larsson",
@@ -886,7 +1009,8 @@
         1977,
         1979,
         1980
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Bo Nilsson",
@@ -894,14 +1018,16 @@
       "seasons": [
         1970,
         1971
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Bo Nilsson - Nilmert",
       "slug": "bo-nilsson-nilmert",
       "seasons": [
         1967
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Bo Ramsten",
@@ -909,7 +1035,8 @@
       "seasons": [
         1930,
         1932
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Bo Stenqvist",
@@ -919,7 +1046,8 @@
         1973,
         1974,
         1975
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Bobbie Friberg da Cruz",
@@ -928,14 +1056,16 @@
         2011,
         2012,
         2013
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Brian McDermott",
       "slug": "brian-mcdermott",
       "seasons": [
         1984
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Bruno Carlberg",
@@ -943,7 +1073,8 @@
       "seasons": [
         1924,
         1925
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Bruno Santos",
@@ -955,7 +1086,8 @@
         2007,
         2010,
         2011
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Brynolf Ekelin",
@@ -965,7 +1097,8 @@
         1925,
         1926,
         1927
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Caio Mendes",
@@ -973,7 +1106,8 @@
       "seasons": [
         2010,
         2011
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Carl Björk",
@@ -984,14 +1118,16 @@
         2021,
         2023,
         2024
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Carl-Erik Lindeström",
       "slug": "carl-erik-lindestrom",
       "seasons": [
         1924
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Carl-Evert Westerlund",
@@ -1001,14 +1137,24 @@
         1935,
         1936,
         1939
-      ]
+      ],
+      "side": "Herr"
+    },
+    {
+      "name": "Carrie Jones",
+      "slug": "carrie-jones",
+      "seasons": [
+        2026
+      ],
+      "side": "Dam"
     },
     {
       "name": "Christer Bergqvist (inlånad från GIF Sundsvall)",
       "slug": "christer-bergqvist-inlanad-fran-gif-sundsvall",
       "seasons": [
         1996
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Christer Eriksson",
@@ -1017,7 +1163,8 @@
         1986,
         1987,
         1988
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Christer Hult",
@@ -1035,21 +1182,24 @@
         1973,
         1974,
         1975
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Christer Olsson",
       "slug": "christer-olsson",
       "seasons": [
         1964
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Christer Sjölund",
       "slug": "christer-sjolund",
       "seasons": [
         1967
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Christoffer Nyman",
@@ -1071,7 +1221,8 @@
         2024,
         2025,
         2026
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Christopher Josue Meneses Barrantes",
@@ -1080,7 +1231,8 @@
         2013,
         2014,
         2015
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Christopher Telo",
@@ -1102,7 +1254,8 @@
         2020,
         2021,
         2022
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Curt Bernsten",
@@ -1113,7 +1266,8 @@
         1978,
         1979,
         1980
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Curt Lövgren",
@@ -1123,14 +1277,16 @@
         1957,
         1959,
         1960
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Curt Spogardh",
       "slug": "curt-spogardh",
       "seasons": [
         1948
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Dago Funes",
@@ -1138,7 +1294,8 @@
       "seasons": [
         2004,
         2005
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Dan Larsson",
@@ -1146,14 +1303,16 @@
       "seasons": [
         1984,
         1985
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Dan Svensson",
       "slug": "dan-svensson",
       "seasons": [
         1984
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Dani Hamzo",
@@ -1162,7 +1321,8 @@
         1995,
         1996,
         1997
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Daniel Bamberg",
@@ -1173,14 +1333,16 @@
         2008,
         2009,
         2010
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Daniel Fredriksson",
       "slug": "daniel-fredriksson",
       "seasons": [
         2005
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Daniel Fritz Eid",
@@ -1189,7 +1351,8 @@
         2022,
         2023,
         2024
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Daniel Johansson",
@@ -1197,7 +1360,8 @@
       "seasons": [
         1996,
         1997
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Daniel Sjölund",
@@ -1207,14 +1371,16 @@
         2016,
         2017,
         2018
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Daniel Svensson",
       "slug": "daniel-svensson",
       "seasons": [
         2006
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Darko Mavrak",
@@ -1222,7 +1388,8 @@
       "seasons": [
         1996,
         1997
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Darrell Kamdem Tibell",
@@ -1231,7 +1398,8 @@
         2019,
         2021,
         2022
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "David Adolfsson",
@@ -1244,7 +1412,8 @@
         1931,
         1932,
         1933
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "David Andersson",
@@ -1254,7 +1423,8 @@
         2024,
         2025,
         2026
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "David Boo Wiklander",
@@ -1266,7 +1436,8 @@
         2013,
         2014,
         2015
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "David Burubwa",
@@ -1274,21 +1445,24 @@
       "seasons": [
         2020,
         2024
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "David Chamoun",
       "slug": "david-chamoun",
       "seasons": [
         2009
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "David Holmström",
       "slug": "david-holmstrom",
       "seasons": [
         2000
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "David Mitov Nilsson",
@@ -1307,7 +1481,8 @@
         2024,
         2025,
         2026
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "David Moberg Karlsson",
@@ -1318,7 +1493,8 @@
         2018,
         2024,
         2025
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "David Nordbeck",
@@ -1327,14 +1503,16 @@
         2006,
         2007,
         2008
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "David Ström",
       "slug": "david-strom",
       "seasons": [
         2022
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Dawid Banaczek",
@@ -1343,14 +1521,24 @@
         2001,
         2002,
         2003
-      ]
+      ],
+      "side": "Herr"
+    },
+    {
+      "name": "Deborah-Anne De la Harpe",
+      "slug": "deborah-anne-de-la-harpe",
+      "seasons": [
+        2026
+      ],
+      "side": "Dam"
     },
     {
       "name": "Dennis Eriksson",
       "slug": "dennis-eriksson",
       "seasons": [
         1991
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Dick Last",
@@ -1358,14 +1546,16 @@
       "seasons": [
         1996,
         1997
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Didace Burubwa",
       "slug": "didace-burubwa",
       "seasons": [
         2023
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Dime Jankulovski",
@@ -1373,7 +1563,8 @@
       "seasons": [
         2003,
         2004
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Dino Salihovic",
@@ -1384,21 +1575,24 @@
         2022,
         2023,
         2024
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Diogo Oliveira",
       "slug": "diogo-oliveira",
       "seasons": [
         2006
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Diogo Romanini",
       "slug": "diogo-romanini",
       "seasons": [
         2010
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Djordje Mrdjanin",
@@ -1406,7 +1600,8 @@
       "seasons": [
         2008,
         2009
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Donny Sundell",
@@ -1415,7 +1610,24 @@
         1993,
         1994,
         1995
-      ]
+      ],
+      "side": "Herr"
+    },
+    {
+      "name": "Ebba Handfast",
+      "slug": "ebba-handfast",
+      "seasons": [
+        2026
+      ],
+      "side": "Dam"
+    },
+    {
+      "name": "Ebba Steen",
+      "slug": "ebba-steen",
+      "seasons": [
+        2026
+      ],
+      "side": "Dam"
     },
     {
       "name": "Eddie Gustafsson",
@@ -1428,14 +1640,16 @@
         1999,
         2000,
         2001
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Edvard Setterberg",
       "slug": "edvard-setterberg",
       "seasons": [
         2014
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Edvard Skagestad",
@@ -1443,7 +1657,8 @@
       "seasons": [
         2014,
         2015
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Edvin Johansson",
@@ -1453,7 +1668,8 @@
         1927,
         1928,
         1929
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Edvin Tellgren",
@@ -1463,7 +1679,8 @@
         2022,
         2023,
         2024
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Egzon Binaku",
@@ -1473,7 +1690,8 @@
         2020,
         2021,
         2022
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Einar Karlsson",
@@ -1483,7 +1701,8 @@
         1950,
         1951,
         1952
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Einar Stéen",
@@ -1498,14 +1717,16 @@
         1946,
         1947,
         1948
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Einar Wallsing",
       "slug": "einar-wallsing",
       "seasons": [
         1927
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Eine Fredriksson",
@@ -1517,7 +1738,8 @@
         1980,
         1981,
         1982
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Eirik Dybendal",
@@ -1528,21 +1750,32 @@
         2008,
         2009,
         2010
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Elias Jemal",
       "slug": "elias-jemal",
       "seasons": [
         2026
-      ]
+      ],
+      "side": "Herr"
+    },
+    {
+      "name": "Elin Rombing",
+      "slug": "elin-rombing",
+      "seasons": [
+        2026
+      ],
+      "side": "Dam"
     },
     {
       "name": "Elis Hallberg",
       "slug": "elis-hallberg",
       "seasons": [
         1936
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Elof Pettersson",
@@ -1551,14 +1784,16 @@
         1924,
         1925,
         1926
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Elon Lildén",
       "slug": "elon-lilden",
       "seasons": [
         1932
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Elon Mildén",
@@ -1566,7 +1801,8 @@
       "seasons": [
         1933,
         1934
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Elvis Lindkvist",
@@ -1574,14 +1810,16 @@
       "seasons": [
         2022,
         2023
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Eman Markovic",
       "slug": "eman-markovic",
       "seasons": [
         2022
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Emanuel Chabo",
@@ -1589,28 +1827,32 @@
       "seasons": [
         2021,
         2022
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Emil Holmberg",
       "slug": "emil-holmberg",
       "seasons": [
         2024
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Emil Lundberg",
       "slug": "emil-lundberg",
       "seasons": [
         2005
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Emil Roback",
       "slug": "emil-roback",
       "seasons": [
         2023
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Emir Kujović",
@@ -1620,7 +1862,16 @@
         2014,
         2015,
         2016
-      ]
+      ],
+      "side": "Herr"
+    },
+    {
+      "name": "Emma Engström",
+      "slug": "emma-engstrom",
+      "seasons": [
+        2026
+      ],
+      "side": "Dam"
     },
     {
       "name": "Enis Ahmetovic",
@@ -1628,7 +1879,8 @@
       "seasons": [
         2010,
         2011
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Eric Smith",
@@ -1638,14 +1890,16 @@
         2017,
         2018,
         2020
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Erik Falk",
       "slug": "erik-falk",
       "seasons": [
         1931
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Erik Holmqvist",
@@ -1663,21 +1917,24 @@
         1948,
         1949,
         1950
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Erik Jansson",
       "slug": "erik-jansson",
       "seasons": [
         2010
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Erik Karlsson",
       "slug": "erik-karlsson",
       "seasons": [
         1936
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Erik Lindell",
@@ -1687,7 +1944,8 @@
         2016,
         2019,
         2022
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Erik Norrby",
@@ -1698,14 +1956,16 @@
         1993,
         1994,
         1995
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Erik Zetterström",
       "slug": "erik-zetterstrom",
       "seasons": [
         2005
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Evert Lager",
@@ -1721,14 +1981,16 @@
         1934,
         1935,
         1936
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Fabian Holst-Larsen",
       "slug": "fabian-holst-larsen",
       "seasons": [
         2026
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Fadel Youssif",
@@ -1736,7 +1998,16 @@
       "seasons": [
         2016,
         2017
-      ]
+      ],
+      "side": "Herr"
+    },
+    {
+      "name": "Fanny Andersson",
+      "slug": "fanny-andersson",
+      "seasons": [
+        2026
+      ],
+      "side": "Dam"
     },
     {
       "name": "Felix Bengtsson",
@@ -1744,21 +2015,24 @@
       "seasons": [
         2017,
         2018
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Felix Magro",
       "slug": "felix-magro",
       "seasons": [
         2008
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Felix Stenman",
       "slug": "felix-stenman",
       "seasons": [
         2022
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Filip Apelstav",
@@ -1770,7 +2044,8 @@
         2002,
         2003,
         2004
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Filip Dagerstål",
@@ -1786,35 +2061,40 @@
         2020,
         2022,
         2026
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Filip Falck Lundin",
       "slug": "filip-falck-lundin",
       "seasons": [
         2013
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Filip Fransson",
       "slug": "filip-fransson",
       "seasons": [
         2009
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Filip Johansson Bahar",
       "slug": "filip-johansson-bahar",
       "seasons": [
         2017
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Finnur Tómas Pálmason",
       "slug": "finnur-tomas-palmason",
       "seasons": [
         2021
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Fredrik Bild",
@@ -1824,7 +2104,8 @@
         2000,
         2001,
         2002
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Fredrik Enerby",
@@ -1833,14 +2114,24 @@
         1994,
         1995,
         1996
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Fredrik Hällqvist, målvakt",
       "slug": "fredrik-hallqvist-malvakt",
       "seasons": [
         1990
-      ]
+      ],
+      "side": "Herr"
+    },
+    {
+      "name": "Freja Lindwall",
+      "slug": "freja-lindwall",
+      "seasons": [
+        2026
+      ],
+      "side": "Dam"
     },
     {
       "name": "Fritiof Hellichius",
@@ -1850,14 +2141,16 @@
         2022,
         2023,
         2024
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Gabriel Chamoun",
       "slug": "gabriel-chamoun",
       "seasons": [
         2009
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Gardar Gunnlaugsson",
@@ -1866,14 +2159,16 @@
         2006,
         2007,
         2008
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Gazmend Bahtiri",
       "slug": "gazmend-bahtiri",
       "seasons": [
         2009
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Gentrit Citaku",
@@ -1883,7 +2178,8 @@
         2014,
         2015,
         2016
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Georg Ericson",
@@ -1899,7 +2195,8 @@
         1947,
         1948,
         1950
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Georg Högvall",
@@ -1909,14 +2206,16 @@
         1925,
         1926,
         1927
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "George Parris",
       "slug": "george-parris",
       "seasons": [
         1995
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Georgios Karathanasis",
@@ -1927,14 +2226,16 @@
         1991,
         2002,
         2003
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Gerhard Torstensson",
       "slug": "gerhard-torstensson",
       "seasons": [
         1976
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Gert Hellberg",
@@ -1948,35 +2249,40 @@
         1976,
         1977,
         1978
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Gisli Laxdal Unnarsson",
       "slug": "gisli-laxdal-unnarsson",
       "seasons": [
         2022
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Glenn Schöön",
       "slug": "glenn-schoon",
       "seasons": [
         2001
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Godswill Ekpolo",
       "slug": "godswill-ekpolo",
       "seasons": [
         2022
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Gordon Molander",
       "slug": "gordon-molander",
       "seasons": [
         2015
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Grant Igesund",
@@ -1984,7 +2290,8 @@
       "seasons": [
         2005,
         2006
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Gudmundur Mete",
@@ -1993,7 +2300,8 @@
         2003,
         2004,
         2005
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Gudmundur Thórarinsson",
@@ -2002,7 +2310,8 @@
         2017,
         2018,
         2019
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Gunnar Heidar Thorvaldsson",
@@ -2011,14 +2320,16 @@
         2011,
         2012,
         2013
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Gunnar Karlsson",
       "slug": "gunnar-karlsson",
       "seasons": [
         1957
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Gunnar Nordahl",
@@ -2029,14 +2340,16 @@
         1946,
         1947,
         1948
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Gunnar Persson",
       "slug": "gunnar-persson",
       "seasons": [
         1929
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Gunnar Ragnar",
@@ -2053,14 +2366,16 @@
         1933,
         1934,
         1935
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Gunnar Ståhl",
       "slug": "gunnar-stahl",
       "seasons": [
         1925
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Gunnar Thor Gunnarsson",
@@ -2069,42 +2384,48 @@
         2008,
         2009,
         2010
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Gustav Abrahamsson",
       "slug": "gustav-abrahamsson",
       "seasons": [
         1928
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Gustav Jansson",
       "slug": "gustav-jansson",
       "seasons": [
         2019
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Gustav Lindgren",
       "slug": "gustav-lindgren",
       "seasons": [
         2022
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Gustav Nordberg",
       "slug": "gustav-nordberg",
       "seasons": [
         2002
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Gustav Nyberg",
       "slug": "gustav-nyberg",
       "seasons": [
         2022
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Göran Bergort",
@@ -2116,7 +2437,8 @@
         1994,
         1995,
         1996
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Göran E Karlsson",
@@ -2124,21 +2446,24 @@
       "seasons": [
         1980,
         1981
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Göran Ekholm",
       "slug": "goran-ekholm",
       "seasons": [
         1970
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Göran Gustafsson",
       "slug": "goran-gustafsson",
       "seasons": [
         1950
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Göran Holm",
@@ -2146,7 +2471,8 @@
       "seasons": [
         1975,
         1976
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Göran Holter",
@@ -2159,21 +2485,24 @@
         1990,
         1991,
         1994
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Göran Landberg",
       "slug": "goran-landberg",
       "seasons": [
         1949
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Göran Linder",
       "slug": "goran-linder",
       "seasons": [
         1943
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Gösta \"Banan\" Andersson",
@@ -2184,7 +2513,8 @@
         1926,
         1927,
         1928
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Gösta Andersson",
@@ -2194,7 +2524,8 @@
         1934,
         1935,
         1936
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Gösta Berglund",
@@ -2206,7 +2537,8 @@
         1930,
         1931,
         1932
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Gösta Löfgren",
@@ -2216,7 +2548,8 @@
         1961,
         1962,
         1963
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Gösta Malm",
@@ -2232,7 +2565,8 @@
         1947,
         1948,
         1949
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Gösta Nordahl",
@@ -2243,7 +2577,8 @@
         1951,
         1952,
         1953
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Gösta Persson",
@@ -2256,7 +2591,8 @@
         1960,
         1961,
         1962
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Gösta Ragnar",
@@ -2264,7 +2600,8 @@
       "seasons": [
         1929,
         1930
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Göte Arnell",
@@ -2279,7 +2616,8 @@
         1953,
         1954,
         1955
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Göte Örtegren",
@@ -2290,7 +2628,8 @@
         1943,
         1944,
         1946
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Hadar Sundberg",
@@ -2298,14 +2637,16 @@
       "seasons": [
         2020,
         2021
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Hadi Vahedi",
       "slug": "hadi-vahedi",
       "seasons": [
         2015
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Halvar Carlbom",
@@ -2322,21 +2663,24 @@
         1946,
         1947,
         1949
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Hamilton Thorp",
       "slug": "hamilton-thorp",
       "seasons": [
         2003
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Hampus Lönn",
       "slug": "hampus-lonn",
       "seasons": [
         2018
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Hampus Näsström",
@@ -2344,14 +2688,16 @@
       "seasons": [
         2021,
         2022
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Hans Eriksson",
       "slug": "hans-eriksson",
       "seasons": [
         1986
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Hans Eskilsson",
@@ -2360,7 +2706,8 @@
         1985,
         1986,
         1987
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Hans Holmertz",
@@ -2369,14 +2716,16 @@
         1974,
         1975,
         1976
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Hans Karlsson",
       "slug": "hans-karlsson",
       "seasons": [
         1961
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Hans Larsson",
@@ -2390,21 +2739,24 @@
         1972,
         1973,
         1974
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Hans Möller",
       "slug": "hans-moller",
       "seasons": [
         1934
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Hans Ottosson",
       "slug": "hans-ottosson",
       "seasons": [
         1975
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Hans Rosander",
@@ -2416,7 +2768,8 @@
         1963,
         1964,
         1965
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Hans Åmansson",
@@ -2425,35 +2778,40 @@
         1974,
         1975,
         1976
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Harald Brask",
       "slug": "harald-brask",
       "seasons": [
         1940
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Harald Nyman",
       "slug": "harald-nyman",
       "seasons": [
         1924
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Haris Laitinen",
       "slug": "haris-laitinen",
       "seasons": [
         2006
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Haris Sijaric",
       "slug": "haris-sijaric",
       "seasons": [
         2013
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Harry Bild",
@@ -2467,21 +2825,24 @@
         1962,
         1963,
         1964
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Harry Fyhrberg",
       "slug": "harry-fyhrberg",
       "seasons": [
         1928
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Harry Risberg",
       "slug": "harry-risberg",
       "seasons": [
         1939
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Harry Stanley",
@@ -2490,14 +2851,16 @@
         1924,
         1925,
         1926
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Harry Westerlund",
       "slug": "harry-westerlund",
       "seasons": [
         1936
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Hasan Cetinkaya",
@@ -2507,7 +2870,8 @@
         1996,
         1997,
         1998
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Henric Karlsson",
@@ -2515,14 +2879,16 @@
       "seasons": [
         1996,
         1997
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Henrik Bergman",
       "slug": "henrik-bergman",
       "seasons": [
         1996
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Henrik Castegren",
@@ -2536,7 +2902,8 @@
         2019,
         2020,
         2021
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Henrik Skärnell",
@@ -2544,21 +2911,24 @@
       "seasons": [
         1924,
         1925
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Henrik Svedberg",
       "slug": "henrik-svedberg",
       "seasons": [
         2009
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Henry Chritensson",
       "slug": "henry-chritensson",
       "seasons": [
         1960
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Henry Källgren",
@@ -2574,14 +2944,16 @@
         1956,
         1957,
         1959
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Henry Sletsjöe",
       "slug": "henry-sletsjoe",
       "seasons": [
         2021
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Herbert Sandin",
@@ -2595,7 +2967,8 @@
         1955,
         1956,
         1957
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Holger Nyman",
@@ -2612,35 +2985,40 @@
         1955,
         1956,
         1957
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Hugo Fagerberg",
       "slug": "hugo-fagerberg",
       "seasons": [
         2026
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Hugo Lewander",
       "slug": "hugo-lewander",
       "seasons": [
         2022
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Hugo Ringsten",
       "slug": "hugo-ringsten",
       "seasons": [
         2026
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Håkan Forsberg",
       "slug": "hakan-forsberg",
       "seasons": [
         1969
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Håkan Larsson",
@@ -2650,14 +3028,16 @@
         1979,
         1980,
         1981
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Håkan Lundholm",
       "slug": "hakan-lundholm",
       "seasons": [
         1993
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Håkan Lundström",
@@ -2667,14 +3047,16 @@
         1980,
         1981,
         1982
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Håkan Malmqvist",
       "slug": "hakan-malmqvist",
       "seasons": [
         1975
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Håkan Pettersson",
@@ -2690,14 +3072,16 @@
         1986,
         1987,
         1988
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Håkan Spjuth",
       "slug": "hakan-spjuth",
       "seasons": [
         1984
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Ian Smith",
@@ -2706,28 +3090,40 @@
         2018,
         2019,
         2020
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Ibrahim Afiz, provspelare",
       "slug": "ibrahim-afiz-provspelare",
       "seasons": [
         2022
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Ibrahim Hafiz",
       "slug": "ibrahim-hafiz",
       "seasons": [
         2022
-      ]
+      ],
+      "side": "Herr"
+    },
+    {
+      "name": "Ida Larsson",
+      "slug": "ida-larsson",
+      "seasons": [
+        2026
+      ],
+      "side": "Dam"
     },
     {
       "name": "Igor Ponomarjev",
       "slug": "igor-ponomarjev",
       "seasons": [
         1989
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Ihab Naser",
@@ -2735,7 +3131,8 @@
       "seasons": [
         2016,
         2017
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Imad Khalili",
@@ -2747,28 +3144,32 @@
         2011,
         2012,
         2013
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Inge Blomberg",
       "slug": "inge-blomberg",
       "seasons": [
         1960
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Inge Danielsson",
       "slug": "inge-danielsson",
       "seasons": [
         1973
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Ingemar Johansson",
       "slug": "ingemar-johansson",
       "seasons": [
         1947
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Ingemar Knutsson",
@@ -2777,14 +3178,16 @@
         1945,
         1946,
         1950
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Irmeli Jonsson",
       "slug": "irmeli-jonsson",
       "seasons": [
         2023
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Isaac Kiese Thelin",
@@ -2793,7 +3196,16 @@
         2012,
         2013,
         2014
-      ]
+      ],
+      "side": "Herr"
+    },
+    {
+      "name": "Isabella Sibley",
+      "slug": "isabella-sibley",
+      "seasons": [
+        2026
+      ],
+      "side": "Dam"
     },
     {
       "name": "Isak Andri Sigurgeirsson",
@@ -2803,7 +3215,8 @@
         2024,
         2025,
         2026
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Isak Bergmann Jóhannesson",
@@ -2812,7 +3225,8 @@
         2019,
         2020,
         2021
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Isak Ellbring",
@@ -2821,7 +3235,8 @@
         2021,
         2022,
         2023
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Isak Pettersson",
@@ -2830,7 +3245,8 @@
         2018,
         2019,
         2020
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Isak Ssewankambo",
@@ -2838,7 +3254,8 @@
       "seasons": [
         2023,
         2024
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Ismet Lushaku",
@@ -2847,21 +3264,24 @@
         2024,
         2025,
         2026
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Issah Mohammed",
       "slug": "issah-mohammed",
       "seasons": [
         2002
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Ivo Vazgec",
       "slug": "ivo-vazgec",
       "seasons": [
         2009
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jacob Ortmark",
@@ -2871,7 +3291,8 @@
         2023,
         2024,
         2025
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jakob Lindahl",
@@ -2881,7 +3302,8 @@
         2018,
         2019,
         2020
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "James Frempong",
@@ -2891,7 +3313,8 @@
         2012,
         2013,
         2014
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jan \"Fimpen\" Eriksson",
@@ -2899,14 +3322,16 @@
       "seasons": [
         1984,
         1985
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jan Connman",
       "slug": "jan-connman",
       "seasons": [
         1967
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jan Eriksson",
@@ -2915,7 +3340,8 @@
         1985,
         1991,
         1992
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jan Hedén",
@@ -2926,7 +3352,8 @@
         1989,
         1990,
         1991
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jan Hellström",
@@ -2943,7 +3370,8 @@
         1992,
         1993,
         1994
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jan Jansson",
@@ -2957,7 +3385,8 @@
         1999,
         2000,
         2001
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jan Johnsson",
@@ -2967,7 +3396,8 @@
         1977,
         1979,
         1980
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jan Kalén",
@@ -2984,7 +3414,8 @@
         1991,
         1992,
         1993
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jan Olsson",
@@ -2996,7 +3427,8 @@
         1966,
         1967,
         1968
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jan Svensson",
@@ -3011,7 +3443,8 @@
         1986,
         1987,
         1988
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jan-Åke Jonsson",
@@ -3028,7 +3461,8 @@
         1982,
         1984,
         1985
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jani Sarajärvi",
@@ -3036,7 +3470,8 @@
       "seasons": [
         2002,
         2003
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Janne Hietanen",
@@ -3044,14 +3479,16 @@
       "seasons": [
         1998,
         1999
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jean Carlos De Brito",
       "slug": "jean-carlos-de-brito",
       "seasons": [
         2022
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jens Nilsson",
@@ -3059,7 +3496,8 @@
       "seasons": [
         1991,
         1992
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jens Öberg",
@@ -3067,7 +3505,8 @@
       "seasons": [
         2005,
         2006
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jesper Ceesay",
@@ -3076,7 +3515,8 @@
         2023,
         2024,
         2025
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jesper Lindvall",
@@ -3085,28 +3525,32 @@
         2023,
         2024,
         2025
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jesper Svensson",
       "slug": "jesper-svensson",
       "seasons": [
         2013
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jesper Tolinsson",
       "slug": "jesper-tolinsson",
       "seasons": [
         2023
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jevgenij Charlitov",
       "slug": "jevgenij-charlitov",
       "seasons": [
         1997
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jevgenij Kuznetsov",
@@ -3116,14 +3560,16 @@
         1991,
         1992,
         1993
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jimmie Gustavsson",
       "slug": "jimmie-gustavsson",
       "seasons": [
         2006
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Joachim Acheampong",
@@ -3131,28 +3577,32 @@
       "seasons": [
         1994,
         1995
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Joakim Tornfeldt",
       "slug": "joakim-tornfeldt",
       "seasons": [
         1994
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Joakim Wisen",
       "slug": "joakim-wisen",
       "seasons": [
         1992
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Joe Spiteri",
       "slug": "joe-spiteri",
       "seasons": [
         2001
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Joel Enarsson",
@@ -3160,35 +3610,40 @@
       "seasons": [
         2015,
         2016
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Joey Bjarnason",
       "slug": "joey-bjarnason",
       "seasons": [
         2022
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Johan Andersson",
       "slug": "johan-andersson",
       "seasons": [
         2013
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Johan Böök",
       "slug": "johan-book",
       "seasons": [
         2001
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Johan Larsson",
       "slug": "johan-larsson",
       "seasons": [
         2000
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Johan Roxström",
@@ -3196,7 +3651,8 @@
       "seasons": [
         2003,
         2004
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Johan Söderberg",
@@ -3205,14 +3661,16 @@
         2003,
         2004,
         2005
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Johannes Gustavson",
       "slug": "johannes-gustavson",
       "seasons": [
         2000
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jóhannes Kristinn Bjarnason",
@@ -3220,7 +3678,8 @@
       "seasons": [
         2021,
         2022
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Johannes Vall",
@@ -3229,14 +3688,16 @@
         2017,
         2018,
         2019
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "John Öhlin",
       "slug": "john-ohlin",
       "seasons": [
         1924
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Johnny Einarsson",
@@ -3244,7 +3705,8 @@
       "seasons": [
         1974,
         1976
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jón Guðni Fjóluson",
@@ -3253,21 +3715,24 @@
         2016,
         2017,
         2018
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jonas Andersson",
       "slug": "jonas-andersson",
       "seasons": [
         2003
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jonas Bergdahl (inlånad från Smedby AIS)",
       "slug": "jonas-bergdahl-inlanad-fran-smedby-ais",
       "seasons": [
         1996
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jonas Bjurström",
@@ -3279,7 +3744,8 @@
         2000,
         2001,
         2002
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jonas Jerléus",
@@ -3289,7 +3755,8 @@
         1993,
         1994,
         1995
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jonas Lind",
@@ -3309,7 +3776,8 @@
         1993,
         1994,
         1995
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jonas Nilsson",
@@ -3319,14 +3787,16 @@
         1990,
         1991,
         1999
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jonas Ohlsson",
       "slug": "jonas-ohlsson",
       "seasons": [
         1996
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jonas Persson",
@@ -3335,7 +3805,8 @@
         1994,
         1995,
         1996
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jonas Wallerstedt",
@@ -3349,28 +3820,32 @@
         2000,
         2001,
         2002
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jonas Weber",
       "slug": "jonas-weber",
       "seasons": [
         2026
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jonas Åhlander",
       "slug": "jonas-ahlander",
       "seasons": [
         1996
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jonatan Gren",
       "slug": "jonatan-gren",
       "seasons": [
         2020
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jónatan Guðni Arnarsson",
@@ -3378,14 +3853,16 @@
       "seasons": [
         2024,
         2025
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jonathan Battel",
       "slug": "jonathan-battel",
       "seasons": [
         2006
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jonathan Levi",
@@ -3395,28 +3872,32 @@
         2021,
         2022,
         2023
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jonathan Lundin",
       "slug": "jonathan-lundin",
       "seasons": [
         2013
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jonathan Sterling",
       "slug": "jonathan-sterling",
       "seasons": [
         2026
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jonathan Tesfay Habte",
       "slug": "jonathan-tesfay-habte",
       "seasons": [
         2021
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jonnie Aronsson",
@@ -3424,7 +3905,8 @@
       "seasons": [
         1989,
         1990
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jonnie Efraimsson",
@@ -3432,7 +3914,8 @@
       "seasons": [
         1984,
         1985
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jonny Rödlund",
@@ -3443,7 +3926,8 @@
         1991,
         1992,
         1993
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Joonas Tamm",
@@ -3452,7 +3936,8 @@
         2011,
         2012,
         2013
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jordan Larsson",
@@ -3460,7 +3945,8 @@
       "seasons": [
         2018,
         2019
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Josef Massi",
@@ -3468,14 +3954,32 @@
       "seasons": [
         1988,
         1990
-      ]
+      ],
+      "side": "Herr"
+    },
+    {
+      "name": "Josefin Harrysson",
+      "slug": "josefin-harrysson",
+      "seasons": [
+        2026
+      ],
+      "side": "Dam"
     },
     {
       "name": "Joseph Ceesay",
       "slug": "joseph-ceesay",
       "seasons": [
         2024
-      ]
+      ],
+      "side": "Herr"
+    },
+    {
+      "name": "Julia Karlernäs",
+      "slug": "julia-karlernas",
+      "seasons": [
+        2026
+      ],
+      "side": "Dam"
     },
     {
       "name": "Julius Lindgren",
@@ -3486,14 +3990,16 @@
         2019,
         2020,
         2021
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Junus Lindberg",
       "slug": "junus-lindberg",
       "seasons": [
         1936
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jörgen Lindström",
@@ -3501,14 +4007,24 @@
       "seasons": [
         1989,
         1991
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Jörgen Pettersson",
       "slug": "jorgen-pettersson",
       "seasons": [
         1988
-      ]
+      ],
+      "side": "Herr"
+    },
+    {
+      "name": "Kaitlyn Macbean",
+      "slug": "kaitlyn-macbean",
+      "seasons": [
+        2026
+      ],
+      "side": "Dam"
     },
     {
       "name": "Karl Holmberg",
@@ -3518,7 +4034,8 @@
         2017,
         2018,
         2019
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Karl Johansson",
@@ -3529,7 +4046,8 @@
         1941,
         1942,
         1943
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Karl Kronkvist",
@@ -3537,7 +4055,8 @@
       "seasons": [
         1954,
         1956
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Karl-Edvin Stéen",
@@ -3552,14 +4071,16 @@
         1952,
         1953,
         1954
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Karl-Erik Norrman",
       "slug": "karl-erik-norrman",
       "seasons": [
         1929
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Karl-Gustav Widegren",
@@ -3573,7 +4094,8 @@
         1933,
         1934,
         1935
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Kasper Larsen",
@@ -3581,14 +4103,16 @@
       "seasons": [
         2018,
         2019
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Kasper Ringqvist",
       "slug": "kasper-ringqvist",
       "seasons": [
         2013
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Keith Pettersson",
@@ -3596,28 +4120,32 @@
       "seasons": [
         1960,
         1961
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Ken Kallaste",
       "slug": "ken-kallaste",
       "seasons": [
         2015
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Ken Sema",
       "slug": "ken-sema",
       "seasons": [
         2013
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Kennet Andersson",
       "slug": "kennet-andersson",
       "seasons": [
         1993
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Kenneth Åslund",
@@ -3626,7 +4154,8 @@
         1972,
         1973,
         1974
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Kent Hellström",
@@ -3635,7 +4164,8 @@
         1979,
         1981,
         1982
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Kent Lundqvist",
@@ -3648,7 +4178,8 @@
         1980,
         1981,
         1982
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Kevin Alvarez",
@@ -3657,21 +4188,24 @@
         2019,
         2020,
         2021
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Kevin Amuneke",
       "slug": "kevin-amuneke",
       "seasons": [
         2008
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Kevin Eriksson",
       "slug": "kevin-eriksson",
       "seasons": [
         2024
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Kevin Höög Jansson",
@@ -3680,14 +4214,16 @@
         2023,
         2024,
         2025
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Kia Shemsu",
       "slug": "kia-shemsu",
       "seasons": [
         2022
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Kim Suominen",
@@ -3695,21 +4231,24 @@
       "seasons": [
         1996,
         1997
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Kimmo Miettinen, IFK Mora",
       "slug": "kimmo-miettinen-ifk-mora",
       "seasons": [
         1996
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Kjell Larsson",
       "slug": "kjell-larsson",
       "seasons": [
         1984
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Kjell Uhrberg",
@@ -3717,7 +4256,8 @@
       "seasons": [
         1988,
         1989
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Klebér Saarenpää",
@@ -3727,14 +4267,16 @@
         1998,
         1999,
         2000
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Knut Lindau",
       "slug": "knut-lindau",
       "seasons": [
         1930
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Knut Nordahl",
@@ -3749,7 +4291,8 @@
         1947,
         1948,
         1949
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Kojo Peprah Oppong",
@@ -3758,21 +4301,24 @@
         2022,
         2023,
         2025
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Kourosh Farrokhzadeh",
       "slug": "kourosh-farrokhzadeh",
       "seasons": [
         2019
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Krister Eriksson",
       "slug": "krister-eriksson",
       "seasons": [
         1986
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Krister Norblad",
@@ -3786,7 +4332,8 @@
         1976,
         1977,
         1978
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Kristian Bergström",
@@ -3797,14 +4344,16 @@
         2000,
         2001,
         2002
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Kristian Pettersson",
       "slug": "kristian-pettersson",
       "seasons": [
         1988
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Kristofer Andersson",
@@ -3812,7 +4361,8 @@
       "seasons": [
         2006,
         2007
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Kristoffer Arvhage",
@@ -3823,7 +4373,8 @@
         2008,
         2009,
         2010
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Kristoffer Khazeni",
@@ -3834,7 +4385,8 @@
         2022,
         2023,
         2024
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Kurt Lövgren",
@@ -3845,28 +4397,32 @@
         1953,
         1954,
         1955
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Kyle Lightbourne",
       "slug": "kyle-lightbourne",
       "seasons": [
         2001
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Kylian Seka",
       "slug": "kylian-seka",
       "seasons": [
         2026
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Laban Blosse",
       "slug": "laban-blosse",
       "seasons": [
         2013
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Lambert Ramsten",
@@ -3878,7 +4434,8 @@
         1931,
         1932,
         1933
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Laorent Shabani",
@@ -3888,7 +4445,8 @@
         2023,
         2024,
         2025
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Lars Appelqvist",
@@ -3896,7 +4454,8 @@
       "seasons": [
         1945,
         1948
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Lars Berglund",
@@ -3909,14 +4468,16 @@
         1968,
         1969,
         1970
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Lars Bergström",
       "slug": "lars-bergstrom",
       "seasons": [
         1942
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Lars Eriksson",
@@ -3929,7 +4490,8 @@
         1993,
         1994,
         1995
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Lars Krogh Gerson",
@@ -3941,21 +4503,24 @@
         2018,
         2019,
         2020
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Lars Lindqvist",
       "slug": "lars-lindqvist",
       "seasons": [
         1936
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Lars Svensson",
       "slug": "lars-svensson",
       "seasons": [
         1939
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Lars-Erik Bergstrand",
@@ -3964,7 +4529,8 @@
         1962,
         1963,
         1964
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Lars-Erik Wickberg",
@@ -3975,21 +4541,24 @@
         1941,
         1943,
         1944
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Lars-Erik Winge",
       "slug": "lars-erik-winge",
       "seasons": [
         1954
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Lars-Åke Berglund",
       "slug": "lars-ake-berglund",
       "seasons": [
         1967
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Léandre Griffit",
@@ -3997,7 +4566,8 @@
       "seasons": [
         2007,
         2008
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Leif Andersson",
@@ -4013,7 +4583,8 @@
         1982,
         1984,
         1985
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Leif Anglesjö",
@@ -4023,7 +4594,8 @@
         1979,
         1980,
         1981
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Leif Holmqvist",
@@ -4031,7 +4603,8 @@
       "seasons": [
         1963,
         1964
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Lennart Andersson",
@@ -4042,7 +4615,8 @@
         1973,
         1974,
         1975
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Lennart Backman",
@@ -4050,7 +4624,8 @@
       "seasons": [
         1956,
         1957
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Lennart Carlsson",
@@ -4058,7 +4633,8 @@
       "seasons": [
         1969,
         1970
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Lennart Eriksson",
@@ -4069,14 +4645,16 @@
         1957,
         1959,
         1960
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Lennart Fyhrberg",
       "slug": "lennart-fyhrberg",
       "seasons": [
         1941
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Lennart Holmqvist",
@@ -4089,7 +4667,8 @@
         1955,
         1956,
         1959
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Lennart Weidenstolpe",
@@ -4099,14 +4678,16 @@
         1986,
         1987,
         1988
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Lennart Westrén",
       "slug": "lennart-westren",
       "seasons": [
         1940
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Lennart Wigren",
@@ -4124,7 +4705,8 @@
         1944,
         1945,
         1946
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Leo Jonsson",
@@ -4133,14 +4715,16 @@
         2022,
         2023,
         2024
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Leo Lif",
       "slug": "leo-lif",
       "seasons": [
         2026
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Liam Olausson",
@@ -4148,7 +4732,8 @@
       "seasons": [
         2020,
         2021
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Linus Brunzell",
@@ -4156,14 +4741,16 @@
       "seasons": [
         2016,
         2017
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Linus Hallenius",
       "slug": "linus-hallenius",
       "seasons": [
         2020
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Linus Hellman",
@@ -4172,14 +4759,16 @@
         2005,
         2006,
         2007
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Linus Rikardsson",
       "slug": "linus-rikardsson",
       "seasons": [
         2006
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Linus Wahlqvist",
@@ -4194,14 +4783,32 @@
         2020,
         2021,
         2022
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Linus Wallberg",
       "slug": "linus-wallberg",
       "seasons": [
         2024
-      ]
+      ],
+      "side": "Herr"
+    },
+    {
+      "name": "Lova Braam",
+      "slug": "lova-braam",
+      "seasons": [
+        2026
+      ],
+      "side": "Dam"
+    },
+    {
+      "name": "Lovisa Carmblad",
+      "slug": "lovisa-carmblad",
+      "seasons": [
+        2026
+      ],
+      "side": "Dam"
     },
     {
       "name": "Lucas Lima",
@@ -4210,7 +4817,8 @@
         2020,
         2021,
         2022
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Magnus Gustafsson",
@@ -4218,14 +4826,16 @@
       "seasons": [
         1996,
         1997
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Magnus Jonsson",
       "slug": "magnus-jonsson",
       "seasons": [
         2006
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Magnus Karlsson",
@@ -4236,14 +4846,16 @@
         1989,
         1990,
         1991
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Magnus Pettersson",
       "slug": "magnus-pettersson",
       "seasons": [
         1993
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Magnus Samuelsson",
@@ -4261,7 +4873,8 @@
         2007,
         2008,
         2009
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Magnus Zmuda",
@@ -4269,7 +4882,8 @@
       "seasons": [
         2000,
         2001
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Maic Sema",
@@ -4281,14 +4895,16 @@
         2021,
         2022,
         2023
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Majkel Bagir, från Sylvia",
       "slug": "majkel-bagir-fran-sylvia",
       "seasons": [
         2019
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Malak Ertas",
@@ -4296,28 +4912,40 @@
       "seasons": [
         1994,
         1995
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Malcolm McPherson",
       "slug": "malcolm-mcpherson",
       "seasons": [
         1996
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Malte Palm",
       "slug": "malte-palm",
       "seasons": [
         1925
-      ]
+      ],
+      "side": "Herr"
+    },
+    {
+      "name": "Malva Larsson",
+      "slug": "malva-larsson",
+      "seasons": [
+        2026
+      ],
+      "side": "Dam"
     },
     {
       "name": "Manaf Rawufu",
       "slug": "manaf-rawufu",
       "seasons": [
         2025
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Manasse Kusu",
@@ -4327,7 +4955,8 @@
         2019,
         2020,
         2021
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Marcin Burkhardt",
@@ -4335,7 +4964,8 @@
       "seasons": [
         2008,
         2009
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Marco Lund",
@@ -4344,7 +4974,8 @@
         2021,
         2022,
         2023
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Marcus Baggesen",
@@ -4354,7 +4985,8 @@
         2024,
         2025,
         2026
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Marcus Falk-Olander",
@@ -4368,7 +5000,8 @@
         2015,
         2016,
         2017
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Marcus Johansson",
@@ -4378,14 +5011,16 @@
         2011,
         2012,
         2013
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Marcus Olsson",
       "slug": "marcus-olsson",
       "seasons": [
         2006
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Marcus Sahlman",
@@ -4393,7 +5028,8 @@
       "seasons": [
         2014,
         2015
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Markus Hansson",
@@ -4401,7 +5037,8 @@
       "seasons": [
         2004,
         2005
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Markus Törnvall",
@@ -4409,14 +5046,16 @@
       "seasons": [
         1989,
         1990
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Martin Candestam",
       "slug": "martin-candestam",
       "seasons": [
         1997
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Martin Gustafsson",
@@ -4425,7 +5064,8 @@
         2005,
         2006,
         2007
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Martin Gustavsson",
@@ -4434,7 +5074,8 @@
         1928,
         1929,
         1930
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Martin Smedberg-Dalence",
@@ -4443,7 +5084,8 @@
         2011,
         2012,
         2013
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Martin Åslund",
@@ -4451,14 +5093,16 @@
       "seasons": [
         1997,
         1998
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Marwan Baze",
       "slug": "marwan-baze",
       "seasons": [
         2016
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Mathias Florén",
@@ -4475,7 +5119,8 @@
         2013,
         2014,
         2015
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Mathias Gravem",
@@ -4485,7 +5130,16 @@
         1999,
         2000,
         2001
-      ]
+      ],
+      "side": "Herr"
+    },
+    {
+      "name": "Matilda Kristell",
+      "slug": "matilda-kristell",
+      "seasons": [
+        2026
+      ],
+      "side": "Dam"
     },
     {
       "name": "Mats Almgren",
@@ -4495,7 +5149,8 @@
         1989,
         1990,
         1991
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Mats Andersson",
@@ -4504,7 +5159,8 @@
         1987,
         1988,
         1989
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Mats Johansson",
@@ -4516,7 +5172,8 @@
         1986,
         1987,
         1988
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Mats Jörman",
@@ -4525,7 +5182,8 @@
         1988,
         1989,
         1990
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Mats Olofsson",
@@ -4534,7 +5192,8 @@
         1974,
         1975,
         1976
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Mattias Flodström",
@@ -4544,14 +5203,16 @@
         2000,
         2001,
         2002
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Mattias Fredriksson",
       "slug": "mattias-fredriksson",
       "seasons": [
         2003
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Mattias Östberg",
@@ -4560,14 +5221,16 @@
         1999,
         2000,
         2001
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Max Olsson",
       "slug": "max-olsson",
       "seasons": [
         2020
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Max Watson",
@@ -4576,14 +5239,16 @@
         2024,
         2025,
         2026
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Mbaye Cissé",
       "slug": "mbaye-cisse",
       "seasons": [
         2026
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Melker Spångberg",
@@ -4591,21 +5256,24 @@
       "seasons": [
         2024,
         2026
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Michael Darago",
       "slug": "michael-darago",
       "seasons": [
         1993
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Michael Kassyoussef",
       "slug": "michael-kassyoussef",
       "seasons": [
         2004
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Michael Langer",
@@ -4613,14 +5281,16 @@
       "seasons": [
         2016,
         2017
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Miguel Henrique da Souza Silva",
       "slug": "miguel-henrique-da-souza-silva",
       "seasons": [
         2023
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Mika Niskala",
@@ -4629,7 +5299,8 @@
         1999,
         2000,
         2001
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Mikael Blomberg",
@@ -4650,7 +5321,8 @@
         2007,
         2008,
         2009
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Mikael Cupan",
@@ -4659,14 +5331,16 @@
         1992,
         1993,
         2003
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Mikael Danielsson (inlånad från IFK Eskilstuna)",
       "slug": "mikael-danielsson-inlanad-fran-ifk-eskilstuna",
       "seasons": [
         1996
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Mikael Eriksson",
@@ -4675,21 +5349,24 @@
         1985,
         1986,
         1987
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Mikael Fyhrberg",
       "slug": "mikael-fyhrberg",
       "seasons": [
         1985
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Mikael Fyrberg",
       "slug": "mikael-fyrberg",
       "seasons": [
         1985
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Mikael Granskog",
@@ -4700,7 +5377,8 @@
         1984,
         1985,
         1986
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Mikael Hansson",
@@ -4716,7 +5394,8 @@
         1997,
         1998,
         1999
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Mikael Kalpakidis",
@@ -4725,21 +5404,24 @@
         1987,
         1988,
         1989
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Mikael Lang",
       "slug": "mikael-lang",
       "seasons": [
         1994
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Mikael Lindskog",
       "slug": "mikael-lindskog",
       "seasons": [
         2010
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Mikael Roth",
@@ -4752,14 +5434,16 @@
         2007,
         2008,
         2009
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Mikael Skjärvold",
       "slug": "mikael-skjarvold",
       "seasons": [
         1996
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Mikael Ström",
@@ -4776,7 +5460,8 @@
         2002,
         2003,
         2004
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Mikael Torin",
@@ -4788,7 +5473,8 @@
         2004,
         2005,
         2006
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Mirza Halvadzic",
@@ -4796,21 +5482,24 @@
       "seasons": [
         2014,
         2015
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Modou Barrow",
       "slug": "modou-barrow",
       "seasons": [
         2012
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Mohammad Ali",
       "slug": "mohammad-ali",
       "seasons": [
         2026
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Mohanad Jeahze",
@@ -4818,7 +5507,8 @@
       "seasons": [
         2016,
         2017
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Morten Skjønsberg",
@@ -4827,7 +5517,8 @@
         2012,
         2013,
         2014
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Moutaz Neffati",
@@ -4838,21 +5529,24 @@
         2024,
         2025,
         2026
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Neathan Gibson",
       "slug": "neathan-gibson",
       "seasons": [
         1997
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Nermin Karic",
       "slug": "nermin-karic",
       "seasons": [
         2020
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Nick Bosevski",
@@ -4861,7 +5555,8 @@
         2002,
         2003,
         2004
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Nicklas Bärkroth",
@@ -4870,7 +5565,8 @@
         2015,
         2016,
         2017
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Niclas Eliasson",
@@ -4878,7 +5574,8 @@
       "seasons": [
         2016,
         2017
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Niclas Fredriksson",
@@ -4886,7 +5583,8 @@
       "seasons": [
         2002,
         2003
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Niclas Kindvall",
@@ -4896,21 +5594,24 @@
         1992,
         1993,
         1994
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Niklas Brodacki",
       "slug": "niklas-brodacki",
       "seasons": [
         2013
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Niklas Gunnarsson",
       "slug": "niklas-gunnarsson",
       "seasons": [
         2023
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Niklas Westberg",
@@ -4918,14 +5619,16 @@
       "seasons": [
         2010,
         2011
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Nikola Jokisic",
       "slug": "nikola-jokisic",
       "seasons": [
         1994
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Nikola Tkalcic",
@@ -4938,14 +5641,16 @@
         2015,
         2016,
         2017
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Nils Akai Rosell",
       "slug": "nils-akai-rosell",
       "seasons": [
         2020
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Nils Andersson",
@@ -4955,7 +5660,8 @@
         1929,
         1930,
         1931
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Nils Eriksson",
@@ -4964,21 +5670,24 @@
         1928,
         1929,
         1930
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Nils Gustafsson",
       "slug": "nils-gustafsson",
       "seasons": [
         1936
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Nils Lennström",
       "slug": "nils-lennstrom",
       "seasons": [
         1932
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Nils Liedholm",
@@ -4987,14 +5696,16 @@
         1946,
         1947,
         1948
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Nils Ljungqvist",
       "slug": "nils-ljungqvist",
       "seasons": [
         1927
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Nils Olofsson",
@@ -5003,7 +5714,8 @@
         1948,
         1949,
         1950
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Nils Persson",
@@ -5011,7 +5723,8 @@
       "seasons": [
         1932,
         1933
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Nils Sandin",
@@ -5020,14 +5733,16 @@
         1924,
         1925,
         1926
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Nils-Erik Tömell",
       "slug": "nils-erik-tomell",
       "seasons": [
         1936
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Noel Sernelius",
@@ -5037,14 +5752,16 @@
         2024,
         2025,
         2026
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Noel Tegström",
       "slug": "noel-tegstrom",
       "seasons": [
         2026
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Nuredin Bakiu",
@@ -5054,7 +5771,8 @@
         2007,
         2008,
         2009
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Okänd Spelare",
@@ -5062,7 +5780,8 @@
       "seasons": [
         1930,
         2011
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Olie Håkansson",
@@ -5070,7 +5789,8 @@
       "seasons": [
         1952,
         1955
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Oliver Lönn",
@@ -5079,7 +5799,8 @@
         2008,
         2009,
         2010
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Oliver Stefánsson",
@@ -5089,7 +5810,16 @@
         2021,
         2022,
         2023
-      ]
+      ],
+      "side": "Herr"
+    },
+    {
+      "name": "Olivia Montel Arvidsson",
+      "slug": "olivia-montel-arvidsson",
+      "seasons": [
+        2026
+      ],
+      "side": "Dam"
     },
     {
       "name": "Olle Bergström",
@@ -5098,7 +5828,8 @@
         1955,
         1959,
         1960
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Olle Carlberg",
@@ -5107,21 +5838,24 @@
         1935,
         1936,
         1940
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Olle Carlsson",
       "slug": "olle-carlsson",
       "seasons": [
         1924
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Olle Delborn",
       "slug": "olle-delborn",
       "seasons": [
         1947
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Olle Eckerud",
@@ -5131,14 +5865,16 @@
         1934,
         1935,
         1936
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Olle Hallström",
       "slug": "olle-hallstrom",
       "seasons": [
         2005
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Olle Håkansson",
@@ -5152,7 +5888,8 @@
         1955,
         1956,
         1957
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Olle Nordin",
@@ -5163,14 +5900,16 @@
         1972,
         1973,
         1974
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Olle Ringdahl",
       "slug": "olle-ringdahl",
       "seasons": [
         1927
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Olle Siljeholm",
@@ -5178,7 +5917,8 @@
       "seasons": [
         1928,
         1929
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Olle Ståhl",
@@ -5190,7 +5930,8 @@
         1934,
         1935,
         1936
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Olof Carlberg",
@@ -5199,21 +5940,24 @@
         1933,
         1934,
         1939
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Olof Olsson",
       "slug": "olof-olsson",
       "seasons": [
         1974
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Oscar Björkqvist",
       "slug": "oscar-bjorkqvist",
       "seasons": [
         1925
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Oscar Holmqvist",
@@ -5229,7 +5973,8 @@
         1946,
         1947,
         1948
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Oscar Jansson",
@@ -5239,21 +5984,24 @@
         2022,
         2023,
         2024
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Oscar Sundén",
       "slug": "oscar-sunden",
       "seasons": [
         2006
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Oskar Karlsson",
       "slug": "oskar-karlsson",
       "seasons": [
         2009
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Otto Lindell",
@@ -5261,7 +6009,8 @@
       "seasons": [
         2021,
         2022
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Ove Karlsson",
@@ -5274,7 +6023,8 @@
         1978,
         1979,
         1980
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Ove Kindvall",
@@ -5290,14 +6040,16 @@
         1973,
         1974,
         1975
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Ove Lindholm",
       "slug": "ove-lindholm",
       "seasons": [
         1965
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Ove Nordqvist",
@@ -5306,7 +6058,8 @@
         1984,
         1985,
         1986
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Ove Ståhlbäck",
@@ -5317,28 +6070,32 @@
         1934,
         1935,
         1936
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Ove Thärning",
       "slug": "ove-tharning",
       "seasons": [
         1962
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Owen Kapusa",
       "slug": "owen-kapusa",
       "seasons": [
         2005
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Patric Karlsson",
       "slug": "patric-karlsson",
       "seasons": [
         1995
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Patrik Andersson",
@@ -5359,21 +6116,24 @@
         2001,
         2002,
         2009
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Patrik Johansson",
       "slug": "patrik-johansson",
       "seasons": [
         1988
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Patrik Jonsson (inlånad från Hultsfred)",
       "slug": "patrik-jonsson-inlanad-fran-hultsfred",
       "seasons": [
         1996
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Patrik Jönsson",
@@ -5387,7 +6147,8 @@
         2005,
         2006,
         2009
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Patrik Kieback",
@@ -5396,7 +6157,8 @@
         2001,
         2002,
         2003
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Patrik Sandström",
@@ -5405,7 +6167,8 @@
         1994,
         1995,
         1996
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Patrik Svensson",
@@ -5414,21 +6177,32 @@
         2005,
         2006,
         2007
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Paul Obinna",
       "slug": "paul-obinna",
       "seasons": [
         2026
-      ]
+      ],
+      "side": "Herr"
+    },
+    {
+      "name": "Paula Broddner Klingspor",
+      "slug": "paula-broddner-klingspor",
+      "seasons": [
+        2026
+      ],
+      "side": "Dam"
     },
     {
       "name": "Peder Winsnes",
       "slug": "peder-winsnes",
       "seasons": [
         2000
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Pelle Andersson",
@@ -5440,7 +6214,8 @@
         1999,
         2000,
         2003
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Per Blohm",
@@ -5450,21 +6225,24 @@
         1993,
         1994,
         1995
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Per Forsberg",
       "slug": "per-forsberg",
       "seasons": [
         1927
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Per Högmo",
       "slug": "per-hogmo",
       "seasons": [
         1986
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Per Lager",
@@ -5472,7 +6250,8 @@
       "seasons": [
         1986,
         1987
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Per Nilsson",
@@ -5481,7 +6260,8 @@
         1939,
         1941,
         1942
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Per-Inge Jansson",
@@ -5492,7 +6272,8 @@
         1965,
         1966,
         1967
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Per-Olof Eek",
@@ -5507,21 +6288,24 @@
         1976,
         1977,
         1978
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Peter Bergström",
       "slug": "peter-bergstrom",
       "seasons": [
         1996
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Peter Eriksson",
       "slug": "peter-eriksson",
       "seasons": [
         1991
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Peter Fyhr",
@@ -5530,14 +6314,16 @@
         1997,
         1998,
         1999
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Peter Hagström",
       "slug": "peter-hagstrom",
       "seasons": [
         1968
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Peter Hansen",
@@ -5545,7 +6331,8 @@
       "seasons": [
         2003,
         2006
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Peter Liljedahl",
@@ -5560,14 +6347,16 @@
         1980,
         1981,
         1982
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Peter Lundberg",
       "slug": "peter-lundberg",
       "seasons": [
         2000
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Peter Lönn",
@@ -5583,7 +6372,8 @@
         1989,
         1992,
         1993
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Peter Skoog",
@@ -5592,7 +6382,8 @@
         2005,
         2006,
         2007
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Peter Wallin",
@@ -5600,14 +6391,16 @@
       "seasons": [
         1999,
         2000
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Petrit Burrniku",
       "slug": "petrit-burrniku",
       "seasons": [
         2003
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Petru Racu",
@@ -5618,35 +6411,40 @@
         2009,
         2010,
         2011
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Petter Jacobsson",
       "slug": "petter-jacobsson",
       "seasons": [
         1999
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Petter Jonsson",
       "slug": "petter-jonsson",
       "seasons": [
         2006
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Philip Ahlstrand",
       "slug": "philip-ahlstrand",
       "seasons": [
         2006
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Pierre Börjesson",
       "slug": "pierre-borjesson",
       "seasons": [
         2005
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Pierre Gallo",
@@ -5655,7 +6453,8 @@
         2004,
         2005,
         2006
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Pontus Almqvist",
@@ -5664,7 +6463,8 @@
         2017,
         2019,
         2020
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Pär-Olof Ohlsson",
@@ -5676,7 +6476,8 @@
         1977,
         1978,
         1979
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Ragnar Andersson",
@@ -5685,7 +6486,8 @@
         1927,
         1928,
         1929
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Ragnar Eriksson",
@@ -5693,7 +6495,8 @@
       "seasons": [
         1989,
         1990
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Ranko Djordjic",
@@ -5703,7 +6506,8 @@
         1986,
         1987,
         1988
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Rasmus Lauritsen",
@@ -5711,7 +6515,8 @@
       "seasons": [
         2019,
         2020
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Rawez Lawan",
@@ -5720,14 +6525,16 @@
         2013,
         2014,
         2015
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Renato Braga",
       "slug": "renato-braga",
       "seasons": [
         2004
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Richard Spong",
@@ -5737,7 +6544,8 @@
         2006,
         2007,
         2008
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Rickard Carlsson",
@@ -5745,14 +6553,16 @@
       "seasons": [
         1926,
         1927
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Rikard Harrysson",
       "slug": "rikard-harrysson",
       "seasons": [
         2005
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Riki Cakic",
@@ -5765,14 +6575,16 @@
         2010,
         2011,
         2013
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Ringdahl",
       "slug": "ringdahl",
       "seasons": [
         1924
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Robert Hillstedt",
@@ -5781,21 +6593,24 @@
         2003,
         2004,
         2005
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Robert Kovacevic",
       "slug": "robert-kovacevic",
       "seasons": [
         1988
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Robert Samo",
       "slug": "robert-samo",
       "seasons": [
         2009
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Robert Steiner",
@@ -5804,14 +6619,16 @@
         1995,
         1996,
         1997
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Rodrigo Pontes",
       "slug": "rodrigo-pontes",
       "seasons": [
         2004
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Roger Joelsson",
@@ -5820,7 +6637,8 @@
         1989,
         1990,
         1991
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Roger Lönn",
@@ -5830,7 +6648,8 @@
         1989,
         1990,
         1991
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Roland Andersson",
@@ -5839,7 +6658,8 @@
         1961,
         1964,
         1965
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Roland Niva",
@@ -5847,7 +6667,8 @@
       "seasons": [
         1952,
         1953
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Roland Pressfeldt",
@@ -5863,7 +6684,8 @@
         1971,
         1972,
         1973
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Roland Svensson",
@@ -5871,7 +6693,8 @@
       "seasons": [
         1972,
         1975
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Rolf Rosenqvist",
@@ -5882,21 +6705,24 @@
         1960,
         1961,
         1962
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Roy Bergström",
       "slug": "roy-bergstrom",
       "seasons": [
         1974
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Runar Spännare",
       "slug": "runar-spannare",
       "seasons": [
         1950
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Rune Lind",
@@ -5911,7 +6737,8 @@
         1962,
         1963,
         1964
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Rune Pettersson",
@@ -5919,7 +6746,8 @@
       "seasons": [
         1939,
         1942
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Russell Mwafulirwa",
@@ -5929,21 +6757,24 @@
         2009,
         2010,
         2011
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Ryan Binns",
       "slug": "ryan-binns",
       "seasons": [
         2020
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Ryan Nelson",
       "slug": "ryan-nelson",
       "seasons": [
         2026
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Saleh Saadoo",
@@ -5951,14 +6782,16 @@
       "seasons": [
         2000,
         2001
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Samuel Adegbenro",
       "slug": "samuel-adegbenro",
       "seasons": [
         2021
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Sasá Sjanic",
@@ -5966,7 +6799,8 @@
       "seasons": [
         2007,
         2008
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Sead Haksabanovic",
@@ -5975,7 +6809,8 @@
         2019,
         2020,
         2021
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Sebastian Andersson",
@@ -5983,14 +6818,16 @@
       "seasons": [
         2016,
         2017
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Sebastian Burman",
       "slug": "sebastian-burman",
       "seasons": [
         1989
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Sebastian Detterman",
@@ -5999,7 +6836,8 @@
         2019,
         2020,
         2022
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Sebastian Francisco",
@@ -6007,21 +6845,24 @@
       "seasons": [
         2009,
         2010
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Sebastian Jörgensen",
       "slug": "sebastian-jorgensen",
       "seasons": [
         2025
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Sheka Fofanah",
       "slug": "sheka-fofanah",
       "seasons": [
         2016
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Shpetim Hasani",
@@ -6030,14 +6871,16 @@
         2010,
         2011,
         2012
-      ]
+      ],
+      "side": "Herr"
     },
     {
-      "name": "Shpëtim Hasani",
-      "slug": "shpetim-hasani",
+      "name": "Sigdís Eva Bárdardóttir",
+      "slug": "sigdis-eva-bardardottir",
       "seasons": [
-        2011
-      ]
+        2026
+      ],
+      "side": "Dam"
     },
     {
       "name": "Sigge Andersson",
@@ -6045,14 +6888,16 @@
       "seasons": [
         1929,
         1930
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Sigge Wigren",
       "slug": "sigge-wigren",
       "seasons": [
         1932
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Siim Luts",
@@ -6060,7 +6905,8 @@
       "seasons": [
         2013,
         2014
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Simon Dogan",
@@ -6069,21 +6915,24 @@
         1998,
         1999,
         2000
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Simon Jakobsson",
       "slug": "simon-jakobsson",
       "seasons": [
         1994
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Simon Omekanda",
       "slug": "simon-omekanda",
       "seasons": [
         2007
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Simon Skrabb",
@@ -6092,7 +6941,8 @@
         2017,
         2018,
         2019
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Simon Thern",
@@ -6101,21 +6951,24 @@
         2018,
         2019,
         2020
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Siyabonga Siphika",
       "slug": "siyabonga-siphika",
       "seasons": [
         2005
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Slavoljub Jankovic",
       "slug": "slavoljub-jankovic",
       "seasons": [
         1997
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Slobodan Marovic",
@@ -6124,7 +6977,16 @@
         1992,
         1993,
         1994
-      ]
+      ],
+      "side": "Herr"
+    },
+    {
+      "name": "Sofia Hjern",
+      "slug": "sofia-hjern",
+      "seasons": [
+        2026
+      ],
+      "side": "Dam"
     },
     {
       "name": "Stefan Alvén",
@@ -6132,7 +6994,8 @@
       "seasons": [
         2000,
         2001
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Stefan Broberg",
@@ -6140,7 +7003,8 @@
       "seasons": [
         1973,
         1974
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Stefan Ljungberg",
@@ -6148,7 +7012,8 @@
       "seasons": [
         2000,
         2001
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Stefan Nordahl",
@@ -6156,7 +7021,8 @@
       "seasons": [
         1987,
         1988
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Stefan Pettersson",
@@ -6164,7 +7030,8 @@
       "seasons": [
         1982,
         1984
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Stefan Thórdarson",
@@ -6174,21 +7041,24 @@
         2006,
         2007,
         2009
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Stefan Tiborsson",
       "slug": "stefan-tiborsson",
       "seasons": [
         1988
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Sten Westerlund",
       "slug": "sten-westerlund",
       "seasons": [
         1951
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Stephan Bolma",
@@ -6197,14 +7067,16 @@
         2022,
         2023,
         2024
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Stevan Beko",
       "slug": "stevan-beko",
       "seasons": [
         2024
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Stig \"Vadstena\" Gustafsson",
@@ -6212,7 +7084,8 @@
       "seasons": [
         1941,
         1942
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Stig \"Vammar\" Gustafsson",
@@ -6224,7 +7097,8 @@
         1959,
         1960,
         1961
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Stig Bornhager",
@@ -6232,21 +7106,24 @@
       "seasons": [
         1961,
         1962
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Stig Kullman",
       "slug": "stig-kullman",
       "seasons": [
         1936
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Stig Kördel",
       "slug": "stig-kordel",
       "seasons": [
         1931
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Stig Palmgren",
@@ -6254,7 +7131,8 @@
       "seasons": [
         1952,
         1954
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Stig Sundqvist",
@@ -6263,7 +7141,8 @@
         1948,
         1949,
         1950
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Sture Nilsson",
@@ -6271,7 +7150,8 @@
       "seasons": [
         1924,
         1925
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Sulo Vaattovaara",
@@ -6287,7 +7167,8 @@
         1995,
         1996,
         1997
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Svante Larsson",
@@ -6295,7 +7176,8 @@
       "seasons": [
         1976,
         1977
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Sven Axbom",
@@ -6309,21 +7191,24 @@
         1957,
         1959,
         1960
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Sven B. Dahlström",
       "slug": "sven-b-dahlstrom",
       "seasons": [
         1933
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Sven Bergström",
       "slug": "sven-bergstrom",
       "seasons": [
         1926
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Sven Persson",
@@ -6338,7 +7223,8 @@
         1947,
         1948,
         1949
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Sven Pettersson",
@@ -6346,14 +7232,16 @@
       "seasons": [
         1924,
         1925
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Sven Ringborg",
       "slug": "sven-ringborg",
       "seasons": [
         1924
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Sven Strömbäck",
@@ -6361,14 +7249,16 @@
       "seasons": [
         1947,
         1948
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Sven Widin",
       "slug": "sven-widin",
       "seasons": [
         1936
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Sven Åhman",
@@ -6380,7 +7270,8 @@
         1942,
         1943,
         1944
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Sven-Erik Svensson",
@@ -6389,7 +7280,8 @@
         1974,
         1975,
         1976
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Sven-Evert Hesselgren",
@@ -6397,14 +7289,16 @@
       "seasons": [
         1968,
         1969
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Sven-Olof Bergman",
       "slug": "sven-olof-bergman",
       "seasons": [
         1982
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Sven-Åke Wickberg",
@@ -6415,7 +7309,8 @@
         1941,
         1942,
         1946
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Sölve Flisberg",
@@ -6424,7 +7319,8 @@
         1924,
         1925,
         1926
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Sören Andersen",
@@ -6432,14 +7328,16 @@
       "seasons": [
         1995,
         1996
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Sören Andersson",
       "slug": "soren-andersson",
       "seasons": [
         1967
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Sören Nilsson",
@@ -6449,14 +7347,16 @@
         1984,
         1985,
         1986
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Tage Ekström",
       "slug": "tage-ekstrom",
       "seasons": [
         1942
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Tesfaldet Tekie",
@@ -6464,7 +7364,8 @@
       "seasons": [
         2015,
         2016
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Theo Krantz",
@@ -6472,7 +7373,8 @@
       "seasons": [
         2025,
         2026
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Theodore Rask",
@@ -6482,7 +7384,8 @@
         2021,
         2022,
         2023
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Thomas Andersson",
@@ -6491,14 +7394,16 @@
         1986,
         1987,
         1988
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Thomas Cratz",
       "slug": "thomas-cratz",
       "seasons": [
         1969
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Thomas Gustavsson",
@@ -6506,14 +7411,16 @@
       "seasons": [
         1985,
         1986
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Thomas Johansson",
       "slug": "thomas-johansson",
       "seasons": [
         1997
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Thomas Magnusson",
@@ -6522,7 +7429,8 @@
         2006,
         2007,
         2008
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Thomas Olof Andersson",
@@ -6531,7 +7439,8 @@
         1977,
         1978,
         1979
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Thomas Olsson",
@@ -6542,28 +7451,32 @@
         2000,
         2001,
         2002
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Thomas Åström",
       "slug": "thomas-astrom",
       "seasons": [
         1988
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Thomas Överstöm",
       "slug": "thomas-overstom",
       "seasons": [
         1996
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Thor-André Olsen",
       "slug": "thor-andre-olsen",
       "seasons": [
         1999
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Thordur Thordarson",
@@ -6571,7 +7484,8 @@
       "seasons": [
         1999,
         2000
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Tidjani Diawara",
@@ -6579,7 +7493,8 @@
       "seasons": [
         2015,
         2016
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Tim Prica",
@@ -6588,14 +7503,16 @@
         2024,
         2025,
         2026
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Timmy Wilhelmsson",
       "slug": "timmy-wilhelmsson",
       "seasons": [
         2009
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Timmy Zetterqvist",
@@ -6604,14 +7521,16 @@
         2004,
         2005,
         2006
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Tobias Rickhammar",
       "slug": "tobias-rickhammar",
       "seasons": [
         2010
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Tom Skarin",
@@ -6620,14 +7539,16 @@
         1986,
         1987,
         1988
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Tomas Brolin",
       "slug": "tomas-brolin",
       "seasons": [
         1990
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Tomas Erixon",
@@ -6635,7 +7556,8 @@
       "seasons": [
         1978,
         1979
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Tomas Fransson",
@@ -6643,7 +7565,8 @@
       "seasons": [
         1985,
         1986
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Tomas Gustavsson",
@@ -6651,7 +7574,8 @@
       "seasons": [
         1985,
         1986
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Tomas Malm",
@@ -6664,7 +7588,8 @@
         1976,
         1977,
         1978
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Tomas Månsson",
@@ -6674,21 +7599,24 @@
         1980,
         1981,
         1982
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Tommy Boström",
       "slug": "tommy-bostrom",
       "seasons": [
         1973
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Tony Eriksson",
       "slug": "tony-eriksson",
       "seasons": [
         1989
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Tony Martinsson",
@@ -6699,7 +7627,8 @@
         1988,
         1989,
         1994
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Tor-Arne Fredheim",
@@ -6714,7 +7643,8 @@
         1990,
         1991,
         1992
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Torbjörn Jonsson",
@@ -6733,28 +7663,32 @@
         1970,
         1971,
         1972
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Tore Dahlqvist",
       "slug": "tore-dahlqvist",
       "seasons": [
         1935
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Tore Ekström",
       "slug": "tore-ekstrom",
       "seasons": [
         1925
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Tore Gustavsson",
       "slug": "tore-gustavsson",
       "seasons": [
         1939
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Tore Hjertqvist",
@@ -6762,7 +7696,8 @@
       "seasons": [
         1929,
         1930
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Torsten Elvhage",
@@ -6772,14 +7707,16 @@
         1951,
         1952,
         1954
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Torsten Grönqvist",
       "slug": "torsten-gronqvist",
       "seasons": [
         1949
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Torsten Johansson",
@@ -6800,7 +7737,8 @@
         1936,
         1939,
         1940
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Torsten Lindberg",
@@ -6818,7 +7756,8 @@
         1949,
         1950,
         1951
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Ture Sandberg",
@@ -6828,7 +7767,8 @@
         2024,
         2025,
         2026
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Ulf Hultberg",
@@ -6845,7 +7785,8 @@
         1972,
         1973,
         1974
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Ulf Jansson",
@@ -6864,14 +7805,16 @@
         1971,
         1972,
         1973
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Ulf Ottosson",
       "slug": "ulf-ottosson",
       "seasons": [
         1996
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Valter Landström",
@@ -6885,7 +7828,8 @@
         1929,
         1930,
         1931
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Victor Blomqvist",
@@ -6893,28 +7837,32 @@
       "seasons": [
         1930,
         1931
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Victor Lind",
       "slug": "victor-lind",
       "seasons": [
         2023
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Victor Romanus",
       "slug": "victor-romanus",
       "seasons": [
         2026
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Viggo Fälth",
       "slug": "viggo-falth",
       "seasons": [
         2026
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Viktor Adsell-Sjöberg",
@@ -6922,7 +7870,8 @@
       "seasons": [
         2009,
         2010
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Viktor Agardius",
@@ -6930,14 +7879,16 @@
       "seasons": [
         2021,
         2022
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Viktor Christiansson",
       "slug": "viktor-christiansson",
       "seasons": [
         2026
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Viktor Rönneklev",
@@ -6951,7 +7902,8 @@
         2009,
         2010,
         2011
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Vito Hammershoj-Mistrati",
@@ -6959,7 +7911,8 @@
       "seasons": [
         2023,
         2024
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Wille Jakobsson",
@@ -6967,7 +7920,8 @@
       "seasons": [
         2022,
         2023
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "William Bergman",
@@ -6975,14 +7929,16 @@
       "seasons": [
         2025,
         2026
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Wyn Belotte",
       "slug": "wyn-belotte",
       "seasons": [
         2002
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Yahav Gurfinkel",
@@ -6990,7 +7946,8 @@
       "seasons": [
         2021,
         2022
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Yahya Kalley",
@@ -6999,7 +7956,8 @@
         2023,
         2024,
         2025
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Yngve Carlsson",
@@ -7012,14 +7970,16 @@
         1936,
         1939,
         1940
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Ziyad Salifu",
       "slug": "ziyad-salifu",
       "seasons": [
         2025
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Åke Andersson",
@@ -7028,14 +7988,16 @@
         2024,
         2025,
         2026
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Åke Brynje",
       "slug": "ake-brynje",
       "seasons": [
         1939
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Åke Johansson",
@@ -7057,7 +8019,8 @@
         1963,
         1964,
         1965
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Åke Larsson",
@@ -7065,14 +8028,16 @@
       "seasons": [
         1939,
         1940
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Åke Skarin",
       "slug": "ake-skarin",
       "seasons": [
         1939
-      ]
+      ],
+      "side": "Herr"
     },
     {
       "name": "Örjan Martinsson",
@@ -7087,7 +8052,8 @@
         1965,
         1966,
         1967
-      ]
+      ],
+      "side": "Herr"
     }
   ]
 }

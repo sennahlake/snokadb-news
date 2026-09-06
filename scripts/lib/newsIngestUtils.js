@@ -209,8 +209,18 @@ function detectTeamSide({ title = "", summary = "", articleUrl = "", categories 
   if (damHits > herrHits) return "Dam";
   if (herrHits > damHits) return "Herr";
 
-  // Men's roster match is a weak herr signal when no dam cues exist.
-  if (Array.isArray(players) && players.length > 0 && damHits === 0) {
+  // Roster side (Dam/Herr) when text cues are tied or absent.
+  const rosterSides = [
+    ...new Set(
+      (players || [])
+        .map((player) => player.side)
+        .filter((side) => side === "Dam" || side === "Herr")
+    ),
+  ];
+  if (rosterSides.length === 1) return rosterSides[0];
+
+  // Legacy: mentioned players without side => weak Herr when no dam text cues.
+  if (Array.isArray(players) && players.length > 0 && damHits === 0 && rosterSides.length === 0) {
     return "Herr";
   }
 
@@ -400,6 +410,7 @@ function findMentionedPlayers(text, players, year) {
     .map((player) => ({
       name: player.name,
       slug: player.slug,
+      side: player.side === "Dam" || player.side === "Herr" ? player.side : undefined,
       relation: Number(year) === new Date().getFullYear() ? "current" : "season",
       currentSeason: Number(year) === new Date().getFullYear() ? Number(year) : undefined,
       seasons: [Number(year)],

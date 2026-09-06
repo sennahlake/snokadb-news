@@ -320,6 +320,7 @@ function loadPlayersFromPayload(payload) {
       slug: row.slug || row.url_player,
       normalizedName: normalize(row.name || row.player),
       seasons: Array.isArray(row.seasons) ? row.seasons.join(",") : row.seasons,
+      side: row.side === "Dam" || row.side === "Herr" ? row.side : undefined,
     }))
     .filter((row) => row.name && row.slug);
 }
@@ -330,11 +331,16 @@ async function loadPlayerIndex() {
     const players = loadPlayersFromPayload(remote);
     if (players.length > 0) {
       const cachePayload = {
-        schemaVersion: 1,
+        schemaVersion: 2,
         itemCount: players.length,
+        sides: {
+          Herr: players.filter((p) => p.side === "Herr").length,
+          Dam: players.filter((p) => p.side === "Dam").length,
+        },
         players: players.map((p) => ({
           name: p.name,
           slug: p.slug,
+          side: p.side,
           seasons: String(p.seasons || "")
             .split(",")
             .map((s) => Number(String(s).trim().match(/^\d{4}/)?.[0]))
