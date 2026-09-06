@@ -1,0 +1,7093 @@
+{
+  "schemaVersion": 1,
+  "itemCount": 778,
+  "players": [
+    {
+      "name": "Abbas Hassan",
+      "slug": "abbas-hassan",
+      "seasons": [
+        2010,
+        2011,
+        2012
+      ]
+    },
+    {
+      "name": "Abderahman Kabous",
+      "slug": "abderahman-kabous",
+      "seasons": [
+        2005
+      ]
+    },
+    {
+      "name": "Abdoulie Tamba",
+      "slug": "abdoulie-tamba",
+      "seasons": [
+        2025,
+        2026
+      ]
+    },
+    {
+      "name": "Abdul Aziz",
+      "slug": "abdul-aziz",
+      "seasons": [
+        2016,
+        2020
+      ]
+    },
+    {
+      "name": "Abdulrazaq Ishaq",
+      "slug": "abdulrazaq-ishaq",
+      "seasons": [
+        2019,
+        2020,
+        2021,
+        2022
+      ]
+    },
+    {
+      "name": "Adin Bukva",
+      "slug": "adin-bukva",
+      "seasons": [
+        2016,
+        2017
+      ]
+    },
+    {
+      "name": "Adnan Kojic",
+      "slug": "adnan-kojic",
+      "seasons": [
+        2013,
+        2015
+      ]
+    },
+    {
+      "name": "Akpe Shanomi",
+      "slug": "akpe-shanomi",
+      "seasons": [
+        2026
+      ]
+    },
+    {
+      "name": "Alain Amougou",
+      "slug": "alain-amougou",
+      "seasons": [
+        2002
+      ]
+    },
+    {
+      "name": "Albert Aleksanjan",
+      "slug": "albert-aleksanjan",
+      "seasons": [
+        2026
+      ]
+    },
+    {
+      "name": "Aleck Tembo",
+      "slug": "aleck-tembo",
+      "seasons": [
+        2005
+      ]
+    },
+    {
+      "name": "Aleksandar Azizovic",
+      "slug": "aleksandar-azizovic",
+      "seasons": [
+        2022
+      ]
+    },
+    {
+      "name": "Aleksander Opsahl",
+      "slug": "aleksander-opsahl",
+      "seasons": [
+        2026
+      ]
+    },
+    {
+      "name": "Alen Marcina",
+      "slug": "alen-marcina",
+      "seasons": [
+        2004
+      ]
+    },
+    {
+      "name": "Alexander Fransson",
+      "slug": "alexander-fransson",
+      "seasons": [
+        2013,
+        2014,
+        2015,
+        2018,
+        2019,
+        2020,
+        2021,
+        2025,
+        2026
+      ]
+    },
+    {
+      "name": "Alexander Jakobsen",
+      "slug": "alexander-jakobsen",
+      "seasons": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    {
+      "name": "Alexander Petras",
+      "slug": "alexander-petras",
+      "seasons": [
+        2001,
+        2002
+      ]
+    },
+    {
+      "name": "Alexander Radesjö",
+      "slug": "alexander-radesjo",
+      "seasons": [
+        2005
+      ]
+    },
+    {
+      "name": "Alexander Östlund",
+      "slug": "alexander-ostlund",
+      "seasons": [
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    {
+      "name": "Alfons Sampsted",
+      "slug": "alfons-sampsted",
+      "seasons": [
+        2017,
+        2018,
+        2019,
+        2020
+      ]
+    },
+    {
+      "name": "Algot Hjelm",
+      "slug": "algot-hjelm",
+      "seasons": [
+        2026
+      ]
+    },
+    {
+      "name": "Algot Wulff",
+      "slug": "algot-wulff",
+      "seasons": [
+        1930
+      ]
+    },
+    {
+      "name": "Alhaji Kamara",
+      "slug": "alhaji-kamara",
+      "seasons": [
+        2014,
+        2015
+      ]
+    },
+    {
+      "name": "Allan Hasselmark",
+      "slug": "allan-hasselmark",
+      "seasons": [
+        1924,
+        1925,
+        1926,
+        1927
+      ]
+    },
+    {
+      "name": "Allan Johansson",
+      "slug": "allan-johansson",
+      "seasons": [
+        1925,
+        1926,
+        1927,
+        1928,
+        1929,
+        1930,
+        1931,
+        1932
+      ]
+    },
+    {
+      "name": "Amadeus Sögaard",
+      "slug": "amadeus-sogaard",
+      "seasons": [
+        2024,
+        2025
+      ]
+    },
+    {
+      "name": "Anders Ale",
+      "slug": "anders-ale",
+      "seasons": [
+        2005
+      ]
+    },
+    {
+      "name": "Anders Jonander",
+      "slug": "anders-jonander",
+      "seasons": [
+        1991,
+        1992
+      ]
+    },
+    {
+      "name": "Anders Nykvist",
+      "slug": "anders-nykvist",
+      "seasons": [
+        1992
+      ]
+    },
+    {
+      "name": "Anders Sellgren",
+      "slug": "anders-sellgren",
+      "seasons": [
+        2000
+      ]
+    },
+    {
+      "name": "Anders Whass",
+      "slug": "anders-whass",
+      "seasons": [
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011
+      ]
+    },
+    {
+      "name": "Anders Wikström",
+      "slug": "anders-wikstrom",
+      "seasons": [
+        2011
+      ]
+    },
+    {
+      "name": "Andreas Alm",
+      "slug": "andreas-alm",
+      "seasons": [
+        2003,
+        2004,
+        2005
+      ]
+    },
+    {
+      "name": "Andreas Blomqvist",
+      "slug": "andreas-blomqvist",
+      "seasons": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020
+      ]
+    },
+    {
+      "name": "Andreas Bäckmark",
+      "slug": "andreas-backmark",
+      "seasons": [
+        2007
+      ]
+    },
+    {
+      "name": "Andreas Dahlén",
+      "slug": "andreas-dahlen",
+      "seasons": [
+        2004,
+        2005
+      ]
+    },
+    {
+      "name": "Andreas Hadenius",
+      "slug": "andreas-hadenius",
+      "seasons": [
+        2009,
+        2010,
+        2014,
+        2015,
+        2016,
+        2017,
+        2021
+      ]
+    },
+    {
+      "name": "Andreas Haglund",
+      "slug": "andreas-haglund",
+      "seasons": [
+        2007,
+        2008,
+        2009,
+        2011
+      ]
+    },
+    {
+      "name": "Andreas Johansson",
+      "slug": "andreas-johansson",
+      "seasons": [
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018
+      ]
+    },
+    {
+      "name": "Andreas Lindberg",
+      "slug": "andreas-lindberg",
+      "seasons": [
+        2003,
+        2004,
+        2005,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    {
+      "name": "Andreas Lindström",
+      "slug": "andreas-lindstrom",
+      "seasons": [
+        2011
+      ]
+    },
+    {
+      "name": "Andreas Lindvall",
+      "slug": "andreas-lindvall",
+      "seasons": [
+        2009
+      ]
+    },
+    {
+      "name": "Andreas Thomas",
+      "slug": "andreas-thomas",
+      "seasons": [
+        1998,
+        1999
+      ]
+    },
+    {
+      "name": "Andreas Vaikla",
+      "slug": "andreas-vaikla",
+      "seasons": [
+        2016,
+        2019
+      ]
+    },
+    {
+      "name": "Andri Lucas Gudjohnsen",
+      "slug": "andri-lucas-gudjohnsen",
+      "seasons": [
+        2022,
+        2023
+      ]
+    },
+    {
+      "name": "Anton Eriksson",
+      "slug": "anton-eriksson",
+      "seasons": [
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    {
+      "name": "Anton Fagerström",
+      "slug": "anton-fagerstrom",
+      "seasons": [
+        2009
+      ]
+    },
+    {
+      "name": "Anton Hallstensson",
+      "slug": "anton-hallstensson",
+      "seasons": [
+        2017
+      ]
+    },
+    {
+      "name": "Anton Stuhrmann",
+      "slug": "anton-stuhrmann",
+      "seasons": [
+        2026
+      ]
+    },
+    {
+      "name": "Anton Ståhl",
+      "slug": "anton-stahl",
+      "seasons": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    {
+      "name": "Antti Sumiala",
+      "slug": "antti-sumiala",
+      "seasons": [
+        2002,
+        2003
+      ]
+    },
+    {
+      "name": "Ari Freyr Skúlason",
+      "slug": "ari-freyr-skulason",
+      "seasons": [
+        2021,
+        2022,
+        2023
+      ]
+    },
+    {
+      "name": "Arkade Zenin",
+      "slug": "arkade-zenin",
+      "seasons": [
+        1997
+      ]
+    },
+    {
+      "name": "Armando Ibrakovic",
+      "slug": "armando-ibrakovic",
+      "seasons": [
+        2008,
+        2009
+      ]
+    },
+    {
+      "name": "Armin Tankovic",
+      "slug": "armin-tankovic",
+      "seasons": [
+        2009,
+        2010,
+        2011,
+        2012,
+        2014
+      ]
+    },
+    {
+      "name": "Arne Andersson",
+      "slug": "arne-andersson",
+      "seasons": [
+        1933
+      ]
+    },
+    {
+      "name": "Arne Eriksson",
+      "slug": "arne-eriksson",
+      "seasons": [
+        1935
+      ]
+    },
+    {
+      "name": "Arne Rehnberg",
+      "slug": "arne-rehnberg",
+      "seasons": [
+        1969
+      ]
+    },
+    {
+      "name": "Arne Törnqvist",
+      "slug": "arne-tornqvist",
+      "seasons": [
+        1931,
+        1932,
+        1935
+      ]
+    },
+    {
+      "name": "Arnor Sigurdsson",
+      "slug": "arnor-sigurdsson",
+      "seasons": [
+        2017,
+        2018,
+        2022,
+        2023
+      ]
+    },
+    {
+      "name": "Arnor Traustason",
+      "slug": "arnor-traustason",
+      "seasons": [
+        2014,
+        2015,
+        2016,
+        2022,
+        2023,
+        2024,
+        2025
+      ]
+    },
+    {
+      "name": "Arthur Åstrand",
+      "slug": "arthur-astrand",
+      "seasons": [
+        1924,
+        1925,
+        1928,
+        1929
+      ]
+    },
+    {
+      "name": "Aslak Falch",
+      "slug": "aslak-falch",
+      "seasons": [
+        2017
+      ]
+    },
+    {
+      "name": "Astrit Ajdarevic",
+      "slug": "astrit-ajdarevic",
+      "seasons": [
+        2011,
+        2012
+      ]
+    },
+    {
+      "name": "Axel Brönner",
+      "slug": "axel-bronner",
+      "seasons": [
+        2024,
+        2025,
+        2026
+      ]
+    },
+    {
+      "name": "Axel Floric",
+      "slug": "axel-floric",
+      "seasons": [
+        2025
+      ]
+    },
+    {
+      "name": "Axel Jansson",
+      "slug": "axel-jansson",
+      "seasons": [
+        1924,
+        1925,
+        1926,
+        1927,
+        1928,
+        1929
+      ]
+    },
+    {
+      "name": "Axel Pressfeldt",
+      "slug": "axel-pressfeldt",
+      "seasons": [
+        1934
+      ]
+    },
+    {
+      "name": "Aziz Tafer",
+      "slug": "aziz-tafer",
+      "seasons": [
+        2005
+      ]
+    },
+    {
+      "name": "Badou Sene",
+      "slug": "badou-sene",
+      "seasons": [
+        2026
+      ]
+    },
+    {
+      "name": "Balázs Rabóczkí",
+      "slug": "balazs-raboczki",
+      "seasons": [
+        2002
+      ]
+    },
+    {
+      "name": "Bengt Carlson",
+      "slug": "bengt-carlson",
+      "seasons": [
+        1947
+      ]
+    },
+    {
+      "name": "Bengt Carlsson",
+      "slug": "bengt-carlsson",
+      "seasons": [
+        1924,
+        1925,
+        1926,
+        1927,
+        1929
+      ]
+    },
+    {
+      "name": "Bengt Flisberg",
+      "slug": "bengt-flisberg",
+      "seasons": [
+        1931,
+        1932,
+        1933,
+        1934,
+        1935
+      ]
+    },
+    {
+      "name": "Bengt Gustavsson",
+      "slug": "bengt-gustavsson",
+      "seasons": [
+        1947,
+        1948,
+        1949,
+        1950,
+        1951,
+        1952,
+        1953,
+        1954,
+        1955
+      ]
+    },
+    {
+      "name": "Bengt Lindström",
+      "slug": "bengt-lindstrom",
+      "seasons": [
+        1966,
+        1967,
+        1968,
+        1969,
+        1970,
+        1971,
+        1972,
+        1973
+      ]
+    },
+    {
+      "name": "Bengt Nilsson",
+      "slug": "bengt-nilsson",
+      "seasons": [
+        1950
+      ]
+    },
+    {
+      "name": "Bengt Nyholm",
+      "slug": "bengt-nyholm",
+      "seasons": [
+        1948,
+        1951,
+        1952,
+        1953,
+        1954,
+        1955,
+        1956,
+        1957,
+        1959,
+        1960,
+        1961,
+        1962,
+        1963,
+        1964,
+        1965
+      ]
+    },
+    {
+      "name": "Bengt Rosén",
+      "slug": "bengt-rosen",
+      "seasons": [
+        1952,
+        1953
+      ]
+    },
+    {
+      "name": "Bennard Yao Kumordzi",
+      "slug": "bennard-yao-kumordzi",
+      "seasons": [
+        2005,
+        2006
+      ]
+    },
+    {
+      "name": "Benny Gall, målvakt (inlånad från Fremad)",
+      "slug": "benny-gall-malvakt-inlanad-fran-fremad",
+      "seasons": [
+        1990
+      ]
+    },
+    {
+      "name": "Benny Wendt",
+      "slug": "benny-wendt",
+      "seasons": [
+        1969,
+        1970,
+        1971,
+        1972,
+        1973,
+        1974,
+        1975
+      ]
+    },
+    {
+      "name": "Bert Ottar Blom",
+      "slug": "bert-ottar-blom",
+      "seasons": [
+        1959,
+        1967,
+        1968,
+        1969
+      ]
+    },
+    {
+      "name": "Bert-Olof Haglund",
+      "slug": "bert-olof-haglund",
+      "seasons": [
+        1964,
+        1965,
+        1967
+      ]
+    },
+    {
+      "name": "Bertil Andersson",
+      "slug": "bertil-andersson",
+      "seasons": [
+        1929,
+        1930,
+        1931,
+        1932,
+        1933,
+        1934,
+        1935,
+        1936
+      ]
+    },
+    {
+      "name": "Bertil Ramsten",
+      "slug": "bertil-ramsten",
+      "seasons": [
+        1931
+      ]
+    },
+    {
+      "name": "Bertil Remnegård",
+      "slug": "bertil-remnegard",
+      "seasons": [
+        1949,
+        1950
+      ]
+    },
+    {
+      "name": "Bill Björklund",
+      "slug": "bill-bjorklund",
+      "seasons": [
+        1961,
+        1962,
+        1963,
+        1964,
+        1965,
+        1966,
+        1967,
+        1968
+      ]
+    },
+    {
+      "name": "Birger Lönn",
+      "slug": "birger-lonn",
+      "seasons": [
+        1962,
+        1963,
+        1964
+      ]
+    },
+    {
+      "name": "Birger Rosengren",
+      "slug": "birger-rosengren",
+      "seasons": [
+        1935,
+        1936,
+        1939,
+        1940,
+        1941,
+        1942,
+        1943,
+        1944,
+        1945,
+        1946,
+        1947,
+        1948,
+        1949
+      ]
+    },
+    {
+      "name": "Birkir Kristinsson",
+      "slug": "birkir-kristinsson",
+      "seasons": [
+        1998
+      ]
+    },
+    {
+      "name": "Björn Franzén",
+      "slug": "bjorn-franzen",
+      "seasons": [
+        1968,
+        1969
+      ]
+    },
+    {
+      "name": "Björn Nordqvist",
+      "slug": "bjorn-nordqvist",
+      "seasons": [
+        1961,
+        1962,
+        1963,
+        1964,
+        1965,
+        1966,
+        1967,
+        1968,
+        1969,
+        1970,
+        1971,
+        1972
+      ]
+    },
+    {
+      "name": "Bo la Fleur",
+      "slug": "bo-la-fleur",
+      "seasons": [
+        1965,
+        1966,
+        1967,
+        1968,
+        1969,
+        1970
+      ]
+    },
+    {
+      "name": "Bo Lagerlund",
+      "slug": "bo-lagerlund",
+      "seasons": [
+        1962,
+        1963,
+        1964,
+        1965
+      ]
+    },
+    {
+      "name": "Bo Larsson",
+      "slug": "bo-larsson",
+      "seasons": [
+        1976,
+        1977,
+        1979,
+        1980
+      ]
+    },
+    {
+      "name": "Bo Nilsson",
+      "slug": "bo-nilsson",
+      "seasons": [
+        1970,
+        1971
+      ]
+    },
+    {
+      "name": "Bo Nilsson - Nilmert",
+      "slug": "bo-nilsson-nilmert",
+      "seasons": [
+        1967
+      ]
+    },
+    {
+      "name": "Bo Ramsten",
+      "slug": "bo-ramsten",
+      "seasons": [
+        1930,
+        1932
+      ]
+    },
+    {
+      "name": "Bo Stenqvist",
+      "slug": "bo-stenqvist",
+      "seasons": [
+        1972,
+        1973,
+        1974,
+        1975
+      ]
+    },
+    {
+      "name": "Bobbie Friberg da Cruz",
+      "slug": "bobbie-friberg-da-cruz",
+      "seasons": [
+        2011,
+        2012,
+        2013
+      ]
+    },
+    {
+      "name": "Brian McDermott",
+      "slug": "brian-mcdermott",
+      "seasons": [
+        1984
+      ]
+    },
+    {
+      "name": "Bruno Carlberg",
+      "slug": "bruno-carlberg",
+      "seasons": [
+        1924,
+        1925
+      ]
+    },
+    {
+      "name": "Bruno Santos",
+      "slug": "bruno-santos",
+      "seasons": [
+        2004,
+        2005,
+        2006,
+        2007,
+        2010,
+        2011
+      ]
+    },
+    {
+      "name": "Brynolf Ekelin",
+      "slug": "brynolf-ekelin",
+      "seasons": [
+        1924,
+        1925,
+        1926,
+        1927
+      ]
+    },
+    {
+      "name": "Caio Mendes",
+      "slug": "caio-mendes",
+      "seasons": [
+        2010,
+        2011
+      ]
+    },
+    {
+      "name": "Carl Björk",
+      "slug": "carl-bjork",
+      "seasons": [
+        2019,
+        2020,
+        2021,
+        2023,
+        2024
+      ]
+    },
+    {
+      "name": "Carl-Erik Lindeström",
+      "slug": "carl-erik-lindestrom",
+      "seasons": [
+        1924
+      ]
+    },
+    {
+      "name": "Carl-Evert Westerlund",
+      "slug": "carl-evert-westerlund",
+      "seasons": [
+        1934,
+        1935,
+        1936,
+        1939
+      ]
+    },
+    {
+      "name": "Christer Bergqvist (inlånad från GIF Sundsvall)",
+      "slug": "christer-bergqvist-inlanad-fran-gif-sundsvall",
+      "seasons": [
+        1996
+      ]
+    },
+    {
+      "name": "Christer Eriksson",
+      "slug": "christer-eriksson",
+      "seasons": [
+        1986,
+        1987,
+        1988
+      ]
+    },
+    {
+      "name": "Christer Hult",
+      "slug": "christer-hult",
+      "seasons": [
+        1964,
+        1965,
+        1966,
+        1967,
+        1968,
+        1969,
+        1970,
+        1971,
+        1972,
+        1973,
+        1974,
+        1975
+      ]
+    },
+    {
+      "name": "Christer Olsson",
+      "slug": "christer-olsson",
+      "seasons": [
+        1964
+      ]
+    },
+    {
+      "name": "Christer Sjölund",
+      "slug": "christer-sjolund",
+      "seasons": [
+        1967
+      ]
+    },
+    {
+      "name": "Christoffer Nyman",
+      "slug": "christoffer-nyman",
+      "seasons": [
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    {
+      "name": "Christopher Josue Meneses Barrantes",
+      "slug": "christopher-josue-meneses-barrantes",
+      "seasons": [
+        2013,
+        2014,
+        2015
+      ]
+    },
+    {
+      "name": "Christopher Telo",
+      "slug": "christopher-telo",
+      "seasons": [
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2019,
+        2020,
+        2021,
+        2022
+      ]
+    },
+    {
+      "name": "Curt Bernsten",
+      "slug": "curt-bernsten",
+      "seasons": [
+        1976,
+        1977,
+        1978,
+        1979,
+        1980
+      ]
+    },
+    {
+      "name": "Curt Lövgren",
+      "slug": "curt-lovgren",
+      "seasons": [
+        1956,
+        1957,
+        1959,
+        1960
+      ]
+    },
+    {
+      "name": "Curt Spogardh",
+      "slug": "curt-spogardh",
+      "seasons": [
+        1948
+      ]
+    },
+    {
+      "name": "Dago Funes",
+      "slug": "dago-funes",
+      "seasons": [
+        2004,
+        2005
+      ]
+    },
+    {
+      "name": "Dan Larsson",
+      "slug": "dan-larsson",
+      "seasons": [
+        1984,
+        1985
+      ]
+    },
+    {
+      "name": "Dan Svensson",
+      "slug": "dan-svensson",
+      "seasons": [
+        1984
+      ]
+    },
+    {
+      "name": "Dani Hamzo",
+      "slug": "dani-hamzo",
+      "seasons": [
+        1995,
+        1996,
+        1997
+      ]
+    },
+    {
+      "name": "Daniel Bamberg",
+      "slug": "daniel-bamberg",
+      "seasons": [
+        2006,
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    {
+      "name": "Daniel Fredriksson",
+      "slug": "daniel-fredriksson",
+      "seasons": [
+        2005
+      ]
+    },
+    {
+      "name": "Daniel Fritz Eid",
+      "slug": "daniel-fritz-eid",
+      "seasons": [
+        2022,
+        2023,
+        2024
+      ]
+    },
+    {
+      "name": "Daniel Johansson",
+      "slug": "daniel-johansson",
+      "seasons": [
+        1996,
+        1997
+      ]
+    },
+    {
+      "name": "Daniel Sjölund",
+      "slug": "daniel-sjolund",
+      "seasons": [
+        2015,
+        2016,
+        2017,
+        2018
+      ]
+    },
+    {
+      "name": "Daniel Svensson",
+      "slug": "daniel-svensson",
+      "seasons": [
+        2006
+      ]
+    },
+    {
+      "name": "Darko Mavrak",
+      "slug": "darko-mavrak",
+      "seasons": [
+        1996,
+        1997
+      ]
+    },
+    {
+      "name": "Darrell Kamdem Tibell",
+      "slug": "darrell-kamdem-tibell",
+      "seasons": [
+        2019,
+        2021,
+        2022
+      ]
+    },
+    {
+      "name": "David Adolfsson",
+      "slug": "david-adolfsson",
+      "seasons": [
+        1927,
+        1928,
+        1929,
+        1930,
+        1931,
+        1932,
+        1933
+      ]
+    },
+    {
+      "name": "David Andersson",
+      "slug": "david-andersson",
+      "seasons": [
+        2022,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    {
+      "name": "David Boo Wiklander",
+      "slug": "david-boo-wiklander",
+      "seasons": [
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015
+      ]
+    },
+    {
+      "name": "David Burubwa",
+      "slug": "david-burubwa",
+      "seasons": [
+        2020,
+        2024
+      ]
+    },
+    {
+      "name": "David Chamoun",
+      "slug": "david-chamoun",
+      "seasons": [
+        2009
+      ]
+    },
+    {
+      "name": "David Holmström",
+      "slug": "david-holmstrom",
+      "seasons": [
+        2000
+      ]
+    },
+    {
+      "name": "David Mitov Nilsson",
+      "slug": "david-mitov-nilsson",
+      "seasons": [
+        2009,
+        2010,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    {
+      "name": "David Moberg Karlsson",
+      "slug": "david-moberg-karlsson",
+      "seasons": [
+        2016,
+        2017,
+        2018,
+        2024,
+        2025
+      ]
+    },
+    {
+      "name": "David Nordbeck",
+      "slug": "david-nordbeck",
+      "seasons": [
+        2006,
+        2007,
+        2008
+      ]
+    },
+    {
+      "name": "David Ström",
+      "slug": "david-strom",
+      "seasons": [
+        2022
+      ]
+    },
+    {
+      "name": "Dawid Banaczek",
+      "slug": "dawid-banaczek",
+      "seasons": [
+        2001,
+        2002,
+        2003
+      ]
+    },
+    {
+      "name": "Dennis Eriksson",
+      "slug": "dennis-eriksson",
+      "seasons": [
+        1991
+      ]
+    },
+    {
+      "name": "Dick Last",
+      "slug": "dick-last",
+      "seasons": [
+        1996,
+        1997
+      ]
+    },
+    {
+      "name": "Didace Burubwa",
+      "slug": "didace-burubwa",
+      "seasons": [
+        2023
+      ]
+    },
+    {
+      "name": "Dime Jankulovski",
+      "slug": "dime-jankulovski",
+      "seasons": [
+        2003,
+        2004
+      ]
+    },
+    {
+      "name": "Dino Salihovic",
+      "slug": "dino-salihovic",
+      "seasons": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ]
+    },
+    {
+      "name": "Diogo Oliveira",
+      "slug": "diogo-oliveira",
+      "seasons": [
+        2006
+      ]
+    },
+    {
+      "name": "Diogo Romanini",
+      "slug": "diogo-romanini",
+      "seasons": [
+        2010
+      ]
+    },
+    {
+      "name": "Djordje Mrdjanin",
+      "slug": "djordje-mrdjanin",
+      "seasons": [
+        2008,
+        2009
+      ]
+    },
+    {
+      "name": "Donny Sundell",
+      "slug": "donny-sundell",
+      "seasons": [
+        1993,
+        1994,
+        1995
+      ]
+    },
+    {
+      "name": "Eddie Gustafsson",
+      "slug": "eddie-gustafsson",
+      "seasons": [
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001
+      ]
+    },
+    {
+      "name": "Edvard Setterberg",
+      "slug": "edvard-setterberg",
+      "seasons": [
+        2014
+      ]
+    },
+    {
+      "name": "Edvard Skagestad",
+      "slug": "edvard-skagestad",
+      "seasons": [
+        2014,
+        2015
+      ]
+    },
+    {
+      "name": "Edvin Johansson",
+      "slug": "edvin-johansson",
+      "seasons": [
+        1924,
+        1927,
+        1928,
+        1929
+      ]
+    },
+    {
+      "name": "Edvin Tellgren",
+      "slug": "edvin-tellgren",
+      "seasons": [
+        2021,
+        2022,
+        2023,
+        2024
+      ]
+    },
+    {
+      "name": "Egzon Binaku",
+      "slug": "egzon-binaku",
+      "seasons": [
+        2019,
+        2020,
+        2021,
+        2022
+      ]
+    },
+    {
+      "name": "Einar Karlsson",
+      "slug": "einar-karlsson",
+      "seasons": [
+        1949,
+        1950,
+        1951,
+        1952
+      ]
+    },
+    {
+      "name": "Einar Stéen",
+      "slug": "einar-steen",
+      "seasons": [
+        1940,
+        1941,
+        1942,
+        1943,
+        1944,
+        1945,
+        1946,
+        1947,
+        1948
+      ]
+    },
+    {
+      "name": "Einar Wallsing",
+      "slug": "einar-wallsing",
+      "seasons": [
+        1927
+      ]
+    },
+    {
+      "name": "Eine Fredriksson",
+      "slug": "eine-fredriksson",
+      "seasons": [
+        1977,
+        1978,
+        1979,
+        1980,
+        1981,
+        1982
+      ]
+    },
+    {
+      "name": "Eirik Dybendal",
+      "slug": "eirik-dybendal",
+      "seasons": [
+        2006,
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    {
+      "name": "Elias Jemal",
+      "slug": "elias-jemal",
+      "seasons": [
+        2026
+      ]
+    },
+    {
+      "name": "Elis Hallberg",
+      "slug": "elis-hallberg",
+      "seasons": [
+        1936
+      ]
+    },
+    {
+      "name": "Elof Pettersson",
+      "slug": "elof-pettersson",
+      "seasons": [
+        1924,
+        1925,
+        1926
+      ]
+    },
+    {
+      "name": "Elon Lildén",
+      "slug": "elon-lilden",
+      "seasons": [
+        1932
+      ]
+    },
+    {
+      "name": "Elon Mildén",
+      "slug": "elon-milden",
+      "seasons": [
+        1933,
+        1934
+      ]
+    },
+    {
+      "name": "Elvis Lindkvist",
+      "slug": "elvis-lindkvist",
+      "seasons": [
+        2022,
+        2023
+      ]
+    },
+    {
+      "name": "Eman Markovic",
+      "slug": "eman-markovic",
+      "seasons": [
+        2022
+      ]
+    },
+    {
+      "name": "Emanuel Chabo",
+      "slug": "emanuel-chabo",
+      "seasons": [
+        2021,
+        2022
+      ]
+    },
+    {
+      "name": "Emil Holmberg",
+      "slug": "emil-holmberg",
+      "seasons": [
+        2024
+      ]
+    },
+    {
+      "name": "Emil Lundberg",
+      "slug": "emil-lundberg",
+      "seasons": [
+        2005
+      ]
+    },
+    {
+      "name": "Emil Roback",
+      "slug": "emil-roback",
+      "seasons": [
+        2023
+      ]
+    },
+    {
+      "name": "Emir Kujović",
+      "slug": "emir-kujovi",
+      "seasons": [
+        2013,
+        2014,
+        2015,
+        2016
+      ]
+    },
+    {
+      "name": "Enis Ahmetovic",
+      "slug": "enis-ahmetovic",
+      "seasons": [
+        2010,
+        2011
+      ]
+    },
+    {
+      "name": "Eric Smith",
+      "slug": "eric-smith",
+      "seasons": [
+        2016,
+        2017,
+        2018,
+        2020
+      ]
+    },
+    {
+      "name": "Erik Falk",
+      "slug": "erik-falk",
+      "seasons": [
+        1931
+      ]
+    },
+    {
+      "name": "Erik Holmqvist",
+      "slug": "erik-holmqvist",
+      "seasons": [
+        1939,
+        1940,
+        1941,
+        1942,
+        1943,
+        1944,
+        1945,
+        1946,
+        1947,
+        1948,
+        1949,
+        1950
+      ]
+    },
+    {
+      "name": "Erik Jansson",
+      "slug": "erik-jansson",
+      "seasons": [
+        2010
+      ]
+    },
+    {
+      "name": "Erik Karlsson",
+      "slug": "erik-karlsson",
+      "seasons": [
+        1936
+      ]
+    },
+    {
+      "name": "Erik Lindell",
+      "slug": "erik-lindell",
+      "seasons": [
+        2015,
+        2016,
+        2019,
+        2022
+      ]
+    },
+    {
+      "name": "Erik Norrby",
+      "slug": "erik-norrby",
+      "seasons": [
+        1991,
+        1992,
+        1993,
+        1994,
+        1995
+      ]
+    },
+    {
+      "name": "Erik Zetterström",
+      "slug": "erik-zetterstrom",
+      "seasons": [
+        2005
+      ]
+    },
+    {
+      "name": "Evert Lager",
+      "slug": "evert-lager",
+      "seasons": [
+        1926,
+        1927,
+        1928,
+        1929,
+        1931,
+        1932,
+        1933,
+        1934,
+        1935,
+        1936
+      ]
+    },
+    {
+      "name": "Fabian Holst-Larsen",
+      "slug": "fabian-holst-larsen",
+      "seasons": [
+        2026
+      ]
+    },
+    {
+      "name": "Fadel Youssif",
+      "slug": "fadel-youssif",
+      "seasons": [
+        2016,
+        2017
+      ]
+    },
+    {
+      "name": "Felix Bengtsson",
+      "slug": "felix-bengtsson",
+      "seasons": [
+        2017,
+        2018
+      ]
+    },
+    {
+      "name": "Felix Magro",
+      "slug": "felix-magro",
+      "seasons": [
+        2008
+      ]
+    },
+    {
+      "name": "Felix Stenman",
+      "slug": "felix-stenman",
+      "seasons": [
+        2022
+      ]
+    },
+    {
+      "name": "Filip Apelstav",
+      "slug": "filip-apelstav",
+      "seasons": [
+        1996,
+        1997,
+        1998,
+        2002,
+        2003,
+        2004
+      ]
+    },
+    {
+      "name": "Filip Dagerstål",
+      "slug": "filip-dagerstal",
+      "seasons": [
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2022,
+        2026
+      ]
+    },
+    {
+      "name": "Filip Falck Lundin",
+      "slug": "filip-falck-lundin",
+      "seasons": [
+        2013
+      ]
+    },
+    {
+      "name": "Filip Fransson",
+      "slug": "filip-fransson",
+      "seasons": [
+        2009
+      ]
+    },
+    {
+      "name": "Filip Johansson Bahar",
+      "slug": "filip-johansson-bahar",
+      "seasons": [
+        2017
+      ]
+    },
+    {
+      "name": "Finnur Tómas Pálmason",
+      "slug": "finnur-tomas-palmason",
+      "seasons": [
+        2021
+      ]
+    },
+    {
+      "name": "Fredrik Bild",
+      "slug": "fredrik-bild",
+      "seasons": [
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    {
+      "name": "Fredrik Enerby",
+      "slug": "fredrik-enerby",
+      "seasons": [
+        1994,
+        1995,
+        1996
+      ]
+    },
+    {
+      "name": "Fredrik Hällqvist, målvakt",
+      "slug": "fredrik-hallqvist-malvakt",
+      "seasons": [
+        1990
+      ]
+    },
+    {
+      "name": "Fritiof Hellichius",
+      "slug": "fritiof-hellichius",
+      "seasons": [
+        2021,
+        2022,
+        2023,
+        2024
+      ]
+    },
+    {
+      "name": "Gabriel Chamoun",
+      "slug": "gabriel-chamoun",
+      "seasons": [
+        2009
+      ]
+    },
+    {
+      "name": "Gardar Gunnlaugsson",
+      "slug": "gardar-gunnlaugsson",
+      "seasons": [
+        2006,
+        2007,
+        2008
+      ]
+    },
+    {
+      "name": "Gazmend Bahtiri",
+      "slug": "gazmend-bahtiri",
+      "seasons": [
+        2009
+      ]
+    },
+    {
+      "name": "Gentrit Citaku",
+      "slug": "gentrit-citaku",
+      "seasons": [
+        2013,
+        2014,
+        2015,
+        2016
+      ]
+    },
+    {
+      "name": "Georg Ericson",
+      "slug": "georg-ericson",
+      "seasons": [
+        1939,
+        1941,
+        1942,
+        1943,
+        1944,
+        1945,
+        1946,
+        1947,
+        1948,
+        1950
+      ]
+    },
+    {
+      "name": "Georg Högvall",
+      "slug": "georg-hogvall",
+      "seasons": [
+        1924,
+        1925,
+        1926,
+        1927
+      ]
+    },
+    {
+      "name": "George Parris",
+      "slug": "george-parris",
+      "seasons": [
+        1995
+      ]
+    },
+    {
+      "name": "Georgios Karathanasis",
+      "slug": "georgios-karathanasis",
+      "seasons": [
+        1989,
+        1990,
+        1991,
+        2002,
+        2003
+      ]
+    },
+    {
+      "name": "Gerhard Torstensson",
+      "slug": "gerhard-torstensson",
+      "seasons": [
+        1976
+      ]
+    },
+    {
+      "name": "Gert Hellberg",
+      "slug": "gert-hellberg",
+      "seasons": [
+        1971,
+        1972,
+        1973,
+        1974,
+        1975,
+        1976,
+        1977,
+        1978
+      ]
+    },
+    {
+      "name": "Gisli Laxdal Unnarsson",
+      "slug": "gisli-laxdal-unnarsson",
+      "seasons": [
+        2022
+      ]
+    },
+    {
+      "name": "Glenn Schöön",
+      "slug": "glenn-schoon",
+      "seasons": [
+        2001
+      ]
+    },
+    {
+      "name": "Godswill Ekpolo",
+      "slug": "godswill-ekpolo",
+      "seasons": [
+        2022
+      ]
+    },
+    {
+      "name": "Gordon Molander",
+      "slug": "gordon-molander",
+      "seasons": [
+        2015
+      ]
+    },
+    {
+      "name": "Grant Igesund",
+      "slug": "grant-igesund",
+      "seasons": [
+        2005,
+        2006
+      ]
+    },
+    {
+      "name": "Gudmundur Mete",
+      "slug": "gudmundur-mete",
+      "seasons": [
+        2003,
+        2004,
+        2005
+      ]
+    },
+    {
+      "name": "Gudmundur Thórarinsson",
+      "slug": "gudmundur-thorarinsson",
+      "seasons": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    {
+      "name": "Gunnar Heidar Thorvaldsson",
+      "slug": "gunnar-heidar-thorvaldsson",
+      "seasons": [
+        2011,
+        2012,
+        2013
+      ]
+    },
+    {
+      "name": "Gunnar Karlsson",
+      "slug": "gunnar-karlsson",
+      "seasons": [
+        1957
+      ]
+    },
+    {
+      "name": "Gunnar Nordahl",
+      "slug": "gunnar-nordahl",
+      "seasons": [
+        1944,
+        1945,
+        1946,
+        1947,
+        1948
+      ]
+    },
+    {
+      "name": "Gunnar Persson",
+      "slug": "gunnar-persson",
+      "seasons": [
+        1929
+      ]
+    },
+    {
+      "name": "Gunnar Ragnar",
+      "slug": "gunnar-ragnar",
+      "seasons": [
+        1925,
+        1926,
+        1927,
+        1928,
+        1929,
+        1930,
+        1931,
+        1932,
+        1933,
+        1934,
+        1935
+      ]
+    },
+    {
+      "name": "Gunnar Ståhl",
+      "slug": "gunnar-stahl",
+      "seasons": [
+        1925
+      ]
+    },
+    {
+      "name": "Gunnar Thor Gunnarsson",
+      "slug": "gunnar-thor-gunnarsson",
+      "seasons": [
+        2008,
+        2009,
+        2010
+      ]
+    },
+    {
+      "name": "Gustav Abrahamsson",
+      "slug": "gustav-abrahamsson",
+      "seasons": [
+        1928
+      ]
+    },
+    {
+      "name": "Gustav Jansson",
+      "slug": "gustav-jansson",
+      "seasons": [
+        2019
+      ]
+    },
+    {
+      "name": "Gustav Lindgren",
+      "slug": "gustav-lindgren",
+      "seasons": [
+        2022
+      ]
+    },
+    {
+      "name": "Gustav Nordberg",
+      "slug": "gustav-nordberg",
+      "seasons": [
+        2002
+      ]
+    },
+    {
+      "name": "Gustav Nyberg",
+      "slug": "gustav-nyberg",
+      "seasons": [
+        2022
+      ]
+    },
+    {
+      "name": "Göran Bergort",
+      "slug": "goran-bergort",
+      "seasons": [
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996
+      ]
+    },
+    {
+      "name": "Göran E Karlsson",
+      "slug": "goran-e-karlsson",
+      "seasons": [
+        1980,
+        1981
+      ]
+    },
+    {
+      "name": "Göran Ekholm",
+      "slug": "goran-ekholm",
+      "seasons": [
+        1970
+      ]
+    },
+    {
+      "name": "Göran Gustafsson",
+      "slug": "goran-gustafsson",
+      "seasons": [
+        1950
+      ]
+    },
+    {
+      "name": "Göran Holm",
+      "slug": "goran-holm",
+      "seasons": [
+        1975,
+        1976
+      ]
+    },
+    {
+      "name": "Göran Holter",
+      "slug": "goran-holter",
+      "seasons": [
+        1986,
+        1987,
+        1988,
+        1989,
+        1990,
+        1991,
+        1994
+      ]
+    },
+    {
+      "name": "Göran Landberg",
+      "slug": "goran-landberg",
+      "seasons": [
+        1949
+      ]
+    },
+    {
+      "name": "Göran Linder",
+      "slug": "goran-linder",
+      "seasons": [
+        1943
+      ]
+    },
+    {
+      "name": "Gösta \"Banan\" Andersson",
+      "slug": "gosta-banan-andersson",
+      "seasons": [
+        1924,
+        1925,
+        1926,
+        1927,
+        1928
+      ]
+    },
+    {
+      "name": "Gösta Andersson",
+      "slug": "gosta-andersson",
+      "seasons": [
+        1924,
+        1934,
+        1935,
+        1936
+      ]
+    },
+    {
+      "name": "Gösta Berglund",
+      "slug": "gosta-berglund",
+      "seasons": [
+        1927,
+        1928,
+        1929,
+        1930,
+        1931,
+        1932
+      ]
+    },
+    {
+      "name": "Gösta Löfgren",
+      "slug": "gosta-lofgren",
+      "seasons": [
+        1960,
+        1961,
+        1962,
+        1963
+      ]
+    },
+    {
+      "name": "Gösta Malm",
+      "slug": "gosta-malm",
+      "seasons": [
+        1940,
+        1941,
+        1942,
+        1943,
+        1944,
+        1945,
+        1946,
+        1947,
+        1948,
+        1949
+      ]
+    },
+    {
+      "name": "Gösta Nordahl",
+      "slug": "gosta-nordahl",
+      "seasons": [
+        1949,
+        1950,
+        1951,
+        1952,
+        1953
+      ]
+    },
+    {
+      "name": "Gösta Persson",
+      "slug": "gosta-persson",
+      "seasons": [
+        1954,
+        1955,
+        1957,
+        1959,
+        1960,
+        1961,
+        1962
+      ]
+    },
+    {
+      "name": "Gösta Ragnar",
+      "slug": "gosta-ragnar",
+      "seasons": [
+        1929,
+        1930
+      ]
+    },
+    {
+      "name": "Göte Arnell",
+      "slug": "gote-arnell",
+      "seasons": [
+        1947,
+        1948,
+        1949,
+        1950,
+        1951,
+        1952,
+        1953,
+        1954,
+        1955
+      ]
+    },
+    {
+      "name": "Göte Örtegren",
+      "slug": "gote-ortegren",
+      "seasons": [
+        1939,
+        1940,
+        1943,
+        1944,
+        1946
+      ]
+    },
+    {
+      "name": "Hadar Sundberg",
+      "slug": "hadar-sundberg",
+      "seasons": [
+        2020,
+        2021
+      ]
+    },
+    {
+      "name": "Hadi Vahedi",
+      "slug": "hadi-vahedi",
+      "seasons": [
+        2015
+      ]
+    },
+    {
+      "name": "Halvar Carlbom",
+      "slug": "halvar-carlbom",
+      "seasons": [
+        1936,
+        1939,
+        1940,
+        1941,
+        1942,
+        1943,
+        1944,
+        1945,
+        1946,
+        1947,
+        1949
+      ]
+    },
+    {
+      "name": "Hamilton Thorp",
+      "slug": "hamilton-thorp",
+      "seasons": [
+        2003
+      ]
+    },
+    {
+      "name": "Hampus Lönn",
+      "slug": "hampus-lonn",
+      "seasons": [
+        2018
+      ]
+    },
+    {
+      "name": "Hampus Näsström",
+      "slug": "hampus-nasstrom",
+      "seasons": [
+        2021,
+        2022
+      ]
+    },
+    {
+      "name": "Hans Eriksson",
+      "slug": "hans-eriksson",
+      "seasons": [
+        1986
+      ]
+    },
+    {
+      "name": "Hans Eskilsson",
+      "slug": "hans-eskilsson",
+      "seasons": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    {
+      "name": "Hans Holmertz",
+      "slug": "hans-holmertz",
+      "seasons": [
+        1974,
+        1975,
+        1976
+      ]
+    },
+    {
+      "name": "Hans Karlsson",
+      "slug": "hans-karlsson",
+      "seasons": [
+        1961
+      ]
+    },
+    {
+      "name": "Hans Larsson",
+      "slug": "hans-larsson",
+      "seasons": [
+        1967,
+        1968,
+        1969,
+        1970,
+        1971,
+        1972,
+        1973,
+        1974
+      ]
+    },
+    {
+      "name": "Hans Möller",
+      "slug": "hans-moller",
+      "seasons": [
+        1934
+      ]
+    },
+    {
+      "name": "Hans Ottosson",
+      "slug": "hans-ottosson",
+      "seasons": [
+        1975
+      ]
+    },
+    {
+      "name": "Hans Rosander",
+      "slug": "hans-rosander",
+      "seasons": [
+        1960,
+        1961,
+        1962,
+        1963,
+        1964,
+        1965
+      ]
+    },
+    {
+      "name": "Hans Åmansson",
+      "slug": "hans-amansson",
+      "seasons": [
+        1974,
+        1975,
+        1976
+      ]
+    },
+    {
+      "name": "Harald Brask",
+      "slug": "harald-brask",
+      "seasons": [
+        1940
+      ]
+    },
+    {
+      "name": "Harald Nyman",
+      "slug": "harald-nyman",
+      "seasons": [
+        1924
+      ]
+    },
+    {
+      "name": "Haris Laitinen",
+      "slug": "haris-laitinen",
+      "seasons": [
+        2006
+      ]
+    },
+    {
+      "name": "Haris Sijaric",
+      "slug": "haris-sijaric",
+      "seasons": [
+        2013
+      ]
+    },
+    {
+      "name": "Harry Bild",
+      "slug": "harry-bild",
+      "seasons": [
+        1956,
+        1957,
+        1959,
+        1960,
+        1961,
+        1962,
+        1963,
+        1964
+      ]
+    },
+    {
+      "name": "Harry Fyhrberg",
+      "slug": "harry-fyhrberg",
+      "seasons": [
+        1928
+      ]
+    },
+    {
+      "name": "Harry Risberg",
+      "slug": "harry-risberg",
+      "seasons": [
+        1939
+      ]
+    },
+    {
+      "name": "Harry Stanley",
+      "slug": "harry-stanley",
+      "seasons": [
+        1924,
+        1925,
+        1926
+      ]
+    },
+    {
+      "name": "Harry Westerlund",
+      "slug": "harry-westerlund",
+      "seasons": [
+        1936
+      ]
+    },
+    {
+      "name": "Hasan Cetinkaya",
+      "slug": "hasan-cetinkaya",
+      "seasons": [
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    },
+    {
+      "name": "Henric Karlsson",
+      "slug": "henric-karlsson",
+      "seasons": [
+        1996,
+        1997
+      ]
+    },
+    {
+      "name": "Henrik Bergman",
+      "slug": "henrik-bergman",
+      "seasons": [
+        1996
+      ]
+    },
+    {
+      "name": "Henrik Castegren",
+      "slug": "henrik-castegren",
+      "seasons": [
+        2013,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021
+      ]
+    },
+    {
+      "name": "Henrik Skärnell",
+      "slug": "henrik-skarnell",
+      "seasons": [
+        1924,
+        1925
+      ]
+    },
+    {
+      "name": "Henrik Svedberg",
+      "slug": "henrik-svedberg",
+      "seasons": [
+        2009
+      ]
+    },
+    {
+      "name": "Henry Chritensson",
+      "slug": "henry-chritensson",
+      "seasons": [
+        1960
+      ]
+    },
+    {
+      "name": "Henry Källgren",
+      "slug": "henry-kallgren",
+      "seasons": [
+        1949,
+        1950,
+        1951,
+        1952,
+        1953,
+        1954,
+        1955,
+        1956,
+        1957,
+        1959
+      ]
+    },
+    {
+      "name": "Henry Sletsjöe",
+      "slug": "henry-sletsjoe",
+      "seasons": [
+        2021
+      ]
+    },
+    {
+      "name": "Herbert Sandin",
+      "slug": "herbert-sandin",
+      "seasons": [
+        1950,
+        1951,
+        1952,
+        1953,
+        1954,
+        1955,
+        1956,
+        1957
+      ]
+    },
+    {
+      "name": "Holger Nyman",
+      "slug": "holger-nyman",
+      "seasons": [
+        1947,
+        1948,
+        1949,
+        1950,
+        1951,
+        1952,
+        1953,
+        1954,
+        1955,
+        1956,
+        1957
+      ]
+    },
+    {
+      "name": "Hugo Fagerberg",
+      "slug": "hugo-fagerberg",
+      "seasons": [
+        2026
+      ]
+    },
+    {
+      "name": "Hugo Lewander",
+      "slug": "hugo-lewander",
+      "seasons": [
+        2022
+      ]
+    },
+    {
+      "name": "Hugo Ringsten",
+      "slug": "hugo-ringsten",
+      "seasons": [
+        2026
+      ]
+    },
+    {
+      "name": "Håkan Forsberg",
+      "slug": "hakan-forsberg",
+      "seasons": [
+        1969
+      ]
+    },
+    {
+      "name": "Håkan Larsson",
+      "slug": "hakan-larsson",
+      "seasons": [
+        1978,
+        1979,
+        1980,
+        1981
+      ]
+    },
+    {
+      "name": "Håkan Lundholm",
+      "slug": "hakan-lundholm",
+      "seasons": [
+        1993
+      ]
+    },
+    {
+      "name": "Håkan Lundström",
+      "slug": "hakan-lundstrom",
+      "seasons": [
+        1979,
+        1980,
+        1981,
+        1982
+      ]
+    },
+    {
+      "name": "Håkan Malmqvist",
+      "slug": "hakan-malmqvist",
+      "seasons": [
+        1975
+      ]
+    },
+    {
+      "name": "Håkan Pettersson",
+      "slug": "hakan-pettersson",
+      "seasons": [
+        1978,
+        1979,
+        1980,
+        1981,
+        1982,
+        1984,
+        1985,
+        1986,
+        1987,
+        1988
+      ]
+    },
+    {
+      "name": "Håkan Spjuth",
+      "slug": "hakan-spjuth",
+      "seasons": [
+        1984
+      ]
+    },
+    {
+      "name": "Ian Smith",
+      "slug": "ian-smith",
+      "seasons": [
+        2018,
+        2019,
+        2020
+      ]
+    },
+    {
+      "name": "Ibrahim Afiz, provspelare",
+      "slug": "ibrahim-afiz-provspelare",
+      "seasons": [
+        2022
+      ]
+    },
+    {
+      "name": "Ibrahim Hafiz",
+      "slug": "ibrahim-hafiz",
+      "seasons": [
+        2022
+      ]
+    },
+    {
+      "name": "Igor Ponomarjev",
+      "slug": "igor-ponomarjev",
+      "seasons": [
+        1989
+      ]
+    },
+    {
+      "name": "Ihab Naser",
+      "slug": "ihab-naser",
+      "seasons": [
+        2016,
+        2017
+      ]
+    },
+    {
+      "name": "Imad Khalili",
+      "slug": "imad-khalili",
+      "seasons": [
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013
+      ]
+    },
+    {
+      "name": "Inge Blomberg",
+      "slug": "inge-blomberg",
+      "seasons": [
+        1960
+      ]
+    },
+    {
+      "name": "Inge Danielsson",
+      "slug": "inge-danielsson",
+      "seasons": [
+        1973
+      ]
+    },
+    {
+      "name": "Ingemar Johansson",
+      "slug": "ingemar-johansson",
+      "seasons": [
+        1947
+      ]
+    },
+    {
+      "name": "Ingemar Knutsson",
+      "slug": "ingemar-knutsson",
+      "seasons": [
+        1945,
+        1946,
+        1950
+      ]
+    },
+    {
+      "name": "Irmeli Jonsson",
+      "slug": "irmeli-jonsson",
+      "seasons": [
+        2023
+      ]
+    },
+    {
+      "name": "Isaac Kiese Thelin",
+      "slug": "isaac-kiese-thelin",
+      "seasons": [
+        2012,
+        2013,
+        2014
+      ]
+    },
+    {
+      "name": "Isak Andri Sigurgeirsson",
+      "slug": "isak-andri-sigurgeirsson",
+      "seasons": [
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    {
+      "name": "Isak Bergmann Jóhannesson",
+      "slug": "isak-bergmann-johannesson",
+      "seasons": [
+        2019,
+        2020,
+        2021
+      ]
+    },
+    {
+      "name": "Isak Ellbring",
+      "slug": "isak-ellbring",
+      "seasons": [
+        2021,
+        2022,
+        2023
+      ]
+    },
+    {
+      "name": "Isak Pettersson",
+      "slug": "isak-pettersson",
+      "seasons": [
+        2018,
+        2019,
+        2020
+      ]
+    },
+    {
+      "name": "Isak Ssewankambo",
+      "slug": "isak-ssewankambo",
+      "seasons": [
+        2023,
+        2024
+      ]
+    },
+    {
+      "name": "Ismet Lushaku",
+      "slug": "ismet-lushaku",
+      "seasons": [
+        2024,
+        2025,
+        2026
+      ]
+    },
+    {
+      "name": "Issah Mohammed",
+      "slug": "issah-mohammed",
+      "seasons": [
+        2002
+      ]
+    },
+    {
+      "name": "Ivo Vazgec",
+      "slug": "ivo-vazgec",
+      "seasons": [
+        2009
+      ]
+    },
+    {
+      "name": "Jacob Ortmark",
+      "slug": "jacob-ortmark",
+      "seasons": [
+        2022,
+        2023,
+        2024,
+        2025
+      ]
+    },
+    {
+      "name": "Jakob Lindahl",
+      "slug": "jakob-lindahl",
+      "seasons": [
+        2017,
+        2018,
+        2019,
+        2020
+      ]
+    },
+    {
+      "name": "James Frempong",
+      "slug": "james-frempong",
+      "seasons": [
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    {
+      "name": "Jan \"Fimpen\" Eriksson",
+      "slug": "jan-fimpen-eriksson",
+      "seasons": [
+        1984,
+        1985
+      ]
+    },
+    {
+      "name": "Jan Connman",
+      "slug": "jan-connman",
+      "seasons": [
+        1967
+      ]
+    },
+    {
+      "name": "Jan Eriksson",
+      "slug": "jan-eriksson",
+      "seasons": [
+        1985,
+        1991,
+        1992
+      ]
+    },
+    {
+      "name": "Jan Hedén",
+      "slug": "jan-heden",
+      "seasons": [
+        1987,
+        1988,
+        1989,
+        1990,
+        1991
+      ]
+    },
+    {
+      "name": "Jan Hellström",
+      "slug": "jan-hellstrom",
+      "seasons": [
+        1981,
+        1982,
+        1984,
+        1987,
+        1988,
+        1989,
+        1990,
+        1991,
+        1992,
+        1993,
+        1994
+      ]
+    },
+    {
+      "name": "Jan Jansson",
+      "slug": "jan-jansson",
+      "seasons": [
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        1999,
+        2000,
+        2001
+      ]
+    },
+    {
+      "name": "Jan Johnsson",
+      "slug": "jan-johnsson",
+      "seasons": [
+        1976,
+        1977,
+        1979,
+        1980
+      ]
+    },
+    {
+      "name": "Jan Kalén",
+      "slug": "jan-kalen",
+      "seasons": [
+        1982,
+        1984,
+        1985,
+        1986,
+        1987,
+        1988,
+        1989,
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    },
+    {
+      "name": "Jan Olsson",
+      "slug": "jan-olsson",
+      "seasons": [
+        1961,
+        1962,
+        1965,
+        1966,
+        1967,
+        1968
+      ]
+    },
+    {
+      "name": "Jan Svensson",
+      "slug": "jan-svensson",
+      "seasons": [
+        1977,
+        1978,
+        1979,
+        1980,
+        1981,
+        1982,
+        1986,
+        1987,
+        1988
+      ]
+    },
+    {
+      "name": "Jan-Åke Jonsson",
+      "slug": "jan-ake-jonsson",
+      "seasons": [
+        1974,
+        1975,
+        1976,
+        1977,
+        1978,
+        1979,
+        1980,
+        1981,
+        1982,
+        1984,
+        1985
+      ]
+    },
+    {
+      "name": "Jani Sarajärvi",
+      "slug": "jani-sarajarvi",
+      "seasons": [
+        2002,
+        2003
+      ]
+    },
+    {
+      "name": "Janne Hietanen",
+      "slug": "janne-hietanen",
+      "seasons": [
+        1998,
+        1999
+      ]
+    },
+    {
+      "name": "Jean Carlos De Brito",
+      "slug": "jean-carlos-de-brito",
+      "seasons": [
+        2022
+      ]
+    },
+    {
+      "name": "Jens Nilsson",
+      "slug": "jens-nilsson",
+      "seasons": [
+        1991,
+        1992
+      ]
+    },
+    {
+      "name": "Jens Öberg",
+      "slug": "jens-oberg",
+      "seasons": [
+        2005,
+        2006
+      ]
+    },
+    {
+      "name": "Jesper Ceesay",
+      "slug": "jesper-ceesay",
+      "seasons": [
+        2023,
+        2024,
+        2025
+      ]
+    },
+    {
+      "name": "Jesper Lindvall",
+      "slug": "jesper-lindvall",
+      "seasons": [
+        2023,
+        2024,
+        2025
+      ]
+    },
+    {
+      "name": "Jesper Svensson",
+      "slug": "jesper-svensson",
+      "seasons": [
+        2013
+      ]
+    },
+    {
+      "name": "Jesper Tolinsson",
+      "slug": "jesper-tolinsson",
+      "seasons": [
+        2023
+      ]
+    },
+    {
+      "name": "Jevgenij Charlitov",
+      "slug": "jevgenij-charlitov",
+      "seasons": [
+        1997
+      ]
+    },
+    {
+      "name": "Jevgenij Kuznetsov",
+      "slug": "jevgenij-kuznetsov",
+      "seasons": [
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    },
+    {
+      "name": "Jimmie Gustavsson",
+      "slug": "jimmie-gustavsson",
+      "seasons": [
+        2006
+      ]
+    },
+    {
+      "name": "Joachim Acheampong",
+      "slug": "joachim-acheampong",
+      "seasons": [
+        1994,
+        1995
+      ]
+    },
+    {
+      "name": "Joakim Tornfeldt",
+      "slug": "joakim-tornfeldt",
+      "seasons": [
+        1994
+      ]
+    },
+    {
+      "name": "Joakim Wisen",
+      "slug": "joakim-wisen",
+      "seasons": [
+        1992
+      ]
+    },
+    {
+      "name": "Joe Spiteri",
+      "slug": "joe-spiteri",
+      "seasons": [
+        2001
+      ]
+    },
+    {
+      "name": "Joel Enarsson",
+      "slug": "joel-enarsson",
+      "seasons": [
+        2015,
+        2016
+      ]
+    },
+    {
+      "name": "Joey Bjarnason",
+      "slug": "joey-bjarnason",
+      "seasons": [
+        2022
+      ]
+    },
+    {
+      "name": "Johan Andersson",
+      "slug": "johan-andersson",
+      "seasons": [
+        2013
+      ]
+    },
+    {
+      "name": "Johan Böök",
+      "slug": "johan-book",
+      "seasons": [
+        2001
+      ]
+    },
+    {
+      "name": "Johan Larsson",
+      "slug": "johan-larsson",
+      "seasons": [
+        2000
+      ]
+    },
+    {
+      "name": "Johan Roxström",
+      "slug": "johan-roxstrom",
+      "seasons": [
+        2003,
+        2004
+      ]
+    },
+    {
+      "name": "Johan Söderberg",
+      "slug": "johan-soderberg",
+      "seasons": [
+        2003,
+        2004,
+        2005
+      ]
+    },
+    {
+      "name": "Johannes Gustavson",
+      "slug": "johannes-gustavson",
+      "seasons": [
+        2000
+      ]
+    },
+    {
+      "name": "Jóhannes Kristinn Bjarnason",
+      "slug": "johannes-kristinn-bjarnason",
+      "seasons": [
+        2021,
+        2022
+      ]
+    },
+    {
+      "name": "Johannes Vall",
+      "slug": "johannes-vall",
+      "seasons": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    {
+      "name": "John Öhlin",
+      "slug": "john-ohlin",
+      "seasons": [
+        1924
+      ]
+    },
+    {
+      "name": "Johnny Einarsson",
+      "slug": "johnny-einarsson",
+      "seasons": [
+        1974,
+        1976
+      ]
+    },
+    {
+      "name": "Jón Guðni Fjóluson",
+      "slug": "jon-gudni-fjoluson",
+      "seasons": [
+        2016,
+        2017,
+        2018
+      ]
+    },
+    {
+      "name": "Jonas Andersson",
+      "slug": "jonas-andersson",
+      "seasons": [
+        2003
+      ]
+    },
+    {
+      "name": "Jonas Bergdahl (inlånad från Smedby AIS)",
+      "slug": "jonas-bergdahl-inlanad-fran-smedby-ais",
+      "seasons": [
+        1996
+      ]
+    },
+    {
+      "name": "Jonas Bjurström",
+      "slug": "jonas-bjurstrom",
+      "seasons": [
+        1996,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    {
+      "name": "Jonas Jerléus",
+      "slug": "jonas-jerleus",
+      "seasons": [
+        1992,
+        1993,
+        1994,
+        1995
+      ]
+    },
+    {
+      "name": "Jonas Lind",
+      "slug": "jonas-lind",
+      "seasons": [
+        1981,
+        1982,
+        1984,
+        1985,
+        1986,
+        1987,
+        1988,
+        1989,
+        1990,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995
+      ]
+    },
+    {
+      "name": "Jonas Nilsson",
+      "slug": "jonas-nilsson",
+      "seasons": [
+        1989,
+        1990,
+        1991,
+        1999
+      ]
+    },
+    {
+      "name": "Jonas Ohlsson",
+      "slug": "jonas-ohlsson",
+      "seasons": [
+        1996
+      ]
+    },
+    {
+      "name": "Jonas Persson",
+      "slug": "jonas-persson",
+      "seasons": [
+        1994,
+        1995,
+        1996
+      ]
+    },
+    {
+      "name": "Jonas Wallerstedt",
+      "slug": "jonas-wallerstedt",
+      "seasons": [
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    {
+      "name": "Jonas Weber",
+      "slug": "jonas-weber",
+      "seasons": [
+        2026
+      ]
+    },
+    {
+      "name": "Jonas Åhlander",
+      "slug": "jonas-ahlander",
+      "seasons": [
+        1996
+      ]
+    },
+    {
+      "name": "Jonatan Gren",
+      "slug": "jonatan-gren",
+      "seasons": [
+        2020
+      ]
+    },
+    {
+      "name": "Jónatan Guðni Arnarsson",
+      "slug": "jonatan-gudni-arnarsson",
+      "seasons": [
+        2024,
+        2025
+      ]
+    },
+    {
+      "name": "Jonathan Battel",
+      "slug": "jonathan-battel",
+      "seasons": [
+        2006
+      ]
+    },
+    {
+      "name": "Jonathan Levi",
+      "slug": "jonathan-levi",
+      "seasons": [
+        2020,
+        2021,
+        2022,
+        2023
+      ]
+    },
+    {
+      "name": "Jonathan Lundin",
+      "slug": "jonathan-lundin",
+      "seasons": [
+        2013
+      ]
+    },
+    {
+      "name": "Jonathan Sterling",
+      "slug": "jonathan-sterling",
+      "seasons": [
+        2026
+      ]
+    },
+    {
+      "name": "Jonathan Tesfay Habte",
+      "slug": "jonathan-tesfay-habte",
+      "seasons": [
+        2021
+      ]
+    },
+    {
+      "name": "Jonnie Aronsson",
+      "slug": "jonnie-aronsson",
+      "seasons": [
+        1989,
+        1990
+      ]
+    },
+    {
+      "name": "Jonnie Efraimsson",
+      "slug": "jonnie-efraimsson",
+      "seasons": [
+        1984,
+        1985
+      ]
+    },
+    {
+      "name": "Jonny Rödlund",
+      "slug": "jonny-rodlund",
+      "seasons": [
+        1989,
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    },
+    {
+      "name": "Joonas Tamm",
+      "slug": "joonas-tamm",
+      "seasons": [
+        2011,
+        2012,
+        2013
+      ]
+    },
+    {
+      "name": "Jordan Larsson",
+      "slug": "jordan-larsson",
+      "seasons": [
+        2018,
+        2019
+      ]
+    },
+    {
+      "name": "Josef Massi",
+      "slug": "josef-massi",
+      "seasons": [
+        1988,
+        1990
+      ]
+    },
+    {
+      "name": "Joseph Ceesay",
+      "slug": "joseph-ceesay",
+      "seasons": [
+        2024
+      ]
+    },
+    {
+      "name": "Julius Lindgren",
+      "slug": "julius-lindgren",
+      "seasons": [
+        2016,
+        2017,
+        2019,
+        2020,
+        2021
+      ]
+    },
+    {
+      "name": "Junus Lindberg",
+      "slug": "junus-lindberg",
+      "seasons": [
+        1936
+      ]
+    },
+    {
+      "name": "Jörgen Lindström",
+      "slug": "jorgen-lindstrom",
+      "seasons": [
+        1989,
+        1991
+      ]
+    },
+    {
+      "name": "Jörgen Pettersson",
+      "slug": "jorgen-pettersson",
+      "seasons": [
+        1988
+      ]
+    },
+    {
+      "name": "Karl Holmberg",
+      "slug": "karl-holmberg",
+      "seasons": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    {
+      "name": "Karl Johansson",
+      "slug": "karl-johansson",
+      "seasons": [
+        1939,
+        1940,
+        1941,
+        1942,
+        1943
+      ]
+    },
+    {
+      "name": "Karl Kronkvist",
+      "slug": "karl-kronkvist",
+      "seasons": [
+        1954,
+        1956
+      ]
+    },
+    {
+      "name": "Karl-Edvin Stéen",
+      "slug": "karl-edvin-steen",
+      "seasons": [
+        1946,
+        1947,
+        1948,
+        1949,
+        1950,
+        1951,
+        1952,
+        1953,
+        1954
+      ]
+    },
+    {
+      "name": "Karl-Erik Norrman",
+      "slug": "karl-erik-norrman",
+      "seasons": [
+        1929
+      ]
+    },
+    {
+      "name": "Karl-Gustav Widegren",
+      "slug": "karl-gustav-widegren",
+      "seasons": [
+        1928,
+        1929,
+        1930,
+        1931,
+        1932,
+        1933,
+        1934,
+        1935
+      ]
+    },
+    {
+      "name": "Kasper Larsen",
+      "slug": "kasper-larsen",
+      "seasons": [
+        2018,
+        2019
+      ]
+    },
+    {
+      "name": "Kasper Ringqvist",
+      "slug": "kasper-ringqvist",
+      "seasons": [
+        2013
+      ]
+    },
+    {
+      "name": "Keith Pettersson",
+      "slug": "keith-pettersson",
+      "seasons": [
+        1960,
+        1961
+      ]
+    },
+    {
+      "name": "Ken Kallaste",
+      "slug": "ken-kallaste",
+      "seasons": [
+        2015
+      ]
+    },
+    {
+      "name": "Ken Sema",
+      "slug": "ken-sema",
+      "seasons": [
+        2013
+      ]
+    },
+    {
+      "name": "Kennet Andersson",
+      "slug": "kennet-andersson",
+      "seasons": [
+        1993
+      ]
+    },
+    {
+      "name": "Kenneth Åslund",
+      "slug": "kenneth-aslund",
+      "seasons": [
+        1972,
+        1973,
+        1974
+      ]
+    },
+    {
+      "name": "Kent Hellström",
+      "slug": "kent-hellstrom",
+      "seasons": [
+        1979,
+        1981,
+        1982
+      ]
+    },
+    {
+      "name": "Kent Lundqvist",
+      "slug": "kent-lundqvist",
+      "seasons": [
+        1976,
+        1977,
+        1978,
+        1979,
+        1980,
+        1981,
+        1982
+      ]
+    },
+    {
+      "name": "Kevin Alvarez",
+      "slug": "kevin-alvarez",
+      "seasons": [
+        2019,
+        2020,
+        2021
+      ]
+    },
+    {
+      "name": "Kevin Amuneke",
+      "slug": "kevin-amuneke",
+      "seasons": [
+        2008
+      ]
+    },
+    {
+      "name": "Kevin Eriksson",
+      "slug": "kevin-eriksson",
+      "seasons": [
+        2024
+      ]
+    },
+    {
+      "name": "Kevin Höög Jansson",
+      "slug": "kevin-hoog-jansson",
+      "seasons": [
+        2023,
+        2024,
+        2025
+      ]
+    },
+    {
+      "name": "Kia Shemsu",
+      "slug": "kia-shemsu",
+      "seasons": [
+        2022
+      ]
+    },
+    {
+      "name": "Kim Suominen",
+      "slug": "kim-suominen",
+      "seasons": [
+        1996,
+        1997
+      ]
+    },
+    {
+      "name": "Kimmo Miettinen, IFK Mora",
+      "slug": "kimmo-miettinen-ifk-mora",
+      "seasons": [
+        1996
+      ]
+    },
+    {
+      "name": "Kjell Larsson",
+      "slug": "kjell-larsson",
+      "seasons": [
+        1984
+      ]
+    },
+    {
+      "name": "Kjell Uhrberg",
+      "slug": "kjell-uhrberg",
+      "seasons": [
+        1988,
+        1989
+      ]
+    },
+    {
+      "name": "Klebér Saarenpää",
+      "slug": "kleber-saarenpaa",
+      "seasons": [
+        1997,
+        1998,
+        1999,
+        2000
+      ]
+    },
+    {
+      "name": "Knut Lindau",
+      "slug": "knut-lindau",
+      "seasons": [
+        1930
+      ]
+    },
+    {
+      "name": "Knut Nordahl",
+      "slug": "knut-nordahl",
+      "seasons": [
+        1941,
+        1942,
+        1943,
+        1944,
+        1945,
+        1946,
+        1947,
+        1948,
+        1949
+      ]
+    },
+    {
+      "name": "Kojo Peprah Oppong",
+      "slug": "kojo-peprah-oppong",
+      "seasons": [
+        2022,
+        2023,
+        2025
+      ]
+    },
+    {
+      "name": "Kourosh Farrokhzadeh",
+      "slug": "kourosh-farrokhzadeh",
+      "seasons": [
+        2019
+      ]
+    },
+    {
+      "name": "Krister Eriksson",
+      "slug": "krister-eriksson",
+      "seasons": [
+        1986
+      ]
+    },
+    {
+      "name": "Krister Norblad",
+      "slug": "krister-norblad",
+      "seasons": [
+        1968,
+        1969,
+        1970,
+        1972,
+        1975,
+        1976,
+        1977,
+        1978
+      ]
+    },
+    {
+      "name": "Kristian Bergström",
+      "slug": "kristian-bergstrom",
+      "seasons": [
+        1998,
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    {
+      "name": "Kristian Pettersson",
+      "slug": "kristian-pettersson",
+      "seasons": [
+        1988
+      ]
+    },
+    {
+      "name": "Kristofer Andersson",
+      "slug": "kristofer-andersson",
+      "seasons": [
+        2006,
+        2007
+      ]
+    },
+    {
+      "name": "Kristoffer Arvhage",
+      "slug": "kristoffer-arvhage",
+      "seasons": [
+        2006,
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    {
+      "name": "Kristoffer Khazeni",
+      "slug": "kristoffer-khazeni",
+      "seasons": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ]
+    },
+    {
+      "name": "Kurt Lövgren",
+      "slug": "kurt-lovgren",
+      "seasons": [
+        1951,
+        1952,
+        1953,
+        1954,
+        1955
+      ]
+    },
+    {
+      "name": "Kyle Lightbourne",
+      "slug": "kyle-lightbourne",
+      "seasons": [
+        2001
+      ]
+    },
+    {
+      "name": "Kylian Seka",
+      "slug": "kylian-seka",
+      "seasons": [
+        2026
+      ]
+    },
+    {
+      "name": "Laban Blosse",
+      "slug": "laban-blosse",
+      "seasons": [
+        2013
+      ]
+    },
+    {
+      "name": "Lambert Ramsten",
+      "slug": "lambert-ramsten",
+      "seasons": [
+        1928,
+        1929,
+        1930,
+        1931,
+        1932,
+        1933
+      ]
+    },
+    {
+      "name": "Laorent Shabani",
+      "slug": "laorent-shabani",
+      "seasons": [
+        2022,
+        2023,
+        2024,
+        2025
+      ]
+    },
+    {
+      "name": "Lars Appelqvist",
+      "slug": "lars-appelqvist",
+      "seasons": [
+        1945,
+        1948
+      ]
+    },
+    {
+      "name": "Lars Berglund",
+      "slug": "lars-berglund",
+      "seasons": [
+        1964,
+        1965,
+        1966,
+        1967,
+        1968,
+        1969,
+        1970
+      ]
+    },
+    {
+      "name": "Lars Bergström",
+      "slug": "lars-bergstrom",
+      "seasons": [
+        1942
+      ]
+    },
+    {
+      "name": "Lars Eriksson",
+      "slug": "lars-eriksson",
+      "seasons": [
+        1989,
+        1990,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995
+      ]
+    },
+    {
+      "name": "Lars Krogh Gerson",
+      "slug": "lars-krogh-gerson",
+      "seasons": [
+        2012,
+        2013,
+        2014,
+        2018,
+        2019,
+        2020
+      ]
+    },
+    {
+      "name": "Lars Lindqvist",
+      "slug": "lars-lindqvist",
+      "seasons": [
+        1936
+      ]
+    },
+    {
+      "name": "Lars Svensson",
+      "slug": "lars-svensson",
+      "seasons": [
+        1939
+      ]
+    },
+    {
+      "name": "Lars-Erik Bergstrand",
+      "slug": "lars-erik-bergstrand",
+      "seasons": [
+        1962,
+        1963,
+        1964
+      ]
+    },
+    {
+      "name": "Lars-Erik Wickberg",
+      "slug": "lars-erik-wickberg",
+      "seasons": [
+        1939,
+        1940,
+        1941,
+        1943,
+        1944
+      ]
+    },
+    {
+      "name": "Lars-Erik Winge",
+      "slug": "lars-erik-winge",
+      "seasons": [
+        1954
+      ]
+    },
+    {
+      "name": "Lars-Åke Berglund",
+      "slug": "lars-ake-berglund",
+      "seasons": [
+        1967
+      ]
+    },
+    {
+      "name": "Léandre Griffit",
+      "slug": "leandre-griffit",
+      "seasons": [
+        2007,
+        2008
+      ]
+    },
+    {
+      "name": "Leif Andersson",
+      "slug": "leif-andersson",
+      "seasons": [
+        1975,
+        1976,
+        1977,
+        1978,
+        1979,
+        1980,
+        1981,
+        1982,
+        1984,
+        1985
+      ]
+    },
+    {
+      "name": "Leif Anglesjö",
+      "slug": "leif-anglesjo",
+      "seasons": [
+        1978,
+        1979,
+        1980,
+        1981
+      ]
+    },
+    {
+      "name": "Leif Holmqvist",
+      "slug": "leif-holmqvist",
+      "seasons": [
+        1963,
+        1964
+      ]
+    },
+    {
+      "name": "Lennart Andersson",
+      "slug": "lennart-andersson",
+      "seasons": [
+        1971,
+        1972,
+        1973,
+        1974,
+        1975
+      ]
+    },
+    {
+      "name": "Lennart Backman",
+      "slug": "lennart-backman",
+      "seasons": [
+        1956,
+        1957
+      ]
+    },
+    {
+      "name": "Lennart Carlsson",
+      "slug": "lennart-carlsson",
+      "seasons": [
+        1969,
+        1970
+      ]
+    },
+    {
+      "name": "Lennart Eriksson",
+      "slug": "lennart-eriksson",
+      "seasons": [
+        1955,
+        1956,
+        1957,
+        1959,
+        1960
+      ]
+    },
+    {
+      "name": "Lennart Fyhrberg",
+      "slug": "lennart-fyhrberg",
+      "seasons": [
+        1941
+      ]
+    },
+    {
+      "name": "Lennart Holmqvist",
+      "slug": "lennart-holmqvist",
+      "seasons": [
+        1950,
+        1951,
+        1952,
+        1953,
+        1955,
+        1956,
+        1959
+      ]
+    },
+    {
+      "name": "Lennart Weidenstolpe",
+      "slug": "lennart-weidenstolpe",
+      "seasons": [
+        1985,
+        1986,
+        1987,
+        1988
+      ]
+    },
+    {
+      "name": "Lennart Westrén",
+      "slug": "lennart-westren",
+      "seasons": [
+        1940
+      ]
+    },
+    {
+      "name": "Lennart Wigren",
+      "slug": "lennart-wigren",
+      "seasons": [
+        1932,
+        1934,
+        1935,
+        1936,
+        1939,
+        1940,
+        1941,
+        1942,
+        1943,
+        1944,
+        1945,
+        1946
+      ]
+    },
+    {
+      "name": "Leo Jonsson",
+      "slug": "leo-jonsson",
+      "seasons": [
+        2022,
+        2023,
+        2024
+      ]
+    },
+    {
+      "name": "Leo Lif",
+      "slug": "leo-lif",
+      "seasons": [
+        2026
+      ]
+    },
+    {
+      "name": "Liam Olausson",
+      "slug": "liam-olausson",
+      "seasons": [
+        2020,
+        2021
+      ]
+    },
+    {
+      "name": "Linus Brunzell",
+      "slug": "linus-brunzell",
+      "seasons": [
+        2016,
+        2017
+      ]
+    },
+    {
+      "name": "Linus Hallenius",
+      "slug": "linus-hallenius",
+      "seasons": [
+        2020
+      ]
+    },
+    {
+      "name": "Linus Hellman",
+      "slug": "linus-hellman",
+      "seasons": [
+        2005,
+        2006,
+        2007
+      ]
+    },
+    {
+      "name": "Linus Rikardsson",
+      "slug": "linus-rikardsson",
+      "seasons": [
+        2006
+      ]
+    },
+    {
+      "name": "Linus Wahlqvist",
+      "slug": "linus-wahlqvist",
+      "seasons": [
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2020,
+        2021,
+        2022
+      ]
+    },
+    {
+      "name": "Linus Wallberg",
+      "slug": "linus-wallberg",
+      "seasons": [
+        2024
+      ]
+    },
+    {
+      "name": "Lucas Lima",
+      "slug": "lucas-lima",
+      "seasons": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    {
+      "name": "Magnus Gustafsson",
+      "slug": "magnus-gustafsson",
+      "seasons": [
+        1996,
+        1997
+      ]
+    },
+    {
+      "name": "Magnus Jonsson",
+      "slug": "magnus-jonsson",
+      "seasons": [
+        2006
+      ]
+    },
+    {
+      "name": "Magnus Karlsson",
+      "slug": "magnus-karlsson",
+      "seasons": [
+        1987,
+        1988,
+        1989,
+        1990,
+        1991
+      ]
+    },
+    {
+      "name": "Magnus Pettersson",
+      "slug": "magnus-pettersson",
+      "seasons": [
+        1993
+      ]
+    },
+    {
+      "name": "Magnus Samuelsson",
+      "slug": "magnus-samuelsson",
+      "seasons": [
+        1990,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    {
+      "name": "Magnus Zmuda",
+      "slug": "magnus-zmuda",
+      "seasons": [
+        2000,
+        2001
+      ]
+    },
+    {
+      "name": "Maic Sema",
+      "slug": "maic-sema",
+      "seasons": [
+        2005,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ]
+    },
+    {
+      "name": "Majkel Bagir, från Sylvia",
+      "slug": "majkel-bagir-fran-sylvia",
+      "seasons": [
+        2019
+      ]
+    },
+    {
+      "name": "Malak Ertas",
+      "slug": "malak-ertas",
+      "seasons": [
+        1994,
+        1995
+      ]
+    },
+    {
+      "name": "Malcolm McPherson",
+      "slug": "malcolm-mcpherson",
+      "seasons": [
+        1996
+      ]
+    },
+    {
+      "name": "Malte Palm",
+      "slug": "malte-palm",
+      "seasons": [
+        1925
+      ]
+    },
+    {
+      "name": "Manaf Rawufu",
+      "slug": "manaf-rawufu",
+      "seasons": [
+        2025
+      ]
+    },
+    {
+      "name": "Manasse Kusu",
+      "slug": "manasse-kusu",
+      "seasons": [
+        2018,
+        2019,
+        2020,
+        2021
+      ]
+    },
+    {
+      "name": "Marcin Burkhardt",
+      "slug": "marcin-burkhardt",
+      "seasons": [
+        2008,
+        2009
+      ]
+    },
+    {
+      "name": "Marco Lund",
+      "slug": "marco-lund",
+      "seasons": [
+        2021,
+        2022,
+        2023
+      ]
+    },
+    {
+      "name": "Marcus Baggesen",
+      "slug": "marcus-baggesen",
+      "seasons": [
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    {
+      "name": "Marcus Falk-Olander",
+      "slug": "marcus-falk-olander",
+      "seasons": [
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017
+      ]
+    },
+    {
+      "name": "Marcus Johansson",
+      "slug": "marcus-johansson",
+      "seasons": [
+        2010,
+        2011,
+        2012,
+        2013
+      ]
+    },
+    {
+      "name": "Marcus Olsson",
+      "slug": "marcus-olsson",
+      "seasons": [
+        2006
+      ]
+    },
+    {
+      "name": "Marcus Sahlman",
+      "slug": "marcus-sahlman",
+      "seasons": [
+        2014,
+        2015
+      ]
+    },
+    {
+      "name": "Markus Hansson",
+      "slug": "markus-hansson",
+      "seasons": [
+        2004,
+        2005
+      ]
+    },
+    {
+      "name": "Markus Törnvall",
+      "slug": "markus-tornvall",
+      "seasons": [
+        1989,
+        1990
+      ]
+    },
+    {
+      "name": "Martin Candestam",
+      "slug": "martin-candestam",
+      "seasons": [
+        1997
+      ]
+    },
+    {
+      "name": "Martin Gustafsson",
+      "slug": "martin-gustafsson",
+      "seasons": [
+        2005,
+        2006,
+        2007
+      ]
+    },
+    {
+      "name": "Martin Gustavsson",
+      "slug": "martin-gustavsson",
+      "seasons": [
+        1928,
+        1929,
+        1930
+      ]
+    },
+    {
+      "name": "Martin Smedberg-Dalence",
+      "slug": "martin-smedberg-dalence",
+      "seasons": [
+        2011,
+        2012,
+        2013
+      ]
+    },
+    {
+      "name": "Martin Åslund",
+      "slug": "martin-aslund",
+      "seasons": [
+        1997,
+        1998
+      ]
+    },
+    {
+      "name": "Marwan Baze",
+      "slug": "marwan-baze",
+      "seasons": [
+        2016
+      ]
+    },
+    {
+      "name": "Mathias Florén",
+      "slug": "mathias-floren",
+      "seasons": [
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015
+      ]
+    },
+    {
+      "name": "Mathias Gravem",
+      "slug": "mathias-gravem",
+      "seasons": [
+        1998,
+        1999,
+        2000,
+        2001
+      ]
+    },
+    {
+      "name": "Mats Almgren",
+      "slug": "mats-almgren",
+      "seasons": [
+        1988,
+        1989,
+        1990,
+        1991
+      ]
+    },
+    {
+      "name": "Mats Andersson",
+      "slug": "mats-andersson",
+      "seasons": [
+        1987,
+        1988,
+        1989
+      ]
+    },
+    {
+      "name": "Mats Johansson",
+      "slug": "mats-johansson",
+      "seasons": [
+        1982,
+        1984,
+        1985,
+        1986,
+        1987,
+        1988
+      ]
+    },
+    {
+      "name": "Mats Jörman",
+      "slug": "mats-jorman",
+      "seasons": [
+        1988,
+        1989,
+        1990
+      ]
+    },
+    {
+      "name": "Mats Olofsson",
+      "slug": "mats-olofsson",
+      "seasons": [
+        1974,
+        1975,
+        1976
+      ]
+    },
+    {
+      "name": "Mattias Flodström",
+      "slug": "mattias-flodstrom",
+      "seasons": [
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    {
+      "name": "Mattias Fredriksson",
+      "slug": "mattias-fredriksson",
+      "seasons": [
+        2003
+      ]
+    },
+    {
+      "name": "Mattias Östberg",
+      "slug": "mattias-ostberg",
+      "seasons": [
+        1999,
+        2000,
+        2001
+      ]
+    },
+    {
+      "name": "Max Olsson",
+      "slug": "max-olsson",
+      "seasons": [
+        2020
+      ]
+    },
+    {
+      "name": "Max Watson",
+      "slug": "max-watson",
+      "seasons": [
+        2024,
+        2025,
+        2026
+      ]
+    },
+    {
+      "name": "Mbaye Cissé",
+      "slug": "mbaye-cisse",
+      "seasons": [
+        2026
+      ]
+    },
+    {
+      "name": "Melker Spångberg",
+      "slug": "melker-spangberg",
+      "seasons": [
+        2024,
+        2026
+      ]
+    },
+    {
+      "name": "Michael Darago",
+      "slug": "michael-darago",
+      "seasons": [
+        1993
+      ]
+    },
+    {
+      "name": "Michael Kassyoussef",
+      "slug": "michael-kassyoussef",
+      "seasons": [
+        2004
+      ]
+    },
+    {
+      "name": "Michael Langer",
+      "slug": "michael-langer",
+      "seasons": [
+        2016,
+        2017
+      ]
+    },
+    {
+      "name": "Miguel Henrique da Souza Silva",
+      "slug": "miguel-henrique-da-souza-silva",
+      "seasons": [
+        2023
+      ]
+    },
+    {
+      "name": "Mika Niskala",
+      "slug": "mika-niskala",
+      "seasons": [
+        1999,
+        2000,
+        2001
+      ]
+    },
+    {
+      "name": "Mikael Blomberg",
+      "slug": "mikael-blomberg",
+      "seasons": [
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    {
+      "name": "Mikael Cupan",
+      "slug": "mikael-cupan",
+      "seasons": [
+        1992,
+        1993,
+        2003
+      ]
+    },
+    {
+      "name": "Mikael Danielsson (inlånad från IFK Eskilstuna)",
+      "slug": "mikael-danielsson-inlanad-fran-ifk-eskilstuna",
+      "seasons": [
+        1996
+      ]
+    },
+    {
+      "name": "Mikael Eriksson",
+      "slug": "mikael-eriksson",
+      "seasons": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    {
+      "name": "Mikael Fyhrberg",
+      "slug": "mikael-fyhrberg",
+      "seasons": [
+        1985
+      ]
+    },
+    {
+      "name": "Mikael Fyrberg",
+      "slug": "mikael-fyrberg",
+      "seasons": [
+        1985
+      ]
+    },
+    {
+      "name": "Mikael Granskog",
+      "slug": "mikael-granskog",
+      "seasons": [
+        1981,
+        1982,
+        1984,
+        1985,
+        1986
+      ]
+    },
+    {
+      "name": "Mikael Hansson",
+      "slug": "mikael-hansson",
+      "seasons": [
+        1990,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    },
+    {
+      "name": "Mikael Kalpakidis",
+      "slug": "mikael-kalpakidis",
+      "seasons": [
+        1987,
+        1988,
+        1989
+      ]
+    },
+    {
+      "name": "Mikael Lang",
+      "slug": "mikael-lang",
+      "seasons": [
+        1994
+      ]
+    },
+    {
+      "name": "Mikael Lindskog",
+      "slug": "mikael-lindskog",
+      "seasons": [
+        2010
+      ]
+    },
+    {
+      "name": "Mikael Roth",
+      "slug": "mikael-roth",
+      "seasons": [
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    {
+      "name": "Mikael Skjärvold",
+      "slug": "mikael-skjarvold",
+      "seasons": [
+        1996
+      ]
+    },
+    {
+      "name": "Mikael Ström",
+      "slug": "mikael-strom",
+      "seasons": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004
+      ]
+    },
+    {
+      "name": "Mikael Torin",
+      "slug": "mikael-torin",
+      "seasons": [
+        2000,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006
+      ]
+    },
+    {
+      "name": "Mirza Halvadzic",
+      "slug": "mirza-halvadzic",
+      "seasons": [
+        2014,
+        2015
+      ]
+    },
+    {
+      "name": "Modou Barrow",
+      "slug": "modou-barrow",
+      "seasons": [
+        2012
+      ]
+    },
+    {
+      "name": "Mohammad Ali",
+      "slug": "mohammad-ali",
+      "seasons": [
+        2026
+      ]
+    },
+    {
+      "name": "Mohanad Jeahze",
+      "slug": "mohanad-jeahze",
+      "seasons": [
+        2016,
+        2017
+      ]
+    },
+    {
+      "name": "Morten Skjønsberg",
+      "slug": "morten-skjonsberg",
+      "seasons": [
+        2012,
+        2013,
+        2014
+      ]
+    },
+    {
+      "name": "Moutaz Neffati",
+      "slug": "moutaz-neffati",
+      "seasons": [
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    {
+      "name": "Neathan Gibson",
+      "slug": "neathan-gibson",
+      "seasons": [
+        1997
+      ]
+    },
+    {
+      "name": "Nermin Karic",
+      "slug": "nermin-karic",
+      "seasons": [
+        2020
+      ]
+    },
+    {
+      "name": "Nick Bosevski",
+      "slug": "nick-bosevski",
+      "seasons": [
+        2002,
+        2003,
+        2004
+      ]
+    },
+    {
+      "name": "Nicklas Bärkroth",
+      "slug": "nicklas-barkroth",
+      "seasons": [
+        2015,
+        2016,
+        2017
+      ]
+    },
+    {
+      "name": "Niclas Eliasson",
+      "slug": "niclas-eliasson",
+      "seasons": [
+        2016,
+        2017
+      ]
+    },
+    {
+      "name": "Niclas Fredriksson",
+      "slug": "niclas-fredriksson",
+      "seasons": [
+        2002,
+        2003
+      ]
+    },
+    {
+      "name": "Niclas Kindvall",
+      "slug": "niclas-kindvall",
+      "seasons": [
+        1991,
+        1992,
+        1993,
+        1994
+      ]
+    },
+    {
+      "name": "Niklas Brodacki",
+      "slug": "niklas-brodacki",
+      "seasons": [
+        2013
+      ]
+    },
+    {
+      "name": "Niklas Gunnarsson",
+      "slug": "niklas-gunnarsson",
+      "seasons": [
+        2023
+      ]
+    },
+    {
+      "name": "Niklas Westberg",
+      "slug": "niklas-westberg",
+      "seasons": [
+        2010,
+        2011
+      ]
+    },
+    {
+      "name": "Nikola Jokisic",
+      "slug": "nikola-jokisic",
+      "seasons": [
+        1994
+      ]
+    },
+    {
+      "name": "Nikola Tkalcic",
+      "slug": "nikola-tkalcic",
+      "seasons": [
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017
+      ]
+    },
+    {
+      "name": "Nils Akai Rosell",
+      "slug": "nils-akai-rosell",
+      "seasons": [
+        2020
+      ]
+    },
+    {
+      "name": "Nils Andersson",
+      "slug": "nils-andersson",
+      "seasons": [
+        1928,
+        1929,
+        1930,
+        1931
+      ]
+    },
+    {
+      "name": "Nils Eriksson",
+      "slug": "nils-eriksson",
+      "seasons": [
+        1928,
+        1929,
+        1930
+      ]
+    },
+    {
+      "name": "Nils Gustafsson",
+      "slug": "nils-gustafsson",
+      "seasons": [
+        1936
+      ]
+    },
+    {
+      "name": "Nils Lennström",
+      "slug": "nils-lennstrom",
+      "seasons": [
+        1932
+      ]
+    },
+    {
+      "name": "Nils Liedholm",
+      "slug": "nils-liedholm",
+      "seasons": [
+        1946,
+        1947,
+        1948
+      ]
+    },
+    {
+      "name": "Nils Ljungqvist",
+      "slug": "nils-ljungqvist",
+      "seasons": [
+        1927
+      ]
+    },
+    {
+      "name": "Nils Olofsson",
+      "slug": "nils-olofsson",
+      "seasons": [
+        1948,
+        1949,
+        1950
+      ]
+    },
+    {
+      "name": "Nils Persson",
+      "slug": "nils-persson",
+      "seasons": [
+        1932,
+        1933
+      ]
+    },
+    {
+      "name": "Nils Sandin",
+      "slug": "nils-sandin",
+      "seasons": [
+        1924,
+        1925,
+        1926
+      ]
+    },
+    {
+      "name": "Nils-Erik Tömell",
+      "slug": "nils-erik-tomell",
+      "seasons": [
+        1936
+      ]
+    },
+    {
+      "name": "Noel Sernelius",
+      "slug": "noel-sernelius",
+      "seasons": [
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    {
+      "name": "Noel Tegström",
+      "slug": "noel-tegstrom",
+      "seasons": [
+        2026
+      ]
+    },
+    {
+      "name": "Nuredin Bakiu",
+      "slug": "nuredin-bakiu",
+      "seasons": [
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    {
+      "name": "Okänd Spelare",
+      "slug": "okand-spelare",
+      "seasons": [
+        1930,
+        2011
+      ]
+    },
+    {
+      "name": "Olie Håkansson",
+      "slug": "olie-hakansson",
+      "seasons": [
+        1952,
+        1955
+      ]
+    },
+    {
+      "name": "Oliver Lönn",
+      "slug": "oliver-lonn",
+      "seasons": [
+        2008,
+        2009,
+        2010
+      ]
+    },
+    {
+      "name": "Oliver Stefánsson",
+      "slug": "oliver-stefansson",
+      "seasons": [
+        2019,
+        2021,
+        2022,
+        2023
+      ]
+    },
+    {
+      "name": "Olle Bergström",
+      "slug": "olle-bergstrom",
+      "seasons": [
+        1955,
+        1959,
+        1960
+      ]
+    },
+    {
+      "name": "Olle Carlberg",
+      "slug": "olle-carlberg",
+      "seasons": [
+        1935,
+        1936,
+        1940
+      ]
+    },
+    {
+      "name": "Olle Carlsson",
+      "slug": "olle-carlsson",
+      "seasons": [
+        1924
+      ]
+    },
+    {
+      "name": "Olle Delborn",
+      "slug": "olle-delborn",
+      "seasons": [
+        1947
+      ]
+    },
+    {
+      "name": "Olle Eckerud",
+      "slug": "olle-eckerud",
+      "seasons": [
+        1933,
+        1934,
+        1935,
+        1936
+      ]
+    },
+    {
+      "name": "Olle Hallström",
+      "slug": "olle-hallstrom",
+      "seasons": [
+        2005
+      ]
+    },
+    {
+      "name": "Olle Håkansson",
+      "slug": "olle-hakansson",
+      "seasons": [
+        1950,
+        1951,
+        1952,
+        1953,
+        1954,
+        1955,
+        1956,
+        1957
+      ]
+    },
+    {
+      "name": "Olle Nordin",
+      "slug": "olle-nordin",
+      "seasons": [
+        1970,
+        1971,
+        1972,
+        1973,
+        1974
+      ]
+    },
+    {
+      "name": "Olle Ringdahl",
+      "slug": "olle-ringdahl",
+      "seasons": [
+        1927
+      ]
+    },
+    {
+      "name": "Olle Siljeholm",
+      "slug": "olle-siljeholm",
+      "seasons": [
+        1928,
+        1929
+      ]
+    },
+    {
+      "name": "Olle Ståhl",
+      "slug": "olle-stahl",
+      "seasons": [
+        1931,
+        1932,
+        1933,
+        1934,
+        1935,
+        1936
+      ]
+    },
+    {
+      "name": "Olof Carlberg",
+      "slug": "olof-carlberg",
+      "seasons": [
+        1933,
+        1934,
+        1939
+      ]
+    },
+    {
+      "name": "Olof Olsson",
+      "slug": "olof-olsson",
+      "seasons": [
+        1974
+      ]
+    },
+    {
+      "name": "Oscar Björkqvist",
+      "slug": "oscar-bjorkqvist",
+      "seasons": [
+        1925
+      ]
+    },
+    {
+      "name": "Oscar Holmqvist",
+      "slug": "oscar-holmqvist",
+      "seasons": [
+        1939,
+        1940,
+        1941,
+        1942,
+        1943,
+        1944,
+        1945,
+        1946,
+        1947,
+        1948
+      ]
+    },
+    {
+      "name": "Oscar Jansson",
+      "slug": "oscar-jansson",
+      "seasons": [
+        2021,
+        2022,
+        2023,
+        2024
+      ]
+    },
+    {
+      "name": "Oscar Sundén",
+      "slug": "oscar-sunden",
+      "seasons": [
+        2006
+      ]
+    },
+    {
+      "name": "Oskar Karlsson",
+      "slug": "oskar-karlsson",
+      "seasons": [
+        2009
+      ]
+    },
+    {
+      "name": "Otto Lindell",
+      "slug": "otto-lindell",
+      "seasons": [
+        2021,
+        2022
+      ]
+    },
+    {
+      "name": "Ove Karlsson",
+      "slug": "ove-karlsson",
+      "seasons": [
+        1974,
+        1975,
+        1976,
+        1977,
+        1978,
+        1979,
+        1980
+      ]
+    },
+    {
+      "name": "Ove Kindvall",
+      "slug": "ove-kindvall",
+      "seasons": [
+        1962,
+        1963,
+        1964,
+        1965,
+        1966,
+        1971,
+        1972,
+        1973,
+        1974,
+        1975
+      ]
+    },
+    {
+      "name": "Ove Lindholm",
+      "slug": "ove-lindholm",
+      "seasons": [
+        1965
+      ]
+    },
+    {
+      "name": "Ove Nordqvist",
+      "slug": "ove-nordqvist",
+      "seasons": [
+        1984,
+        1985,
+        1986
+      ]
+    },
+    {
+      "name": "Ove Ståhlbäck",
+      "slug": "ove-stahlback",
+      "seasons": [
+        1932,
+        1933,
+        1934,
+        1935,
+        1936
+      ]
+    },
+    {
+      "name": "Ove Thärning",
+      "slug": "ove-tharning",
+      "seasons": [
+        1962
+      ]
+    },
+    {
+      "name": "Owen Kapusa",
+      "slug": "owen-kapusa",
+      "seasons": [
+        2005
+      ]
+    },
+    {
+      "name": "Patric Karlsson",
+      "slug": "patric-karlsson",
+      "seasons": [
+        1995
+      ]
+    },
+    {
+      "name": "Patrik Andersson",
+      "slug": "patrik-andersson",
+      "seasons": [
+        1986,
+        1987,
+        1988,
+        1989,
+        1990,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1999,
+        2000,
+        2001,
+        2002,
+        2009
+      ]
+    },
+    {
+      "name": "Patrik Johansson",
+      "slug": "patrik-johansson",
+      "seasons": [
+        1988
+      ]
+    },
+    {
+      "name": "Patrik Jonsson (inlånad från Hultsfred)",
+      "slug": "patrik-jonsson-inlanad-fran-hultsfred",
+      "seasons": [
+        1996
+      ]
+    },
+    {
+      "name": "Patrik Jönsson",
+      "slug": "patrik-jonsson",
+      "seasons": [
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2009
+      ]
+    },
+    {
+      "name": "Patrik Kieback",
+      "slug": "patrik-kieback",
+      "seasons": [
+        2001,
+        2002,
+        2003
+      ]
+    },
+    {
+      "name": "Patrik Sandström",
+      "slug": "patrik-sandstrom",
+      "seasons": [
+        1994,
+        1995,
+        1996
+      ]
+    },
+    {
+      "name": "Patrik Svensson",
+      "slug": "patrik-svensson",
+      "seasons": [
+        2005,
+        2006,
+        2007
+      ]
+    },
+    {
+      "name": "Paul Obinna",
+      "slug": "paul-obinna",
+      "seasons": [
+        2026
+      ]
+    },
+    {
+      "name": "Peder Winsnes",
+      "slug": "peder-winsnes",
+      "seasons": [
+        2000
+      ]
+    },
+    {
+      "name": "Pelle Andersson",
+      "slug": "pelle-andersson",
+      "seasons": [
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2003
+      ]
+    },
+    {
+      "name": "Per Blohm",
+      "slug": "per-blohm",
+      "seasons": [
+        1992,
+        1993,
+        1994,
+        1995
+      ]
+    },
+    {
+      "name": "Per Forsberg",
+      "slug": "per-forsberg",
+      "seasons": [
+        1927
+      ]
+    },
+    {
+      "name": "Per Högmo",
+      "slug": "per-hogmo",
+      "seasons": [
+        1986
+      ]
+    },
+    {
+      "name": "Per Lager",
+      "slug": "per-lager",
+      "seasons": [
+        1986,
+        1987
+      ]
+    },
+    {
+      "name": "Per Nilsson",
+      "slug": "per-nilsson",
+      "seasons": [
+        1939,
+        1941,
+        1942
+      ]
+    },
+    {
+      "name": "Per-Inge Jansson",
+      "slug": "per-inge-jansson",
+      "seasons": [
+        1963,
+        1964,
+        1965,
+        1966,
+        1967
+      ]
+    },
+    {
+      "name": "Per-Olof Eek",
+      "slug": "per-olof-eek",
+      "seasons": [
+        1970,
+        1971,
+        1972,
+        1973,
+        1974,
+        1975,
+        1976,
+        1977,
+        1978
+      ]
+    },
+    {
+      "name": "Peter Bergström",
+      "slug": "peter-bergstrom",
+      "seasons": [
+        1996
+      ]
+    },
+    {
+      "name": "Peter Eriksson",
+      "slug": "peter-eriksson",
+      "seasons": [
+        1991
+      ]
+    },
+    {
+      "name": "Peter Fyhr",
+      "slug": "peter-fyhr",
+      "seasons": [
+        1997,
+        1998,
+        1999
+      ]
+    },
+    {
+      "name": "Peter Hagström",
+      "slug": "peter-hagstrom",
+      "seasons": [
+        1968
+      ]
+    },
+    {
+      "name": "Peter Hansen",
+      "slug": "peter-hansen",
+      "seasons": [
+        2003,
+        2006
+      ]
+    },
+    {
+      "name": "Peter Liljedahl",
+      "slug": "peter-liljedahl",
+      "seasons": [
+        1974,
+        1975,
+        1976,
+        1977,
+        1978,
+        1979,
+        1980,
+        1981,
+        1982
+      ]
+    },
+    {
+      "name": "Peter Lundberg",
+      "slug": "peter-lundberg",
+      "seasons": [
+        2000
+      ]
+    },
+    {
+      "name": "Peter Lönn",
+      "slug": "peter-lonn",
+      "seasons": [
+        1980,
+        1981,
+        1984,
+        1985,
+        1986,
+        1987,
+        1988,
+        1989,
+        1992,
+        1993
+      ]
+    },
+    {
+      "name": "Peter Skoog",
+      "slug": "peter-skoog",
+      "seasons": [
+        2005,
+        2006,
+        2007
+      ]
+    },
+    {
+      "name": "Peter Wallin",
+      "slug": "peter-wallin",
+      "seasons": [
+        1999,
+        2000
+      ]
+    },
+    {
+      "name": "Petrit Burrniku",
+      "slug": "petrit-burrniku",
+      "seasons": [
+        2003
+      ]
+    },
+    {
+      "name": "Petru Racu",
+      "slug": "petru-racu",
+      "seasons": [
+        2007,
+        2008,
+        2009,
+        2010,
+        2011
+      ]
+    },
+    {
+      "name": "Petter Jacobsson",
+      "slug": "petter-jacobsson",
+      "seasons": [
+        1999
+      ]
+    },
+    {
+      "name": "Petter Jonsson",
+      "slug": "petter-jonsson",
+      "seasons": [
+        2006
+      ]
+    },
+    {
+      "name": "Philip Ahlstrand",
+      "slug": "philip-ahlstrand",
+      "seasons": [
+        2006
+      ]
+    },
+    {
+      "name": "Pierre Börjesson",
+      "slug": "pierre-borjesson",
+      "seasons": [
+        2005
+      ]
+    },
+    {
+      "name": "Pierre Gallo",
+      "slug": "pierre-gallo",
+      "seasons": [
+        2004,
+        2005,
+        2006
+      ]
+    },
+    {
+      "name": "Pontus Almqvist",
+      "slug": "pontus-almqvist",
+      "seasons": [
+        2017,
+        2019,
+        2020
+      ]
+    },
+    {
+      "name": "Pär-Olof Ohlsson",
+      "slug": "par-olof-ohlsson",
+      "seasons": [
+        1974,
+        1975,
+        1976,
+        1977,
+        1978,
+        1979
+      ]
+    },
+    {
+      "name": "Ragnar Andersson",
+      "slug": "ragnar-andersson",
+      "seasons": [
+        1927,
+        1928,
+        1929
+      ]
+    },
+    {
+      "name": "Ragnar Eriksson",
+      "slug": "ragnar-eriksson",
+      "seasons": [
+        1989,
+        1990
+      ]
+    },
+    {
+      "name": "Ranko Djordjic",
+      "slug": "ranko-djordjic",
+      "seasons": [
+        1985,
+        1986,
+        1987,
+        1988
+      ]
+    },
+    {
+      "name": "Rasmus Lauritsen",
+      "slug": "rasmus-lauritsen",
+      "seasons": [
+        2019,
+        2020
+      ]
+    },
+    {
+      "name": "Rawez Lawan",
+      "slug": "rawez-lawan",
+      "seasons": [
+        2013,
+        2014,
+        2015
+      ]
+    },
+    {
+      "name": "Renato Braga",
+      "slug": "renato-braga",
+      "seasons": [
+        2004
+      ]
+    },
+    {
+      "name": "Richard Spong",
+      "slug": "richard-spong",
+      "seasons": [
+        2005,
+        2006,
+        2007,
+        2008
+      ]
+    },
+    {
+      "name": "Rickard Carlsson",
+      "slug": "rickard-carlsson",
+      "seasons": [
+        1926,
+        1927
+      ]
+    },
+    {
+      "name": "Rikard Harrysson",
+      "slug": "rikard-harrysson",
+      "seasons": [
+        2005
+      ]
+    },
+    {
+      "name": "Riki Cakic",
+      "slug": "riki-cakic",
+      "seasons": [
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2013
+      ]
+    },
+    {
+      "name": "Ringdahl",
+      "slug": "ringdahl",
+      "seasons": [
+        1924
+      ]
+    },
+    {
+      "name": "Robert Hillstedt",
+      "slug": "robert-hillstedt",
+      "seasons": [
+        2003,
+        2004,
+        2005
+      ]
+    },
+    {
+      "name": "Robert Kovacevic",
+      "slug": "robert-kovacevic",
+      "seasons": [
+        1988
+      ]
+    },
+    {
+      "name": "Robert Samo",
+      "slug": "robert-samo",
+      "seasons": [
+        2009
+      ]
+    },
+    {
+      "name": "Robert Steiner",
+      "slug": "robert-steiner",
+      "seasons": [
+        1995,
+        1996,
+        1997
+      ]
+    },
+    {
+      "name": "Rodrigo Pontes",
+      "slug": "rodrigo-pontes",
+      "seasons": [
+        2004
+      ]
+    },
+    {
+      "name": "Roger Joelsson",
+      "slug": "roger-joelsson",
+      "seasons": [
+        1989,
+        1990,
+        1991
+      ]
+    },
+    {
+      "name": "Roger Lönn",
+      "slug": "roger-lonn",
+      "seasons": [
+        1987,
+        1989,
+        1990,
+        1991
+      ]
+    },
+    {
+      "name": "Roland Andersson",
+      "slug": "roland-andersson",
+      "seasons": [
+        1961,
+        1964,
+        1965
+      ]
+    },
+    {
+      "name": "Roland Niva",
+      "slug": "roland-niva",
+      "seasons": [
+        1952,
+        1953
+      ]
+    },
+    {
+      "name": "Roland Pressfeldt",
+      "slug": "roland-pressfeldt",
+      "seasons": [
+        1964,
+        1965,
+        1966,
+        1967,
+        1968,
+        1969,
+        1970,
+        1971,
+        1972,
+        1973
+      ]
+    },
+    {
+      "name": "Roland Svensson",
+      "slug": "roland-svensson",
+      "seasons": [
+        1972,
+        1975
+      ]
+    },
+    {
+      "name": "Rolf Rosenqvist",
+      "slug": "rolf-rosenqvist",
+      "seasons": [
+        1956,
+        1959,
+        1960,
+        1961,
+        1962
+      ]
+    },
+    {
+      "name": "Roy Bergström",
+      "slug": "roy-bergstrom",
+      "seasons": [
+        1974
+      ]
+    },
+    {
+      "name": "Runar Spännare",
+      "slug": "runar-spannare",
+      "seasons": [
+        1950
+      ]
+    },
+    {
+      "name": "Rune Lind",
+      "slug": "rune-lind",
+      "seasons": [
+        1955,
+        1956,
+        1957,
+        1959,
+        1960,
+        1961,
+        1962,
+        1963,
+        1964
+      ]
+    },
+    {
+      "name": "Rune Pettersson",
+      "slug": "rune-pettersson",
+      "seasons": [
+        1939,
+        1942
+      ]
+    },
+    {
+      "name": "Russell Mwafulirwa",
+      "slug": "russell-mwafulirwa",
+      "seasons": [
+        2008,
+        2009,
+        2010,
+        2011
+      ]
+    },
+    {
+      "name": "Ryan Binns",
+      "slug": "ryan-binns",
+      "seasons": [
+        2020
+      ]
+    },
+    {
+      "name": "Ryan Nelson",
+      "slug": "ryan-nelson",
+      "seasons": [
+        2026
+      ]
+    },
+    {
+      "name": "Saleh Saadoo",
+      "slug": "saleh-saadoo",
+      "seasons": [
+        2000,
+        2001
+      ]
+    },
+    {
+      "name": "Samuel Adegbenro",
+      "slug": "samuel-adegbenro",
+      "seasons": [
+        2021
+      ]
+    },
+    {
+      "name": "Sasá Sjanic",
+      "slug": "sasa-sjanic",
+      "seasons": [
+        2007,
+        2008
+      ]
+    },
+    {
+      "name": "Sead Haksabanovic",
+      "slug": "sead-haksabanovic",
+      "seasons": [
+        2019,
+        2020,
+        2021
+      ]
+    },
+    {
+      "name": "Sebastian Andersson",
+      "slug": "sebastian-andersson",
+      "seasons": [
+        2016,
+        2017
+      ]
+    },
+    {
+      "name": "Sebastian Burman",
+      "slug": "sebastian-burman",
+      "seasons": [
+        1989
+      ]
+    },
+    {
+      "name": "Sebastian Detterman",
+      "slug": "sebastian-detterman",
+      "seasons": [
+        2019,
+        2020,
+        2022
+      ]
+    },
+    {
+      "name": "Sebastian Francisco",
+      "slug": "sebastian-francisco",
+      "seasons": [
+        2009,
+        2010
+      ]
+    },
+    {
+      "name": "Sebastian Jörgensen",
+      "slug": "sebastian-jorgensen",
+      "seasons": [
+        2025
+      ]
+    },
+    {
+      "name": "Sheka Fofanah",
+      "slug": "sheka-fofanah",
+      "seasons": [
+        2016
+      ]
+    },
+    {
+      "name": "Shpetim Hasani",
+      "slug": "shpetim-hasani",
+      "seasons": [
+        2010,
+        2011,
+        2012
+      ]
+    },
+    {
+      "name": "Shpëtim Hasani",
+      "slug": "shpetim-hasani",
+      "seasons": [
+        2011
+      ]
+    },
+    {
+      "name": "Sigge Andersson",
+      "slug": "sigge-andersson",
+      "seasons": [
+        1929,
+        1930
+      ]
+    },
+    {
+      "name": "Sigge Wigren",
+      "slug": "sigge-wigren",
+      "seasons": [
+        1932
+      ]
+    },
+    {
+      "name": "Siim Luts",
+      "slug": "siim-luts",
+      "seasons": [
+        2013,
+        2014
+      ]
+    },
+    {
+      "name": "Simon Dogan",
+      "slug": "simon-dogan",
+      "seasons": [
+        1998,
+        1999,
+        2000
+      ]
+    },
+    {
+      "name": "Simon Jakobsson",
+      "slug": "simon-jakobsson",
+      "seasons": [
+        1994
+      ]
+    },
+    {
+      "name": "Simon Omekanda",
+      "slug": "simon-omekanda",
+      "seasons": [
+        2007
+      ]
+    },
+    {
+      "name": "Simon Skrabb",
+      "slug": "simon-skrabb",
+      "seasons": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    {
+      "name": "Simon Thern",
+      "slug": "simon-thern",
+      "seasons": [
+        2018,
+        2019,
+        2020
+      ]
+    },
+    {
+      "name": "Siyabonga Siphika",
+      "slug": "siyabonga-siphika",
+      "seasons": [
+        2005
+      ]
+    },
+    {
+      "name": "Slavoljub Jankovic",
+      "slug": "slavoljub-jankovic",
+      "seasons": [
+        1997
+      ]
+    },
+    {
+      "name": "Slobodan Marovic",
+      "slug": "slobodan-marovic",
+      "seasons": [
+        1992,
+        1993,
+        1994
+      ]
+    },
+    {
+      "name": "Stefan Alvén",
+      "slug": "stefan-alven",
+      "seasons": [
+        2000,
+        2001
+      ]
+    },
+    {
+      "name": "Stefan Broberg",
+      "slug": "stefan-broberg",
+      "seasons": [
+        1973,
+        1974
+      ]
+    },
+    {
+      "name": "Stefan Ljungberg",
+      "slug": "stefan-ljungberg",
+      "seasons": [
+        2000,
+        2001
+      ]
+    },
+    {
+      "name": "Stefan Nordahl",
+      "slug": "stefan-nordahl",
+      "seasons": [
+        1987,
+        1988
+      ]
+    },
+    {
+      "name": "Stefan Pettersson",
+      "slug": "stefan-pettersson",
+      "seasons": [
+        1982,
+        1984
+      ]
+    },
+    {
+      "name": "Stefan Thórdarson",
+      "slug": "stefan-thordarson",
+      "seasons": [
+        2005,
+        2006,
+        2007,
+        2009
+      ]
+    },
+    {
+      "name": "Stefan Tiborsson",
+      "slug": "stefan-tiborsson",
+      "seasons": [
+        1988
+      ]
+    },
+    {
+      "name": "Sten Westerlund",
+      "slug": "sten-westerlund",
+      "seasons": [
+        1951
+      ]
+    },
+    {
+      "name": "Stephan Bolma",
+      "slug": "stephan-bolma",
+      "seasons": [
+        2022,
+        2023,
+        2024
+      ]
+    },
+    {
+      "name": "Stevan Beko",
+      "slug": "stevan-beko",
+      "seasons": [
+        2024
+      ]
+    },
+    {
+      "name": "Stig \"Vadstena\" Gustafsson",
+      "slug": "stig-vadstena-gustafsson",
+      "seasons": [
+        1941,
+        1942
+      ]
+    },
+    {
+      "name": "Stig \"Vammar\" Gustafsson",
+      "slug": "stig-vammar-gustafsson",
+      "seasons": [
+        1955,
+        1956,
+        1957,
+        1959,
+        1960,
+        1961
+      ]
+    },
+    {
+      "name": "Stig Bornhager",
+      "slug": "stig-bornhager",
+      "seasons": [
+        1961,
+        1962
+      ]
+    },
+    {
+      "name": "Stig Kullman",
+      "slug": "stig-kullman",
+      "seasons": [
+        1936
+      ]
+    },
+    {
+      "name": "Stig Kördel",
+      "slug": "stig-kordel",
+      "seasons": [
+        1931
+      ]
+    },
+    {
+      "name": "Stig Palmgren",
+      "slug": "stig-palmgren",
+      "seasons": [
+        1952,
+        1954
+      ]
+    },
+    {
+      "name": "Stig Sundqvist",
+      "slug": "stig-sundqvist",
+      "seasons": [
+        1948,
+        1949,
+        1950
+      ]
+    },
+    {
+      "name": "Sture Nilsson",
+      "slug": "sture-nilsson",
+      "seasons": [
+        1924,
+        1925
+      ]
+    },
+    {
+      "name": "Sulo Vaattovaara",
+      "slug": "sulo-vaattovaara",
+      "seasons": [
+        1988,
+        1989,
+        1990,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997
+      ]
+    },
+    {
+      "name": "Svante Larsson",
+      "slug": "svante-larsson",
+      "seasons": [
+        1976,
+        1977
+      ]
+    },
+    {
+      "name": "Sven Axbom",
+      "slug": "sven-axbom",
+      "seasons": [
+        1952,
+        1953,
+        1954,
+        1955,
+        1956,
+        1957,
+        1959,
+        1960
+      ]
+    },
+    {
+      "name": "Sven B. Dahlström",
+      "slug": "sven-b-dahlstrom",
+      "seasons": [
+        1933
+      ]
+    },
+    {
+      "name": "Sven Bergström",
+      "slug": "sven-bergstrom",
+      "seasons": [
+        1926
+      ]
+    },
+    {
+      "name": "Sven Persson",
+      "slug": "sven-persson",
+      "seasons": [
+        1941,
+        1942,
+        1943,
+        1944,
+        1945,
+        1946,
+        1947,
+        1948,
+        1949
+      ]
+    },
+    {
+      "name": "Sven Pettersson",
+      "slug": "sven-pettersson",
+      "seasons": [
+        1924,
+        1925
+      ]
+    },
+    {
+      "name": "Sven Ringborg",
+      "slug": "sven-ringborg",
+      "seasons": [
+        1924
+      ]
+    },
+    {
+      "name": "Sven Strömbäck",
+      "slug": "sven-stromback",
+      "seasons": [
+        1947,
+        1948
+      ]
+    },
+    {
+      "name": "Sven Widin",
+      "slug": "sven-widin",
+      "seasons": [
+        1936
+      ]
+    },
+    {
+      "name": "Sven Åhman",
+      "slug": "sven-ahman",
+      "seasons": [
+        1936,
+        1939,
+        1941,
+        1942,
+        1943,
+        1944
+      ]
+    },
+    {
+      "name": "Sven-Erik Svensson",
+      "slug": "sven-erik-svensson",
+      "seasons": [
+        1974,
+        1975,
+        1976
+      ]
+    },
+    {
+      "name": "Sven-Evert Hesselgren",
+      "slug": "sven-evert-hesselgren",
+      "seasons": [
+        1968,
+        1969
+      ]
+    },
+    {
+      "name": "Sven-Olof Bergman",
+      "slug": "sven-olof-bergman",
+      "seasons": [
+        1982
+      ]
+    },
+    {
+      "name": "Sven-Åke Wickberg",
+      "slug": "sven-ake-wickberg",
+      "seasons": [
+        1939,
+        1940,
+        1941,
+        1942,
+        1946
+      ]
+    },
+    {
+      "name": "Sölve Flisberg",
+      "slug": "solve-flisberg",
+      "seasons": [
+        1924,
+        1925,
+        1926
+      ]
+    },
+    {
+      "name": "Sören Andersen",
+      "slug": "soren-andersen",
+      "seasons": [
+        1995,
+        1996
+      ]
+    },
+    {
+      "name": "Sören Andersson",
+      "slug": "soren-andersson",
+      "seasons": [
+        1967
+      ]
+    },
+    {
+      "name": "Sören Nilsson",
+      "slug": "soren-nilsson",
+      "seasons": [
+        1982,
+        1984,
+        1985,
+        1986
+      ]
+    },
+    {
+      "name": "Tage Ekström",
+      "slug": "tage-ekstrom",
+      "seasons": [
+        1942
+      ]
+    },
+    {
+      "name": "Tesfaldet Tekie",
+      "slug": "tesfaldet-tekie",
+      "seasons": [
+        2015,
+        2016
+      ]
+    },
+    {
+      "name": "Theo Krantz",
+      "slug": "theo-krantz",
+      "seasons": [
+        2025,
+        2026
+      ]
+    },
+    {
+      "name": "Theodore Rask",
+      "slug": "theodore-rask",
+      "seasons": [
+        2020,
+        2021,
+        2022,
+        2023
+      ]
+    },
+    {
+      "name": "Thomas Andersson",
+      "slug": "thomas-andersson",
+      "seasons": [
+        1986,
+        1987,
+        1988
+      ]
+    },
+    {
+      "name": "Thomas Cratz",
+      "slug": "thomas-cratz",
+      "seasons": [
+        1969
+      ]
+    },
+    {
+      "name": "Thomas Gustavsson",
+      "slug": "thomas-gustavsson",
+      "seasons": [
+        1985,
+        1986
+      ]
+    },
+    {
+      "name": "Thomas Johansson",
+      "slug": "thomas-johansson",
+      "seasons": [
+        1997
+      ]
+    },
+    {
+      "name": "Thomas Magnusson",
+      "slug": "thomas-magnusson",
+      "seasons": [
+        2006,
+        2007,
+        2008
+      ]
+    },
+    {
+      "name": "Thomas Olof Andersson",
+      "slug": "thomas-olof-andersson",
+      "seasons": [
+        1977,
+        1978,
+        1979
+      ]
+    },
+    {
+      "name": "Thomas Olsson",
+      "slug": "thomas-olsson",
+      "seasons": [
+        1998,
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    {
+      "name": "Thomas Åström",
+      "slug": "thomas-astrom",
+      "seasons": [
+        1988
+      ]
+    },
+    {
+      "name": "Thomas Överstöm",
+      "slug": "thomas-overstom",
+      "seasons": [
+        1996
+      ]
+    },
+    {
+      "name": "Thor-André Olsen",
+      "slug": "thor-andre-olsen",
+      "seasons": [
+        1999
+      ]
+    },
+    {
+      "name": "Thordur Thordarson",
+      "slug": "thordur-thordarson",
+      "seasons": [
+        1999,
+        2000
+      ]
+    },
+    {
+      "name": "Tidjani Diawara",
+      "slug": "tidjani-diawara",
+      "seasons": [
+        2015,
+        2016
+      ]
+    },
+    {
+      "name": "Tim Prica",
+      "slug": "tim-prica",
+      "seasons": [
+        2024,
+        2025,
+        2026
+      ]
+    },
+    {
+      "name": "Timmy Wilhelmsson",
+      "slug": "timmy-wilhelmsson",
+      "seasons": [
+        2009
+      ]
+    },
+    {
+      "name": "Timmy Zetterqvist",
+      "slug": "timmy-zetterqvist",
+      "seasons": [
+        2004,
+        2005,
+        2006
+      ]
+    },
+    {
+      "name": "Tobias Rickhammar",
+      "slug": "tobias-rickhammar",
+      "seasons": [
+        2010
+      ]
+    },
+    {
+      "name": "Tom Skarin",
+      "slug": "tom-skarin",
+      "seasons": [
+        1986,
+        1987,
+        1988
+      ]
+    },
+    {
+      "name": "Tomas Brolin",
+      "slug": "tomas-brolin",
+      "seasons": [
+        1990
+      ]
+    },
+    {
+      "name": "Tomas Erixon",
+      "slug": "tomas-erixon",
+      "seasons": [
+        1978,
+        1979
+      ]
+    },
+    {
+      "name": "Tomas Fransson",
+      "slug": "tomas-fransson",
+      "seasons": [
+        1985,
+        1986
+      ]
+    },
+    {
+      "name": "Tomas Gustavsson",
+      "slug": "tomas-gustavsson",
+      "seasons": [
+        1985,
+        1986
+      ]
+    },
+    {
+      "name": "Tomas Malm",
+      "slug": "tomas-malm",
+      "seasons": [
+        1972,
+        1973,
+        1974,
+        1975,
+        1976,
+        1977,
+        1978
+      ]
+    },
+    {
+      "name": "Tomas Månsson",
+      "slug": "tomas-mansson",
+      "seasons": [
+        1979,
+        1980,
+        1981,
+        1982
+      ]
+    },
+    {
+      "name": "Tommy Boström",
+      "slug": "tommy-bostrom",
+      "seasons": [
+        1973
+      ]
+    },
+    {
+      "name": "Tony Eriksson",
+      "slug": "tony-eriksson",
+      "seasons": [
+        1989
+      ]
+    },
+    {
+      "name": "Tony Martinsson",
+      "slug": "tony-martinsson",
+      "seasons": [
+        1986,
+        1987,
+        1988,
+        1989,
+        1994
+      ]
+    },
+    {
+      "name": "Tor-Arne Fredheim",
+      "slug": "tor-arne-fredheim",
+      "seasons": [
+        1984,
+        1985,
+        1986,
+        1987,
+        1988,
+        1989,
+        1990,
+        1991,
+        1992
+      ]
+    },
+    {
+      "name": "Torbjörn Jonsson",
+      "slug": "torbjorn-jonsson",
+      "seasons": [
+        1953,
+        1954,
+        1955,
+        1956,
+        1957,
+        1959,
+        1960,
+        1967,
+        1968,
+        1969,
+        1970,
+        1971,
+        1972
+      ]
+    },
+    {
+      "name": "Tore Dahlqvist",
+      "slug": "tore-dahlqvist",
+      "seasons": [
+        1935
+      ]
+    },
+    {
+      "name": "Tore Ekström",
+      "slug": "tore-ekstrom",
+      "seasons": [
+        1925
+      ]
+    },
+    {
+      "name": "Tore Gustavsson",
+      "slug": "tore-gustavsson",
+      "seasons": [
+        1939
+      ]
+    },
+    {
+      "name": "Tore Hjertqvist",
+      "slug": "tore-hjertqvist",
+      "seasons": [
+        1929,
+        1930
+      ]
+    },
+    {
+      "name": "Torsten Elvhage",
+      "slug": "torsten-elvhage",
+      "seasons": [
+        1950,
+        1951,
+        1952,
+        1954
+      ]
+    },
+    {
+      "name": "Torsten Grönqvist",
+      "slug": "torsten-gronqvist",
+      "seasons": [
+        1949
+      ]
+    },
+    {
+      "name": "Torsten Johansson",
+      "slug": "torsten-johansson",
+      "seasons": [
+        1924,
+        1925,
+        1926,
+        1927,
+        1928,
+        1929,
+        1930,
+        1931,
+        1932,
+        1933,
+        1934,
+        1935,
+        1936,
+        1939,
+        1940
+      ]
+    },
+    {
+      "name": "Torsten Lindberg",
+      "slug": "torsten-lindberg",
+      "seasons": [
+        1940,
+        1941,
+        1942,
+        1943,
+        1944,
+        1945,
+        1946,
+        1947,
+        1948,
+        1949,
+        1950,
+        1951
+      ]
+    },
+    {
+      "name": "Ture Sandberg",
+      "slug": "ture-sandberg",
+      "seasons": [
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    {
+      "name": "Ulf Hultberg",
+      "slug": "ulf-hultberg",
+      "seasons": [
+        1964,
+        1965,
+        1966,
+        1967,
+        1968,
+        1969,
+        1970,
+        1971,
+        1972,
+        1973,
+        1974
+      ]
+    },
+    {
+      "name": "Ulf Jansson",
+      "slug": "ulf-jansson",
+      "seasons": [
+        1960,
+        1961,
+        1962,
+        1963,
+        1964,
+        1965,
+        1966,
+        1967,
+        1969,
+        1970,
+        1971,
+        1972,
+        1973
+      ]
+    },
+    {
+      "name": "Ulf Ottosson",
+      "slug": "ulf-ottosson",
+      "seasons": [
+        1996
+      ]
+    },
+    {
+      "name": "Valter Landström",
+      "slug": "valter-landstrom",
+      "seasons": [
+        1924,
+        1925,
+        1926,
+        1927,
+        1928,
+        1929,
+        1930,
+        1931
+      ]
+    },
+    {
+      "name": "Victor Blomqvist",
+      "slug": "victor-blomqvist",
+      "seasons": [
+        1930,
+        1931
+      ]
+    },
+    {
+      "name": "Victor Lind",
+      "slug": "victor-lind",
+      "seasons": [
+        2023
+      ]
+    },
+    {
+      "name": "Victor Romanus",
+      "slug": "victor-romanus",
+      "seasons": [
+        2026
+      ]
+    },
+    {
+      "name": "Viggo Fälth",
+      "slug": "viggo-falth",
+      "seasons": [
+        2026
+      ]
+    },
+    {
+      "name": "Viktor Adsell-Sjöberg",
+      "slug": "viktor-adsell-sjoberg",
+      "seasons": [
+        2009,
+        2010
+      ]
+    },
+    {
+      "name": "Viktor Agardius",
+      "slug": "viktor-agardius",
+      "seasons": [
+        2021,
+        2022
+      ]
+    },
+    {
+      "name": "Viktor Christiansson",
+      "slug": "viktor-christiansson",
+      "seasons": [
+        2026
+      ]
+    },
+    {
+      "name": "Viktor Rönneklev",
+      "slug": "viktor-ronneklev",
+      "seasons": [
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011
+      ]
+    },
+    {
+      "name": "Vito Hammershoj-Mistrati",
+      "slug": "vito-hammershoj-mistrati",
+      "seasons": [
+        2023,
+        2024
+      ]
+    },
+    {
+      "name": "Wille Jakobsson",
+      "slug": "wille-jakobsson",
+      "seasons": [
+        2022,
+        2023
+      ]
+    },
+    {
+      "name": "William Bergman",
+      "slug": "william-bergman",
+      "seasons": [
+        2025,
+        2026
+      ]
+    },
+    {
+      "name": "Wyn Belotte",
+      "slug": "wyn-belotte",
+      "seasons": [
+        2002
+      ]
+    },
+    {
+      "name": "Yahav Gurfinkel",
+      "slug": "yahav-gurfinkel",
+      "seasons": [
+        2021,
+        2022
+      ]
+    },
+    {
+      "name": "Yahya Kalley",
+      "slug": "yahya-kalley",
+      "seasons": [
+        2023,
+        2024,
+        2025
+      ]
+    },
+    {
+      "name": "Yngve Carlsson",
+      "slug": "yngve-carlsson",
+      "seasons": [
+        1930,
+        1933,
+        1934,
+        1935,
+        1936,
+        1939,
+        1940
+      ]
+    },
+    {
+      "name": "Ziyad Salifu",
+      "slug": "ziyad-salifu",
+      "seasons": [
+        2025
+      ]
+    },
+    {
+      "name": "Åke Andersson",
+      "slug": "ake-andersson",
+      "seasons": [
+        2024,
+        2025,
+        2026
+      ]
+    },
+    {
+      "name": "Åke Brynje",
+      "slug": "ake-brynje",
+      "seasons": [
+        1939
+      ]
+    },
+    {
+      "name": "Åke Johansson",
+      "slug": "ake-johansson",
+      "seasons": [
+        1949,
+        1950,
+        1951,
+        1952,
+        1953,
+        1954,
+        1955,
+        1956,
+        1957,
+        1959,
+        1960,
+        1961,
+        1962,
+        1963,
+        1964,
+        1965
+      ]
+    },
+    {
+      "name": "Åke Larsson",
+      "slug": "ake-larsson",
+      "seasons": [
+        1939,
+        1940
+      ]
+    },
+    {
+      "name": "Åke Skarin",
+      "slug": "ake-skarin",
+      "seasons": [
+        1939
+      ]
+    },
+    {
+      "name": "Örjan Martinsson",
+      "slug": "orjan-martinsson",
+      "seasons": [
+        1959,
+        1960,
+        1961,
+        1962,
+        1963,
+        1964,
+        1965,
+        1966,
+        1967
+      ]
+    }
+  ]
+}

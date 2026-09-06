@@ -1,0 +1,13 @@
+{
+  "name": "snokadb-news",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Publikt nyhetsflöde och årsarkiv för SnokaDb (push-only updates)",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "generate": "node scripts/update-news.js",
+    "test": "node --test scripts/lib/newsIngestUtils.test.js && node --check scripts/update-news.js"
+  }
+}

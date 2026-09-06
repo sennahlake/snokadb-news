@@ -1,0 +1,78 @@
+{
+  "year": 2015,
+  "itemCount": 2,
+  "items": [
+    {
+      "id": "sr-sr-640531",
+      "title": "IFK Norrköpings 26 år av väntan",
+      "summary": "Det var ingen som trodde på dom längre. Inte ens dom själva. I så många hade ingen behövt räkna med IFK Norrköping. Reporter Alexander Lundholm",
+      "source": "Sveriges Radio",
+      "sourceUrl": "https://www.sverigesradio.se/sport",
+      "articleUrl": "https://www.sverigesradio.se/avsnitt/640531",
+      "publishedAt": "2015-11-01T14:01:00.000Z",
+      "category": "Radio",
+      "tags": [
+        "Extern originalkälla",
+        "Public service",
+        "Radio"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Sveriges Radio",
+        "Radiosporten Dokumentär"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK i rubrik"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "sr"
+    },
+    {
+      "id": "sr-sr-624748",
+      "title": "Sabina Ddumba - vår nästa musikexport i P4 Extra hos Erik Blix",
+      "summary": "Dagens gäst Sabina Ddumba spås en lysande artistkarriär. IFK Norrköping spelar om SM-guld på lördag. Misstänkte mördaren hörs i Lisa Holm-rättegång och Carl Jan Granqvist tipsar om vin.",
+      "source": "Sveriges Radio",
+      "sourceUrl": "https://www.sverigesradio.se/sport",
+      "articleUrl": "https://www.sverigesradio.se/avsnitt/624748",
+      "publishedAt": "2015-10-29T12:04:00.000Z",
+      "category": "Radio",
+      "tags": [
+        "Extern originalkälla",
+        "Public service",
+        "Radio"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Sveriges Radio",
+        "P4 Extra "
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "medium",
+        "score": 78,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "sr"
+    }
+  ]
+}

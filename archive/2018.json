@@ -1,0 +1,750 @@
+{
+  "year": 2018,
+  "itemCount": 20,
+  "items": [
+    {
+      "id": "snokasnack-33-karlekens-tunga",
+      "title": "33. Kärlekens tunga",
+      "summary": "Trevlig inspelning hemma hos Myra. Vi snackar bland annat om IFK:s spelschema i Allsvenskan och i cupen och om en rolig krogägares tankar om IFK. En del silly season. Vi öppnar telefonslussarna och pratar med våra lyssnare. En ny klacksång föds!",
+      "source": "Snokasnack",
+      "sourceUrl": "https://poddtoppen.se/podcast/1223781523/snokasnack",
+      "articleUrl": "https://soundcloud.com/user-154683921/33-karlekens-tunga",
+      "publishedAt": "2018-12-27T16:17:14.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Snokasnack",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": []
+    },
+    {
+      "id": "snokasnack-32-ta-en-kula-for-dmk",
+      "title": "32. Ta en kula för DMK?",
+      "summary": "Ett på grund av anledningar lite sent referat av sköna Häcken borta. Vi summerar också den gångna säsongen och spekulerar om nästa. Vi snackar bortasektioner, lite silly seasonsnack inklusive DMK-transfern (som inte var klar när avsnittet spelades in) med mera. En del flams och roliga samtal. Tyvärr blev ljudet lite hackigt pga datorproblem så vi fick spela in från telebobon. Hoppas ni har överseende.",
+      "source": "Snokasnack",
+      "sourceUrl": "https://poddtoppen.se/podcast/1223781523/snokasnack",
+      "articleUrl": "https://soundcloud.com/user-154683921/32-ta-en-kula-for-dmk",
+      "publishedAt": "2018-12-02T21:51:47.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Snokasnack",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": []
+    },
+    {
+      "id": "snokasnack-31-avgorandet",
+      "title": "31. Avgörandet",
+      "summary": "Guldstriden lever! Vi snackar om den osannolikt sköna söndagen inklusive Dajas övertidsmål, den fina avtackningen av honom och Ante J samt om Gnagets eventuella guldfrossa. Vi diskuterar guldchanserna och snackar upp den stora invasionen av Hisingen. Dessutom håller vi tummarna!",
+      "source": "Snokasnack",
+      "sourceUrl": "https://poddtoppen.se/podcast/1223781523/snokasnack",
+      "articleUrl": "https://soundcloud.com/user-154683921/31-avgorandet",
+      "publishedAt": "2018-11-06T22:23:13.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Snokasnack",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": []
+    },
+    {
+      "id": "snokasnack-30-smaken-av-kontinenten",
+      "title": "30. Smaken av kontinenten",
+      "summary": "Vi firar in det säkrade europaspelet med \"champagne\" och snackar om våra drömresor i europaspelet. Vi berör de senaste matcherna, Kompani Snokas fina 5-årsfirande och att guldstriden (nästan) lever tills på söndag. Vi snackar om de kommande matcherna och Ante och Dajas avsked. Dessutom öppnar vi telefonslussarna för lyssnarna för allra första gången med tveksamt resultat.",
+      "source": "Snokasnack",
+      "sourceUrl": "https://poddtoppen.se/podcast/1223781523/snokasnack",
+      "articleUrl": "https://soundcloud.com/user-154683921/30-smaken-av-kontinenten",
+      "publishedAt": "2018-11-02T19:25:48.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Snokasnack",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": []
+    },
+    {
+      "id": "snokasnack-29-lugnet-fore-stormen",
+      "title": "29. Lugnet före stormen",
+      "summary": "Vi snackar lite om MFF hemma, Sirius borta, DIF hemma och om hur segt det är med landslagsuppehåll. Vi sågar O'learys menyer, snackar om Thorvaldssons besök i Norrköping med mera, Dessutom bjuder Myra på sitt bästa fotbollsminne.",
+      "source": "Snokasnack",
+      "sourceUrl": "https://poddtoppen.se/podcast/1223781523/snokasnack",
+      "articleUrl": "https://soundcloud.com/user-154683921/29-lugnet-fore-stormen",
+      "publishedAt": "2018-10-15T19:56:30.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Snokasnack",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": []
+    },
+    {
+      "id": "snokasnack-28-vittring",
+      "title": "28. Vittring",
+      "summary": "Myra rapporterar från måndagens medlemsmöte. Vi snackar om Gnaget hemma och vår resa till Gävle och Dalkurd borta. Vi snackar om inför MFF hemma, tabelläget och om vittringen man kan förnimma.",
+      "source": "Snokasnack",
+      "sourceUrl": "https://poddtoppen.se/podcast/1223781523/snokasnack",
+      "articleUrl": "https://soundcloud.com/user-154683921/28-vittring",
+      "publishedAt": "2018-09-25T23:23:40.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Snokasnack",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": []
+    },
+    {
+      "id": "snokasnack-27-ur-hastens-egen-mun-med-jack-nordholm",
+      "title": "27. Ur hästens egen mun med Jack Nordholm",
+      "summary": "Vi gästas av Jack Nordholm, som fram tills alldeles nyligen varit medieansvarig i IFK Norrköping. Han bjuder på en del anekdoter från sin tid i IFK. Vi diskuterar Jensa och förlängningen av hans kontrakt. Givetvis snackar vi också om Hunt, Bergström, arbetsmiljön i IFK och NT:s granskning av den. Och mycket mer.",
+      "source": "Snokasnack",
+      "sourceUrl": "https://poddtoppen.se/podcast/1223781523/snokasnack",
+      "articleUrl": "https://soundcloud.com/user-154683921/27-ur-hastens-egen-mun-med-jack-nordholm",
+      "publishedAt": "2018-09-15T22:37:05.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Snokasnack",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": []
+    },
+    {
+      "id": "snokasnack-26-50-kaniner-in-pa-blaskontot",
+      "title": "26. 50 kaniner in på blåskontot",
+      "summary": "Vi är frustrerade. Snack om Göteborg hemma med det förlösande segermålet, och om den usla insatsen mot Trelleborg. Jensa får sig en släng av sleven. Dunderförsäljningen av Sigge avhandlas och vi hyllar och sörjer kapten Ante J som lämnar. Dessutom pratar vi om spelare vars utseende man har svårt att vänja sig vid, samt om indiska kossor.",
+      "source": "Snokasnack",
+      "sourceUrl": "https://poddtoppen.se/podcast/1223781523/snokasnack",
+      "articleUrl": "https://soundcloud.com/user-154683921/26-50-kaniner-in-pa-blaskontot",
+      "publishedAt": "2018-09-02T21:31:16.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Snokasnack",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": []
+    },
+    {
+      "id": "snokasnack-25-brottbys-byfanar",
+      "title": "25. Brottbys byfånar",
+      "summary": "Betraktelser från den mycket gemytliga Brottby borta; vi snackar hovslagare, bygdens tuffingar, en perfekt matchorganisation, många mål och mycket mer. Vi snackar också om de senaste målfattiga allsvenska matcherna inklusive publikfesten mot Bajen hemma. Lite om Arnor ut(?) och Kasper Larsen in, etc etc etc!",
+      "source": "Snokasnack",
+      "sourceUrl": "https://poddtoppen.se/podcast/1223781523/snokasnack",
+      "articleUrl": "https://soundcloud.com/user-154683921/25-brottbys-byfanar",
+      "publishedAt": "2018-08-24T05:02:46.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Snokasnack",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd",
+          "Spelade aktuell säsong"
+        ]
+      },
+      "players": [
+        {
+          "name": "Kasper Larsen",
+          "slug": "kasper-larsen",
+          "relation": "season",
+          "seasons": [
+            2018
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": []
+    },
+    {
+      "id": "snokasnack-24-fragar-at-en-kompis",
+      "title": "24. Frågar åt en kompis",
+      "summary": "Podden gästas av Sebbe, rikskänd(?) IFK-supporter och twitterprofil under pseudonymen \"Frågar åt en kompis\". Vi snackar om den eventuella värvningen av Totte Nyman. Myras tottometer står högre än någonsin och Basse har slagit vad om kroppsdelar. Vi snackar också om de senaste matcherna inklusive vår resa till Malmö borta. Som vanligt snackar vi också om den del annat smått och gott. Twitter och facebook: @snokasnack Mail: snokasnack@hotmail.com",
+      "source": "Snokasnack",
+      "sourceUrl": "https://poddtoppen.se/podcast/1223781523/snokasnack",
+      "articleUrl": "https://soundcloud.com/user-154683921/24-fragar-at-en-kompis",
+      "publishedAt": "2018-08-01T22:26:00.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Snokasnack",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": []
+    },
+    {
+      "id": "snokasnack-23-thug-life",
+      "title": "23. Thug life",
+      "summary": "Vi snackar om DIF borta och vår trevliga helg i Stockholm. Vi snackar Franssons sköna återkomst och E. Smiths sorti plus nåt rykte. Vi berör också ämnet thug life-moments i IFK, och såklart annat smått och gott. Twitter och facebook: @snokasnack Mail: snokasnack@hotmail.com",
+      "source": "Snokasnack",
+      "sourceUrl": "https://poddtoppen.se/podcast/1223781523/snokasnack",
+      "articleUrl": "https://soundcloud.com/user-154683921/23-thug-life",
+      "publishedAt": "2018-07-13T16:52:27.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Snokasnack",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": []
+    },
+    {
+      "id": "snokasnack-22-dubbeltrubbel-med-jansson-och-posse",
+      "title": "22. Dubbeltrubbel med Jansson och Posse",
+      "summary": "Denna gång gästas vi av de två klackrävarna Jansson och Posse i vårt längsta och kanske mest innehållsrika avsnitt hittills. Vi hinner med allt från seriösa diskussioner om Curva Nordahls utveckling och framtid till roliga anekdoter om obskyra bortamatcher, spelare och klubbtjafs under superettan-tiden. Twitter och facebook: @snokasnack Mail: snokasnack@hotmail.com",
+      "source": "Snokasnack",
+      "sourceUrl": "https://poddtoppen.se/podcast/1223781523/snokasnack",
+      "articleUrl": "https://soundcloud.com/user-154683921/22-dubbeltrubbel-med-jansson-och-posse",
+      "publishedAt": "2018-06-11T19:20:34.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Snokasnack",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": []
+    },
+    {
+      "id": "snokasnack-21-ut-med-hakan-och-ner-med-garden",
+      "title": "21. Ut med hakan och ner med garden",
+      "summary": "Denna gång snackar vi om matcherna mot Dalkurd och Sundsvall hemma samt AIK borta där den fina stämningen, inställningen och målgesten avhandlas. Vi diskuterar också Thern och Jordans mediala framtoning och om den sköna feelingen som IFK-supporter inför VM-uppehållet och höstsäsongen, med mera. Förhoppningsvis jinxar vi inte alltför mycket. Twitter och facebook: @snokasnack Mail: snokasnack@hotmail.com",
+      "source": "Snokasnack",
+      "sourceUrl": "https://poddtoppen.se/podcast/1223781523/snokasnack",
+      "articleUrl": "https://soundcloud.com/user-154683921/21-ut-med-hakan-och-ner-med-garden",
+      "publishedAt": "2018-05-30T14:43:02.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Snokasnack",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": []
+    },
+    {
+      "id": "snokasnack-20-tva-aperol-spritz-och-ett-norrlandskt-jaktlag",
+      "title": "20. Två Aperol spritz och ett norrländskt jaktlag",
+      "summary": "Vi pratar om vårsäsongen såhär långt med fokus på de senaste matcherna, och ger en reserapport från Östersund borta där vi bland annat träffade på ett eventuellt norrländskt jaktlag. Vi hyllar Isak Pettersson och kommer in på vad svensk fotboll kan lära av tysk dito. Twitter och facebook: @snokasnack Mail: snokasnack@hotmail.com",
+      "source": "Snokasnack",
+      "sourceUrl": "https://poddtoppen.se/podcast/1223781523/snokasnack",
+      "articleUrl": "https://soundcloud.com/user-154683921/tva-aperol-spritz-och-ett-norrlandsk-jaktlag",
+      "publishedAt": "2018-05-14T21:58:41.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Snokasnack",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd",
+          "Spelade aktuell säsong"
+        ]
+      },
+      "players": [
+        {
+          "name": "Isak Pettersson",
+          "slug": "isak-pettersson",
+          "relation": "season",
+          "seasons": [
+            2018
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": []
+    },
+    {
+      "id": "snokasnack-19-picknick-i-orebro",
+      "title": "19. Picknick i Örebro",
+      "summary": "Lördagsavsnitt. Vi snackar bland annat om BP hemma, Örebro borta, invasioner och om feta spelare. Och mycket mer, såklart.",
+      "source": "Snokasnack",
+      "sourceUrl": "https://poddtoppen.se/podcast/1223781523/snokasnack",
+      "articleUrl": "https://soundcloud.com/user-154683921/19-picknick-i-orebro",
+      "publishedAt": "2018-04-14T22:48:41.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Snokasnack",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": []
+    },
+    {
+      "id": "snokasnack-18-starstruck-i-stockholm",
+      "title": "18. Starstruck i Stockholm",
+      "summary": "Vi rapporterar från den allsvenska upptaktsträffen. Som utlovat får ni höra Myras intervju med DMK. Vi berättar också om hur Myra blev hånad av Olof Lundh och lurad av Patrik Ekwall. Dessutom snackar vi lite om träningsmatchen Bajen borta och inför hemmapremiären mot BP på måndag. Var beredda med volymkontrollen pga lite svajiga ljudnivåer!",
+      "source": "Snokasnack",
+      "sourceUrl": "https://poddtoppen.se/podcast/1223781523/snokasnack",
+      "articleUrl": "https://soundcloud.com/user-154683921/18-starstruck-i-stockholm",
+      "publishedAt": "2018-03-28T15:02:44.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Snokasnack",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": []
+    },
+    {
+      "id": "snokasnack-17-blodiga-nyllen-kryddsprit-och-hogafflar",
+      "title": "17. Blodiga nyllen, kryddsprit och högafflar",
+      "summary": "Clickbait-titel! Vi snackar bland annat lite om uttåget ur cupen, om resan till Tvååker och vi kommer osökt in på debaclet runt IFK:s årsmöte 2013.",
+      "source": "Snokasnack",
+      "sourceUrl": "https://poddtoppen.se/podcast/1223781523/snokasnack",
+      "articleUrl": "https://soundcloud.com/user-154683921/17-blodiga-nyllen-kryddsprit-och-hogafflar",
+      "publishedAt": "2018-03-07T16:42:54.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Snokasnack",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": []
+    },
+    {
+      "id": "snokasnack-16-hemliga-overenskommelser-med-jansson",
+      "title": "16. Hemliga överenskommelser med Jansson",
+      "summary": "Vi gästas av Jansson, spindeln i nätet för IFK:s klackkultur sedan många år tillbaka. Vi snackar bland annat om Peking Fanz tidiga år, hur tifokulturen i Norrköping växte fram och om de första pyrotekniktifona på Parken. Vi får också höra om hemliga överenskommelser mellan Peking Fanz och klubbledningen, och många andra anekdoter.",
+      "source": "Snokasnack",
+      "sourceUrl": "https://poddtoppen.se/podcast/1223781523/snokasnack",
+      "articleUrl": "https://soundcloud.com/user-154683921/16-hemliga-overenskommelser-med-jansson",
+      "publishedAt": "2018-02-11T19:17:18.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Snokasnack",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": []
+    },
+    {
+      "id": "snokasnack-15-gadda-gadda",
+      "title": "15. Gadda Gädda",
+      "summary": "Traditionellt fredagsavsnitt. Ikväll snackar vi om matcherna mot Beijing och Rijeka, Jordan vs Thern och annat kul som hänt kring Atlantic Cup. Dessutom pratar vi om IFK-tatueringar och om Gäddas huvudbonad.",
+      "source": "Snokasnack",
+      "sourceUrl": "https://poddtoppen.se/podcast/1223781523/snokasnack",
+      "articleUrl": "https://soundcloud.com/user-154683921/15-gadda-gadda",
+      "publishedAt": "2018-02-02T21:51:37.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Snokasnack",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": []
+    },
+    {
+      "id": "snokasnack-14-goda-nyheter",
+      "title": "14. Goda nyheter",
+      "summary": "Den här gången snackar vi framförallt om IFK:s fantastiska silly season och går igenom vår syn på nyförvärven. Vi snackar också upp Örebro borta. Som vanligt pratar vi också om ditten och datten.",
+      "source": "Snokasnack",
+      "sourceUrl": "https://poddtoppen.se/podcast/1223781523/snokasnack",
+      "articleUrl": "https://soundcloud.com/user-154683921/14-goda-nyheter",
+      "publishedAt": "2018-01-18T22:45:14.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Snokasnack",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": []
+    }
+  ]
+}

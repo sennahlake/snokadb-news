@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "yearCount": 11,
+  "years": [
+    {
+      "year": 2026,
+      "itemCount": 476,
+      "path": "archive/2026.json"
+    },
+    {
+      "year": 2025,
+      "itemCount": 773,
+      "path": "archive/2025.json"
+    },
+    {
+      "year": 2024,
+      "itemCount": 749,
+      "path": "archive/2024.json"
+    },
+    {
+      "year": 2023,
+      "itemCount": 577,
+      "path": "archive/2023.json"
+    },
+    {
+      "year": 2022,
+      "itemCount": 595,
+      "path": "archive/2022.json"
+    },
+    {
+      "year": 2021,
+      "itemCount": 606,
+      "path": "archive/2021.json"
+    },
+    {
+      "year": 2020,
+      "itemCount": 429,
+      "path": "archive/2020.json"
+    },
+    {
+      "year": 2019,
+      "itemCount": 154,
+      "path": "archive/2019.json"
+    },
+    {
+      "year": 2018,
+      "itemCount": 20,
+      "path": "archive/2018.json"
+    },
+    {
+      "year": 2017,
+      "itemCount": 13,
+      "path": "archive/2017.json"
+    },
+    {
+      "year": 2015,
+      "itemCount": 2,
+      "path": "archive/2015.json"
+    }
+  ]
+}
