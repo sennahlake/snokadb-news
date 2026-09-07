@@ -1,7 +1,40 @@
 {
   "year": 2026,
-  "itemCount": 476,
+  "itemCount": 477,
   "items": [
+    {
+      "id": "ifk-kamraternas-traningsvecka-42",
+      "title": "Kamraternas träningsvecka",
+      "summary": "Kamraternas träningsvecka",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/kamraternas-traningsvecka-42/",
+      "publishedAt": "2026-09-07T06:02:19.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
     {
       "id": "nt-ifk-norrkoping-tappade-odmjukhet-mot-ljungskile-l61n7kwj",
       "title": "\"Lärdomen är att inte tappa ödmjukheten på något sätt\"",

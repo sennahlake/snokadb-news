@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sun, 06 Sep 2026 03:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 06:02:19 GMT</lastBuildDate>
+    <item>
+      <title>Kamraternas träningsvecka</title>
+      <link>https://ifknorrkoping.se/kamraternas-traningsvecka-42/</link>
+      <guid isPermaLink="false">ifk-kamraternas-traningsvecka-42</guid>
+      <pubDate>Mon, 07 Sep 2026 06:02:19 GMT</pubDate>
+      <description>Kamraternas träningsvecka</description>
+      <category>IFK Norrköping</category>
+    </item>
     <item>
       <title>&quot;Lärdomen är att inte tappa ödmjukheten på något sätt&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/ifk-norrkoping-tappade-odmjukhet-mot-ljungskile/l61n7kwj</link>
@@ -796,14 +804,6 @@
       <guid isPermaLink="false">ifk-tionde-nollan-infor-rekordpublik-pa-parken-en-otrolig-laginsats</guid>
       <pubDate>Sat, 01 Aug 2026 18:30:38 GMT</pubDate>
       <description>Tionde nollan inför rekordpublik på Parken: “En otrolig laginsats”</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Fyramålsseger i Uppsala: “lättnad att få vinna”</title>
-      <link>https://ifknorrkoping.se/fyramalsseger-i-uppsala-lattnad-att-fa-vinna/</link>
-      <guid isPermaLink="false">ifk-fyramalsseger-i-uppsala-lattnad-att-fa-vinna</guid>
-      <pubDate>Sat, 01 Aug 2026 18:15:51 GMT</pubDate>
-      <description>Fyramålsseger i Uppsala: “lättnad att få vinna”</description>
       <category>IFK Norrköping</category>
     </item>
   </channel>
