@@ -1,7 +1,89 @@
 {
   "year": 2026,
-  "itemCount": 477,
+  "itemCount": 479,
   "items": [
+    {
+      "id": "nt-stora-ifk-projektet-dokumenterar-sasongen-2026-jvzn8w7r",
+      "title": "Stora IFK-projektet – dokumenterar säsongen 2026",
+      "summary": "Gustav Åström följer IFK på nära håll för att skildra resan – från det som händer på planen till människorna och livet runt omkring. I vår ska det hela mynna ut i en dokumentär om 2026.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/stora-ifk-projektet-dokumenterar-sasongen-2026/jvzn8w7r",
+      "publishedAt": "2026-09-07T18:01:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-07",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "genom-ljuva-livet-189-alagille",
+      "title": "189. Ålagille",
+      "summary": "IFK Norrköping har tappat poäng mot Ljungskile! Vi snackar om det och massor annat runt en ganska störig match.",
+      "source": "Genom Ljuva Livet",
+      "sourceUrl": "https://poddtoppen.se/podcast/1728458754/genom-ljuva-livet",
+      "articleUrl": "https://pod.space/genomljuvalivet/189-alagille",
+      "publishedAt": "2026-09-07T16:37:59.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Genom Ljuva Livet",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "genom-ljuva-livet"
+    },
     {
       "id": "ifk-kamraternas-traningsvecka-42",
       "title": "Kamraternas träningsvecka",

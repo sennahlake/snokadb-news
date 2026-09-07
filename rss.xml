@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Mon, 07 Sep 2026 06:02:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 18:01:00 GMT</lastBuildDate>
+    <item>
+      <title>Stora IFK-projektet – dokumenterar säsongen 2026</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/stora-ifk-projektet-dokumenterar-sasongen-2026/jvzn8w7r</link>
+      <guid isPermaLink="false">nt-stora-ifk-projektet-dokumenterar-sasongen-2026-jvzn8w7r</guid>
+      <pubDate>Mon, 07 Sep 2026 18:01:00 GMT</pubDate>
+      <description>Gustav Åström följer IFK på nära håll för att skildra resan – från det som händer på planen till människorna och livet runt omkring. I vår ska det hela mynna ut i en dokumentär om 2026.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>189. Ålagille</title>
+      <link>https://pod.space/genomljuvalivet/189-alagille</link>
+      <guid isPermaLink="false">genom-ljuva-livet-189-alagille</guid>
+      <pubDate>Mon, 07 Sep 2026 16:37:59 GMT</pubDate>
+      <description>IFK Norrköping har tappat poäng mot Ljungskile! Vi snackar om det och massor annat runt en ganska störig match.</description>
+      <category>Genom Ljuva Livet</category>
+    </item>
     <item>
       <title>Kamraternas träningsvecka</title>
       <link>https://ifknorrkoping.se/kamraternas-traningsvecka-42/</link>
@@ -788,22 +804,6 @@
       <guid isPermaLink="false">ifk-har-ar-kamraternas-vecka-2</guid>
       <pubDate>Mon, 03 Aug 2026 08:45:15 GMT</pubDate>
       <description>Här är kamraternas vecka</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>125. Resereportage från Landskrona borta</title>
-      <link>https://soundcloud.com/user-154683921/125-resereportage-fran</link>
-      <guid isPermaLink="false">snokasnack-125-resereportage-fran-landskrona-borta</guid>
-      <pubDate>Sun, 02 Aug 2026 17:12:56 GMT</pubDate>
-      <description>Landskrona borta i flera akter med olika gäster. Mest blaj och rumsljud.</description>
-      <category>Snokasnack</category>
-    </item>
-    <item>
-      <title>Tionde nollan inför rekordpublik på Parken: “En otrolig laginsats”</title>
-      <link>https://ifknorrkoping.se/tionde-nollan-infor-rekordpublik-pa-parken-en-otrolig-laginsats/</link>
-      <guid isPermaLink="false">ifk-tionde-nollan-infor-rekordpublik-pa-parken-en-otrolig-laginsats</guid>
-      <pubDate>Sat, 01 Aug 2026 18:30:38 GMT</pubDate>
-      <description>Tionde nollan inför rekordpublik på Parken: “En otrolig laginsats”</description>
       <category>IFK Norrköping</category>
     </item>
   </channel>
