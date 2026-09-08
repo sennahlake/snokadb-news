@@ -1,7 +1,102 @@
 {
   "year": 2026,
-  "itemCount": 479,
+  "itemCount": 481,
   "items": [
+    {
+      "id": "studio-peking-filmerna-fran-curvan",
+      "title": "Filmerna från Curvan",
+      "summary": "Studio Peking bjuder på ett nytt gästavsnitt. Gustav Åström, personen bakom Filmerna från Curvan, tar plats i poddstudion. I avsnittet berättar han bland annat om kärleken för IFK, supporterkulturen och dokumentären han gör om klubbens 2026.",
+      "source": "Studio Peking",
+      "sourceUrl": "https://poddtoppen.se/podcast/1738623973/studio-peking",
+      "articleUrl": "https://pod.space/studiopeking/filmerna-fran-curvan",
+      "publishedAt": "2026-09-08T08:46:00.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Studio Peking",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "studio-peking"
+    },
+    {
+      "id": "nt-vi-vet-inte-nar-men-han-kommer-bli-otroligt-otroligt-bra-rkymq4zj",
+      "title": "\"Vi vet inte när – men han kommer bli otroligt, otroligt bra\"",
+      "summary": "En lovande start, därefter färre minuter. Var befinner sig IFK-löftet Albert Aleksanjan? – På sikt är det en spelare som vi tror kommer bli otroligt bra, säger Eldar Abdulic.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/vi-vet-inte-nar-men-han-kommer-bli-otroligt-otroligt-bra/rkymq4zj",
+      "publishedAt": "2026-09-08T07:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Albert Aleksanjan",
+          "slug": "albert-aleksanjan",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-08",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-stora-ifk-projektet-dokumenterar-sasongen-2026-jvzn8w7r",
       "title": "Stora IFK-projektet – dokumenterar säsongen 2026",

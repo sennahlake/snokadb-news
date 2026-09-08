@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Mon, 07 Sep 2026 18:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 08:46:00 GMT</lastBuildDate>
+    <item>
+      <title>Filmerna från Curvan</title>
+      <link>https://pod.space/studiopeking/filmerna-fran-curvan</link>
+      <guid isPermaLink="false">studio-peking-filmerna-fran-curvan</guid>
+      <pubDate>Tue, 08 Sep 2026 08:46:00 GMT</pubDate>
+      <description>Studio Peking bjuder på ett nytt gästavsnitt. Gustav Åström, personen bakom Filmerna från Curvan, tar plats i poddstudion. I avsnittet berättar han bland annat om kärleken för IFK, supporterkulturen och dokumentären han gör om klubbens 2026.</description>
+      <category>Studio Peking</category>
+    </item>
+    <item>
+      <title>&quot;Vi vet inte när – men han kommer bli otroligt, otroligt bra&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/vi-vet-inte-nar-men-han-kommer-bli-otroligt-otroligt-bra/rkymq4zj</link>
+      <guid isPermaLink="false">nt-vi-vet-inte-nar-men-han-kommer-bli-otroligt-otroligt-bra-rkymq4zj</guid>
+      <pubDate>Tue, 08 Sep 2026 07:00:00 GMT</pubDate>
+      <description>En lovande start, därefter färre minuter. Var befinner sig IFK-löftet Albert Aleksanjan? – På sikt är det en spelare som vi tror kommer bli otroligt bra, säger Eldar Abdulic.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Stora IFK-projektet – dokumenterar säsongen 2026</title>
       <link>https://www.nt.se/sport/fotboll/artikel/stora-ifk-projektet-dokumenterar-sasongen-2026/jvzn8w7r</link>
@@ -789,22 +805,6 @@
       <pubDate>Mon, 03 Aug 2026 18:23:44 GMT</pubDate>
       <description>Superettans ångvält IFK Norrköping rullar vidare. Vi pratar ner 2-0-segern mot Helsingborg. Tionde hållna nollan i år! Återigen ett par dunderräddningar av Theo Krantz. En otrolig match av Elias Jemal. Nästan bara positivt överlag! För bara andra gången i år har IFK:s damlag vunnit en match. I och för sig mot totalkrisande IK Uppsala, men vi vågar tro på en bättre höst och att Snoka klarar kontraktet. Swisha tifogruppen: 1230691212 Stötta GLL: https://www.patreon.com/cw/GenomLjuvaLivet</description>
       <category>Genom Ljuva Livet</category>
-    </item>
-    <item>
-      <title>Freja Lindwall lånas ut till Husqvarna FF</title>
-      <link>https://ifknorrkoping.se/freja-lindwall-lanas-ut-till-husqvarna-ff/</link>
-      <guid isPermaLink="false">ifk-freja-lindwall-lanas-ut-till-husqvarna-ff</guid>
-      <pubDate>Mon, 03 Aug 2026 15:00:04 GMT</pubDate>
-      <description>Freja Lindwall lånas ut till Husqvarna FF</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Här är kamraternas vecka</title>
-      <link>https://ifknorrkoping.se/har-ar-kamraternas-vecka-2/</link>
-      <guid isPermaLink="false">ifk-har-ar-kamraternas-vecka-2</guid>
-      <pubDate>Mon, 03 Aug 2026 08:45:15 GMT</pubDate>
-      <description>Här är kamraternas vecka</description>
-      <category>IFK Norrköping</category>
     </item>
   </channel>
 </rss>
