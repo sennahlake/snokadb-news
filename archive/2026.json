@@ -1,7 +1,65 @@
 {
   "year": 2026,
-  "itemCount": 482,
+  "itemCount": 483,
   "items": [
+    {
+      "id": "nt-viggo-falth-om-vagen-fran-vanga-if-till-ifk-norrkoping-jo5kp07l",
+      "title": "Viggo Fälths väg till Parken: \"Du behöver det inre drivet\"",
+      "summary": "Han började spela fotboll på Ekvallen och stod på Curva Nordahl för att se sina förebilder. Nu delar Viggo Fälth omklädningsrum med spelarna som han en gång såg upp till i IFK Norrköping. Men platsen där allt började finns fortfarande kvar. – Det har sin charm att spela här ute, säger 17-åringen.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/story-sport/fotboll/artikel/viggo-falth-om-vagen-fran-vanga-if-till-ifk-norrkoping/jo5kp07l",
+      "publishedAt": "2026-09-09T18:30:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Viggo Fälth",
+          "slug": "viggo-falth",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-09",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "ifk-hostens-avgorande-tid-ar-har-nu-det-finns-absolut-en-nerv-i-det",
       "title": "Höstens avgörande tid är här nu – “Det finns absolut en nerv i det”",

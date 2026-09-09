@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Wed, 09 Sep 2026 14:26:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 18:30:00 GMT</lastBuildDate>
+    <item>
+      <title>Viggo Fälths väg till Parken: &quot;Du behöver det inre drivet&quot;</title>
+      <link>https://www.nt.se/story-sport/fotboll/artikel/viggo-falth-om-vagen-fran-vanga-if-till-ifk-norrkoping/jo5kp07l</link>
+      <guid isPermaLink="false">nt-viggo-falth-om-vagen-fran-vanga-if-till-ifk-norrkoping-jo5kp07l</guid>
+      <pubDate>Wed, 09 Sep 2026 18:30:00 GMT</pubDate>
+      <description>Han började spela fotboll på Ekvallen och stod på Curva Nordahl för att se sina förebilder. Nu delar Viggo Fälth omklädningsrum med spelarna som han en gång såg upp till i IFK Norrköping. Men platsen där allt började finns fortfarande kvar. – Det har sin charm att spela här ute, säger 17-åringen.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Höstens avgörande tid är här nu – “Det finns absolut en nerv i det”</title>
       <link>https://ifknorrkoping.se/hostens-avgorande-tid-ar-har-nu-det-finns-absolut-en-nerv-i-det/</link>
@@ -796,14 +804,6 @@
       <guid isPermaLink="false">ifk-fartfylld-och-tat-match-i-ligacupen-kylian-natade-mot-djurgarden</guid>
       <pubDate>Tue, 04 Aug 2026 16:01:06 GMT</pubDate>
       <description>Fartfylld och tät match i Ligacupen – Kylian nätade mot Djurgården</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Årskortare: Hämta ut era kamratbiljetter!</title>
-      <link>https://ifknorrkoping.se/arskortare-hamta-ut-era-kamratbiljetter/</link>
-      <guid isPermaLink="false">ifk-arskortare-hamta-ut-era-kamratbiljetter</guid>
-      <pubDate>Tue, 04 Aug 2026 08:04:28 GMT</pubDate>
-      <description>Årskortare: Hämta ut era kamratbiljetter!</description>
       <category>IFK Norrköping</category>
     </item>
   </channel>

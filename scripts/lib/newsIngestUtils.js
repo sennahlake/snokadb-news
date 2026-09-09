@@ -382,7 +382,8 @@ function passesSourceFilter(item, filterMode, options = {}) {
         mentionsSeasonPlayer(`${title} ${summary}`, players, year)
       );
     case "nt-sport-ifk": {
-      const isFootball = /\/sport\/fotboll\//i.test(url);
+      // NT uses both /sport/fotboll/ and /story-sport/fotboll/ for football articles.
+      const isFootball = /\/(?:story-)?sport\/fotboll\//i.test(url);
       if (!isFootball) return false;
       return (
         hasClubSignal(haystack) ||

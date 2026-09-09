@@ -88,6 +88,21 @@ test("nt-sport-ifk accepts current IFK player without saying IFK", () => {
   );
 });
 
+test("nt-sport-ifk accepts NT story-sport football URLs", () => {
+  assert.equal(
+    passesSourceFilter(
+      {
+        title: 'Viggo Fälths väg till Parken: "Du behöver det inre drivet"',
+        summary: "IFK Norrköping-talangen berättar.",
+        articleUrl:
+          "https://www.nt.se/story-sport/fotboll/artikel/viggo-falth-om-vagen-fran-vanga-if-till-ifk-norrkoping/jo5kp07l",
+      },
+      "nt-sport-ifk"
+    ),
+    true
+  );
+});
+
 test("club filter requires IFK context", () => {
   assert.equal(
     passesSourceFilter(
