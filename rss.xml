@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Tue, 08 Sep 2026 08:46:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 14:26:21 GMT</lastBuildDate>
+    <item>
+      <title>Höstens avgörande tid är här nu – “Det finns absolut en nerv i det”</title>
+      <link>https://ifknorrkoping.se/hostens-avgorande-tid-ar-har-nu-det-finns-absolut-en-nerv-i-det/</link>
+      <guid isPermaLink="false">ifk-hostens-avgorande-tid-ar-har-nu-det-finns-absolut-en-nerv-i-det</guid>
+      <pubDate>Wed, 09 Sep 2026 14:26:21 GMT</pubDate>
+      <description>Höstens avgörande tid är här nu – “Det finns absolut en nerv i det”</description>
+      <category>IFK Norrköping</category>
+    </item>
     <item>
       <title>Filmerna från Curvan</title>
       <link>https://pod.space/studiopeking/filmerna-fran-curvan</link>
@@ -797,14 +805,6 @@
       <pubDate>Tue, 04 Aug 2026 08:04:28 GMT</pubDate>
       <description>Årskortare: Hämta ut era kamratbiljetter!</description>
       <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>183. Det börjar bli tjatigt</title>
-      <link>https://pod.space/genomljuvalivet/183-det-borjar-bli-tjatigt</link>
-      <guid isPermaLink="false">genom-ljuva-livet-183-det-borjar-bli-tjatigt</guid>
-      <pubDate>Mon, 03 Aug 2026 18:23:44 GMT</pubDate>
-      <description>Superettans ångvält IFK Norrköping rullar vidare. Vi pratar ner 2-0-segern mot Helsingborg. Tionde hållna nollan i år! Återigen ett par dunderräddningar av Theo Krantz. En otrolig match av Elias Jemal. Nästan bara positivt överlag! För bara andra gången i år har IFK:s damlag vunnit en match. I och för sig mot totalkrisande IK Uppsala, men vi vågar tro på en bättre höst och att Snoka klarar kontraktet. Swisha tifogruppen: 1230691212 Stötta GLL: https://www.patreon.com/cw/GenomLjuvaLivet</description>
-      <category>Genom Ljuva Livet</category>
     </item>
   </channel>
 </rss>
