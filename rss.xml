@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Thu, 10 Sep 2026 06:32:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 14:00:00 GMT</lastBuildDate>
+    <item>
+      <title>IFK kan ta ett stort kliv mot avancemang – följ toppmötet här</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-kan-ta-ett-stort-kliv-mot-avancemang-folj-toppmotet-har/jo5kmkql</link>
+      <guid isPermaLink="false">nt-ifk-kan-ta-ett-stort-kliv-mot-avancemang-folj-toppmotet-har-jo5kmkql</guid>
+      <pubDate>Thu, 10 Sep 2026 14:00:00 GMT</pubDate>
+      <description>Toppmöte. Ettan mot tvåan. Och IFK har chansen att ta ett ytterligare stort kliv mot allsvenskt avancemang på Påskbergsvallen i bortamötet med Varberg. Vi rapporterar direkt från kvällens match.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>IFK-truppen mot Varberg</title>
+      <link>https://ifknorrkoping.se/ifk-truppen-mot-varberg/</link>
+      <guid isPermaLink="false">ifk-ifk-truppen-mot-varberg</guid>
+      <pubDate>Thu, 10 Sep 2026 10:39:15 GMT</pubDate>
+      <description>IFK-truppen mot Varberg</description>
+      <category>IFK Norrköping</category>
+    </item>
     <item>
       <title>190. Gäst: Henrik Jurelius</title>
       <link>https://pod.space/genomljuvalivet/190-gast-henrik-jurelius</link>
@@ -789,22 +805,6 @@
       <pubDate>Fri, 07 Aug 2026 07:23:43 GMT</pubDate>
       <description>Publikinformation: IFK Norrköping-IK Brage</description>
       <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Skilda världar</title>
-      <link>https://pod.space/studiopeking/skilda-varldar</link>
-      <guid isPermaLink="false">studio-peking-skilda-varldar</guid>
-      <pubDate>Wed, 05 Aug 2026 12:03:13 GMT</pubDate>
-      <description>Studio Peking gör mini-comeback efter sommaruppehållet. I podden pratar vi om damlagets bottenstrid och herrlagets succé. Dessutom blir det silly season-snack.</description>
-      <category>Studio Peking</category>
-    </item>
-    <item>
-      <title>Studio Peking är tillbaka - analyserar IFK:s heta frågor</title>
-      <link>https://www.nt.se/podd/artikel/studio-peking-ar-tillbaka-analyserar-ifks-heta-fragor/r498meoj</link>
-      <guid isPermaLink="false">studio-peking-2026-08-05-heta-fragor</guid>
-      <pubDate>Wed, 05 Aug 2026 10:00:00 GMT</pubDate>
-      <description>Studio Peking diskuterar damlagets bottenstrid, herrlagets form och silly season-frågor runt IFK Norrköping.</description>
-      <category>Studio Peking</category>
     </item>
   </channel>
 </rss>
