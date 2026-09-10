@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Wed, 09 Sep 2026 18:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 06:32:54 GMT</lastBuildDate>
+    <item>
+      <title>190. Gäst: Henrik Jurelius</title>
+      <link>https://pod.space/genomljuvalivet/190-gast-henrik-jurelius</link>
+      <guid isPermaLink="false">genom-ljuva-livet-190-gast-henrik-jurelius</guid>
+      <pubDate>Thu, 10 Sep 2026 06:32:54 GMT</pubDate>
+      <description>Sommarfönstret med Henrik Jurelius! Allt som hände, inte hände och borde hänt. Hur går det med kontraktsförlängningar och vad är tankarna inför vintern? Hur mycket påverkas av om nästa säsong är i Allsvenskan eller Superettan? Hur går det med Sernelius och Jemal? Vad händer med Anton Eriksson, Prica och alla andra? Och hur har första säsongen varit?</description>
+      <category>Genom Ljuva Livet</category>
+    </item>
+    <item>
+      <title>IFK-orden om hela ledarstaben: &quot;En ambition att fortsätta så här&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-orden-om-hela-ledarstaben-en-ambition-att-fortsatta-sa-har/r5pm113j</link>
+      <guid isPermaLink="false">nt-ifk-orden-om-hela-ledarstaben-en-ambition-att-fortsatta-sa-har-r5pm113j</guid>
+      <pubDate>Thu, 10 Sep 2026 06:00:00 GMT</pubDate>
+      <description>IFK Norrköping gick in i säsongen med en relativt stor ledarstab för superettan. Ambitionen är att försöka hålla den så intakt som möjligt inför nästa år. – Vi är på en väldigt bra plats, säger sportchefen Henrik Jurelius inför torsdagens bortamöte med Varberg.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Viggo Fälths väg till Parken: &quot;Du behöver det inre drivet&quot;</title>
       <link>https://www.nt.se/story-sport/fotboll/artikel/viggo-falth-om-vagen-fran-vanga-if-till-ifk-norrkoping/jo5kp07l</link>
@@ -789,22 +805,6 @@
       <pubDate>Wed, 05 Aug 2026 10:00:00 GMT</pubDate>
       <description>Studio Peking diskuterar damlagets bottenstrid, herrlagets form och silly season-frågor runt IFK Norrköping.</description>
       <category>Studio Peking</category>
-    </item>
-    <item>
-      <title>#293:Aleksander Opsahl:&quot;Vi ska försvara boxen med allt vi har!&quot;</title>
-      <link>https://podcasters.spotify.com/pod/show/gate-upp-och-gate-ner/episodes/293Aleksander-OpsahlVi-ska-frsvara-boxen-med-allt-vi-har-e3mveg5</link>
-      <guid isPermaLink="false">gate-upp-gate-ner-293-aleksander-opsahl-vi-ska-forsvara-boxen-med-allt-vi-har</guid>
-      <pubDate>Tue, 04 Aug 2026 16:37:16 GMT</pubDate>
-      <description>Segertåget rullar vidare efter 2-0 hemma på Idrottsparken mot Helsingborgs IF! Jobba som ett lag! Intelligensen på sista tredjedelen! Både ris och ros framåt! Tyngden bakåt! Smarta frisparkar? Tre stjärnor! Curva Nordahl VIVA GUGN!!!</description>
-      <category>Gate Upp och Gate Ner</category>
-    </item>
-    <item>
-      <title>Fartfylld och tät match i Ligacupen – Kylian nätade mot Djurgården</title>
-      <link>https://ifknorrkoping.se/fartfylld-och-tat-match-i-ligacupen-kylian-natade-mot-djurgarden/</link>
-      <guid isPermaLink="false">ifk-fartfylld-och-tat-match-i-ligacupen-kylian-natade-mot-djurgarden</guid>
-      <pubDate>Tue, 04 Aug 2026 16:01:06 GMT</pubDate>
-      <description>Fartfylld och tät match i Ligacupen – Kylian nätade mot Djurgården</description>
-      <category>IFK Norrköping</category>
     </item>
   </channel>
 </rss>

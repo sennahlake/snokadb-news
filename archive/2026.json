@@ -1,7 +1,103 @@
 {
   "year": 2026,
-  "itemCount": 483,
+  "itemCount": 485,
   "items": [
+    {
+      "id": "genom-ljuva-livet-190-gast-henrik-jurelius",
+      "title": "190. Gäst: Henrik Jurelius",
+      "summary": "Sommarfönstret med Henrik Jurelius! Allt som hände, inte hände och borde hänt. Hur går det med kontraktsförlängningar och vad är tankarna inför vintern? Hur mycket påverkas av om nästa säsong är i Allsvenskan eller Superettan? Hur går det med Sernelius och Jemal? Vad händer med Anton Eriksson, Prica och alla andra? Och hur har första säsongen varit?",
+      "source": "Genom Ljuva Livet",
+      "sourceUrl": "https://poddtoppen.se/podcast/1728458754/genom-ljuva-livet",
+      "articleUrl": "https://pod.space/genomljuvalivet/190-gast-henrik-jurelius",
+      "publishedAt": "2026-09-10T06:32:54.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Genom Ljuva Livet",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 94,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Anton Eriksson",
+          "slug": "anton-eriksson",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "genom-ljuva-livet"
+    },
+    {
+      "id": "nt-ifk-orden-om-hela-ledarstaben-en-ambition-att-fortsatta-sa-har-r5pm113j",
+      "title": "IFK-orden om hela ledarstaben: \"En ambition att fortsätta så här\"",
+      "summary": "IFK Norrköping gick in i säsongen med en relativt stor ledarstab för superettan. Ambitionen är att försöka hålla den så intakt som möjligt inför nästa år. – Vi är på en väldigt bra plats, säger sportchefen Henrik Jurelius inför torsdagens bortamöte med Varberg.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-orden-om-hela-ledarstaben-en-ambition-att-fortsatta-sa-har/r5pm113j",
+      "publishedAt": "2026-09-10T06:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-10",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-viggo-falth-om-vagen-fran-vanga-if-till-ifk-norrkoping-jo5kp07l",
       "title": "Viggo Fälths väg till Parken: \"Du behöver det inre drivet\"",
