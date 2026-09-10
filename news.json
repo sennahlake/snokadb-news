@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T14:23:54.909Z",
-  "itemCount": 4405,
+  "generatedAt": "2026-09-10T18:24:11.584Z",
+  "itemCount": 4406,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 3,
+      "count": 2,
       "ok": true
     },
     {
@@ -72,6 +72,50 @@
       "source": "Norrköpings Tidningar",
       "sourceUrl": "https://www.nt.se/sport/fotboll",
       "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-kan-ta-ett-stort-kliv-mot-avancemang-folj-toppmotet-har/jo5kmkql",
+      "publishedAt": "2026-09-10T14:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-10",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-kaptenen-ger-ifk-ledningen-efter-trippla-chanser-folj-toppmotet-jo5kmkql",
+      "title": "IFK kan ta ett stort kliv mot avancemang – följ toppmötet här",
+      "summary": "Toppmöte. Ettan mot tvåan. Och IFK har chansen att ta ett ytterligare stort kliv mot allsvenskt avancemang på Påskbergsvallen i bortamötet med Varberg. Vi rapporterar direkt från kvällens match.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/kaptenen-ger-ifk-ledningen-efter-trippla-chanser-folj-toppmotet/jo5kmkql",
       "publishedAt": "2026-09-10T14:00:00.000Z",
       "category": "Lokal",
       "tags": [
