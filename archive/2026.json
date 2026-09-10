@@ -1,7 +1,188 @@
 {
   "year": 2026,
-  "itemCount": 488,
+  "itemCount": 493,
   "items": [
+    {
+      "id": "nt-fragan-ar-inte-om-ifk-gar-upp-utan-nar-rex4eoxl",
+      "title": "Frågan är inte om IFK går upp – utan när",
+      "summary": "Skulle det bli någon som helst nerv så var det nu. Men årets IFK går inte på den typen av smällar utan är bra på att lära sig läxan. Den allsvenska skumpan ser ut att kunna korkas upp snart.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/fragan-ar-inte-om-ifk-gar-upp-utan-nar/rex4eoxl",
+      "publishedAt": "2026-09-10T20:23:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-10",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-franssons-onskan-forlanga-med-ifk-lqpzz0kr",
+      "title": "Franssons önskan: Förlänga med IFK",
+      "summary": "Tillbaka i startelvan och med en ambition som står kvar. Alexander Fransson hoppas att ett nytt IFK-avtal förhandlas fram.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/franssons-onskan-forlanga-med-ifk/lqpzz0kr",
+      "publishedAt": "2026-09-10T20:13:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Alexander Fransson",
+          "slug": "alexander-fransson",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-10",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "ifk-nymans-16e-mal-visade-ifk-vagen-i-toppmotet",
+      "title": "Nymans 16:e mål visade vägen i toppmötet – IFK vinnare igen",
+      "summary": "Nymans 16:e mål visade vägen i toppmötet – IFK vinnare igen",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/nymans-16e-mal-visade-ifk-vagen-i-toppmotet/",
+      "publishedAt": "2026-09-10T18:50:48.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla",
+          "IFK i artikel-URL"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "svt-fotboll-norrkoping-vinnare-i-toppmotet-leder-serien-med-13-poang",
+      "title": "Norrköping vinnare i toppmötet – leder serien med tio poäng: ”Tar steg hela tiden”",
+      "summary": "Norrköping stormar tillbaka mot allsvenskan. I kväll besegrades serietvåan Varberg på västkusten med 2–0 och Norrköping leder därmed serien med tio poäng med sju matcher kvar att spela. – Vi tar steg hela tiden, säger Christoffer Nyman till TV4 Play.",
+      "source": "SVT",
+      "sourceUrl": "https://www.svt.se/sport/fotboll",
+      "articleUrl": "https://www.svt.se/sport/fotboll/norrkoping-vinnare-i-toppmotet-leder-serien-med-13-poang",
+      "publishedAt": "2026-09-10T18:49:50.000Z",
+      "category": "Nyhet",
+      "tags": [
+        "Extern originalkälla",
+        "Public service",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "SVT"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 74,
+        "matchedBy": [
+          "Originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Christoffer Nyman",
+          "slug": "christoffer-nyman",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "svt"
+    },
     {
       "id": "nt-ifk-kan-ta-ett-stort-kliv-mot-avancemang-folj-toppmotet-har-jo5kmkql",
       "title": "IFK kan ta ett stort kliv mot avancemang – följ toppmötet här",
@@ -91,6 +272,51 @@
       ]
     },
     {
+      "id": "nt-betygen-sa-presterade-ifk-spelarna-i-toppmotet-jo5kmkql",
+      "title": "Betygen: Så presterade IFK-spelarna i matchen mot Varberg",
+      "summary": "Allsvenskan närmar sig för IFK efter kvällens toppmöte mot Varberg på Påskbergsvallen. Här hittar du vår rapportering från matchen.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/betygen-sa-presterade-ifk-spelarna-i-toppmotet/jo5kmkql",
+      "publishedAt": "2026-09-10T14:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-10",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
       "id": "ifk-ifk-truppen-mot-varberg",
       "title": "IFK-truppen mot Varberg",
       "summary": "IFK-truppen mot Varberg",
@@ -100,7 +326,8 @@
       "publishedAt": "2026-09-10T10:39:15.000Z",
       "category": "Officiellt",
       "tags": [
-        "Officiellt"
+        "Officiellt",
+        "Herr"
       ],
       "keywords": [
         "IFK Norrköping",
