@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T04:33:10.649Z",
-  "itemCount": 4413,
+  "generatedAt": "2026-09-11T09:37:29.087Z",
+  "itemCount": 4414,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 4,
+      "count": 3,
       "ok": true
     },
     {
@@ -65,6 +65,39 @@
     }
   ],
   "items": [
+    {
+      "id": "ifk-nyman-och-abdulic-prisas-for-augusti",
+      "title": "Nyman och Abdulic prisas för augusti",
+      "summary": "Nyman och Abdulic prisas för augusti",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/nyman-och-abdulic-prisas-for-augusti/",
+      "publishedAt": "2026-09-11T09:32:36.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
     {
       "id": "nt-christiansson-ar-redo-for-90-minuter-det-kan-jag-nog-redan-nu-j82ovxyj",
       "title": "Christiansson är redo för 90 minuter: \"Det kan jag nog redan nu\"",
