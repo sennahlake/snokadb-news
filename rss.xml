@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Fri, 11 Sep 2026 09:32:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 15:00:00 GMT</lastBuildDate>
+    <item>
+      <title>IFK-rösterna: Han bör vara aktuell för U21-landslaget</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-rosterna-han-bor-vara-aktuell-for-u21-landslaget/jvzn6z1r</link>
+      <guid isPermaLink="false">nt-ifk-rosterna-han-bor-vara-aktuell-for-u21-landslaget-jvzn6z1r</guid>
+      <pubDate>Fri, 11 Sep 2026 15:00:00 GMT</pubDate>
+      <description>Succémålvakten har redan fått en kallelse. Är det dags för Noel Sernelius inträde i svenska U21-landslaget? Eldar Abdulic utbrister: – Subjektivt: ja, för fan!</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>Inför BP: “Vi kommer dit med självförtroende”</title>
+      <link>https://ifknorrkoping.se/infor-bp/</link>
+      <guid isPermaLink="false">ifk-infor-bp</guid>
+      <pubDate>Fri, 11 Sep 2026 14:37:31 GMT</pubDate>
+      <description>Inför BP: “Vi kommer dit med självförtroende”</description>
+      <category>IFK Norrköping</category>
+    </item>
     <item>
       <title>Nyman och Abdulic prisas för augusti</title>
       <link>https://ifknorrkoping.se/nyman-och-abdulic-prisas-for-augusti/</link>
@@ -788,22 +804,6 @@
       <guid isPermaLink="false">ifk-ifks-vassa-vandning-i-sandviken-alla-bara-kor-det-gor-mig-stolt</guid>
       <pubDate>Sat, 15 Aug 2026 17:41:53 GMT</pubDate>
       <description>IFK:s vassa vändning i Sandviken – “Alla bara kör. Det gör mig stolt”</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>IFK-truppen mot Sandvikens IF</title>
-      <link>https://ifknorrkoping.se/ifk-truppen-mot-sandvikens-if-4/</link>
-      <guid isPermaLink="false">ifk-ifk-truppen-mot-sandvikens-if-4</guid>
-      <pubDate>Sat, 15 Aug 2026 09:20:03 GMT</pubDate>
-      <description>IFK-truppen mot Sandvikens IF</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>“Med deras sång känner vi oss hemma – och då spelar vi mer som hemma”</title>
-      <link>https://ifknorrkoping.se/med-deras-sang-kanner-vi-oss-hemma-och-da-spelar-vi-mer-som-hemma/</link>
-      <guid isPermaLink="false">ifk-med-deras-sang-kanner-vi-oss-hemma-och-da-spelar-vi-mer-som-hemma</guid>
-      <pubDate>Fri, 14 Aug 2026 14:50:43 GMT</pubDate>
-      <description>“Med deras sång känner vi oss hemma – och då spelar vi mer som hemma”</description>
       <category>IFK Norrköping</category>
     </item>
   </channel>

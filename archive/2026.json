@@ -1,7 +1,97 @@
 {
   "year": 2026,
-  "itemCount": 496,
+  "itemCount": 498,
   "items": [
+    {
+      "id": "nt-ifk-rosterna-han-bor-vara-aktuell-for-u21-landslaget-jvzn6z1r",
+      "title": "IFK-rösterna: Han bör vara aktuell för U21-landslaget",
+      "summary": "Succémålvakten har redan fått en kallelse. Är det dags för Noel Sernelius inträde i svenska U21-landslaget? Eldar Abdulic utbrister: – Subjektivt: ja, för fan!",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-rosterna-han-bor-vara-aktuell-for-u21-landslaget/jvzn6z1r",
+      "publishedAt": "2026-09-11T15:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Noel Sernelius",
+          "slug": "noel-sernelius",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-11",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "ifk-infor-bp",
+      "title": "Inför BP: “Vi kommer dit med självförtroende”",
+      "summary": "Inför BP: “Vi kommer dit med självförtroende”",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/infor-bp/",
+      "publishedAt": "2026-09-11T14:37:31.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
     {
       "id": "ifk-nyman-och-abdulic-prisas-for-augusti",
       "title": "Nyman och Abdulic prisas för augusti",
