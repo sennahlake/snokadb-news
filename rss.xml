@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Thu, 10 Sep 2026 20:23:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 02:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Christiansson är redo för 90 minuter: &quot;Det kan jag nog redan nu&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/christiansson-ar-redo-for-90-minuter-det-kan-jag-nog-redan-nu/j82ovxyj</link>
+      <guid isPermaLink="false">nt-christiansson-ar-redo-for-90-minuter-det-kan-jag-nog-redan-nu-j82ovxyj</guid>
+      <pubDate>Fri, 11 Sep 2026 02:00:00 GMT</pubDate>
+      <description>Viktor Christiansson inledde säsongen med att ta sig tillbaka från en skada. Han skulle kunna spela 90 minuter nu även om han inte gjort det än. – Jag orkar mer för varje match, sa mittfältaren efter segern i Varberg.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Frågan är inte om IFK går upp – utan när</title>
       <link>https://www.nt.se/sport/fotboll/artikel/fragan-ar-inte-om-ifk-gar-upp-utan-nar/rex4eoxl</link>
@@ -21,6 +29,14 @@
       <pubDate>Thu, 10 Sep 2026 20:13:00 GMT</pubDate>
       <description>Tillbaka i startelvan och med en ambition som står kvar. Alexander Fransson hoppas att ett nytt IFK-avtal förhandlas fram.</description>
       <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>Nyman målskytt – när Peking vann toppmötet</title>
+      <link>https://fotbolldirekt.se/superettan/nyman-malskytt-nar-peking-vann-toppmotet/</link>
+      <guid isPermaLink="false">fotbolldirekt-superettan-nyman-malskytt-nar-peking-vann-toppmotet</guid>
+      <pubDate>Thu, 10 Sep 2026 19:08:14 GMT</pubDate>
+      <description>Stormar mot allsvenskan The post Nyman målskytt – när Peking vann toppmötet appeared first on FotbollDirekt .</description>
+      <category>FotbollDirekt</category>
     </item>
     <item>
       <title>Nymans 16:e mål visade vägen i toppmötet – IFK vinnare igen</title>
@@ -788,22 +804,6 @@
       <guid isPermaLink="false">ifk-emma-jagar-nya-mal-pa-parken-hela-laget-vill-ha-revansch-for-senast</guid>
       <pubDate>Fri, 14 Aug 2026 14:26:07 GMT</pubDate>
       <description>Emma jagar nya mål på “Parken” – Hela laget vill ha revansch för senast”</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>#294: &quot;Noel Sernelius går på vatten!&quot;</title>
-      <link>https://podcasters.spotify.com/pod/show/gate-upp-och-gate-ner/episodes/294-Noel-Sernelius-gr-p-vatten-e3nbqkb</link>
-      <guid isPermaLink="false">gate-upp-gate-ner-294-noel-sernelius-gar-pa-vatten</guid>
-      <pubDate>Thu, 13 Aug 2026 11:54:59 GMT</pubDate>
-      <description>IFK är i serieledning och podden är på mycket bra humör efter kölhalningen av Brage Sernelius! Den kompletta åttan! Tottes granulatnylle! Opsahls räder! Försvarsspelet! Försäljningshybrisen! Fotbollsfilosofi! Brönner! Sandviken! Tollan tropp! VIVA GUGN!</description>
-      <category>Gate Upp och Gate Ner</category>
-    </item>
-    <item>
-      <title>Publikinformation: IFK Norrköping-Kristianstads DFF</title>
-      <link>https://ifknorrkoping.se/publikinformation-ifk-norrkoping-kristianstads-dff-3/</link>
-      <guid isPermaLink="false">ifk-publikinformation-ifk-norrkoping-kristianstads-dff-3</guid>
-      <pubDate>Thu, 13 Aug 2026 07:46:02 GMT</pubDate>
-      <description>Publikinformation: IFK Norrköping-Kristianstads DFF</description>
       <category>IFK Norrköping</category>
     </item>
   </channel>

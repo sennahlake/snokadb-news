@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T21:35:40.983Z",
-  "itemCount": 4411,
+  "generatedAt": "2026-09-11T04:33:10.649Z",
+  "itemCount": 4413,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -15,7 +15,7 @@
     },
     {
       "source": "FotbollDirekt",
-      "count": 0,
+      "count": 1,
       "ok": true
     },
     {
@@ -65,6 +65,63 @@
     }
   ],
   "items": [
+    {
+      "id": "nt-christiansson-ar-redo-for-90-minuter-det-kan-jag-nog-redan-nu-j82ovxyj",
+      "title": "Christiansson är redo för 90 minuter: \"Det kan jag nog redan nu\"",
+      "summary": "Viktor Christiansson inledde säsongen med att ta sig tillbaka från en skada. Han skulle kunna spela 90 minuter nu även om han inte gjort det än. – Jag orkar mer för varje match, sa mittfältaren efter segern i Varberg.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/christiansson-ar-redo-for-90-minuter-det-kan-jag-nog-redan-nu/j82ovxyj",
+      "publishedAt": "2026-09-11T02:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Viktor Christiansson",
+          "slug": "viktor-christiansson",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-11",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-fragan-ar-inte-om-ifk-gar-upp-utan-nar-rex4eoxl",
       "title": "Frågan är inte om IFK går upp – utan när",
@@ -165,6 +222,40 @@
           "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
         }
       ]
+    },
+    {
+      "id": "fotbolldirekt-superettan-nyman-malskytt-nar-peking-vann-toppmotet",
+      "title": "Nyman målskytt – när Peking vann toppmötet",
+      "summary": "Stormar mot allsvenskan The post Nyman målskytt – när Peking vann toppmötet appeared first on FotbollDirekt .",
+      "source": "FotbollDirekt",
+      "sourceUrl": "https://fotbolldirekt.se/",
+      "articleUrl": "https://fotbolldirekt.se/superettan/nyman-malskytt-nar-peking-vann-toppmotet/",
+      "publishedAt": "2026-09-10T19:08:14.000Z",
+      "category": "Nyhet",
+      "tags": [
+        "Extern originalkälla",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "FotbollDirekt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK i rubrik"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "fotbolldirekt"
     },
     {
       "id": "ifk-nymans-16e-mal-visade-ifk-vagen-i-toppmotet",
