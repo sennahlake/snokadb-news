@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12T10:41:07.282Z",
-  "itemCount": 4419,
+  "generatedAt": "2026-09-12T14:04:49.910Z",
+  "itemCount": 4420,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 3,
+      "count": 2,
       "ok": true
     },
     {
@@ -105,6 +105,50 @@
       "source": "Norrköpings Tidningar",
       "sourceUrl": "https://www.nt.se/sport/fotboll",
       "articleUrl": "https://www.nt.se/sport/fotboll/artikel/live-bottenmote-i-huvudstaden-ifk-jagar-viktiga-poang-mot-bp/j82odopj",
+      "publishedAt": "2026-09-12T08:01:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-12",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-live-ifk-kammade-noll-i-viktiga-bottenmotet-j82odopj",
+      "title": "LIVE: Bottenmöte i huvudstaden – IFK jagar viktiga poäng mot BP",
+      "summary": "IFK är nästjumbo med nio matcher kvar. Under lördagen väntar tabellnian BP. Följ allt från matchen här.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/live-ifk-kammade-noll-i-viktiga-bottenmotet/j82odopj",
       "publishedAt": "2026-09-12T08:01:00.000Z",
       "category": "Lokal",
       "tags": [
