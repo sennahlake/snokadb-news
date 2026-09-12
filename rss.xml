@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sat, 12 Sep 2026 15:11:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 18:55:19 GMT</lastBuildDate>
+    <item>
+      <title>“Det är hur kul som helst att spela fotboll med det här laget”</title>
+      <link>https://ifknorrkoping.se/det-ar-hur-kul-som-helst-att-spela-fotboll-med-det-har-laget/</link>
+      <guid isPermaLink="false">ifk-det-ar-hur-kul-som-helst-att-spela-fotboll-med-det-har-laget</guid>
+      <pubDate>Sat, 12 Sep 2026 18:55:19 GMT</pubDate>
+      <description>“Det är hur kul som helst att spela fotboll med det här laget”</description>
+      <category>IFK Norrköping</category>
+    </item>
     <item>
       <title>Tung eftermiddag på Grimsta – “Det går inte vår väg…”</title>
       <link>https://ifknorrkoping.se/tung-eftermiddag-pa-grimsta-det-gar-inte-var-vag/</link>
@@ -796,14 +804,6 @@
       <guid isPermaLink="false">ifk-400-minuter-utan-inslappt-mal-f-15-lagets-silversucce-i-norge</guid>
       <pubDate>Fri, 21 Aug 2026 06:05:08 GMT</pubDate>
       <description>400 minuter utan insläppt mål – F 15-lagets silversuccé i Norge</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Jemal fick jubla på sin gamla arena – säkrade plats i cupens gruppspel</title>
-      <link>https://ifknorrkoping.se/jemal-fick-jubla-pa-sin-gamla-arena-sakrade-plats-i-cupens-gruppspel/</link>
-      <guid isPermaLink="false">ifk-jemal-fick-jubla-pa-sin-gamla-arena-sakrade-plats-i-cupens-gruppspel</guid>
-      <pubDate>Thu, 20 Aug 2026 19:53:29 GMT</pubDate>
-      <description>Jemal fick jubla på sin gamla arena – säkrade plats i cupens gruppspel</description>
       <category>IFK Norrköping</category>
     </item>
   </channel>
