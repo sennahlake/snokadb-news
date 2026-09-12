@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sat, 12 Sep 2026 03:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 09:00:46 GMT</lastBuildDate>
+    <item>
+      <title>Truppen mot BP</title>
+      <link>https://ifknorrkoping.se/truppen-mot-bp-11/</link>
+      <guid isPermaLink="false">ifk-truppen-mot-bp-11</guid>
+      <pubDate>Sat, 12 Sep 2026 09:00:46 GMT</pubDate>
+      <description>Truppen mot BP</description>
+      <category>IFK Norrköping</category>
+    </item>
+    <item>
+      <title>LIVE: Bottenmöte i huvudstaden – IFK jagar viktiga poäng mot BP</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/live-bottenmote-i-huvudstaden-ifk-jagar-viktiga-poang-mot-bp/j82odopj</link>
+      <guid isPermaLink="false">nt-live-bottenmote-i-huvudstaden-ifk-jagar-viktiga-poang-mot-bp-j82odopj</guid>
+      <pubDate>Sat, 12 Sep 2026 08:01:00 GMT</pubDate>
+      <description>IFK är nästjumbo med nio matcher kvar. Under lördagen väntar tabellnian BP. Följ allt från matchen här.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Näst sämst framåt: Så ska IFK:s målskytte lossna</title>
       <link>https://www.nt.se/sport/fotboll/artikel/nast-samst-framat-sa-ska-ifks-malskytte-lossna/l61nqnzj</link>
@@ -788,22 +804,6 @@
       <guid isPermaLink="false">ifk-kamraternas-traningsvecka-39</guid>
       <pubDate>Mon, 17 Aug 2026 07:17:07 GMT</pubDate>
       <description>Kamraternas träningsvecka</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>En tung eftermiddag på “Parken” – “Det får inte se ut så här”</title>
-      <link>https://ifknorrkoping.se/en-tung-eftermiddag-pa-parken-det-far-inte-se-ut-sa-har/</link>
-      <guid isPermaLink="false">ifk-en-tung-eftermiddag-pa-parken-det-far-inte-se-ut-sa-har</guid>
-      <pubDate>Sun, 16 Aug 2026 16:38:03 GMT</pubDate>
-      <description>En tung eftermiddag på “Parken” – “Det får inte se ut så här”</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Truppen mot Kristianstads DFF</title>
-      <link>https://ifknorrkoping.se/truppen-mot-kristianstads-dff-7/</link>
-      <guid isPermaLink="false">ifk-truppen-mot-kristianstads-dff-7</guid>
-      <pubDate>Sun, 16 Aug 2026 09:43:44 GMT</pubDate>
-      <description>Truppen mot Kristianstads DFF</description>
       <category>IFK Norrköping</category>
     </item>
   </channel>
