@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T18:28:23.129Z",
-  "itemCount": 4416,
+  "generatedAt": "2026-09-12T05:44:42.131Z",
+  "itemCount": 4417,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 1,
+      "count": 2,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
     },
     {
       "source": "SVT",
-      "count": 1,
+      "count": 0,
       "ok": true
     },
     {
@@ -65,6 +65,50 @@
     }
   ],
   "items": [
+    {
+      "id": "nt-nast-samst-framat-sa-ska-ifks-malskytte-lossna-l61nqnzj",
+      "title": "Näst sämst framåt: Så ska IFK:s målskytte lossna",
+      "summary": "Bara ett lag har gjort färre mål än IFK. Hur ska de offensiva knutarna lösas?",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/nast-samst-framat-sa-ska-ifks-malskytte-lossna/l61nqnzj",
+      "publishedAt": "2026-09-12T03:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-12",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-ifk-rosterna-han-bor-vara-aktuell-for-u21-landslaget-jvzn6z1r",
       "title": "IFK-rösterna: Han bör vara aktuell för U21-landslaget",

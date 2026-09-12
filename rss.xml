@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Fri, 11 Sep 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 03:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Näst sämst framåt: Så ska IFK:s målskytte lossna</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/nast-samst-framat-sa-ska-ifks-malskytte-lossna/l61nqnzj</link>
+      <guid isPermaLink="false">nt-nast-samst-framat-sa-ska-ifks-malskytte-lossna-l61nqnzj</guid>
+      <pubDate>Sat, 12 Sep 2026 03:00:00 GMT</pubDate>
+      <description>Bara ett lag har gjort färre mål än IFK. Hur ska de offensiva knutarna lösas?</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>IFK-rösterna: Han bör vara aktuell för U21-landslaget</title>
       <link>https://www.nt.se/sport/fotboll/artikel/ifk-rosterna-han-bor-vara-aktuell-for-u21-landslaget/jvzn6z1r</link>
@@ -796,14 +804,6 @@
       <guid isPermaLink="false">ifk-truppen-mot-kristianstads-dff-7</guid>
       <pubDate>Sun, 16 Aug 2026 09:43:44 GMT</pubDate>
       <description>Truppen mot Kristianstads DFF</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>IFK:s vassa vändning i Sandviken – “Alla bara kör. Det gör mig stolt”</title>
-      <link>https://ifknorrkoping.se/ifks-vassa-vandning-i-sandviken-alla-bara-kor-det-gor-mig-stolt/</link>
-      <guid isPermaLink="false">ifk-ifks-vassa-vandning-i-sandviken-alla-bara-kor-det-gor-mig-stolt</guid>
-      <pubDate>Sat, 15 Aug 2026 17:41:53 GMT</pubDate>
-      <description>IFK:s vassa vändning i Sandviken – “Alla bara kör. Det gör mig stolt”</description>
       <category>IFK Norrköping</category>
     </item>
   </channel>
