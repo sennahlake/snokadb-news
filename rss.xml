@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sat, 12 Sep 2026 09:00:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 15:11:53 GMT</lastBuildDate>
+    <item>
+      <title>Tung eftermiddag på Grimsta – “Det går inte vår väg…”</title>
+      <link>https://ifknorrkoping.se/tung-eftermiddag-pa-grimsta-det-gar-inte-var-vag/</link>
+      <guid isPermaLink="false">ifk-tung-eftermiddag-pa-grimsta-det-gar-inte-var-vag</guid>
+      <pubDate>Sat, 12 Sep 2026 15:11:53 GMT</pubDate>
+      <description>Tung eftermiddag på Grimsta – “Det går inte vår väg…”</description>
+      <category>IFK Norrköping</category>
+    </item>
+    <item>
+      <title>Abdulic prisas efter IFK:s succé: ”Jag hatar det”</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/abdulic-utsedd-till-manadens-tranare-i-superettan/lw6gq8yj</link>
+      <guid isPermaLink="false">nt-abdulic-utsedd-till-manadens-tranare-i-superettan-lw6gq8yj</guid>
+      <pubDate>Sat, 12 Sep 2026 15:00:00 GMT</pubDate>
+      <description>Formen är stark, poängen trillar in och IFK Norrköping toppar superettan. Samtidigt har tränaren Eldar Abdulic utsetts till månadens tränare – något han själv inte är särskilt förtjust i. – Det blir lite uppmärksamhet och jag tycker inte det är speciellt kul, säger han inför mötet med Oddevold.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Truppen mot BP</title>
       <link>https://ifknorrkoping.se/truppen-mot-bp-11/</link>
@@ -28,6 +44,14 @@
       <guid isPermaLink="false">nt-live-ifk-kammade-noll-i-viktiga-bottenmotet-j82odopj</guid>
       <pubDate>Sat, 12 Sep 2026 08:01:00 GMT</pubDate>
       <description>IFK är nästjumbo med nio matcher kvar. Under lördagen väntar tabellnian BP. Följ allt från matchen här.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>BETYGEN: Så skötte sig IFK i matchen mot Brommapojkarna</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/betygen-sa-skotte-sig-ifk-i-matchen-mot-brommapojkarna/j82odopj</link>
+      <guid isPermaLink="false">nt-betygen-sa-skotte-sig-ifk-i-matchen-mot-brommapojkarna-j82odopj</guid>
+      <pubDate>Sat, 12 Sep 2026 08:01:00 GMT</pubDate>
+      <description>IFK Norrköping hade svårt att få in bollen i mål och blev straffade på kontringar i första halvlek.</description>
       <category>Norrköpings Tidningar</category>
     </item>
     <item>
@@ -781,30 +805,6 @@
       <pubDate>Thu, 20 Aug 2026 19:53:29 GMT</pubDate>
       <description>Jemal fick jubla på sin gamla arena – säkrade plats i cupens gruppspel</description>
       <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Tamba går på lån under hösten</title>
-      <link>https://ifknorrkoping.se/tamba-gar-pa-lan-under-hosten/</link>
-      <guid isPermaLink="false">ifk-tamba-gar-pa-lan-under-hosten</guid>
-      <pubDate>Thu, 20 Aug 2026 13:00:22 GMT</pubDate>
-      <description>Tamba går på lån under hösten</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>IFK-truppen mot Vasalund</title>
-      <link>https://ifknorrkoping.se/ifk-truppen-mot-vasalund/</link>
-      <guid isPermaLink="false">ifk-ifk-truppen-mot-vasalund</guid>
-      <pubDate>Thu, 20 Aug 2026 12:26:02 GMT</pubDate>
-      <description>IFK-truppen mot Vasalund</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>185. Nelsons galna lycka: &quot;Wow&quot;!</title>
-      <link>https://pod.space/genomljuvalivet/185-nelsons-galna-lycka-wow</link>
-      <guid isPermaLink="false">genom-ljuva-livet-185-nelsons-galna-lycka-wow</guid>
-      <pubDate>Mon, 17 Aug 2026 16:10:55 GMT</pubDate>
-      <description>Vi har vunnit en gång till! Årets roligaste bortamatch? Ryan Nelsons otroliga match och period. Egna produkterna, målen, superspelarna, ja ni vet allt det som vi pratar om varje vecka numera.</description>
-      <category>Genom Ljuva Livet</category>
     </item>
   </channel>
 </rss>

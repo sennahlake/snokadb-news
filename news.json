@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12T14:04:49.910Z",
-  "itemCount": 4420,
+  "generatedAt": "2026-09-12T17:05:32.813Z",
+  "itemCount": 4423,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 2,
+      "count": 3,
       "ok": true
     },
     {
@@ -65,6 +65,85 @@
     }
   ],
   "items": [
+    {
+      "id": "ifk-tung-eftermiddag-pa-grimsta-det-gar-inte-var-vag",
+      "title": "Tung eftermiddag på Grimsta – “Det går inte vår väg…”",
+      "summary": "Tung eftermiddag på Grimsta – “Det går inte vår väg…”",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/tung-eftermiddag-pa-grimsta-det-gar-inte-var-vag/",
+      "publishedAt": "2026-09-12T15:11:53.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "nt-abdulic-utsedd-till-manadens-tranare-i-superettan-lw6gq8yj",
+      "title": "Abdulic prisas efter IFK:s succé: ”Jag hatar det”",
+      "summary": "Formen är stark, poängen trillar in och IFK Norrköping toppar superettan. Samtidigt har tränaren Eldar Abdulic utsetts till månadens tränare – något han själv inte är särskilt förtjust i. – Det blir lite uppmärksamhet och jag tycker inte det är speciellt kul, säger han inför mötet med Oddevold.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/abdulic-utsedd-till-manadens-tranare-i-superettan/lw6gq8yj",
+      "publishedAt": "2026-09-12T15:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-12",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "ifk-truppen-mot-bp-11",
       "title": "Truppen mot BP",
@@ -170,6 +249,51 @@
         "matchedBy": [
           "Originalkälla",
           "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-12",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-betygen-sa-skotte-sig-ifk-i-matchen-mot-brommapojkarna-j82odopj",
+      "title": "BETYGEN: Så skötte sig IFK i matchen mot Brommapojkarna",
+      "summary": "IFK Norrköping hade svårt att få in bollen i mål och blev straffade på kontringar i första halvlek.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/betygen-sa-skotte-sig-ifk-i-matchen-mot-brommapojkarna/j82odopj",
+      "publishedAt": "2026-09-12T08:01:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress"
         ]
       },
       "players": [],
