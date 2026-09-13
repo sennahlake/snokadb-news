@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sun, 13 Sep 2026 03:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 10:00:27 GMT</lastBuildDate>
+    <item>
+      <title>IFK-truppen mot IK Oddevold</title>
+      <link>https://ifknorrkoping.se/ifk-truppen-mot-ik-oddevold-2/</link>
+      <guid isPermaLink="false">ifk-ifk-truppen-mot-ik-oddevold-2</guid>
+      <pubDate>Sun, 13 Sep 2026 10:00:27 GMT</pubDate>
+      <description>IFK-truppen mot IK Oddevold</description>
+      <category>IFK Norrköping</category>
+    </item>
     <item>
       <title>&quot;Någon jävla gång måste vi trycka dit en boll&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/ifk-forlorade-mot-brommapojkarna-pa-grimsta/rky7kowj</link>
@@ -797,14 +805,6 @@
       <pubDate>Sat, 22 Aug 2026 15:56:28 GMT</pubDate>
       <description>“Vi ska visa en stolthet för att finnas där för IFK Norrköping”</description>
       <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>186. Cuprapport</title>
-      <link>https://pod.space/genomljuvalivet/186-cuprapport</link>
-      <guid isPermaLink="false">genom-ljuva-livet-186-cuprapport</guid>
-      <pubDate>Fri, 21 Aug 2026 14:52:46 GMT</pubDate>
-      <description>Vi har varit på plats när IFK Norrköping slaktade Vasalund i förlängning! Vi går igenom dom spelare vi tyckte stack ut och konstaterar att vi älskar såna här matcher (men inte just denna). Aleksanjans! Lif! Fagerberg! Och såklart Jemal, som är helt otrolig.</description>
-      <category>Genom Ljuva Livet</category>
     </item>
   </channel>
 </rss>

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-13T06:05:37.520Z",
-  "itemCount": 4425,
+  "generatedAt": "2026-09-13T11:45:28.715Z",
+  "itemCount": 4426,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -65,6 +65,40 @@
     }
   ],
   "items": [
+    {
+      "id": "ifk-ifk-truppen-mot-ik-oddevold-2",
+      "title": "IFK-truppen mot IK Oddevold",
+      "summary": "IFK-truppen mot IK Oddevold",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/ifk-truppen-mot-ik-oddevold-2/",
+      "publishedAt": "2026-09-13T10:00:27.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla",
+          "IFK i rubrik"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
     {
       "id": "nt-ifk-forlorade-mot-brommapojkarna-pa-grimsta-rky7kowj",
       "title": "\"Någon jävla gång måste vi trycka dit en boll\"",
