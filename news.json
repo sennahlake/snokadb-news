@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-13T16:13:07.673Z",
-  "itemCount": 4428,
+  "generatedAt": "2026-09-13T19:26:34.270Z",
+  "itemCount": 4430,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 3,
+      "count": 4,
       "ok": true
     },
     {
@@ -65,6 +65,97 @@
     }
   ],
   "items": [
+    {
+      "id": "ifk-mallos-sondag-pa-idrottsparken-inte-tillrackligt-bra-offensivt",
+      "title": "Mållös söndag på Idrottsparken – “Inte tillräckligt bra offensivt…”",
+      "summary": "Mållös söndag på Idrottsparken – “Inte tillräckligt bra offensivt…”",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/mallos-sondag-pa-idrottsparken-inte-tillrackligt-bra-offensivt/",
+      "publishedAt": "2026-09-13T16:59:15.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "nt-theo-krantz-haller-nollan-igen-for-ifk-norrkoping-r230x6vl",
+      "title": "Krantz höll tätt igen: ”Det känns jävligt bra\"",
+      "summary": "Han har blivit ett självklart namn i IFK Norrköpings startelva. Mot Oddevold höll Theo Krantz sin andra raka nolla. – När man får spela blir man mer mogen i sitt spel och höjer sin lägstanivå, säger målvakten efter 0–0-matchen.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/theo-krantz-haller-nollan-igen-for-ifk-norrkoping/r230x6vl",
+      "publishedAt": "2026-09-13T16:14:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Theo Krantz",
+          "slug": "theo-krantz",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-13",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-namnet-pa-ryggen-racker-inte-langre-du-maste-ha-ratt-attityd-r1wmq83l",
       "title": "Namnet på ryggen räcker inte längre – du måste ha rätt attityd",

@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sun, 13 Sep 2026 15:04:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 16:59:15 GMT</lastBuildDate>
+    <item>
+      <title>Mållös söndag på Idrottsparken – “Inte tillräckligt bra offensivt…”</title>
+      <link>https://ifknorrkoping.se/mallos-sondag-pa-idrottsparken-inte-tillrackligt-bra-offensivt/</link>
+      <guid isPermaLink="false">ifk-mallos-sondag-pa-idrottsparken-inte-tillrackligt-bra-offensivt</guid>
+      <pubDate>Sun, 13 Sep 2026 16:59:15 GMT</pubDate>
+      <description>Mållös söndag på Idrottsparken – “Inte tillräckligt bra offensivt…”</description>
+      <category>IFK Norrköping</category>
+    </item>
+    <item>
+      <title>Krantz höll tätt igen: ”Det känns jävligt bra&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/theo-krantz-haller-nollan-igen-for-ifk-norrkoping/r230x6vl</link>
+      <guid isPermaLink="false">nt-theo-krantz-haller-nollan-igen-for-ifk-norrkoping-r230x6vl</guid>
+      <pubDate>Sun, 13 Sep 2026 16:14:00 GMT</pubDate>
+      <description>Han har blivit ett självklart namn i IFK Norrköpings startelva. Mot Oddevold höll Theo Krantz sin andra raka nolla. – När man får spela blir man mer mogen i sitt spel och höjer sin lägstanivå, säger målvakten efter 0–0-matchen.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Namnet på ryggen räcker inte längre – du måste ha rätt attityd</title>
       <link>https://www.nt.se/sport/fotboll/artikel/namnet-pa-ryggen-racker-inte-langre-du-maste-ha-ratt-attityd/r1wmq83l</link>
@@ -788,22 +804,6 @@
       <guid isPermaLink="false">ifk-viktig-poang-mot-formstarkt-vittsjo-vi-kom-tillsammans-som-lag-idag</guid>
       <pubDate>Sun, 23 Aug 2026 16:08:19 GMT</pubDate>
       <description>Viktig poäng mot formstarkt Vittsjö – “Vi kom tillsammans som lag idag”</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>IFK Norrköping tog femte raka segern i superettan</title>
-      <link>https://www.aftonbladet.se/sportbladet/fotboll/a/k0m666/ifk-norrkoping-tog-femte-raka-segern-i-superettan</link>
-      <guid isPermaLink="false">aftonbladet-2026-08-ostersund-ifk-femte-raka</guid>
-      <pubDate>Sun, 23 Aug 2026 16:00:00 GMT</pubDate>
-      <description>Sportbladet rapporterar om IFK Norrköpings femte raka seger efter bortavinsten mot Östersunds FK.</description>
-      <category>Sportbladet</category>
-    </item>
-    <item>
-      <title>Truppen mot Vittsjö GIK</title>
-      <link>https://ifknorrkoping.se/truppen-mot-vittsjo-gik-3/</link>
-      <guid isPermaLink="false">ifk-truppen-mot-vittsjo-gik-3</guid>
-      <pubDate>Sun, 23 Aug 2026 08:30:50 GMT</pubDate>
-      <description>Truppen mot Vittsjö GIK</description>
       <category>IFK Norrköping</category>
     </item>
   </channel>
