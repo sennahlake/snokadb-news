@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sun, 13 Sep 2026 10:00:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 15:04:00 GMT</lastBuildDate>
+    <item>
+      <title>Namnet på ryggen räcker inte längre – du måste ha rätt attityd</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/namnet-pa-ryggen-racker-inte-langre-du-maste-ha-ratt-attityd/r1wmq83l</link>
+      <guid isPermaLink="false">nt-namnet-pa-ryggen-racker-inte-langre-du-maste-ha-ratt-attityd-r1wmq83l</guid>
+      <pubDate>Sun, 13 Sep 2026 15:04:00 GMT</pubDate>
+      <description>Det går att diskutera byten, startelvor och poängtapp. Men det finns något annat som är betydligt mer intressant med IFK Norrköping just nu: känslan av att beteende och attityd har blivit viktigare än namnet på ryggen.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>Mållös match mot Oddevold – IFK fick nöja sig med en poäng</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/folj-ifk-norrkoping-mot-oddevold-i-nts-liverapport/r5pq8kwj</link>
+      <guid isPermaLink="false">nt-folj-ifk-norrkoping-mot-oddevold-i-nts-liverapport-r5pq8kwj</guid>
+      <pubDate>Sun, 13 Sep 2026 12:01:00 GMT</pubDate>
+      <description>IFK Norrköping fortsatte jaga avancemanget till allsvenskan. Men det blev ingen seger mot Oddevold. Istället fick de nöja sig med 0–0. Se vad som hände – minut för minut – nedan.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>IFK-truppen mot IK Oddevold</title>
       <link>https://ifknorrkoping.se/ifk-truppen-mot-ik-oddevold-2/</link>
@@ -788,22 +804,6 @@
       <guid isPermaLink="false">ifk-truppen-mot-vittsjo-gik-3</guid>
       <pubDate>Sun, 23 Aug 2026 08:30:50 GMT</pubDate>
       <description>Truppen mot Vittsjö GIK</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Tungt nederlag för Hellberg – sänkt av gammal Peking-spelare</title>
-      <link>https://fotbolldirekt.se/internationellt/tungt-nederlag-for-hellberg-sankt-av-gammal-peking-spelare/</link>
-      <guid isPermaLink="false">fotbolldirekt-internationellt-tungt-nederlag-for-hellberg-sankt-av-gammal-peking-spelare</guid>
-      <pubDate>Sat, 22 Aug 2026 19:35:05 GMT</pubDate>
-      <description>&quot;Inte i närheten att vara färdiga&quot; The post Tungt nederlag för Hellberg – sänkt av gammal Peking-spelare appeared first on FotbollDirekt .</description>
-      <category>FotbollDirekt</category>
-    </item>
-    <item>
-      <title>“Vi ska visa en stolthet för att finnas där för IFK Norrköping”</title>
-      <link>https://ifknorrkoping.se/vi-ska-visa-en-stolthet-for-att-finnas-dar-for-ifk-norrkoping/</link>
-      <guid isPermaLink="false">ifk-vi-ska-visa-en-stolthet-for-att-finnas-dar-for-ifk-norrkoping</guid>
-      <pubDate>Sat, 22 Aug 2026 15:56:28 GMT</pubDate>
-      <description>“Vi ska visa en stolthet för att finnas där för IFK Norrköping”</description>
       <category>IFK Norrköping</category>
     </item>
   </channel>

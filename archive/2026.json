@@ -1,7 +1,98 @@
 {
   "year": 2026,
-  "itemCount": 508,
+  "itemCount": 510,
   "items": [
+    {
+      "id": "nt-namnet-pa-ryggen-racker-inte-langre-du-maste-ha-ratt-attityd-r1wmq83l",
+      "title": "Namnet på ryggen räcker inte längre – du måste ha rätt attityd",
+      "summary": "Det går att diskutera byten, startelvor och poängtapp. Men det finns något annat som är betydligt mer intressant med IFK Norrköping just nu: känslan av att beteende och attityd har blivit viktigare än namnet på ryggen.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/namnet-pa-ryggen-racker-inte-langre-du-maste-ha-ratt-attityd/r1wmq83l",
+      "publishedAt": "2026-09-13T15:04:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-13",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-folj-ifk-norrkoping-mot-oddevold-i-nts-liverapport-r5pq8kwj",
+      "title": "Mållös match mot Oddevold – IFK fick nöja sig med en poäng",
+      "summary": "IFK Norrköping fortsatte jaga avancemanget till allsvenskan. Men det blev ingen seger mot Oddevold. Istället fick de nöja sig med 0–0. Se vad som hände – minut för minut – nedan.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/folj-ifk-norrkoping-mot-oddevold-i-nts-liverapport/r5pq8kwj",
+      "publishedAt": "2026-09-13T12:01:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-13",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "ifk-ifk-truppen-mot-ik-oddevold-2",
       "title": "IFK-truppen mot IK Oddevold",
@@ -12,7 +103,8 @@
       "publishedAt": "2026-09-13T10:00:27.000Z",
       "category": "Officiellt",
       "tags": [
-        "Officiellt"
+        "Officiellt",
+        "Herr"
       ],
       "keywords": [
         "IFK Norrköping",
