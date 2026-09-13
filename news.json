@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12T19:16:26.371Z",
-  "itemCount": 4424,
+  "generatedAt": "2026-09-13T06:05:37.520Z",
+  "itemCount": 4425,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -15,7 +15,7 @@
     },
     {
       "source": "FotbollDirekt",
-      "count": 1,
+      "count": 0,
       "ok": true
     },
     {
@@ -65,6 +65,51 @@
     }
   ],
   "items": [
+    {
+      "id": "nt-ifk-forlorade-mot-brommapojkarna-pa-grimsta-rky7kowj",
+      "title": "\"Någon jävla gång måste vi trycka dit en boll\"",
+      "summary": "Bollen på mållinjen, i insidan av stolpen och precis utanför. Det studsar inte direkt med IFK Norrköping just nu. – Det vill sig definitivt inte, säger Stellan Carlsson efter förlusten mot Brommapojkarna.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-forlorade-mot-brommapojkarna-pa-grimsta/rky7kowj",
+      "publishedAt": "2026-09-13T03:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-13",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "ifk-det-ar-hur-kul-som-helst-att-spela-fotboll-med-det-har-laget",
       "title": "“Det är hur kul som helst att spela fotboll med det här laget”",

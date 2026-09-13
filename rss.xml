@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sat, 12 Sep 2026 18:55:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 03:00:00 GMT</lastBuildDate>
+    <item>
+      <title>&quot;Någon jävla gång måste vi trycka dit en boll&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-forlorade-mot-brommapojkarna-pa-grimsta/rky7kowj</link>
+      <guid isPermaLink="false">nt-ifk-forlorade-mot-brommapojkarna-pa-grimsta-rky7kowj</guid>
+      <pubDate>Sun, 13 Sep 2026 03:00:00 GMT</pubDate>
+      <description>Bollen på mållinjen, i insidan av stolpen och precis utanför. Det studsar inte direkt med IFK Norrköping just nu. – Det vill sig definitivt inte, säger Stellan Carlsson efter förlusten mot Brommapojkarna.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>“Det är hur kul som helst att spela fotboll med det här laget”</title>
       <link>https://ifknorrkoping.se/det-ar-hur-kul-som-helst-att-spela-fotboll-med-det-har-laget/</link>
@@ -797,14 +805,6 @@
       <pubDate>Fri, 21 Aug 2026 14:52:46 GMT</pubDate>
       <description>Vi har varit på plats när IFK Norrköping slaktade Vasalund i förlängning! Vi går igenom dom spelare vi tyckte stack ut och konstaterar att vi älskar såna här matcher (men inte just denna). Aleksanjans! Lif! Fagerberg! Och såklart Jemal, som är helt otrolig.</description>
       <category>Genom Ljuva Livet</category>
-    </item>
-    <item>
-      <title>400 minuter utan insläppt mål – F 15-lagets silversuccé i Norge</title>
-      <link>https://ifknorrkoping.se/400-minuter-utan-inslappt-mal-f-15-lagets-silversucce-i-norge/</link>
-      <guid isPermaLink="false">ifk-400-minuter-utan-inslappt-mal-f-15-lagets-silversucce-i-norge</guid>
-      <pubDate>Fri, 21 Aug 2026 06:05:08 GMT</pubDate>
-      <description>400 minuter utan insläppt mål – F 15-lagets silversuccé i Norge</description>
-      <category>IFK Norrköping</category>
     </item>
   </channel>
 </rss>
