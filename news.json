@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T19:19:17.580Z",
-  "itemCount": 4434,
+  "generatedAt": "2026-09-14T23:06:31.632Z",
+  "itemCount": 4435,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -20,7 +20,7 @@
     },
     {
       "source": "SVT",
-      "count": 0,
+      "count": 1,
       "ok": true
     },
     {
@@ -65,6 +65,52 @@
     }
   ],
   "items": [
+    {
+      "id": "svt-fotboll-har-far-max-watson-hjarnslapp-delar-ut-slag",
+      "title": "Här får Max Watson hjärnsläpp – delar ut slag",
+      "summary": "Det fortsätter gå motigt för Örebro SK. Mot Nordic fick nyförvärvet Max Watson hjärnsläpp – och slog Liiban Abadid i bakhuvudet. – Det där är inte vackert, säger TV4:s kommentator Daniel Kristiansson.",
+      "source": "SVT",
+      "sourceUrl": "https://www.svt.se/sport/fotboll",
+      "articleUrl": "https://www.svt.se/sport/fotboll/har-far-max-watson-hjarnslapp-delar-ut-slag",
+      "publishedAt": "2026-09-14T20:20:24.000Z",
+      "category": "Nyhet",
+      "tags": [
+        "Extern originalkälla",
+        "Public service",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "SVT"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 74,
+        "matchedBy": [
+          "Originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Max Watson",
+          "slug": "max-watson",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "svt"
+    },
     {
       "id": "sportexpressen-superettan-max-watson-utvisad-efter-slag-mot-huvudet",
       "title": "Max Watson utvisad – efter slag mot huvudet",

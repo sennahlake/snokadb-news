@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Mon, 14 Sep 2026 18:59:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 20:20:24 GMT</lastBuildDate>
+    <item>
+      <title>Här får Max Watson hjärnsläpp – delar ut slag</title>
+      <link>https://www.svt.se/sport/fotboll/har-far-max-watson-hjarnslapp-delar-ut-slag</link>
+      <guid isPermaLink="false">svt-fotboll-har-far-max-watson-hjarnslapp-delar-ut-slag</guid>
+      <pubDate>Mon, 14 Sep 2026 20:20:24 GMT</pubDate>
+      <description>Det fortsätter gå motigt för Örebro SK. Mot Nordic fick nyförvärvet Max Watson hjärnsläpp – och slog Liiban Abadid i bakhuvudet. – Det där är inte vackert, säger TV4:s kommentator Daniel Kristiansson.</description>
+      <category>SVT</category>
+    </item>
     <item>
       <title>Max Watson utvisad – efter slag mot huvudet</title>
       <link>https://www.expressen.se/sport/fotboll/superettan/max-watson-utvisad-efter-slag-mot-huvudet/</link>
@@ -797,14 +805,6 @@
       <pubDate>Mon, 24 Aug 2026 20:29:56 GMT</pubDate>
       <description>Nymans sköna dubbel i toppmötet – “En seger är alltid en seger…”</description>
       <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>IFK Norrköping besegrade Falkenberg – tar språng mot allsvenskan</title>
-      <link>https://fotbolldirekt.se/superettan/ifk-norrkoping-besegrade-falkenberg-tar-sprang-mot-allsvenskan/</link>
-      <guid isPermaLink="false">fotbolldirekt-superettan-ifk-norrkoping-besegrade-falkenberg-tar-sprang-mot-allsvenskan</guid>
-      <pubDate>Mon, 24 Aug 2026 19:56:56 GMT</pubDate>
-      <description>Veteranen tvåmålsskytt The post IFK Norrköping besegrade Falkenberg – tar språng mot allsvenskan appeared first on FotbollDirekt .</description>
-      <category>FotbollDirekt</category>
     </item>
   </channel>
 </rss>
