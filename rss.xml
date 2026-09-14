@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sun, 13 Sep 2026 16:59:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 04:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Weber har väntat på chansen – men kräver mer av sig själv</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/jonas-weber-tillbaka-i-ifks-startelva-mot-oddevold/r9mq6vxl</link>
+      <guid isPermaLink="false">nt-jonas-weber-tillbaka-i-ifks-startelva-mot-oddevold-r9mq6vxl</guid>
+      <pubDate>Mon, 14 Sep 2026 04:00:00 GMT</pubDate>
+      <description>Begränsat med speltid, familjen långt bort – och ett alltmer stukat självförtroende. Det har varit en tuff period för IFK-försvararen Jonas Weber. Men mot Oddevold fick han chansen från start. – Man har sina kompisar, men det är samtidigt de man konkurrerar med, säger han.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Mållös söndag på Idrottsparken – “Inte tillräckligt bra offensivt…”</title>
       <link>https://ifknorrkoping.se/mallos-sondag-pa-idrottsparken-inte-tillrackligt-bra-offensivt/</link>
@@ -796,14 +804,6 @@
       <guid isPermaLink="false">ifk-spelarna-tog-plats-bland-fansen-nu-vantar-seriefinal-pa-parken</guid>
       <pubDate>Sun, 23 Aug 2026 17:20:48 GMT</pubDate>
       <description>Spelarna tog plats bland fansen – nu väntar seriefinal på “Parken”</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Viktig poäng mot formstarkt Vittsjö – “Vi kom tillsammans som lag idag”</title>
-      <link>https://ifknorrkoping.se/viktig-poang-mot-formstarkt-vittsjo-vi-kom-tillsammans-som-lag-idag/</link>
-      <guid isPermaLink="false">ifk-viktig-poang-mot-formstarkt-vittsjo-vi-kom-tillsammans-som-lag-idag</guid>
-      <pubDate>Sun, 23 Aug 2026 16:08:19 GMT</pubDate>
-      <description>Viktig poäng mot formstarkt Vittsjö – “Vi kom tillsammans som lag idag”</description>
       <category>IFK Norrköping</category>
     </item>
   </channel>

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-13T19:26:34.270Z",
-  "itemCount": 4430,
+  "generatedAt": "2026-09-14T06:13:26.227Z",
+  "itemCount": 4431,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -65,6 +65,63 @@
     }
   ],
   "items": [
+    {
+      "id": "nt-jonas-weber-tillbaka-i-ifks-startelva-mot-oddevold-r9mq6vxl",
+      "title": "Weber har väntat på chansen – men kräver mer av sig själv",
+      "summary": "Begränsat med speltid, familjen långt bort – och ett alltmer stukat självförtroende. Det har varit en tuff period för IFK-försvararen Jonas Weber. Men mot Oddevold fick han chansen från start. – Man har sina kompisar, men det är samtidigt de man konkurrerar med, säger han.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/jonas-weber-tillbaka-i-ifks-startelva-mot-oddevold/r9mq6vxl",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Jonas Weber",
+          "slug": "jonas-weber",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-14",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "ifk-mallos-sondag-pa-idrottsparken-inte-tillrackligt-bra-offensivt",
       "title": "Mållös söndag på Idrottsparken – “Inte tillräckligt bra offensivt…”",
