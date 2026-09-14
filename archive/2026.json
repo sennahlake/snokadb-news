@@ -1,7 +1,128 @@
 {
   "year": 2026,
-  "itemCount": 514,
+  "itemCount": 516,
   "items": [
+    {
+      "id": "sportexpressen-superettan-max-watson-utvisad-efter-slag-mot-huvudet",
+      "title": "Max Watson utvisad – efter slag mot huvudet",
+      "summary": "Max Watson tappade humöret helt och hållet. Örebros mittback blev utvisad efter att ha delat ut ett slag mot Liiban Abadids bakhuvud.",
+      "source": "SportExpressen",
+      "sourceUrl": "https://www.expressen.se/sport/fotboll/",
+      "articleUrl": "https://www.expressen.se/sport/fotboll/superettan/max-watson-utvisad-efter-slag-mot-huvudet/",
+      "publishedAt": "2026-09-14T18:59:00.000Z",
+      "category": "Nyhet",
+      "tags": [
+        "Extern originalkälla",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "SportExpressen"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 74,
+        "matchedBy": [
+          "Originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Max Watson",
+          "slug": "max-watson",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "sportexpressen",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "SportExpressen",
+          "date": "2026-09-14",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-ifk-fortsatter-att-morka-skadelaget-kommunicerar-i-veckan-rxq5p32j",
+      "title": "IFK fortsätter hålla skadeläget hemligt: \"Kommer i veckan\"",
+      "summary": "Fanny Andersson klev av förra helgen – och tränar fortfarande inte. Malva Larsson gjorde detsamma i lördags. Statusen på dem? IFK väljer att mörka det tills vidare.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-fortsatter-att-morka-skadelaget-kommunicerar-i-veckan/rxq5p32j",
+      "publishedAt": "2026-09-14T16:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Fanny Andersson",
+          "slug": "fanny-andersson",
+          "side": "Dam",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        },
+        {
+          "name": "Malva Larsson",
+          "slug": "malva-larsson",
+          "side": "Dam",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-14",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "ifk-kamraternas-traningsvecka-43",
       "title": "Kamraternas träningsvecka",

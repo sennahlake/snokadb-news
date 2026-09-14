@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Mon, 14 Sep 2026 06:59:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 18:59:00 GMT</lastBuildDate>
+    <item>
+      <title>Max Watson utvisad – efter slag mot huvudet</title>
+      <link>https://www.expressen.se/sport/fotboll/superettan/max-watson-utvisad-efter-slag-mot-huvudet/</link>
+      <guid isPermaLink="false">sportexpressen-superettan-max-watson-utvisad-efter-slag-mot-huvudet</guid>
+      <pubDate>Mon, 14 Sep 2026 18:59:00 GMT</pubDate>
+      <description>Max Watson tappade humöret helt och hållet. Örebros mittback blev utvisad efter att ha delat ut ett slag mot Liiban Abadids bakhuvud.</description>
+      <category>SportExpressen</category>
+    </item>
+    <item>
+      <title>IFK fortsätter hålla skadeläget hemligt: &quot;Kommer i veckan&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-fortsatter-att-morka-skadelaget-kommunicerar-i-veckan/rxq5p32j</link>
+      <guid isPermaLink="false">nt-ifk-fortsatter-att-morka-skadelaget-kommunicerar-i-veckan-rxq5p32j</guid>
+      <pubDate>Mon, 14 Sep 2026 16:00:00 GMT</pubDate>
+      <description>Fanny Andersson klev av förra helgen – och tränar fortfarande inte. Malva Larsson gjorde detsamma i lördags. Statusen på dem? IFK väljer att mörka det tills vidare.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Kamraternas träningsvecka</title>
       <link>https://ifknorrkoping.se/kamraternas-traningsvecka-43/</link>
@@ -789,22 +805,6 @@
       <pubDate>Mon, 24 Aug 2026 19:56:56 GMT</pubDate>
       <description>Veteranen tvåmålsskytt The post IFK Norrköping besegrade Falkenberg – tar språng mot allsvenskan appeared first on FotbollDirekt .</description>
       <category>FotbollDirekt</category>
-    </item>
-    <item>
-      <title>IFK-truppen mot Falkenbergs FF</title>
-      <link>https://ifknorrkoping.se/ifk-truppen-mot-falkenbergs-ff-2/</link>
-      <guid isPermaLink="false">ifk-ifk-truppen-mot-falkenbergs-ff-2</guid>
-      <pubDate>Mon, 24 Aug 2026 11:59:33 GMT</pubDate>
-      <description>IFK-truppen mot Falkenbergs FF</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Publikinformation: IFK Norrköping-Falkenbergs FF</title>
-      <link>https://ifknorrkoping.se/publikinformation-ifk-norrkoping-falkenbergs-ff-2/</link>
-      <guid isPermaLink="false">ifk-publikinformation-ifk-norrkoping-falkenbergs-ff-2</guid>
-      <pubDate>Mon, 24 Aug 2026 11:14:59 GMT</pubDate>
-      <description>Publikinformation: IFK Norrköping-Falkenbergs FF</description>
-      <category>IFK Norrköping</category>
     </item>
   </channel>
 </rss>
