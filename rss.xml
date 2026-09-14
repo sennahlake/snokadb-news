@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Mon, 14 Sep 2026 04:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 06:59:37 GMT</lastBuildDate>
+    <item>
+      <title>Kamraternas träningsvecka</title>
+      <link>https://ifknorrkoping.se/kamraternas-traningsvecka-43/</link>
+      <guid isPermaLink="false">ifk-kamraternas-traningsvecka-43</guid>
+      <pubDate>Mon, 14 Sep 2026 06:59:37 GMT</pubDate>
+      <description>Kamraternas träningsvecka</description>
+      <category>IFK Norrköping</category>
+    </item>
     <item>
       <title>Weber har väntat på chansen – men kräver mer av sig själv</title>
       <link>https://www.nt.se/sport/fotboll/artikel/jonas-weber-tillbaka-i-ifks-startelva-mot-oddevold/r9mq6vxl</link>
@@ -796,14 +804,6 @@
       <guid isPermaLink="false">ifk-publikinformation-ifk-norrkoping-falkenbergs-ff-2</guid>
       <pubDate>Mon, 24 Aug 2026 11:14:59 GMT</pubDate>
       <description>Publikinformation: IFK Norrköping-Falkenbergs FF</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Spelarna tog plats bland fansen – nu väntar seriefinal på “Parken”</title>
-      <link>https://ifknorrkoping.se/spelarna-tog-plats-bland-fansen-nu-vantar-seriefinal-pa-parken/</link>
-      <guid isPermaLink="false">ifk-spelarna-tog-plats-bland-fansen-nu-vantar-seriefinal-pa-parken</guid>
-      <pubDate>Sun, 23 Aug 2026 17:20:48 GMT</pubDate>
-      <description>Spelarna tog plats bland fansen – nu väntar seriefinal på “Parken”</description>
       <category>IFK Norrköping</category>
     </item>
   </channel>

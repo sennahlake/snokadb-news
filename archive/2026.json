@@ -1,7 +1,40 @@
 {
   "year": 2026,
-  "itemCount": 513,
+  "itemCount": 514,
   "items": [
+    {
+      "id": "ifk-kamraternas-traningsvecka-43",
+      "title": "Kamraternas träningsvecka",
+      "summary": "Kamraternas träningsvecka",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/kamraternas-traningsvecka-43/",
+      "publishedAt": "2026-09-14T06:59:37.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
     {
       "id": "nt-jonas-weber-tillbaka-i-ifks-startelva-mot-oddevold-r9mq6vxl",
       "title": "Weber har väntat på chansen – men kräver mer av sig själv",
