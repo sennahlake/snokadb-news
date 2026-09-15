@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Tue, 15 Sep 2026 11:29:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 15:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Förklaringen till IFK:s stora rotation</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/forklaringen-till-ifks-stora-rotation/rky70vej</link>
+      <guid isPermaLink="false">nt-forklaringen-till-ifks-stora-rotation-rky70vej</guid>
+      <pubDate>Tue, 15 Sep 2026 15:00:00 GMT</pubDate>
+      <description>Med mindre än tre dygn mellan matcherna roterade IFK. Rejält. För att ha fräscha ben – men också av erfarenhet från tidigare. – Vi hade en liknande period inför Brage borta och vet hur vi tog oss an den, säger assisterande tränaren Kim Vaattovaara.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Smällen: IFK-kaptenen knäskadad – igen</title>
       <link>https://www.nt.se/sport/fotboll/artikel/fanny-andersson-knaskadad-borta-resten-av-2026/jvzw94pr</link>
@@ -796,14 +804,6 @@
       <guid isPermaLink="false">ifk-ifk-truppen-mot-nordic-united</guid>
       <pubDate>Sat, 29 Aug 2026 12:26:05 GMT</pubDate>
       <description>IFK-TRUPPEN MOT NORDIC UNITED</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Carrie Jones: “Vi rensade luften och var väldigt ärliga mot varandra”</title>
-      <link>https://ifknorrkoping.se/carrie-jones-vi-rensade-luften-och-var-valdigt-arliga-mot-varandra/</link>
-      <guid isPermaLink="false">ifk-carrie-jones-vi-rensade-luften-och-var-valdigt-arliga-mot-varandra</guid>
-      <pubDate>Fri, 28 Aug 2026 14:49:33 GMT</pubDate>
-      <description>Carrie Jones: “Vi rensade luften och var väldigt ärliga mot varandra”</description>
       <category>IFK Norrköping</category>
     </item>
   </channel>

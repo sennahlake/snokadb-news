@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T13:29:37.058Z",
-  "itemCount": 4444,
+  "generatedAt": "2026-09-15T18:09:32.241Z",
+  "itemCount": 4445,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -30,7 +30,7 @@
     },
     {
       "source": "SportExpressen",
-      "count": 1,
+      "count": 0,
       "ok": true
     },
     {
@@ -65,6 +65,50 @@
     }
   ],
   "items": [
+    {
+      "id": "nt-forklaringen-till-ifks-stora-rotation-rky70vej",
+      "title": "Förklaringen till IFK:s stora rotation",
+      "summary": "Med mindre än tre dygn mellan matcherna roterade IFK. Rejält. För att ha fräscha ben – men också av erfarenhet från tidigare. – Vi hade en liknande period inför Brage borta och vet hur vi tog oss an den, säger assisterande tränaren Kim Vaattovaara.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/forklaringen-till-ifks-stora-rotation/rky70vej",
+      "publishedAt": "2026-09-15T15:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-15",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-fanny-andersson-knaskadad-borta-resten-av-2026-jvzw94pr",
       "title": "Smällen: IFK-kaptenen knäskadad – igen",
