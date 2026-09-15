@@ -1,7 +1,378 @@
 {
   "year": 2026,
-  "itemCount": 517,
+  "itemCount": 526,
   "items": [
+    {
+      "id": "nt-fanny-andersson-knaskadad-borta-resten-av-2026-jvzw94pr",
+      "title": "Smällen: IFK-kaptenen knäskadad – igen",
+      "summary": "I det tunga läget, där IFK Norrköping kämpar för sin överlevnad i damallsvenskan, kom nästa smäll. Kapten Fanny Andersson har ådragit sig en ny knäskada – och kommer inte till spel under resten av säsongen.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/fanny-andersson-knaskadad-borta-resten-av-2026/jvzw94pr",
+      "publishedAt": "2026-09-15T11:29:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Fanny Andersson",
+          "slug": "fanny-andersson",
+          "side": "Dam",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-15",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-ifks-sportchef-efter-tranarbeskedet-jag-har-ett-ansvar-j82qpw4j",
+      "title": "IFK:s sportchef efter tränarbeskedet: \"Jag har ett ansvar\"",
+      "summary": "Förlusten mot Brommapojkarna blev droppen. På måndagskvällen beslutade IFK att Stellan Carlsson inte längre leder laget i damallsvenskan. – Jag tror att vi kan få ut mer av den här truppen, säger sportchefen Dennis Popperyd.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifks-sportchef-efter-tranarbeskedet-jag-har-ett-ansvar/j82qpw4j",
+      "publishedAt": "2026-09-15T10:54:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-15",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "sportexpressen-damallsvenskan-ifk-norrkoping-petar-stellan-carlsson",
+      "title": "IFK Norrköping petar Stellan Carlsson",
+      "summary": "IFK Norrköping agerar i krisen. Stellan Carlsson arbetsbefrias säsongen ut. – Det är inget enkelt beslut, säger sportchefen Dennis Popperyd i ett uttalande.",
+      "source": "SportExpressen",
+      "sourceUrl": "https://www.expressen.se/sport/fotboll/",
+      "articleUrl": "https://www.expressen.se/sport/fotboll/damallsvenskan/ifk-norrkoping-petar-stellan-carlsson-/",
+      "publishedAt": "2026-09-15T10:11:56.000Z",
+      "category": "Nyhet",
+      "tags": [
+        "Extern originalkälla",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "SportExpressen"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK i rubrik"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "sportexpressen",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "SportExpressen",
+          "date": "2026-09-15",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "svt-fotboll-ifk-norrkoping-sparkar-tranaren",
+      "title": "IFK Norrköping sparkar tränaren",
+      "summary": "IFK Norrköping är på väg att ramla ur damallsvenskan. Nu sparkar man huvudtränaren Stellan Carlsson i ett försök att rädda kontraktet.",
+      "source": "SVT",
+      "sourceUrl": "https://www.svt.se/sport/fotboll",
+      "articleUrl": "https://www.svt.se/sport/fotboll/ifk-norrkoping-sparkar-tranaren",
+      "publishedAt": "2026-09-15T09:47:58.000Z",
+      "category": "Nyhet",
+      "tags": [
+        "Extern originalkälla",
+        "Public service",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "SVT"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK i rubrik"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "svt"
+    },
+    {
+      "id": "nt-ifk-norrkoping-entledigar-tranaren-stellan-carlsson-rexpnkyl",
+      "title": "IFK Norrköping arbetsbefriar huvudtränaren",
+      "summary": "Med åtta omgångar kvar i damallsvenskan, och på en placering som i skrivande stund innebär degradering, agerar IFK Norrköping. Huvudtränaren Stellan Carlsson kommer inte leda laget i slutet av säsongen.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-norrkoping-entledigar-tranaren-stellan-carlsson/rexpnkyl",
+      "publishedAt": "2026-09-15T09:17:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i rubrik"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-15",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "fotbolldirekt-damallsvenskan-just-nu-ifk-norrkoping-agerar-i-krisen-carlsson-far-ga",
+      "title": "Beskedet: IFK Norrköping agerar i krisen – Carlsson får gå",
+      "summary": "Lämnar med omedelbar verkan The post Beskedet: IFK Norrköping agerar i krisen – Carlsson får gå appeared first on FotbollDirekt .",
+      "source": "FotbollDirekt",
+      "sourceUrl": "https://fotbolldirekt.se/",
+      "articleUrl": "https://fotbolldirekt.se/damallsvenskan/just-nu-ifk-norrkoping-agerar-i-krisen-carlsson-far-ga/",
+      "publishedAt": "2026-09-15T09:16:32.000Z",
+      "category": "Nyhet",
+      "tags": [
+        "Extern originalkälla",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "FotbollDirekt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK i rubrik"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "fotbolldirekt"
+    },
+    {
+      "id": "sportbladet-gxrg7l-ifk-norrkoping-sparkar-tranare",
+      "title": "IFK Norrköping sparkar tränaren",
+      "summary": "Ändrar inför slutspurten",
+      "source": "Sportbladet",
+      "sourceUrl": "https://www.aftonbladet.se/sportbladet/fotboll",
+      "articleUrl": "https://www.aftonbladet.se/sportbladet/fotboll/a/GxRg7l/ifk-norrkoping-sparkar-tranare?utm_medium=rss",
+      "publishedAt": "2026-09-15T09:10:00.000Z",
+      "category": "Nyhet",
+      "tags": [
+        "Extern originalkälla"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Sportbladet"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK i rubrik"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "sportbladet",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Sportbladet",
+          "date": "2026-09-15",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "ifk-ifk-forandrar-i-damlagets-ledarstab",
+      "title": "IFK förändrar i damlagets ledarstab",
+      "summary": "IFK förändrar i damlagets ledarstab",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/ifk-forandrar-i-damlagets-ledarstab/",
+      "publishedAt": "2026-09-15T09:00:02.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla",
+          "IFK i artikel-URL"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "ifk-skadeuppdatering-damlaget-2",
+      "title": "Skadeuppdatering damlaget",
+      "summary": "Skadeuppdatering damlaget",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/skadeuppdatering-damlaget-2/",
+      "publishedAt": "2026-09-15T08:55:17.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
     {
       "id": "svt-fotboll-har-far-max-watson-hjarnslapp-delar-ut-slag",
       "title": "Här får Max Watson hjärnsläpp – delar ut slag",
