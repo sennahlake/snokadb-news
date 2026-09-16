@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Wed, 16 Sep 2026 14:10:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 18:00:00 GMT</lastBuildDate>
+    <item>
+      <title>IFK-basen motiverar krisbeslutet: &quot;Besvikna&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-basen-motiverar-krisbeslutet-besvikna/l61zd7vj</link>
+      <guid isPermaLink="false">nt-ifk-basen-motiverar-krisbeslutet-besvikna-l61zd7vj</guid>
+      <pubDate>Wed, 16 Sep 2026 18:00:00 GMT</pubDate>
+      <description>IFK Norrköping ligger på nedflyttningsplats i damallsvenskan med åtta matcher kvar. Klubbdirektören André Skagervik ger sin syn på sportchefen Dennis Popperyds förtroende, vägen framåt och medger att klubben borde ha fått ut mer av truppen hittills.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Tävling: Vinn biljetter och VM-bollar här!</title>
       <link>https://ifknorrkoping.se/tavling-vinn-biljetter-och-vm-bollar-har/</link>
@@ -797,14 +805,6 @@
       <pubDate>Sat, 29 Aug 2026 19:36:00 GMT</pubDate>
       <description>Noel Sernelius berättar för NT att han stannar i IFK Norrköping säsongen ut trots intresse.</description>
       <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Hattrick av Nyman - Peking stormar mot allsvenskan</title>
-      <link>https://www.expressen.se/sport/fotboll/superettan/hattrick-av-nyman-peking-stormar-mot-allsvenskan/</link>
-      <guid isPermaLink="false">expressen-2026-08-29-nyman-hattrick-nordic</guid>
-      <pubDate>Sat, 29 Aug 2026 19:00:00 GMT</pubDate>
-      <description>SportExpressen skriver om IFK Norrköpings 3-1-seger mot Nordic United där Christoffer Nyman gjorde hattrick.</description>
-      <category>SportExpressen</category>
     </item>
   </channel>
 </rss>

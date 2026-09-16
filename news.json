@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T16:49:21.069Z",
-  "itemCount": 4449,
+  "generatedAt": "2026-09-16T20:05:37.884Z",
+  "itemCount": 4450,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 0,
+      "count": 1,
       "ok": true
     },
     {
@@ -65,6 +65,52 @@
     }
   ],
   "items": [
+    {
+      "id": "nt-ifk-basen-motiverar-krisbeslutet-besvikna-l61zd7vj",
+      "title": "IFK-basen motiverar krisbeslutet: \"Besvikna\"",
+      "summary": "IFK Norrköping ligger på nedflyttningsplats i damallsvenskan med åtta matcher kvar. Klubbdirektören André Skagervik ger sin syn på sportchefen Dennis Popperyds förtroende, vägen framåt och medger att klubben borde ha fått ut mer av truppen hittills.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-basen-motiverar-krisbeslutet-besvikna/l61zd7vj",
+      "publishedAt": "2026-09-16T18:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-16",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "ifk-tavling-vinn-biljetter-och-vm-bollar-har",
       "title": "Tävling: Vinn biljetter och VM-bollar här!",
