@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T18:09:32.241Z",
-  "itemCount": 4445,
+  "generatedAt": "2026-09-16T05:58:37.052Z",
+  "itemCount": 4446,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 4,
+      "count": 1,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
     },
     {
       "source": "SVT",
-      "count": 2,
+      "count": 1,
       "ok": true
     },
     {
@@ -60,11 +60,72 @@
     },
     {
       "source": "Gate Upp och Gate Ner",
-      "count": 296,
+      "count": 297,
       "ok": true
     }
   ],
   "items": [
+    {
+      "id": "gate-upp-gate-ner-296-viktor-christiansson-vi-skapar-for-lite-for-att-vinna-matchen",
+      "title": "#296:Viktor Christiansson:\"Vi skapar för lite för att vinna matchen\"",
+      "summary": "Podden är tillbaka med ett fullmatat och maxat avsnitt! IK Oddevold missräkningen! Vad hände? Är bredden så bra som man tror? Saknaden av Noel Sernelius! Totte Nyman historisk! Fira Varbergs vinsten på Grönan tillsammans med Markus Krunegård! Ett kortare snack med Viktor Christiansson! Öster Away på lördag! Vi ta oss även ett snack med Öster-experten Viggo Engelholm! Tuff avslutning eller en bra? ",
+      "source": "Gate Upp och Gate Ner",
+      "sourceUrl": "https://poddtoppen.se/podcast/1619327870/gate-upp-gate-ner",
+      "articleUrl": "https://podcasters.spotify.com/pod/show/gate-upp-och-gate-ner/episodes/296Viktor-ChristianssonVi-skapar-fr-lite-fr-att-vinna-matchen-e3ot966",
+      "publishedAt": "2026-09-15T20:45:02.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Gate Upp och Gate Ner",
+        "GUGN",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 94,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Noel Sernelius",
+          "slug": "noel-sernelius",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        },
+        {
+          "name": "Viktor Christiansson",
+          "slug": "viktor-christiansson",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "gate-upp-gate-ner"
+    },
     {
       "id": "nt-forklaringen-till-ifks-stora-rotation-rky70vej",
       "title": "Förklaringen till IFK:s stora rotation",

@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Tue, 15 Sep 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 20:45:02 GMT</lastBuildDate>
+    <item>
+      <title>#296:Viktor Christiansson:&quot;Vi skapar för lite för att vinna matchen&quot;</title>
+      <link>https://podcasters.spotify.com/pod/show/gate-upp-och-gate-ner/episodes/296Viktor-ChristianssonVi-skapar-fr-lite-fr-att-vinna-matchen-e3ot966</link>
+      <guid isPermaLink="false">gate-upp-gate-ner-296-viktor-christiansson-vi-skapar-for-lite-for-att-vinna-matchen</guid>
+      <pubDate>Tue, 15 Sep 2026 20:45:02 GMT</pubDate>
+      <description>Podden är tillbaka med ett fullmatat och maxat avsnitt! IK Oddevold missräkningen! Vad hände? Är bredden så bra som man tror? Saknaden av Noel Sernelius! Totte Nyman historisk! Fira Varbergs vinsten på Grönan tillsammans med Markus Krunegård! Ett kortare snack med Viktor Christiansson! Öster Away på lördag! Vi ta oss även ett snack med Öster-experten Viggo Engelholm! Tuff avslutning eller en bra? </description>
+      <category>Gate Upp och Gate Ner</category>
+    </item>
     <item>
       <title>Förklaringen till IFK:s stora rotation</title>
       <link>https://www.nt.se/sport/fotboll/artikel/forklaringen-till-ifks-stora-rotation/rky70vej</link>
@@ -797,14 +805,6 @@
       <pubDate>Sat, 29 Aug 2026 17:15:00 GMT</pubDate>
       <description>Sportbladet skriver om Christoffer Nymans hattrick och IFK Norrköpings sjunde raka seger.</description>
       <category>Sportbladet</category>
-    </item>
-    <item>
-      <title>IFK-TRUPPEN MOT NORDIC UNITED</title>
-      <link>https://ifknorrkoping.se/ifk-truppen-mot-nordic-united/</link>
-      <guid isPermaLink="false">ifk-ifk-truppen-mot-nordic-united</guid>
-      <pubDate>Sat, 29 Aug 2026 12:26:05 GMT</pubDate>
-      <description>IFK-TRUPPEN MOT NORDIC UNITED</description>
-      <category>IFK Norrköping</category>
     </item>
   </channel>
 </rss>
