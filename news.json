@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T05:58:37.052Z",
-  "itemCount": 4446,
+  "generatedAt": "2026-09-16T16:49:21.069Z",
+  "itemCount": 4449,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 1,
+      "count": 0,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
     },
     {
       "source": "SVT",
-      "count": 1,
+      "count": 0,
       "ok": true
     },
     {
@@ -55,7 +55,7 @@
     },
     {
       "source": "Studio Peking",
-      "count": 140,
+      "count": 141,
       "ok": true
     },
     {
@@ -65,6 +65,133 @@
     }
   ],
   "items": [
+    {
+      "id": "ifk-tavling-vinn-biljetter-och-vm-bollar-har",
+      "title": "Tävling: Vinn biljetter och VM-bollar här!",
+      "summary": "Tävling: Vinn biljetter och VM-bollar här!",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/tavling-vinn-biljetter-och-vm-bollar-har/",
+      "publishedAt": "2026-09-16T14:10:26.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "sportbladet-y52oge-60-minuter-om-ifk-norrkoping-bygger-for-allsvenskan-2027",
+      "title": "TV-special: 60 min bara om IFK Norrköping – med Jurelius",
+      "summary": "60 minuter bara om IFK Norrköping",
+      "source": "Sportbladet",
+      "sourceUrl": "https://www.aftonbladet.se/sportbladet/fotboll",
+      "articleUrl": "https://www.aftonbladet.se/sportbladet/fotboll/a/y52oge/60-minuter-om-ifk-norrkoping-bygger-for-allsvenskan-2027?utm_medium=rss",
+      "publishedAt": "2026-09-16T12:33:05.000Z",
+      "category": "Nyhet",
+      "tags": [
+        "Extern originalkälla",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Sportbladet"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK i rubrik"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "sportbladet",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Sportbladet",
+          "date": "2026-09-16",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "studio-peking-allvaret",
+      "title": "Allvaret",
+      "summary": "IFK Norrköping har arbetsbefriat Stellan Carlsson. Är det klokt? I Studio Peking resonerar vi om de senaste nyheterna kring damlaget, där det även kommit ett dystert besked kring en kugge. Från herrsfären blickar vi längre och fantiserar redan om 2027. Dessutom får ni höra Ísak Andri Sigurgeirsson i en intervju med Christer Gustafson. Medverkande: Rebecca Candevi, Eric Persson och Gabriel Ohlsson.",
+      "source": "Studio Peking",
+      "sourceUrl": "https://poddtoppen.se/podcast/1738623973/studio-peking",
+      "articleUrl": "https://pod.space/studiopeking/allvaret",
+      "publishedAt": "2026-09-16T11:45:11.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Studio Peking",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 94,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd",
+          "IFK i ingress",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Isak Andri Sigurgeirsson",
+          "slug": "isak-andri-sigurgeirsson",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "studio-peking"
+    },
     {
       "id": "gate-upp-gate-ner-296-viktor-christiansson-vi-skapar-for-lite-for-att-vinna-matchen",
       "title": "#296:Viktor Christiansson:\"Vi skapar för lite för att vinna matchen\"",

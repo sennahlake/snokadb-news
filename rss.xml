@@ -5,7 +5,31 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Tue, 15 Sep 2026 20:45:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 14:10:26 GMT</lastBuildDate>
+    <item>
+      <title>Tävling: Vinn biljetter och VM-bollar här!</title>
+      <link>https://ifknorrkoping.se/tavling-vinn-biljetter-och-vm-bollar-har/</link>
+      <guid isPermaLink="false">ifk-tavling-vinn-biljetter-och-vm-bollar-har</guid>
+      <pubDate>Wed, 16 Sep 2026 14:10:26 GMT</pubDate>
+      <description>Tävling: Vinn biljetter och VM-bollar här!</description>
+      <category>IFK Norrköping</category>
+    </item>
+    <item>
+      <title>TV-special: 60 min bara om IFK Norrköping – med Jurelius</title>
+      <link>https://www.aftonbladet.se/sportbladet/fotboll/a/y52oge/60-minuter-om-ifk-norrkoping-bygger-for-allsvenskan-2027?utm_medium=rss</link>
+      <guid isPermaLink="false">sportbladet-y52oge-60-minuter-om-ifk-norrkoping-bygger-for-allsvenskan-2027</guid>
+      <pubDate>Wed, 16 Sep 2026 12:33:05 GMT</pubDate>
+      <description>60 minuter bara om IFK Norrköping</description>
+      <category>Sportbladet</category>
+    </item>
+    <item>
+      <title>Allvaret</title>
+      <link>https://pod.space/studiopeking/allvaret</link>
+      <guid isPermaLink="false">studio-peking-allvaret</guid>
+      <pubDate>Wed, 16 Sep 2026 11:45:11 GMT</pubDate>
+      <description>IFK Norrköping har arbetsbefriat Stellan Carlsson. Är det klokt? I Studio Peking resonerar vi om de senaste nyheterna kring damlaget, där det även kommit ett dystert besked kring en kugge. Från herrsfären blickar vi längre och fantiserar redan om 2027. Dessutom får ni höra Ísak Andri Sigurgeirsson i en intervju med Christer Gustafson. Medverkande: Rebecca Candevi, Eric Persson och Gabriel Ohlsson.</description>
+      <category>Studio Peking</category>
+    </item>
     <item>
       <title>#296:Viktor Christiansson:&quot;Vi skapar för lite för att vinna matchen&quot;</title>
       <link>https://podcasters.spotify.com/pod/show/gate-upp-och-gate-ner/episodes/296Viktor-ChristianssonVi-skapar-fr-lite-fr-att-vinna-matchen-e3ot966</link>
@@ -781,30 +805,6 @@
       <pubDate>Sat, 29 Aug 2026 19:00:00 GMT</pubDate>
       <description>SportExpressen skriver om IFK Norrköpings 3-1-seger mot Nordic United där Christoffer Nyman gjorde hattrick.</description>
       <category>SportExpressen</category>
-    </item>
-    <item>
-      <title>Nyman hade show - IFK vann mot Nordic United</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/nyman-hade-show-betygen-efter-ifk-segern/lzdn561r</link>
-      <guid isPermaLink="false">nt-2026-08-29-nyman-show</guid>
-      <pubDate>Sat, 29 Aug 2026 18:55:00 GMT</pubDate>
-      <description>NT:s rapport från IFK Norrköpings seger mot Nordic United där Christoffer Nyman gjorde hattrick.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Det blev en uppfriskande historielektion</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/det-blev-en-uppfriskande-historielektion/r496xeoj</link>
-      <guid isPermaLink="false">nt-2026-08-29-historielektion</guid>
-      <pubDate>Sat, 29 Aug 2026 18:49:00 GMT</pubDate>
-      <description>Eric Persson skriver i NT om Christoffer Nymans historiska kväll och IFK Norrköpings klubbhistoria.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Christoffer Nyman sänkte Nordic United med hattrick</title>
-      <link>https://www.aftonbladet.se/sportbladet/fotboll/a/Gxqkj6/christoffer-nyman-sankte-nordic-united-med-hattrick</link>
-      <guid isPermaLink="false">sportbladet-2026-08-29-nyman-hattrick-nordic</guid>
-      <pubDate>Sat, 29 Aug 2026 17:15:00 GMT</pubDate>
-      <description>Sportbladet skriver om Christoffer Nymans hattrick och IFK Norrköpings sjunde raka seger.</description>
-      <category>Sportbladet</category>
     </item>
   </channel>
 </rss>
