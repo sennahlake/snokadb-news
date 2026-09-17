@@ -1,7 +1,178 @@
 {
   "year": 2026,
-  "itemCount": 532,
+  "itemCount": 536,
   "items": [
+    {
+      "id": "genom-ljuva-livet-lite-hybris-och-agent-watson",
+      "title": "Lite hybris och Agent Watson",
+      "summary": "Vi pratar om matcherna mot Varberg och Oddevold. En bra match och ett otroligt sömnpiller - undantaget Aleksanjan som ser ut som på försäsongen. Stellan Carlsson har fått sparken, vi är besvikna på hans gärning i IFK.",
+      "source": "Genom Ljuva Livet",
+      "sourceUrl": "https://poddtoppen.se/podcast/1728458754/genom-ljuva-livet",
+      "articleUrl": "https://pod.space/genomljuvalivet/lite-hybris-och-agent-watson",
+      "publishedAt": "2026-09-17T16:46:24.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Genom Ljuva Livet",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "genom-ljuva-livet"
+    },
+    {
+      "id": "ifk-publikinfo-ifk-norrkoping-fc-rosengard",
+      "title": "Publikinfo: IFK Norrköping-FC Rosengård",
+      "summary": "Publikinfo: IFK Norrköping-FC Rosengård",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/publikinfo-ifk-norrkoping-fc-rosengard/",
+      "publishedAt": "2026-09-17T14:41:09.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla",
+          "IFK i rubrik"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "svt-fotboll-max-watson-stangs-av-fyra-matcher-efter-slaget-i-bakhuvudet",
+      "title": "Max Watson stängs av fyra matcher efter slaget i bakhuvudet",
+      "summary": "Max Watson fick ett hjärnsläpp och slog till motståndaren i bakhuvudet. Nu straffas han. Örebros mittback stängs av i fyra matcher.",
+      "source": "SVT",
+      "sourceUrl": "https://www.svt.se/sport/fotboll",
+      "articleUrl": "https://www.svt.se/sport/fotboll/max-watson-stangs-av-fyra-matcher-efter-slaget-i-bakhuvudet",
+      "publishedAt": "2026-09-17T13:51:21.000Z",
+      "category": "Nyhet",
+      "tags": [
+        "Extern originalkälla",
+        "Public service",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "SVT"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 74,
+        "matchedBy": [
+          "Originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Max Watson",
+          "slug": "max-watson",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "svt"
+    },
+    {
+      "id": "sportexpressen-superettan-max-watson-stangs-av-efter-attacken",
+      "title": "Max Watson stängs av efter attacken",
+      "summary": "Max Watson slog Liiban Abadid i bakhuvudet. Nu stängs ÖSK-mittbacken av i fyra matcher.",
+      "source": "SportExpressen",
+      "sourceUrl": "https://www.expressen.se/sport/fotboll/",
+      "articleUrl": "https://www.expressen.se/sport/fotboll/superettan/max-watson-stangs-av-efter-attacken-/",
+      "publishedAt": "2026-09-17T13:42:24.000Z",
+      "category": "Nyhet",
+      "tags": [
+        "Extern originalkälla",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "SportExpressen"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 74,
+        "matchedBy": [
+          "Originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Max Watson",
+          "slug": "max-watson",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "sportexpressen",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "SportExpressen",
+          "date": "2026-09-17",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-ifk-basen-motiverar-krisbeslutet-besvikna-l61zd7vj",
       "title": "IFK-basen motiverar krisbeslutet: \"Besvikna\"",

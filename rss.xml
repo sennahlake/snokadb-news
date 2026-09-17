@@ -5,7 +5,39 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Wed, 16 Sep 2026 18:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 16:46:24 GMT</lastBuildDate>
+    <item>
+      <title>Lite hybris och Agent Watson</title>
+      <link>https://pod.space/genomljuvalivet/lite-hybris-och-agent-watson</link>
+      <guid isPermaLink="false">genom-ljuva-livet-lite-hybris-och-agent-watson</guid>
+      <pubDate>Thu, 17 Sep 2026 16:46:24 GMT</pubDate>
+      <description>Vi pratar om matcherna mot Varberg och Oddevold. En bra match och ett otroligt sömnpiller - undantaget Aleksanjan som ser ut som på försäsongen. Stellan Carlsson har fått sparken, vi är besvikna på hans gärning i IFK.</description>
+      <category>Genom Ljuva Livet</category>
+    </item>
+    <item>
+      <title>Publikinfo: IFK Norrköping-FC Rosengård</title>
+      <link>https://ifknorrkoping.se/publikinfo-ifk-norrkoping-fc-rosengard/</link>
+      <guid isPermaLink="false">ifk-publikinfo-ifk-norrkoping-fc-rosengard</guid>
+      <pubDate>Thu, 17 Sep 2026 14:41:09 GMT</pubDate>
+      <description>Publikinfo: IFK Norrköping-FC Rosengård</description>
+      <category>IFK Norrköping</category>
+    </item>
+    <item>
+      <title>Max Watson stängs av fyra matcher efter slaget i bakhuvudet</title>
+      <link>https://www.svt.se/sport/fotboll/max-watson-stangs-av-fyra-matcher-efter-slaget-i-bakhuvudet</link>
+      <guid isPermaLink="false">svt-fotboll-max-watson-stangs-av-fyra-matcher-efter-slaget-i-bakhuvudet</guid>
+      <pubDate>Thu, 17 Sep 2026 13:51:21 GMT</pubDate>
+      <description>Max Watson fick ett hjärnsläpp och slog till motståndaren i bakhuvudet. Nu straffas han. Örebros mittback stängs av i fyra matcher.</description>
+      <category>SVT</category>
+    </item>
+    <item>
+      <title>Max Watson stängs av efter attacken</title>
+      <link>https://www.expressen.se/sport/fotboll/superettan/max-watson-stangs-av-efter-attacken-/</link>
+      <guid isPermaLink="false">sportexpressen-superettan-max-watson-stangs-av-efter-attacken</guid>
+      <pubDate>Thu, 17 Sep 2026 13:42:24 GMT</pubDate>
+      <description>Max Watson slog Liiban Abadid i bakhuvudet. Nu stängs ÖSK-mittbacken av i fyra matcher.</description>
+      <category>SportExpressen</category>
+    </item>
     <item>
       <title>IFK-basen motiverar krisbeslutet: &quot;Besvikna&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/ifk-basen-motiverar-krisbeslutet-besvikna/l61zd7vj</link>
@@ -772,38 +804,6 @@
       <guid isPermaLink="false">nt-2026-08-30-sernelius-assistbedrift</guid>
       <pubDate>Sun, 30 Aug 2026 11:00:00 GMT</pubDate>
       <description>NT lyfter Noel Sernelius assistproduktion och jämför med IFK:s främsta framspelare genom åren.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>IFK:s hårda slag - förlorade mot Djurgården</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/ifks-harda-slag-forlorade-mot-djurgarden/rkymo6zj</link>
-      <guid isPermaLink="false">nt-2026-08-30-dam-djurgarden-hard-slag</guid>
-      <pubDate>Sun, 30 Aug 2026 10:40:00 GMT</pubDate>
-      <description>NT liverapporterade från Idrottsparken när IFK Norrköping föll mot Djurgården.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Truppen mot Djurgårdens IF</title>
-      <link>https://ifknorrkoping.se/truppen-mot-djurgardens-if-14/</link>
-      <guid isPermaLink="false">ifk-truppen-mot-djurgardens-if-14</guid>
-      <pubDate>Sun, 30 Aug 2026 08:34:03 GMT</pubDate>
-      <description>Truppen mot Djurgårdens IF</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>“Tottes” målshow skrev historia – “Det är kul med fotboll just nu”</title>
-      <link>https://ifknorrkoping.se/tottes-malshow-skrev-historia-det-ar-kul-med-fotboll-just-nu/</link>
-      <guid isPermaLink="false">ifk-tottes-malshow-skrev-historia-det-ar-kul-med-fotboll-just-nu</guid>
-      <pubDate>Sat, 29 Aug 2026 20:06:16 GMT</pubDate>
-      <description>“Tottes” målshow skrev historia – “Det är kul med fotboll just nu”</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Assistkungen: Jag är kvar hela året</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/assistkungen-jag-ar-kvar-hela-aret/r231pdpl</link>
-      <guid isPermaLink="false">nt-2026-08-29-assistkungen-sernelius</guid>
-      <pubDate>Sat, 29 Aug 2026 19:36:00 GMT</pubDate>
-      <description>Noel Sernelius berättar för NT att han stannar i IFK Norrköping säsongen ut trots intresse.</description>
       <category>Norrköpings Tidningar</category>
     </item>
   </channel>
