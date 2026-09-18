@@ -1,7 +1,141 @@
 {
   "year": 2026,
-  "itemCount": 536,
+  "itemCount": 539,
   "items": [
+    {
+      "id": "ifk-ryan-nelson-viktigt-att-vi-avslutar-bra",
+      "title": "Ryan Nelson: “Viktigt att vi avslutar bra”",
+      "summary": "Ryan Nelson: “Viktigt att vi avslutar bra”",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/ryan-nelson-viktigt-att-vi-avslutar-bra/",
+      "publishedAt": "2026-09-18T18:15:34.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Ryan Nelson",
+          "slug": "ryan-nelson",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "nt-sa-har-ifk-hallit-truppen-skadefri-tog-en-kalkylerad-risk-rexp585l",
+      "title": "Så har IFK hållit truppen skadefri: \"Tog en kalkylerad risk\"",
+      "summary": "Under en lång period har IFK haft väldigt få skador. Ingen slump, om du frågar tränaren Eldar Abdulic. – Vi har planerat för det här hela året, säger han.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/sa-har-ifk-hallit-truppen-skadefri-tog-en-kalkylerad-risk/rexp585l",
+      "publishedAt": "2026-09-18T17:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-18",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-han-ska-radda-ifk-ur-allsvenska-krisen-inte-bara-stellans-fel-lqpvd4kr",
+      "title": "Han ska rädda IFK ur allsvenska krisen: \"Inte bara Stellans fel\"",
+      "summary": "De har jobbat ihop i flera år. Nu kliver Rob Clark in som huvudansvarig när Stellan Carlsson fått lämna IFK. – Tyvärr är det en del av jobbet, säger engelsmannen om klubbens beslut.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/han-ska-radda-ifk-ur-allsvenska-krisen-inte-bara-stellans-fel/lqpvd4kr",
+      "publishedAt": "2026-09-18T15:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-18",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "genom-ljuva-livet-lite-hybris-och-agent-watson",
       "title": "Lite hybris och Agent Watson",

@@ -5,7 +5,31 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Thu, 17 Sep 2026 16:46:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 18:15:34 GMT</lastBuildDate>
+    <item>
+      <title>Ryan Nelson: “Viktigt att vi avslutar bra”</title>
+      <link>https://ifknorrkoping.se/ryan-nelson-viktigt-att-vi-avslutar-bra/</link>
+      <guid isPermaLink="false">ifk-ryan-nelson-viktigt-att-vi-avslutar-bra</guid>
+      <pubDate>Fri, 18 Sep 2026 18:15:34 GMT</pubDate>
+      <description>Ryan Nelson: “Viktigt att vi avslutar bra”</description>
+      <category>IFK Norrköping</category>
+    </item>
+    <item>
+      <title>Så har IFK hållit truppen skadefri: &quot;Tog en kalkylerad risk&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/sa-har-ifk-hallit-truppen-skadefri-tog-en-kalkylerad-risk/rexp585l</link>
+      <guid isPermaLink="false">nt-sa-har-ifk-hallit-truppen-skadefri-tog-en-kalkylerad-risk-rexp585l</guid>
+      <pubDate>Fri, 18 Sep 2026 17:00:00 GMT</pubDate>
+      <description>Under en lång period har IFK haft väldigt få skador. Ingen slump, om du frågar tränaren Eldar Abdulic. – Vi har planerat för det här hela året, säger han.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>Han ska rädda IFK ur allsvenska krisen: &quot;Inte bara Stellans fel&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/han-ska-radda-ifk-ur-allsvenska-krisen-inte-bara-stellans-fel/lqpvd4kr</link>
+      <guid isPermaLink="false">nt-han-ska-radda-ifk-ur-allsvenska-krisen-inte-bara-stellans-fel-lqpvd4kr</guid>
+      <pubDate>Fri, 18 Sep 2026 15:00:00 GMT</pubDate>
+      <description>De har jobbat ihop i flera år. Nu kliver Rob Clark in som huvudansvarig när Stellan Carlsson fått lämna IFK. – Tyvärr är det en del av jobbet, säger engelsmannen om klubbens beslut.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Lite hybris och Agent Watson</title>
       <link>https://pod.space/genomljuvalivet/lite-hybris-och-agent-watson</link>
@@ -780,30 +804,6 @@
       <guid isPermaLink="false">nt-2026-08-31-ifk-lofte-dialog</guid>
       <pubDate>Mon, 31 Aug 2026 13:17:00 GMT</pubDate>
       <description>NT rapporterar om dialoger kring Åke Andersson och intresse för andra IFK-löften under deadline day.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Kamraternas träningsvecka</title>
-      <link>https://ifknorrkoping.se/kamraternas-traningsvecka-41/</link>
-      <guid isPermaLink="false">ifk-kamraternas-traningsvecka-41</guid>
-      <pubDate>Mon, 31 Aug 2026 08:49:42 GMT</pubDate>
-      <description>Kamraternas träningsvecka</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>IFK:s tunga förlust i streckmötet – “Det mesta går emot oss nu”</title>
-      <link>https://ifknorrkoping.se/ifks-tunga-forlust-i-streckmotet-det-mesta-gar-emot-oss-nu/</link>
-      <guid isPermaLink="false">ifk-ifks-tunga-forlust-i-streckmotet-det-mesta-gar-emot-oss-nu</guid>
-      <pubDate>Sun, 30 Aug 2026 17:07:11 GMT</pubDate>
-      <description>IFK:s tunga förlust i streckmötet – “Det mesta går emot oss nu”</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Mäktiga bedriften - främste assistmakaren på 16 år</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/sernelius-stora-bedrift-kan-sla-nytt-rekord/lyxwxy7r</link>
-      <guid isPermaLink="false">nt-2026-08-30-sernelius-assistbedrift</guid>
-      <pubDate>Sun, 30 Aug 2026 11:00:00 GMT</pubDate>
-      <description>NT lyfter Noel Sernelius assistproduktion och jämför med IFK:s främsta framspelare genom åren.</description>
       <category>Norrköpings Tidningar</category>
     </item>
   </channel>
