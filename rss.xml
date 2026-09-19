@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Fri, 18 Sep 2026 18:15:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 03:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Spelarnas syn på tränarrockaden: &quot;Känner stort ansvar&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/spelarnas-syn-pa-tranarrockaden-kanner-stort-ansvar/r49qg8oj</link>
+      <guid isPermaLink="false">nt-spelarnas-syn-pa-tranarrockaden-kanner-stort-ansvar-r49qg8oj</guid>
+      <pubDate>Sat, 19 Sep 2026 03:00:00 GMT</pubDate>
+      <description>Stellan Carlsson arbetsbefriades i tisdags. Nu kommenterar IFK-spelarna beslutet. – Vi är lika ansvariga som han och alla andra, säger mittfältaren Matilda Kristell.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Ryan Nelson: “Viktigt att vi avslutar bra”</title>
       <link>https://ifknorrkoping.se/ryan-nelson-viktigt-att-vi-avslutar-bra/</link>
@@ -796,14 +804,6 @@
       <guid isPermaLink="false">nt-2026-08-31-isak-andri-intresse</guid>
       <pubDate>Mon, 31 Aug 2026 14:01:00 GMT</pubDate>
       <description>NT skriver om Ísak Andri Sigurgeirssons situation, petningen och tidigare utländskt intresse.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>IFK-löfte kan röra på sig - dialog med flera klubbar</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/ifk-lofte-kan-rora-pa-sig-dialog-med-flera-klubbar/l61nnd9j</link>
-      <guid isPermaLink="false">nt-2026-08-31-ifk-lofte-dialog</guid>
-      <pubDate>Mon, 31 Aug 2026 13:17:00 GMT</pubDate>
-      <description>NT rapporterar om dialoger kring Åke Andersson och intresse för andra IFK-löften under deadline day.</description>
       <category>Norrköpings Tidningar</category>
     </item>
   </channel>
