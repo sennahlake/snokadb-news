@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sat, 19 Sep 2026 17:57:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 18:00:00 GMT</lastBuildDate>
+    <item>
+      <title>IFK-backen uttagen i landslaget – men kan tvingas tacka nej?</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-backen-uttagen-i-landslaget-men-kan-tvingas-tacka-nej/r9mq7pml</link>
+      <guid isPermaLink="false">nt-ifk-backen-uttagen-i-landslaget-men-kan-tvingas-tacka-nej-r9mq7pml</guid>
+      <pubDate>Sat, 19 Sep 2026 18:00:00 GMT</pubDate>
+      <description>Under uppehållet ska Moutaz Neffati spela kval till afrikanska mästerskapen. Om inte kroppen säger ifrån. – Just nu har jag ont, sa IFK-backen efter segern i Växjö.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Rob Clark redo för nya uppdraget – “Vi ska göra allt vi kan!”</title>
       <link>https://ifknorrkoping.se/rob-clark-redo-for-nya-uppdraget-vi-ska-gora-allt-vi-kan/</link>
@@ -797,14 +805,6 @@
       <pubDate>Tue, 01 Sep 2026 11:00:12 GMT</pubDate>
       <description>Säsongsavslutningen spikad</description>
       <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Officiellt: Andersson lämnar IFK Norrköping för Sirius</title>
-      <link>https://fotbolldirekt.se/silly-season/officiellt-andersson-lamnar-ifk-norrkoping-for-sirius/</link>
-      <guid isPermaLink="false">fotbolldirekt-silly-season-officiellt-andersson-lamnar-ifk-norrkoping-for-sirius</guid>
-      <pubDate>Tue, 01 Sep 2026 08:26:17 GMT</pubDate>
-      <description>Åke Andersson lämnar IFK Norrköping. Nu väntar ett äventyr hos serieledarna, Sirius. Talangen Åke Andersson lämnar IFK Norrköping för Sirius. – Det var snabba puckar. Jag fick höra om deras intresse i förra veckan, säger Åke Andersson som så sent som i söndags spelade och gjorde mål i P19-lagets match mot Malmö FF, säger han […] The post Officiellt: Andersson lämnar IFK Norrköping för Sirius appea</description>
-      <category>FotbollDirekt</category>
     </item>
   </channel>
 </rss>
