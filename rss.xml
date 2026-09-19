@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sat, 19 Sep 2026 08:10:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 14:18:00 GMT</lastBuildDate>
+    <item>
+      <title>Om vi ska prata om nycklar till IFK:s säsong är han en stor sådan</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/om-vi-ska-prata-om-nycklar-till-ifks-sasong-ar-han-en-stor-sadan/l78dnv1j</link>
+      <guid isPermaLink="false">nt-om-vi-ska-prata-om-nycklar-till-ifks-sasong-ar-han-en-stor-sadan-l78dnv1j</guid>
+      <pubDate>Sat, 19 Sep 2026 14:18:00 GMT</pubDate>
+      <description>IFK är på väg på snabbast möjliga återkomst. Och faller i stort sett aldrig igenom. Kanske läge att lyfta det Eldar Abdulic har åstadkommit i år.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>Jemals roliga lördag i Växö – åttonde raka bortasegern</title>
+      <link>https://ifknorrkoping.se/jemals-roliga-lordag-i-vaxo-attonde-raka-bortasegern/</link>
+      <guid isPermaLink="false">ifk-jemals-roliga-lordag-i-vaxo-attonde-raka-bortasegern</guid>
+      <pubDate>Sat, 19 Sep 2026 14:02:38 GMT</pubDate>
+      <description>Jemals roliga lördag i Växö – åttonde raka bortasegern</description>
+      <category>IFK Norrköping</category>
+    </item>
     <item>
       <title>Krantz går för rekordet: ”Kul att skriva in sig i historieböckerna”</title>
       <link>https://www.aftonbladet.se/sportbladet/fotboll/a/GxRJmJ/theo-krantz-och-hans-ifk-norrkoping-stormar-mot-allsvenskan?utm_medium=rss</link>
@@ -20,6 +36,14 @@
       <guid isPermaLink="false">nt-sa-startar-ifk-i-bortamatchen-mot-oster-lyx98mzr</guid>
       <pubDate>Sat, 19 Sep 2026 07:40:00 GMT</pubDate>
       <description>Sista matchen innan ett längre uppehåll väntar. Följ IFK:s bortamatch mot Öster här.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>Stort steg mot allsvenskan för IFK</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/betygen-han-showade-mot-oster-matchavgorande-insatser/lyx98mzr</link>
+      <guid isPermaLink="false">nt-betygen-han-showade-mot-oster-matchavgorande-insatser-lyx98mzr</guid>
+      <pubDate>Sat, 19 Sep 2026 07:40:00 GMT</pubDate>
+      <description>IFK mötte Öster borta i sista matchen innan det längre uppehållet väntar.</description>
       <category>Norrköpings Tidningar</category>
     </item>
     <item>
@@ -781,30 +805,6 @@
       <pubDate>Tue, 01 Sep 2026 07:59:44 GMT</pubDate>
       <description>Åke Andersson lämnar IFK för Sirius – “Det är lite blandade känslor…”</description>
       <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Uppgifter: Flera klubbar efter Neffati</title>
-      <link>https://www.fotbollskanalen.se/artiklar/superettan/uppgifter-flera-klubbar-efter-neffati</link>
-      <guid isPermaLink="false">fotbollskanalen-2026-09-01-neffati-intresse</guid>
-      <pubDate>Tue, 01 Sep 2026 07:58:00 GMT</pubDate>
-      <description>Fotbollskanalen skriver att flera utländska klubbar följer IFK Norrköpings Moutaz Neffati.</description>
-      <category>Fotbollskanalen</category>
-    </item>
-    <item>
-      <title>IFK Norrköping talar ut om förändringarna</title>
-      <link>https://www.fotbolltransfers.com/nyheter/ifk-norrkoping-talar-ut-om-forandringarna/214691</link>
-      <guid isPermaLink="false">fotbolltransfers-2026-09-ifk-forandringarna</guid>
-      <pubDate>Tue, 01 Sep 2026 07:30:00 GMT</pubDate>
-      <description>Fotbolltransfers.com återger sportchef Henrik Jurelius om spelaromsättningen och förändringarna i IFK Norrköping.</description>
-      <category>Fotbolltransfers.com</category>
-    </item>
-    <item>
-      <title>Flera klubbar uppges jaga Moutaz Neffati</title>
-      <link>https://fotbolltransfers.com/nyheter/saintetienne-ferencvaros-och-pafos-jagar-neffati/209522</link>
-      <guid isPermaLink="false">fotbolltransfers-2026-09-neffati-intresse</guid>
-      <pubDate>Tue, 01 Sep 2026 06:30:00 GMT</pubDate>
-      <description>Fotbolltransfers.com rapporterar om utländskt intresse för IFK Norrköpings ytterback Moutaz Neffati.</description>
-      <category>Fotbolltransfers.com</category>
     </item>
   </channel>
 </rss>

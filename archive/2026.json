@@ -1,7 +1,84 @@
 {
   "year": 2026,
-  "itemCount": 543,
+  "itemCount": 546,
   "items": [
+    {
+      "id": "nt-om-vi-ska-prata-om-nycklar-till-ifks-sasong-ar-han-en-stor-sadan-l78dnv1j",
+      "title": "Om vi ska prata om nycklar till IFK:s säsong är han en stor sådan",
+      "summary": "IFK är på väg på snabbast möjliga återkomst. Och faller i stort sett aldrig igenom. Kanske läge att lyfta det Eldar Abdulic har åstadkommit i år.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/om-vi-ska-prata-om-nycklar-till-ifks-sasong-ar-han-en-stor-sadan/l78dnv1j",
+      "publishedAt": "2026-09-19T14:18:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-19",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "ifk-jemals-roliga-lordag-i-vaxo-attonde-raka-bortasegern",
+      "title": "Jemals roliga lördag i Växö – åttonde raka bortasegern",
+      "summary": "Jemals roliga lördag i Växö – åttonde raka bortasegern",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/jemals-roliga-lordag-i-vaxo-attonde-raka-bortasegern/",
+      "publishedAt": "2026-09-19T14:02:38.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
     {
       "id": "sportbladet-gxrjmj-theo-krantz-och-hans-ifk-norrkoping-stormar-mot-allsvenskan",
       "title": "Krantz går för rekordet: ”Kul att skriva in sig i historieböckerna”",
@@ -57,6 +134,51 @@
       "tags": [
         "Extern originalkälla",
         "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-19",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-betygen-han-showade-mot-oster-matchavgorande-insatser-lyx98mzr",
+      "title": "Stort steg mot allsvenskan för IFK",
+      "summary": "IFK mötte Öster borta i sista matchen innan det längre uppehållet väntar.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/betygen-han-showade-mot-oster-matchavgorande-insatser/lyx98mzr",
+      "publishedAt": "2026-09-19T07:40:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
       ],
       "keywords": [
         "IFK Norrköping",
