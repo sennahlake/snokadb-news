@@ -1,7 +1,128 @@
 {
   "year": 2026,
-  "itemCount": 540,
+  "itemCount": 543,
   "items": [
+    {
+      "id": "sportbladet-gxrjmj-theo-krantz-och-hans-ifk-norrkoping-stormar-mot-allsvenskan",
+      "title": "Krantz går för rekordet: ”Kul att skriva in sig i historieböckerna”",
+      "summary": "Krantz och ”Peking” stormar mot allsvenskan",
+      "source": "Sportbladet",
+      "sourceUrl": "https://www.aftonbladet.se/sportbladet/fotboll",
+      "articleUrl": "https://www.aftonbladet.se/sportbladet/fotboll/a/GxRJmJ/theo-krantz-och-hans-ifk-norrkoping-stormar-mot-allsvenskan?utm_medium=rss",
+      "publishedAt": "2026-09-19T08:10:41.000Z",
+      "category": "Nyhet",
+      "tags": [
+        "Extern originalkälla",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Sportbladet"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "medium",
+        "score": 78,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "sportbladet",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Sportbladet",
+          "date": "2026-09-19",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-sa-startar-ifk-i-bortamatchen-mot-oster-lyx98mzr",
+      "title": "LIVE: Allsvenska jakten går vidare – följ IFK mot Öster",
+      "summary": "Sista matchen innan ett längre uppehåll väntar. Följ IFK:s bortamatch mot Öster här.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/sa-startar-ifk-i-bortamatchen-mot-oster/lyx98mzr",
+      "publishedAt": "2026-09-19T07:40:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-19",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "ifk-ifk-truppen-mot-osters-if-2",
+      "title": "IFK-truppen mot Östers IF",
+      "summary": "IFK-truppen mot Östers IF",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/ifk-truppen-mot-osters-if-2/",
+      "publishedAt": "2026-09-19T06:53:13.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla",
+          "IFK i rubrik"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
     {
       "id": "nt-spelarnas-syn-pa-tranarrockaden-kanner-stort-ansvar-r49qg8oj",
       "title": "Spelarnas syn på tränarrockaden: \"Känner stort ansvar\"",

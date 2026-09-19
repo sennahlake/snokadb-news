@@ -5,7 +5,31 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sat, 19 Sep 2026 03:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 08:10:41 GMT</lastBuildDate>
+    <item>
+      <title>Krantz går för rekordet: ”Kul att skriva in sig i historieböckerna”</title>
+      <link>https://www.aftonbladet.se/sportbladet/fotboll/a/GxRJmJ/theo-krantz-och-hans-ifk-norrkoping-stormar-mot-allsvenskan?utm_medium=rss</link>
+      <guid isPermaLink="false">sportbladet-gxrjmj-theo-krantz-och-hans-ifk-norrkoping-stormar-mot-allsvenskan</guid>
+      <pubDate>Sat, 19 Sep 2026 08:10:41 GMT</pubDate>
+      <description>Krantz och ”Peking” stormar mot allsvenskan</description>
+      <category>Sportbladet</category>
+    </item>
+    <item>
+      <title>LIVE: Allsvenska jakten går vidare – följ IFK mot Öster</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/sa-startar-ifk-i-bortamatchen-mot-oster/lyx98mzr</link>
+      <guid isPermaLink="false">nt-sa-startar-ifk-i-bortamatchen-mot-oster-lyx98mzr</guid>
+      <pubDate>Sat, 19 Sep 2026 07:40:00 GMT</pubDate>
+      <description>Sista matchen innan ett längre uppehåll väntar. Följ IFK:s bortamatch mot Öster här.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>IFK-truppen mot Östers IF</title>
+      <link>https://ifknorrkoping.se/ifk-truppen-mot-osters-if-2/</link>
+      <guid isPermaLink="false">ifk-ifk-truppen-mot-osters-if-2</guid>
+      <pubDate>Sat, 19 Sep 2026 06:53:13 GMT</pubDate>
+      <description>IFK-truppen mot Östers IF</description>
+      <category>IFK Norrköping</category>
+    </item>
     <item>
       <title>Spelarnas syn på tränarrockaden: &quot;Känner stort ansvar&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/spelarnas-syn-pa-tranarrockaden-kanner-stort-ansvar/r49qg8oj</link>
@@ -781,30 +805,6 @@
       <pubDate>Tue, 01 Sep 2026 06:30:00 GMT</pubDate>
       <description>Fotbolltransfers.com rapporterar om utländskt intresse för IFK Norrköpings ytterback Moutaz Neffati.</description>
       <category>Fotbolltransfers.com</category>
-    </item>
-    <item>
-      <title>Avslöjar: IFK säljer talang till Sirius</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/avslojar-ifk-saljer-talang-till-sirius/r1wppw3l</link>
-      <guid isPermaLink="false">nt-2026-08-31-avslojar-ake-sirius</guid>
-      <pubDate>Mon, 31 Aug 2026 20:23:00 GMT</pubDate>
-      <description>NT uppger att IFK Norrköping och IK Sirius kommit överens om en permanent övergång för Åke Andersson.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>188. Totte Nyman.</title>
-      <link>https://pod.space/genomljuvalivet/188-totte-nyman</link>
-      <guid isPermaLink="false">genom-ljuva-livet-188-totte-nyman</guid>
-      <pubDate>Mon, 31 Aug 2026 17:16:31 GMT</pubDate>
-      <description>Vi har varit på Nordic United borta och haft det kanon. Vi hyllar Totte Nymans karriär såklart men pratar också om matchen i övrigt och den ljuvliga stämningen vi fick uppleva. Dessutom har vi nån slags genomgång där vi försöker spekulera i vilka som håller i Allsvenskan. Och Björk gör comeback! Underbart.</description>
-      <category>Genom Ljuva Livet</category>
-    </item>
-    <item>
-      <title>Röjer utländskt intresse: Klubben har velat ha mer pengar</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/rojer-utlandskt-intresse-klubben-har-velat-ha-mer-pengar/jp95710l</link>
-      <guid isPermaLink="false">nt-2026-08-31-isak-andri-intresse</guid>
-      <pubDate>Mon, 31 Aug 2026 14:01:00 GMT</pubDate>
-      <description>NT skriver om Ísak Andri Sigurgeirssons situation, petningen och tidigare utländskt intresse.</description>
-      <category>Norrköpings Tidningar</category>
     </item>
   </channel>
 </rss>
