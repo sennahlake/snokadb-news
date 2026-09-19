@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sat, 19 Sep 2026 14:18:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 17:57:38 GMT</lastBuildDate>
+    <item>
+      <title>Rob Clark redo för nya uppdraget – “Vi ska göra allt vi kan!”</title>
+      <link>https://ifknorrkoping.se/rob-clark-redo-for-nya-uppdraget-vi-ska-gora-allt-vi-kan/</link>
+      <guid isPermaLink="false">ifk-rob-clark-redo-for-nya-uppdraget-vi-ska-gora-allt-vi-kan</guid>
+      <pubDate>Sat, 19 Sep 2026 17:57:38 GMT</pubDate>
+      <description>Rob Clark redo för nya uppdraget – “Vi ska göra allt vi kan!”</description>
+      <category>IFK Norrköping</category>
+    </item>
+    <item>
+      <title>En förklaring till Jemals offensiva kraft: &quot;Får det förtroendet&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/en-forklaring-till-jemals-offensiva-kraft-far-det-fortroendet/jp9y6mml</link>
+      <guid isPermaLink="false">nt-en-forklaring-till-jemals-offensiva-kraft-far-det-fortroendet-jp9y6mml</guid>
+      <pubDate>Sat, 19 Sep 2026 15:30:00 GMT</pubDate>
+      <description>I IFK har Elias Jemal fått sitt utrymme. Men det kommer också med höga krav. – Vi ska springa och jobba hårt för klubben och märket, sa han.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Om vi ska prata om nycklar till IFK:s säsong är han en stor sådan</title>
       <link>https://www.nt.se/sport/fotboll/artikel/om-vi-ska-prata-om-nycklar-till-ifks-sasong-ar-han-en-stor-sadan/l78dnv1j</link>
@@ -789,22 +805,6 @@
       <pubDate>Tue, 01 Sep 2026 08:26:17 GMT</pubDate>
       <description>Åke Andersson lämnar IFK Norrköping. Nu väntar ett äventyr hos serieledarna, Sirius. Talangen Åke Andersson lämnar IFK Norrköping för Sirius. – Det var snabba puckar. Jag fick höra om deras intresse i förra veckan, säger Åke Andersson som så sent som i söndags spelade och gjorde mål i P19-lagets match mot Malmö FF, säger han […] The post Officiellt: Andersson lämnar IFK Norrköping för Sirius appea</description>
       <category>FotbollDirekt</category>
-    </item>
-    <item>
-      <title>Chockflytten bekräftad: Behöver bli en säljande klubb</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/chockflytten-bekraftad-behover-bli-en-saljande-klubb/jp955m0l</link>
-      <guid isPermaLink="false">nt-2026-09-01-chockflytten-ake</guid>
-      <pubDate>Tue, 01 Sep 2026 08:19:00 GMT</pubDate>
-      <description>NT följer upp Åke Anderssons flytt till Sirius och IFK Norrköpings resonemang kring försäljningen.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Åke Andersson lämnar IFK för Sirius – “Det är lite blandade känslor…”</title>
-      <link>https://ifknorrkoping.se/ake-andersson-lamnar-ifk-for-sirius-det-ar-lite-blandade-kanslor/</link>
-      <guid isPermaLink="false">ifk-ake-andersson-lamnar-ifk-for-sirius-det-ar-lite-blandade-kanslor</guid>
-      <pubDate>Tue, 01 Sep 2026 07:59:44 GMT</pubDate>
-      <description>Åke Andersson lämnar IFK för Sirius – “Det är lite blandade känslor…”</description>
-      <category>IFK Norrköping</category>
     </item>
   </channel>
 </rss>
