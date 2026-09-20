@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sun, 20 Sep 2026 05:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 10:16:44 GMT</lastBuildDate>
+    <item>
+      <title>Truppen mot FC Rosengård</title>
+      <link>https://ifknorrkoping.se/truppen-mot-fc-rosengard-8/</link>
+      <guid isPermaLink="false">ifk-truppen-mot-fc-rosengard-8</guid>
+      <pubDate>Sun, 20 Sep 2026 10:16:44 GMT</pubDate>
+      <description>Truppen mot FC Rosengård</description>
+      <category>IFK Norrköping</category>
+    </item>
+    <item>
+      <title>LIVE: Viktiga poäng på spel för IFK – följ bottenmötet här</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/live-viktiga-poang-pa-spel-for-ifk-folj-bottenmotet-har/rexpv00l</link>
+      <guid isPermaLink="false">nt-live-viktiga-poang-pa-spel-for-ifk-folj-bottenmotet-har-rexpv00l</guid>
+      <pubDate>Sun, 20 Sep 2026 08:46:00 GMT</pubDate>
+      <description>IFK ligger på nedflyttningsplats och Rosengård fyra poäng framför. Under söndagen möts lagen i Norrköping.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Sjukdomar i IFK inför heta bottenmötet: &quot;Inget allvarligt&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/sjukdomar-i-ifk-infor-heta-bottenmotet-inget-allvarligt/l78dwq5j</link>
@@ -789,22 +805,6 @@
       <pubDate>Thu, 03 Sep 2026 14:21:02 GMT</pubDate>
       <description>Publikinformation: IFK Norrköping-Ljungskile SK</description>
       <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Hugo Fagerberg</title>
-      <link>https://poddtoppen.se/podcast/1738623973/studio-peking</link>
-      <guid isPermaLink="false">studio-peking-2026-09-03-hugo-fagerberg</guid>
-      <pubDate>Thu, 03 Sep 2026 07:00:00 GMT</pubDate>
-      <description>Studio Peking lyfter IFK-målvakten Hugo Fagerberg och hans första tid i Norrköping.</description>
-      <category>Studio Peking</category>
-    </item>
-    <item>
-      <title>Hugo Fagerberg</title>
-      <link>https://pod.space/studiopeking/hugo-fagerberg</link>
-      <guid isPermaLink="false">studio-peking-hugo-fagerberg</guid>
-      <pubDate>Wed, 02 Sep 2026 12:16:13 GMT</pubDate>
-      <description>Studio Peking bjuder på höstens första gästavsnitt. IFK-målvakten Hugo Fagerberg tar plats i poddstudion. I avsnittet berättar han bland annat om käftsmällen i Ängelholm, sina speciella rutiner och de senaste årens lånekarusell som nu tagit 22-åringen till Norrköping. Hugo Fagerberg pratar självklart om mycket mer än så. Exempelvis: sin kompis bortgång, hur bra han trivs i Östergötland och relationen till målvaktskollegan Theo Krantz. Medverkande: Gabriel Ohlsson och Eric Persson.</description>
-      <category>Studio Peking</category>
     </item>
   </channel>
 </rss>

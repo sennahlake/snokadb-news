@@ -1,7 +1,86 @@
 {
   "year": 2026,
-  "itemCount": 550,
+  "itemCount": 552,
   "items": [
+    {
+      "id": "ifk-truppen-mot-fc-rosengard-8",
+      "title": "Truppen mot FC Rosengård",
+      "summary": "Truppen mot FC Rosengård",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/truppen-mot-fc-rosengard-8/",
+      "publishedAt": "2026-09-20T10:16:44.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "nt-live-viktiga-poang-pa-spel-for-ifk-folj-bottenmotet-har-rexpv00l",
+      "title": "LIVE: Viktiga poäng på spel för IFK – följ bottenmötet här",
+      "summary": "IFK ligger på nedflyttningsplats och Rosengård fyra poäng framför. Under söndagen möts lagen i Norrköping.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/live-viktiga-poang-pa-spel-for-ifk-folj-bottenmotet-har/rexpv00l",
+      "publishedAt": "2026-09-20T08:46:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-20",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-sjukdomar-i-ifk-infor-heta-bottenmotet-inget-allvarligt-l78dwq5j",
       "title": "Sjukdomar i IFK inför heta bottenmötet: \"Inget allvarligt\"",
