@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sun, 20 Sep 2026 10:16:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 15:51:00 GMT</lastBuildDate>
+    <item>
+      <title>IFK:s matchhjälte: &quot;Blev nästan rörd&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifks-matchhjalte-blev-nastan-rord/r1wmkmkl</link>
+      <guid isPermaLink="false">nt-ifks-matchhjalte-blev-nastan-rord-r1wmkmkl</guid>
+      <pubDate>Sun, 20 Sep 2026 15:51:00 GMT</pubDate>
+      <description>På väg att bli syndabock – i stället iklädde sig Malva Larsson hjälterollen. – Enorm glädje, säger hon.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>Norrköping segrade i ångestmötet efter mål på stopptid</title>
+      <link>https://www.svt.se/sport/fotboll/norrkoping-segrade-i-angestmotet-efter-mal-pa-stopptid</link>
+      <guid isPermaLink="false">svt-fotboll-norrkoping-segrade-i-angestmotet-efter-mal-pa-stopptid</guid>
+      <pubDate>Sun, 20 Sep 2026 15:35:29 GMT</pubDate>
+      <description>Vilda glädjescener i Norrköping. Malva Larsson räddade segern mot Rosengård med ett klassmål i den 95:e minuten.</description>
+      <category>SVT</category>
+    </item>
     <item>
       <title>Truppen mot FC Rosengård</title>
       <link>https://ifknorrkoping.se/truppen-mot-fc-rosengard-8/</link>
@@ -20,6 +36,14 @@
       <guid isPermaLink="false">nt-live-viktiga-poang-pa-spel-for-ifk-folj-bottenmotet-har-rexpv00l</guid>
       <pubDate>Sun, 20 Sep 2026 08:46:00 GMT</pubDate>
       <description>IFK ligger på nedflyttningsplats och Rosengård fyra poäng framför. Under söndagen möts lagen i Norrköping.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>Mittbacken frälste IFK — nickade in segermål på övertid</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/betygen-sa-har-skotte-sig-ifk-i-matchen-mot-rosengard/rexpv00l</link>
+      <guid isPermaLink="false">nt-betygen-sa-har-skotte-sig-ifk-i-matchen-mot-rosengard-rexpv00l</guid>
+      <pubDate>Sun, 20 Sep 2026 08:46:00 GMT</pubDate>
+      <description>IFK mötte Rosengård hemma på söndagen. Så skötte sig IFK-spelarna i mötet.</description>
       <category>Norrköpings Tidningar</category>
     </item>
     <item>
@@ -781,30 +805,6 @@
       <pubDate>Fri, 04 Sep 2026 14:50:00 GMT</pubDate>
       <description>Hur mår Stellan Carlsson när resultaten går emot? – Det gör nästan ont fysiskt, säger han.</description>
       <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>IFK-truppen mot Ljungskile SK</title>
-      <link>https://ifknorrkoping.se/ifk-truppen-mot-ljungskile-sk/</link>
-      <guid isPermaLink="false">ifk-ifk-truppen-mot-ljungskile-sk</guid>
-      <pubDate>Fri, 04 Sep 2026 12:50:22 GMT</pubDate>
-      <description>IFK-truppen mot Ljungskile SK</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Fredagsmys med match på “Parken” – “Hoppas många vill dela den här kvällen med oss…”</title>
-      <link>https://ifknorrkoping.se/fredagsmys-med-match-pa-parken-hoppas-manga-vill-dela-den-har-kvallen-med-oss/</link>
-      <guid isPermaLink="false">ifk-fredagsmys-med-match-pa-parken-hoppas-manga-vill-dela-den-har-kvallen-med-oss</guid>
-      <pubDate>Thu, 03 Sep 2026 14:22:59 GMT</pubDate>
-      <description>Fredagsmys med match på “Parken” – “Hoppas många vill dela den här kvällen med oss…”</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Publikinformation: IFK Norrköping-Ljungskile SK</title>
-      <link>https://ifknorrkoping.se/publikinformation-ifk-norrkoping-ljungskile-sk/</link>
-      <guid isPermaLink="false">ifk-publikinformation-ifk-norrkoping-ljungskile-sk</guid>
-      <pubDate>Thu, 03 Sep 2026 14:21:02 GMT</pubDate>
-      <description>Publikinformation: IFK Norrköping-Ljungskile SK</description>
-      <category>IFK Norrköping</category>
     </item>
   </channel>
 </rss>
