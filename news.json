@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T20:35:31.750Z",
-  "itemCount": 4467,
+  "generatedAt": "2026-09-20T06:11:02.446Z",
+  "itemCount": 4468,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 7,
+      "count": 6,
       "ok": true
     },
     {
@@ -25,7 +25,7 @@
     },
     {
       "source": "Sportbladet",
-      "count": 1,
+      "count": 0,
       "ok": true
     },
     {
@@ -65,6 +65,73 @@
     }
   ],
   "items": [
+    {
+      "id": "nt-sjukdomar-i-ifk-infor-heta-bottenmotet-inget-allvarligt-l78dwq5j",
+      "title": "Sjukdomar i IFK inför heta bottenmötet: \"Inget allvarligt\"",
+      "summary": "Sjukdom i truppen. Men nye tränaren Rob Clark räknar med att både målvakten Sofia Hjern och anfallaren Beatrice Persson kan spela mot Rosengård.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/sjukdomar-i-ifk-infor-heta-bottenmotet-inget-allvarligt/l78dwq5j",
+      "publishedAt": "2026-09-20T05:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Beatrice Persson",
+          "slug": "beatrice-persson",
+          "side": "Dam",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        },
+        {
+          "name": "Sofia Hjern",
+          "slug": "sofia-hjern",
+          "side": "Dam",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-20",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-ifk-backen-uttagen-i-landslaget-men-kan-tvingas-tacka-nej-r9mq7pml",
       "title": "IFK-backen uttagen i landslaget – men kan tvingas tacka nej?",

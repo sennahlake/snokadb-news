@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sat, 19 Sep 2026 18:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 05:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Sjukdomar i IFK inför heta bottenmötet: &quot;Inget allvarligt&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/sjukdomar-i-ifk-infor-heta-bottenmotet-inget-allvarligt/l78dwq5j</link>
+      <guid isPermaLink="false">nt-sjukdomar-i-ifk-infor-heta-bottenmotet-inget-allvarligt-l78dwq5j</guid>
+      <pubDate>Sun, 20 Sep 2026 05:00:00 GMT</pubDate>
+      <description>Sjukdom i truppen. Men nye tränaren Rob Clark räknar med att både målvakten Sofia Hjern och anfallaren Beatrice Persson kan spela mot Rosengård.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>IFK-backen uttagen i landslaget – men kan tvingas tacka nej?</title>
       <link>https://www.nt.se/sport/fotboll/artikel/ifk-backen-uttagen-i-landslaget-men-kan-tvingas-tacka-nej/r9mq7pml</link>
@@ -797,14 +805,6 @@
       <pubDate>Wed, 02 Sep 2026 12:16:13 GMT</pubDate>
       <description>Studio Peking bjuder på höstens första gästavsnitt. IFK-målvakten Hugo Fagerberg tar plats i poddstudion. I avsnittet berättar han bland annat om käftsmällen i Ängelholm, sina speciella rutiner och de senaste årens lånekarusell som nu tagit 22-åringen till Norrköping. Hugo Fagerberg pratar självklart om mycket mer än så. Exempelvis: sin kompis bortgång, hur bra han trivs i Östergötland och relationen till målvaktskollegan Theo Krantz. Medverkande: Gabriel Ohlsson och Eric Persson.</description>
       <category>Studio Peking</category>
-    </item>
-    <item>
-      <title>Säsongsavslutningen spikad</title>
-      <link>https://ifknorrkoping.se/sasongsavslutningen-spikad/</link>
-      <guid isPermaLink="false">ifk-sasongsavslutningen-spikad</guid>
-      <pubDate>Tue, 01 Sep 2026 11:00:12 GMT</pubDate>
-      <description>Säsongsavslutningen spikad</description>
-      <category>IFK Norrköping</category>
     </item>
   </channel>
 </rss>
