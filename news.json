@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T16:00:25.795Z",
-  "itemCount": 4473,
+  "generatedAt": "2026-09-20T18:44:29.337Z",
+  "itemCount": 4476,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 5,
+      "count": 6,
       "ok": true
     },
     {
@@ -65,6 +65,140 @@
     }
   ],
   "items": [
+    {
+      "id": "nt-turbulenta-ifk-veckan-over-kan-inte-vara-stoltare-r9mq945l",
+      "title": "Turbulenta IFK-veckan över: \"Kan inte vara stoltare\"",
+      "summary": "Tränarbyte, säsongens viktigaste match – och ett slut som nästan var regisserat. IFK:s tuffa vecka påverkade många. – Vi har behövt hålla oss professionella, sa lagkaptenen Carrie Jones.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/turbulenta-ifk-veckan-over-kan-inte-vara-stoltare/r9mq945l",
+      "publishedAt": "2026-09-20T18:30:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Carrie Jones",
+          "slug": "carrie-jones",
+          "side": "Dam",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-20",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "ifk-fran-sjalvmal-till-matchvinnare-malvas-kanslofyllda-sondag",
+      "title": "Från självmål till matchvinnare – Malvas känslofyllda söndag",
+      "summary": "Från självmål till matchvinnare – Malvas känslofyllda söndag",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/fran-sjalvmal-till-matchvinnare-malvas-kanslofyllda-sondag/",
+      "publishedAt": "2026-09-20T16:47:04.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "nt-segern-var-nodvandig-men-jobbet-ar-langt-fran-gjort-an-for-ifk-jvzwv87r",
+      "title": "Segern var nödvändig – men jobbet är långt från gjort än för IFK",
+      "summary": "Första testet avklarat med väl godkänt. Det kommer flera till. IFK skakade liv i säsongen, på det mest dramatiskt tänkbara sättet, men allvaret är långt från undanröjt än.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/segern-var-nodvandig-men-jobbet-ar-langt-fran-gjort-an-for-ifk/jvzwv87r",
+      "publishedAt": "2026-09-20T15:59:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-20",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-ifks-matchhjalte-blev-nastan-rord-r1wmkmkl",
       "title": "IFK:s matchhjälte: \"Blev nästan rörd\"",

@@ -5,7 +5,31 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sun, 20 Sep 2026 15:51:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 18:30:00 GMT</lastBuildDate>
+    <item>
+      <title>Turbulenta IFK-veckan över: &quot;Kan inte vara stoltare&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/turbulenta-ifk-veckan-over-kan-inte-vara-stoltare/r9mq945l</link>
+      <guid isPermaLink="false">nt-turbulenta-ifk-veckan-over-kan-inte-vara-stoltare-r9mq945l</guid>
+      <pubDate>Sun, 20 Sep 2026 18:30:00 GMT</pubDate>
+      <description>Tränarbyte, säsongens viktigaste match – och ett slut som nästan var regisserat. IFK:s tuffa vecka påverkade många. – Vi har behövt hålla oss professionella, sa lagkaptenen Carrie Jones.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>Från självmål till matchvinnare – Malvas känslofyllda söndag</title>
+      <link>https://ifknorrkoping.se/fran-sjalvmal-till-matchvinnare-malvas-kanslofyllda-sondag/</link>
+      <guid isPermaLink="false">ifk-fran-sjalvmal-till-matchvinnare-malvas-kanslofyllda-sondag</guid>
+      <pubDate>Sun, 20 Sep 2026 16:47:04 GMT</pubDate>
+      <description>Från självmål till matchvinnare – Malvas känslofyllda söndag</description>
+      <category>IFK Norrköping</category>
+    </item>
+    <item>
+      <title>Segern var nödvändig – men jobbet är långt från gjort än för IFK</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/segern-var-nodvandig-men-jobbet-ar-langt-fran-gjort-an-for-ifk/jvzwv87r</link>
+      <guid isPermaLink="false">nt-segern-var-nodvandig-men-jobbet-ar-langt-fran-gjort-an-for-ifk-jvzwv87r</guid>
+      <pubDate>Sun, 20 Sep 2026 15:59:00 GMT</pubDate>
+      <description>Första testet avklarat med väl godkänt. Det kommer flera till. IFK skakade liv i säsongen, på det mest dramatiskt tänkbara sättet, men allvaret är långt från undanröjt än.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>IFK:s matchhjälte: &quot;Blev nästan rörd&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/ifks-matchhjalte-blev-nastan-rord/r1wmkmkl</link>
@@ -781,30 +805,6 @@
       <pubDate>Fri, 04 Sep 2026 18:13:14 GMT</pubDate>
       <description>Vilmer Tyrén, 21, stod för ett chockmål mot IFK Norrköping Han sköt plötsligt från över 50 meter. – Jag såg att målvakten stod långt ut och testade, säger Tyrén i TV4 Play.</description>
       <category>SVT</category>
-    </item>
-    <item>
-      <title>Slog till från halva plan – efter 54 sekunder</title>
-      <link>https://www.aftonbladet.se/sportbladet/fotboll/a/k01VoX/superettan-ljungskile-med-chockmal-mot-ifk-norrkoping?utm_medium=rss</link>
-      <guid isPermaLink="false">sportbladet-k01vox-superettan-ljungskile-med-chockmal-mot-ifk-norrkoping</guid>
-      <pubDate>Fri, 04 Sep 2026 17:09:08 GMT</pubDate>
-      <description>Segersviten bröts ✓ Se klipp!</description>
-      <category>Sportbladet</category>
-    </item>
-    <item>
-      <title>Oavgjort för IFK – Nyman historisk med sitt mål</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/ifk-norrkoping-jagar-allsvenskan-mot-ljungskile/l78o5qwj</link>
-      <guid isPermaLink="false">nt-ifk-norrkoping-jagar-allsvenskan-mot-ljungskile-l78o5qwj</guid>
-      <pubDate>Fri, 04 Sep 2026 15:45:00 GMT</pubDate>
-      <description>Christoffer Nyman befinner sig numera ensam på måltronen, men IFK lyckades inte välta Ljungskile. Följ vår liverapportering nedan.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>IFK-tränaren: &quot;Ingen ska tro att jag inte lider&quot;</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/ifk-tranaren-ingen-ska-tro-att-jag-inte-lider/rxqoxqkj</link>
-      <guid isPermaLink="false">nt-ifk-tranaren-ingen-ska-tro-att-jag-inte-lider-rxqoxqkj</guid>
-      <pubDate>Fri, 04 Sep 2026 14:50:00 GMT</pubDate>
-      <description>Hur mår Stellan Carlsson när resultaten går emot? – Det gör nästan ont fysiskt, säger han.</description>
-      <category>Norrköpings Tidningar</category>
     </item>
   </channel>
 </rss>
