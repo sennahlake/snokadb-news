@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T18:44:29.337Z",
-  "itemCount": 4476,
+  "generatedAt": "2026-09-21T14:02:43.541Z",
+  "itemCount": 4477,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 6,
+      "count": 1,
       "ok": true
     },
     {
@@ -65,6 +65,39 @@
     }
   ],
   "items": [
+    {
+      "id": "ifk-kamraternas-traningsvecka-44",
+      "title": "Kamraternas träningsvecka",
+      "summary": "Kamraternas träningsvecka",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/kamraternas-traningsvecka-44/",
+      "publishedAt": "2026-09-21T10:40:58.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
     {
       "id": "nt-turbulenta-ifk-veckan-over-kan-inte-vara-stoltare-r9mq945l",
       "title": "Turbulenta IFK-veckan över: \"Kan inte vara stoltare\"",

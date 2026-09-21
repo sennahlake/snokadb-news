@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sun, 20 Sep 2026 18:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 10:40:58 GMT</lastBuildDate>
+    <item>
+      <title>Kamraternas träningsvecka</title>
+      <link>https://ifknorrkoping.se/kamraternas-traningsvecka-44/</link>
+      <guid isPermaLink="false">ifk-kamraternas-traningsvecka-44</guid>
+      <pubDate>Mon, 21 Sep 2026 10:40:58 GMT</pubDate>
+      <description>Kamraternas träningsvecka</description>
+      <category>IFK Norrköping</category>
+    </item>
     <item>
       <title>Turbulenta IFK-veckan över: &quot;Kan inte vara stoltare&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/turbulenta-ifk-veckan-over-kan-inte-vara-stoltare/r9mq945l</link>
@@ -797,14 +805,6 @@
       <pubDate>Fri, 04 Sep 2026 20:03:00 GMT</pubDate>
       <description>2–2 mot Ljungskile. – Det känns som en förlust, säger Ture Sandberg. – Jag kräver lite mer av laget, men även av mig själv, säger Moutaz Neffati.</description>
       <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Se jätteskottet i superettan: ”Speciellt sätt att göra mål”</title>
-      <link>https://www.svt.se/sport/fotboll/se-jatteskottet-i-superettan-speciellt-satt-att-gora-mal</link>
-      <guid isPermaLink="false">svt-fotboll-se-jatteskottet-i-superettan-speciellt-satt-att-gora-mal</guid>
-      <pubDate>Fri, 04 Sep 2026 18:13:14 GMT</pubDate>
-      <description>Vilmer Tyrén, 21, stod för ett chockmål mot IFK Norrköping Han sköt plötsligt från över 50 meter. – Jag såg att målvakten stod långt ut och testade, säger Tyrén i TV4 Play.</description>
-      <category>SVT</category>
     </item>
   </channel>
 </rss>
