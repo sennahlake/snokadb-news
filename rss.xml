@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Mon, 21 Sep 2026 10:40:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 15:39:28 GMT</lastBuildDate>
+    <item>
+      <title>192. Fest i Växjö</title>
+      <link>https://pod.space/genomljuvalivet/192-fest-i-vaxjo</link>
+      <guid isPermaLink="false">genom-ljuva-livet-192-fest-i-vaxjo</guid>
+      <pubDate>Mon, 21 Sep 2026 15:39:28 GMT</pubDate>
+      <description>Födelsedagskalas och fotbollspartaj i Växjö! Snoka vann igen och spelade ljuvlig fotboll ett bra tag. Sen var vi nervösa men det gick bra! Allt om matchen, Jemal och så en utläggning om den underhypeade Viggo Fälth. Vi diskuterar när vi vill gå upp och har äntligen fått se damlaget vinna.</description>
+      <category>Genom Ljuva Livet</category>
+    </item>
     <item>
       <title>Kamraternas träningsvecka</title>
       <link>https://ifknorrkoping.se/kamraternas-traningsvecka-44/</link>
@@ -797,14 +805,6 @@
       <pubDate>Fri, 04 Sep 2026 20:03:11 GMT</pubDate>
       <description>En minut tog det mellan Ljungskile och IFK Norrköping. Då hade Vilmer Tyrén stått för ett sanslöst drömmål – från egen planhalva. – Vad är det som sker?, säger TV4:s kommentator Marcus Bühlund.</description>
       <category>SportExpressen</category>
-    </item>
-    <item>
-      <title>IFK-spelarens smäll: &quot;Svintråkigt&quot;</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/ifk-spelarens-small-svintrakigt/r23112xl</link>
-      <guid isPermaLink="false">nt-ifk-spelarens-small-svintrakigt-r23112xl</guid>
-      <pubDate>Fri, 04 Sep 2026 20:03:00 GMT</pubDate>
-      <description>2–2 mot Ljungskile. – Det känns som en förlust, säger Ture Sandberg. – Jag kräver lite mer av laget, men även av mig själv, säger Moutaz Neffati.</description>
-      <category>Norrköpings Tidningar</category>
     </item>
   </channel>
 </rss>

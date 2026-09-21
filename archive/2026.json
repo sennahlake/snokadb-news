@@ -1,7 +1,57 @@
 {
   "year": 2026,
-  "itemCount": 559,
+  "itemCount": 560,
   "items": [
+    {
+      "id": "genom-ljuva-livet-192-fest-i-vaxjo",
+      "title": "192. Fest i Växjö",
+      "summary": "Födelsedagskalas och fotbollspartaj i Växjö! Snoka vann igen och spelade ljuvlig fotboll ett bra tag. Sen var vi nervösa men det gick bra! Allt om matchen, Jemal och så en utläggning om den underhypeade Viggo Fälth. Vi diskuterar när vi vill gå upp och har äntligen fått se damlaget vinna.",
+      "source": "Genom Ljuva Livet",
+      "sourceUrl": "https://poddtoppen.se/podcast/1728458754/genom-ljuva-livet",
+      "articleUrl": "https://pod.space/genomljuvalivet/192-fest-i-vaxjo",
+      "publishedAt": "2026-09-21T15:39:28.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Genom Ljuva Livet",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 94,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Viggo Fälth",
+          "slug": "viggo-falth",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "genom-ljuva-livet"
+    },
     {
       "id": "ifk-kamraternas-traningsvecka-44",
       "title": "Kamraternas träningsvecka",
