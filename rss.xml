@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Mon, 21 Sep 2026 15:39:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 11:58:07 GMT</lastBuildDate>
+    <item>
+      <title>Kulturnatten på Idrottsparken</title>
+      <link>https://ifknorrkoping.se/kulturnatten-pa-idrottsparken/</link>
+      <guid isPermaLink="false">ifk-kulturnatten-pa-idrottsparken</guid>
+      <pubDate>Tue, 22 Sep 2026 11:58:07 GMT</pubDate>
+      <description>Kulturnatten på Idrottsparken</description>
+      <category>IFK Norrköping</category>
+    </item>
     <item>
       <title>192. Fest i Växjö</title>
       <link>https://pod.space/genomljuvalivet/192-fest-i-vaxjo</link>
@@ -797,14 +805,6 @@
       <pubDate>Fri, 04 Sep 2026 20:12:00 GMT</pubDate>
       <description>Christoffer Nyman skrev historia mot Ljungskile. Med sitt mål blev han IFK Norrköpings främste målskytt genom tiderna i seriespel – men efter 2–2-matchen var rekordet långt ifrån det som upptog hans tankar. – Det här är frågor för en annan dag, säger han.</description>
       <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Vilmer Tyrén med mål från egen planhalva mot IFK Norrköping</title>
-      <link>https://www.expressen.se/sport/fotboll/superettan/vilmer-tyren-med-mal-fran-egen-planhalva-mot-ifk-norrkoping/</link>
-      <guid isPermaLink="false">sportexpressen-superettan-vilmer-tyren-med-mal-fran-egen-planhalva-mot-ifk-norrkoping</guid>
-      <pubDate>Fri, 04 Sep 2026 20:03:11 GMT</pubDate>
-      <description>En minut tog det mellan Ljungskile och IFK Norrköping. Då hade Vilmer Tyrén stått för ett sanslöst drömmål – från egen planhalva. – Vad är det som sker?, säger TV4:s kommentator Marcus Bühlund.</description>
-      <category>SportExpressen</category>
     </item>
   </channel>
 </rss>

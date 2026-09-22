@@ -1,7 +1,40 @@
 {
   "year": 2026,
-  "itemCount": 560,
+  "itemCount": 561,
   "items": [
+    {
+      "id": "ifk-kulturnatten-pa-idrottsparken",
+      "title": "Kulturnatten på Idrottsparken",
+      "summary": "Kulturnatten på Idrottsparken",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/kulturnatten-pa-idrottsparken/",
+      "publishedAt": "2026-09-22T11:58:07.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
     {
       "id": "genom-ljuva-livet-192-fest-i-vaxjo",
       "title": "192. Fest i Växjö",
