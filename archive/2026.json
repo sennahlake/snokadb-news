@@ -1,7 +1,210 @@
 {
   "year": 2026,
-  "itemCount": 562,
+  "itemCount": 567,
   "items": [
+    {
+      "id": "studio-peking-axel-lundquist",
+      "title": "Axel Lundquist",
+      "summary": "Hur har IFK:s herrtrupp blivit så här stryktålig? Det är en av frågorna vi får svar på när Axel Lundquist gästar oss. I samtalet med Eric Persson och Christer Gustafson berättar fysioterapeuten om hur arbetet fungerar inom det medicinska teamet, vem av spelarna som springer mest och varför årets trupp lyckats så bra. Avsnittet handlar också om Axel Lundquists resa, som bland annat innefattar en ti",
+      "source": "Studio Peking",
+      "sourceUrl": "https://poddtoppen.se/podcast/1738623973/studio-peking",
+      "articleUrl": "https://pod.space/studiopeking/axel-lundquist",
+      "publishedAt": "2026-09-23T15:55:02.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Studio Peking",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd",
+          "IFK i artikel-URL"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "studio-peking"
+    },
+    {
+      "id": "sportexpressen-allsvenskan-tony-martinsson-lamnar-ifk-norrkoping-valdigt-mycket-kanslor",
+      "title": "Tony Martinsson lämnar IFK Norrköping: ”Väldigt mycket känslor”",
+      "summary": "Tony ”Tonna” Martinsson, 59, lämnar IFK Norrköping efter nästan 40 år i föreningen. Det meddelar klubben. – Det är väldigt mycket känslor just den här dagen, säger Martinsson till föreningens hemsida.",
+      "source": "SportExpressen",
+      "sourceUrl": "https://www.expressen.se/sport/fotboll/",
+      "articleUrl": "https://www.expressen.se/sport/fotboll/allsvenskan/tony-martinsson-lamnar-ifk-norrkoping-valdigt-mycket-kanslor/",
+      "publishedAt": "2026-09-23T14:20:37.000Z",
+      "category": "Nyhet",
+      "tags": [
+        "Extern originalkälla",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "SportExpressen"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK i rubrik"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "sportexpressen",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "SportExpressen",
+          "date": "2026-09-23",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-profilen-slutar-i-ifk-foreningen-ar-min-familj-rmwqzo6l",
+      "title": "Tony Martinsson slutar i IFK: \"Föreningen är min familj\"",
+      "summary": "Tony Martinsson har gjort det mesta i IFK. Nu lämnar han klubben.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/profilen-slutar-i-ifk-foreningen-ar-min-familj-/rmwqzo6l",
+      "publishedAt": "2026-09-23T13:27:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-23",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-ifk-spelarna-som-maste-kliva-fram-mitt-i-dramat-l61z4q8j",
+      "title": "IFK-spelarna som måste kliva fram mitt i dramat",
+      "summary": "Tränarskifte och trendbrott. Hur ska det egentligen gå med IFK:s damallsvenska säsong? Våra reportrar och krönikörer, Christer Gustafson och Eric Persson, svarar på tre aktuella frågor.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-spelarna-som-maste-kliva-fram-mitt-i-dramat/l61z4q8j",
+      "publishedAt": "2026-09-23T13:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-23",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "ifk-tony-martinsson-tackar-for-sig-det-ar-mycket-kanslor-idag",
+      "title": "Tony Martinsson tackar för sig – “Det är mycket känslor idag”",
+      "summary": "Tony Martinsson tackar för sig – “Det är mycket känslor idag”",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/tony-martinsson-tackar-for-sig-det-ar-mycket-kanslor-idag/",
+      "publishedAt": "2026-09-23T12:30:29.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
     {
       "id": "ifk-vill-du-spela-i-ifk-norrkopings-flickakademi",
       "title": "Vill du spela i IFK Norrköpings flickakademi?",
