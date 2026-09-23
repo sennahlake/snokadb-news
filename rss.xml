@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Tue, 22 Sep 2026 11:58:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 11:13:30 GMT</lastBuildDate>
+    <item>
+      <title>Vill du spela i IFK Norrköpings flickakademi?</title>
+      <link>https://ifknorrkoping.se/vill-du-spela-i-ifk-norrkopings-flickakademi/</link>
+      <guid isPermaLink="false">ifk-vill-du-spela-i-ifk-norrkopings-flickakademi</guid>
+      <pubDate>Wed, 23 Sep 2026 11:13:30 GMT</pubDate>
+      <description>Vill du spela i IFK Norrköpings flickakademi?</description>
+      <category>IFK Norrköping</category>
+    </item>
     <item>
       <title>Kulturnatten på Idrottsparken</title>
       <link>https://ifknorrkoping.se/kulturnatten-pa-idrottsparken/</link>
@@ -796,14 +804,6 @@
       <guid isPermaLink="false">nt-retoriken-sager-nagot-om-det-har-laget-jdqv7w1r</guid>
       <pubDate>Fri, 04 Sep 2026 20:47:00 GMT</pubDate>
       <description>Förlust? Nej, snarare en kalkylerad del av en superettansäsong. Och intensiva applåder till Christoffer Nyman.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Nyman historisk – men får fira efter säsongen: &quot;Fokus på annat&quot;</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/nyman-historisk-malskytt-i-ifk-norrkoping/jvznpx7r</link>
-      <guid isPermaLink="false">nt-nyman-historisk-malskytt-i-ifk-norrkoping-jvznpx7r</guid>
-      <pubDate>Fri, 04 Sep 2026 20:12:00 GMT</pubDate>
-      <description>Christoffer Nyman skrev historia mot Ljungskile. Med sitt mål blev han IFK Norrköpings främste målskytt genom tiderna i seriespel – men efter 2–2-matchen var rekordet långt ifrån det som upptog hans tankar. – Det här är frågor för en annan dag, säger han.</description>
       <category>Norrköpings Tidningar</category>
     </item>
   </channel>

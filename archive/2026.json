@@ -1,7 +1,41 @@
 {
   "year": 2026,
-  "itemCount": 561,
+  "itemCount": 562,
   "items": [
+    {
+      "id": "ifk-vill-du-spela-i-ifk-norrkopings-flickakademi",
+      "title": "Vill du spela i IFK Norrköpings flickakademi?",
+      "summary": "Vill du spela i IFK Norrköpings flickakademi?",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/vill-du-spela-i-ifk-norrkopings-flickakademi/",
+      "publishedAt": "2026-09-23T11:13:30.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla",
+          "IFK i rubrik"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
     {
       "id": "ifk-kulturnatten-pa-idrottsparken",
       "title": "Kulturnatten på Idrottsparken",
