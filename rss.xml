@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Wed, 23 Sep 2026 15:55:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 08:12:23 GMT</lastBuildDate>
+    <item>
+      <title>Ligacupen Elit Norra: Truppen mot BP</title>
+      <link>https://ifknorrkoping.se/ligacupen-elit-norra-truppen-mot-bp-2/</link>
+      <guid isPermaLink="false">ifk-ligacupen-elit-norra-truppen-mot-bp-2</guid>
+      <pubDate>Thu, 24 Sep 2026 08:12:23 GMT</pubDate>
+      <description>Ligacupen Elit Norra: Truppen mot BP</description>
+      <category>IFK Norrköping</category>
+    </item>
     <item>
       <title>Axel Lundquist</title>
       <link>https://pod.space/studiopeking/axel-lundquist</link>
@@ -796,14 +804,6 @@
       <guid isPermaLink="false">nt-femte-raka-utan-seger-for-ifk-foll-mot-hammarby-jdqvkevr</guid>
       <pubDate>Sat, 05 Sep 2026 10:15:00 GMT</pubDate>
       <description>IFK Norrköping lyckades inte rubba guldjagande Hammarby på bortaplan. Efter en mållös första halvlek avgjorde stockholmarna med två mål efter paus och vann med 2–0. Förlusten innebär att IFK befinner sig på nedflyttningsplats i damallsvenskan. Här är vår liverapportering från matchen.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Svår uppgift för IFK – följ matchen mot Hammarby</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/svar-uppgift-for-ifk-folj-matchen-mot-hammarby/jdqvkevr</link>
-      <guid isPermaLink="false">nt-svar-uppgift-for-ifk-folj-matchen-mot-hammarby-jdqvkevr</guid>
-      <pubDate>Sat, 05 Sep 2026 10:15:00 GMT</pubDate>
-      <description>Kan formsvaga IFK knäcka guldjagande Hammarby? Vi rapporterar direkt från matchen i Stockholm. Häng med nedan.</description>
       <category>Norrköpings Tidningar</category>
     </item>
   </channel>

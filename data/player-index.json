@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
-  "itemCount": 801,
+  "itemCount": 822,
   "sides": {
     "Herr": 777,
-    "Dam": 24
+    "Dam": 45
   },
   "players": [
     {
@@ -188,6 +188,15 @@
         2000,
         2001,
         2002
+      ]
+    },
+    {
+      "name": "Alexandra Hellekant",
+      "slug": "alexandra-hellekant",
+      "side": "Dam",
+      "seasons": [
+        2024,
+        2025
       ]
     },
     {
@@ -1142,10 +1151,20 @@
       ]
     },
     {
+      "name": "Caroline Delisle",
+      "slug": "caroline-delisle",
+      "side": "Dam",
+      "seasons": [
+        2024,
+        2025
+      ]
+    },
+    {
       "name": "Carrie Jones",
       "slug": "carrie-jones",
       "side": "Dam",
       "seasons": [
+        2024,
         2025,
         2026
       ]
@@ -1314,6 +1333,15 @@
       "side": "Herr",
       "seasons": [
         1984
+      ]
+    },
+    {
+      "name": "Dana Leskinen",
+      "slug": "dana-leskinen",
+      "side": "Dam",
+      "seasons": [
+        2024,
+        2025
       ]
     },
     {
@@ -1621,6 +1649,9 @@
       "slug": "ebba-handfast",
       "side": "Dam",
       "seasons": [
+        2022,
+        2023,
+        2024,
         2025,
         2026
       ]
@@ -1770,6 +1801,7 @@
       "slug": "elin-rombing",
       "side": "Dam",
       "seasons": [
+        2024,
         2025,
         2026
       ]
@@ -1807,6 +1839,17 @@
       "seasons": [
         1933,
         1934
+      ]
+    },
+    {
+      "name": "Elsa Burvall",
+      "slug": "elsa-burvall",
+      "side": "Dam",
+      "seasons": [
+        2022,
+        2023,
+        2024,
+        2025
       ]
     },
     {
@@ -1876,6 +1919,15 @@
       "side": "Dam",
       "seasons": [
         2026
+      ]
+    },
+    {
+      "name": "Emma Lind",
+      "slug": "emma-lind",
+      "side": "Dam",
+      "seasons": [
+        2023,
+        2024
       ]
     },
     {
@@ -2011,6 +2063,7 @@
       "slug": "fanny-andersson",
       "side": "Dam",
       "seasons": [
+        2024,
         2025,
         2026
       ]
@@ -2103,6 +2156,14 @@
       ]
     },
     {
+      "name": "Frederikke Holmberg",
+      "slug": "frederikke-holmberg",
+      "side": "Dam",
+      "seasons": [
+        2025
+      ]
+    },
+    {
       "name": "Fredrik Bild",
       "slug": "fredrik-bild",
       "side": "Herr",
@@ -2136,6 +2197,8 @@
       "slug": "freja-lindwall",
       "side": "Dam",
       "seasons": [
+        2023,
+        2024,
         2025,
         2026
       ]
@@ -3190,6 +3253,14 @@
       ]
     },
     {
+      "name": "Inger Vadder",
+      "slug": "inger-vadder",
+      "side": "Dam",
+      "seasons": [
+        2026
+      ]
+    },
+    {
       "name": "Irmeli Jonsson",
       "slug": "irmeli-jonsson",
       "side": "Herr",
@@ -3299,6 +3370,14 @@
         2022,
         2023,
         2024,
+        2025
+      ]
+    },
+    {
+      "name": "Jada Conijnenberg",
+      "slug": "jada-conijnenberg",
+      "side": "Dam",
+      "seasons": [
         2025
       ]
     },
@@ -3499,6 +3578,16 @@
       ]
     },
     {
+      "name": "Jennie Egeriis",
+      "slug": "jennie-egeriis",
+      "side": "Dam",
+      "seasons": [
+        2022,
+        2023,
+        2024
+      ]
+    },
+    {
       "name": "Jens Nilsson",
       "slug": "jens-nilsson",
       "side": "Herr",
@@ -3550,6 +3639,15 @@
       "side": "Herr",
       "seasons": [
         2023
+      ]
+    },
+    {
+      "name": "Jessica Wik",
+      "slug": "jessica-wik",
+      "side": "Dam",
+      "seasons": [
+        2025,
+        2026
       ]
     },
     {
@@ -4817,6 +4915,7 @@
       "slug": "lovisa-carmblad",
       "side": "Dam",
       "seasons": [
+        2024,
         2026
       ]
     },
@@ -4906,6 +5005,15 @@
         2021,
         2022,
         2023
+      ]
+    },
+    {
+      "name": "Maja Regnås Valcic",
+      "slug": "maja-regnas-valcic",
+      "side": "Dam",
+      "seasons": [
+        2024,
+        2025
       ]
     },
     {
@@ -5253,6 +5361,15 @@
       ]
     },
     {
+      "name": "Maya Aliyah Antoine",
+      "slug": "maya-aliyah-antoine",
+      "side": "Dam",
+      "seasons": [
+        2024,
+        2025
+      ]
+    },
+    {
       "name": "Mbaye Cissé",
       "slug": "mbaye-cisse",
       "side": "Herr",
@@ -5521,6 +5638,16 @@
       ]
     },
     {
+      "name": "Molly Wiklander",
+      "slug": "molly-wiklander",
+      "side": "Dam",
+      "seasons": [
+        2022,
+        2023,
+        2024
+      ]
+    },
+    {
       "name": "Morten Skjønsberg",
       "slug": "morten-skjonsberg",
       "side": "Herr",
@@ -5540,6 +5667,16 @@
         2024,
         2025,
         2026
+      ]
+    },
+    {
+      "name": "My Cato",
+      "slug": "my-cato",
+      "side": "Dam",
+      "seasons": [
+        2022,
+        2023,
+        2024
       ]
     },
     {
@@ -6789,6 +6926,17 @@
       ]
     },
     {
+      "name": "Sabina Ravnell",
+      "slug": "sabina-ravnell",
+      "side": "Dam",
+      "seasons": [
+        2022,
+        2023,
+        2024,
+        2025
+      ]
+    },
+    {
       "name": "Saleh Saadoo",
       "slug": "saleh-saadoo",
       "side": "Herr",
@@ -6798,11 +6946,28 @@
       ]
     },
     {
+      "name": "Samantha Cary",
+      "slug": "samantha-cary",
+      "side": "Dam",
+      "seasons": [
+        2024,
+        2025
+      ]
+    },
+    {
       "name": "Samuel Adegbenro",
       "slug": "samuel-adegbenro",
       "side": "Herr",
       "seasons": [
         2021
+      ]
+    },
+    {
+      "name": "Sara Kanutte Sørensen Fornes",
+      "slug": "sara-kanutte-sorensen-fornes",
+      "side": "Dam",
+      "seasons": [
+        2024
       ]
     },
     {
@@ -6891,6 +7056,7 @@
       "slug": "sigdis-eva-bardardottir",
       "side": "Dam",
       "seasons": [
+        2024,
         2025,
         2026
       ]
@@ -6998,6 +7164,9 @@
       "slug": "sofia-hjern",
       "side": "Dam",
       "seasons": [
+        2022,
+        2023,
+        2024,
         2025,
         2026
       ]
@@ -7191,6 +7360,16 @@
       "seasons": [
         1976,
         1977
+      ]
+    },
+    {
+      "name": "Svea Rehnberg",
+      "slug": "svea-rehnberg",
+      "side": "Dam",
+      "seasons": [
+        2023,
+        2024,
+        2025
       ]
     },
     {
@@ -7846,6 +8025,15 @@
       ]
     },
     {
+      "name": "Vesna Milivojevic",
+      "slug": "vesna-milivojevic",
+      "side": "Dam",
+      "seasons": [
+        2024,
+        2025
+      ]
+    },
+    {
       "name": "Victor Blomqvist",
       "slug": "victor-blomqvist",
       "side": "Herr",
@@ -7920,6 +8108,16 @@
       ]
     },
     {
+      "name": "Viktoria Veber",
+      "slug": "viktoria-veber",
+      "side": "Dam",
+      "seasons": [
+        2023,
+        2024,
+        2025
+      ]
+    },
+    {
       "name": "Vito Hammershoj-Mistrati",
       "slug": "vito-hammershoj-mistrati",
       "side": "Herr",
@@ -7944,6 +8142,17 @@
       "seasons": [
         2025,
         2026
+      ]
+    },
+    {
+      "name": "Wilma Leidhammar",
+      "slug": "wilma-leidhammar",
+      "side": "Dam",
+      "seasons": [
+        2022,
+        2023,
+        2024,
+        2025
       ]
     },
     {

@@ -1,7 +1,40 @@
 {
   "year": 2026,
-  "itemCount": 567,
+  "itemCount": 568,
   "items": [
+    {
+      "id": "ifk-ligacupen-elit-norra-truppen-mot-bp-2",
+      "title": "Ligacupen Elit Norra: Truppen mot BP",
+      "summary": "Ligacupen Elit Norra: Truppen mot BP",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/ligacupen-elit-norra-truppen-mot-bp-2/",
+      "publishedAt": "2026-09-24T08:12:23.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
     {
       "id": "studio-peking-axel-lundquist",
       "title": "Axel Lundquist",
