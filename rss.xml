@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Fri, 25 Sep 2026 06:57:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 18:03:09 GMT</lastBuildDate>
+    <item>
+      <title>Elias Jemal blir kvar på “Parken” – “Livet är på topp här!”</title>
+      <link>https://ifknorrkoping.se/elias-jemal-blir-kvar-pa-parken-livet-ar-pa-topp-har/</link>
+      <guid isPermaLink="false">ifk-elias-jemal-blir-kvar-pa-parken-livet-ar-pa-topp-har</guid>
+      <pubDate>Fri, 25 Sep 2026 18:03:09 GMT</pubDate>
+      <description>Elias Jemal blir kvar på “Parken” – “Livet är på topp här!”</description>
+      <category>IFK Norrköping</category>
+    </item>
+    <item>
+      <title>Nyckeln mot serieledarna: “Att vi är modiga och att vi vågar vinna”</title>
+      <link>https://ifknorrkoping.se/nyckeln-mot-serieledarna-att-vi-ar-modiga-och-att-vi-vagar-vinna/</link>
+      <guid isPermaLink="false">ifk-nyckeln-mot-serieledarna-att-vi-ar-modiga-och-att-vi-vagar-vinna</guid>
+      <pubDate>Fri, 25 Sep 2026 14:14:55 GMT</pubDate>
+      <description>Nyckeln mot serieledarna: “Att vi är modiga och att vi vågar vinna”</description>
+      <category>IFK Norrköping</category>
+    </item>
     <item>
       <title>Publikinformation: IFK Norrköping-BK Häcken</title>
       <link>https://ifknorrkoping.se/publikinformation-ifk-norrkoping-bk-hacken-5/</link>
@@ -789,22 +805,6 @@
       <pubDate>Sat, 05 Sep 2026 15:39:00 GMT</pubDate>
       <description>Tidigare i år gjorde Fanny Andersson comeback efter sin korsbandsskada. Nu tvingades 31-åringen bryta med smärtor i samma knä. – Det blev tomt, säger hon.</description>
       <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Mats höll på att mista livet på läktaren – två gånger på ett år</title>
-      <link>https://www.tv4.se/artikel/4dUUxvM4ltuVuwAdC4l2oK/oeis-supportern-mats-hoell-pa-att-mista-livet-pa-laektaren-tva-ganger</link>
-      <guid isPermaLink="false">tv4-4duuxvm4ltuvuwadc4l2ok-oeis-supportern-mats-hoell-pa-att-mista-livet-pa-laektaren-tva-ganger</guid>
-      <pubDate>Sat, 05 Sep 2026 15:22:23 GMT</pubDate>
-      <description>I november förra året såg 66-årige Mats Larsson, Öis-supporter sedan 1967, sitt lag spela kvalmatch mot IFK Norrköping på Norrköping Idrottspark. I halvtid drabbades han av hjärtstopp på läktaren. Med hjälp av en hjärtstartare och två personer utbildade i hjärt-lungräddning kunde hans liv räddas. I söndags var Mats åter på läktaren – den här gången på Gamla Ullevi för Göteborgsderbyt mellan IFK Gö</description>
-      <category>TV4</category>
-    </item>
-    <item>
-      <title>Hammarbys åttonde raka match utan förlust</title>
-      <link>https://www.expressen.se/sport/fotboll/damallsvenskan/hammarbys-attonde-raka-match-utan-forlust/</link>
-      <guid isPermaLink="false">sportexpressen-damallsvenskan-hammarbys-attonde-raka-match-utan-forlust</guid>
-      <pubDate>Sat, 05 Sep 2026 15:00:42 GMT</pubDate>
-      <description>Hammarby har nu spelat åtta matcher utan att förlora i damallsvenskan. Efter att IFK Norrköping nollats under lördagen skuggas fortsatt BK Häcken i toppen.</description>
-      <category>SportExpressen</category>
     </item>
   </channel>
 </rss>

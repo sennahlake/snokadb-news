@@ -1,7 +1,86 @@
 {
   "year": 2026,
-  "itemCount": 570,
+  "itemCount": 572,
   "items": [
+    {
+      "id": "ifk-elias-jemal-blir-kvar-pa-parken-livet-ar-pa-topp-har",
+      "title": "Elias Jemal blir kvar på “Parken” – “Livet är på topp här!”",
+      "summary": "Elias Jemal blir kvar på “Parken” – “Livet är på topp här!”",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/elias-jemal-blir-kvar-pa-parken-livet-ar-pa-topp-har/",
+      "publishedAt": "2026-09-25T18:03:09.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Elias Jemal",
+          "slug": "elias-jemal",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "ifk-nyckeln-mot-serieledarna-att-vi-ar-modiga-och-att-vi-vagar-vinna",
+      "title": "Nyckeln mot serieledarna: “Att vi är modiga och att vi vågar vinna”",
+      "summary": "Nyckeln mot serieledarna: “Att vi är modiga och att vi vågar vinna”",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/nyckeln-mot-serieledarna-att-vi-ar-modiga-och-att-vi-vagar-vinna/",
+      "publishedAt": "2026-09-25T14:14:55.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
     {
       "id": "ifk-publikinformation-ifk-norrkoping-bk-hacken-5",
       "title": "Publikinformation: IFK Norrköping-BK Häcken",

@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
-  "itemCount": 822,
+  "itemCount": 869,
   "sides": {
     "Herr": 777,
-    "Dam": 45
+    "Dam": 92
   },
   "players": [
     {
@@ -262,12 +262,54 @@
       ]
     },
     {
+      "name": "Alma Ekberg",
+      "slug": "alma-ekberg",
+      "side": "Dam",
+      "seasons": [
+        2020,
+        2021
+      ]
+    },
+    {
+      "name": "Alma Sjödahl",
+      "slug": "alma-sjodahl",
+      "side": "Dam",
+      "seasons": [
+        2020,
+        2021
+      ]
+    },
+    {
+      "name": "Alva Lundin",
+      "slug": "alva-lundin",
+      "side": "Dam",
+      "seasons": [
+        2021
+      ]
+    },
+    {
+      "name": "Alva Selerud",
+      "slug": "alva-selerud",
+      "side": "Dam",
+      "seasons": [
+        2021
+      ]
+    },
+    {
       "name": "Amadeus Sögaard",
       "slug": "amadeus-sogaard",
       "side": "Herr",
       "seasons": [
         2024,
         2025
+      ]
+    },
+    {
+      "name": "Amanda Jeppson",
+      "slug": "amanda-jeppson",
+      "side": "Dam",
+      "seasons": [
+        2022
       ]
     },
     {
@@ -697,6 +739,15 @@
       ]
     },
     {
+      "name": "Azumah Bugre",
+      "slug": "azumah-bugre",
+      "side": "Dam",
+      "seasons": [
+        2022,
+        2023
+      ]
+    },
+    {
       "name": "Badou Sene",
       "slug": "badou-sene",
       "side": "Herr",
@@ -1120,6 +1171,22 @@
       ]
     },
     {
+      "name": "Cajsa Åkerberg",
+      "slug": "cajsa-akerberg",
+      "side": "Dam",
+      "seasons": [
+        2021
+      ]
+    },
+    {
+      "name": "Camilla Olsson",
+      "slug": "camilla-olsson",
+      "side": "Dam",
+      "seasons": [
+        2021
+      ]
+    },
+    {
       "name": "Carl Björk",
       "slug": "carl-bjork",
       "side": "Herr",
@@ -1167,6 +1234,22 @@
         2024,
         2025,
         2026
+      ]
+    },
+    {
+      "name": "Chelsie Dawber",
+      "slug": "chelsie-dawber",
+      "side": "Dam",
+      "seasons": [
+        2023
+      ]
+    },
+    {
+      "name": "Chloe Eriksson",
+      "slug": "chloe-eriksson",
+      "side": "Dam",
+      "seasons": [
+        2021
       ]
     },
     {
@@ -1274,6 +1357,25 @@
         2017,
         2019,
         2020,
+        2021,
+        2022
+      ]
+    },
+    {
+      "name": "Clara Flenhagen",
+      "slug": "clara-flenhagen",
+      "side": "Dam",
+      "seasons": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    {
+      "name": "Cornelia Baldi Sundelius",
+      "slug": "cornelia-baldi-sundelius",
+      "side": "Dam",
+      "seasons": [
         2021,
         2022
       ]
@@ -1589,6 +1691,15 @@
       ]
     },
     {
+      "name": "Diljá Ýr Zomers",
+      "slug": "dilja-r-zomers",
+      "side": "Dam",
+      "seasons": [
+        2022,
+        2023
+      ]
+    },
+    {
       "name": "Dime Jankulovski",
       "slug": "dime-jankulovski",
       "side": "Herr",
@@ -1654,6 +1765,15 @@
         2024,
         2025,
         2026
+      ]
+    },
+    {
+      "name": "Ebba Sjögren",
+      "slug": "ebba-sjogren",
+      "side": "Dam",
+      "seasons": [
+        2020,
+        2021
       ]
     },
     {
@@ -1797,6 +1917,14 @@
       ]
     },
     {
+      "name": "Elin Landström",
+      "slug": "elin-landstrom",
+      "side": "Dam",
+      "seasons": [
+        2023
+      ]
+    },
+    {
       "name": "Elin Rombing",
       "slug": "elin-rombing",
       "side": "Dam",
@@ -1879,6 +2007,15 @@
       ]
     },
     {
+      "name": "Emelie Lindh",
+      "slug": "emelie-lindh",
+      "side": "Dam",
+      "seasons": [
+        2021,
+        2022
+      ]
+    },
+    {
       "name": "Emil Holmberg",
       "slug": "emil-holmberg",
       "side": "Herr",
@@ -1918,6 +2055,7 @@
       "slug": "emma-engstrom",
       "side": "Dam",
       "seasons": [
+        2021,
         2026
       ]
     },
@@ -1948,6 +2086,14 @@
         2017,
         2018,
         2020
+      ]
+    },
+    {
+      "name": "Erica Cunningham",
+      "slug": "erica-cunningham",
+      "side": "Dam",
+      "seasons": [
+        2021
       ]
     },
     {
@@ -2148,9 +2294,34 @@
       ]
     },
     {
+      "name": "Filippa Karlberg",
+      "slug": "filippa-karlberg",
+      "side": "Dam",
+      "seasons": [
+        2020,
+        2021
+      ]
+    },
+    {
+      "name": "Filippa Sjöberg",
+      "slug": "filippa-sjoberg",
+      "side": "Dam",
+      "seasons": [
+        2020
+      ]
+    },
+    {
       "name": "Finnur Tómas Pálmason",
       "slug": "finnur-tomas-palmason",
       "side": "Herr",
+      "seasons": [
+        2021
+      ]
+    },
+    {
+      "name": "Fiona Eriksson",
+      "slug": "fiona-eriksson",
+      "side": "Dam",
       "seasons": [
         2021
       ]
@@ -2339,6 +2510,14 @@
       ]
     },
     {
+      "name": "Gloria Douglas",
+      "slug": "gloria-douglas",
+      "side": "Dam",
+      "seasons": [
+        2021
+      ]
+    },
+    {
       "name": "Godswill Ekpolo",
       "slug": "godswill-ekpolo",
       "side": "Herr",
@@ -2352,6 +2531,15 @@
       "side": "Herr",
       "seasons": [
         2015
+      ]
+    },
+    {
+      "name": "Grace Demir",
+      "slug": "grace-demir",
+      "side": "Dam",
+      "seasons": [
+        2020,
+        2021
       ]
     },
     {
@@ -3180,6 +3368,15 @@
       ]
     },
     {
+      "name": "Ida Andersson",
+      "slug": "ida-andersson",
+      "side": "Dam",
+      "seasons": [
+        2020,
+        2021
+      ]
+    },
+    {
       "name": "Ida Larsson",
       "slug": "ida-larsson",
       "side": "Dam",
@@ -3261,10 +3458,22 @@
       ]
     },
     {
+      "name": "Irma Cajlakovic",
+      "slug": "irma-cajlakovic",
+      "side": "Dam",
+      "seasons": [
+        2020,
+        2021,
+        2022,
+        2023
+      ]
+    },
+    {
       "name": "Irmeli Jonsson",
       "slug": "irmeli-jonsson",
       "side": "Herr",
       "seasons": [
+        2021,
         2023
       ]
     },
@@ -3582,6 +3791,7 @@
       "slug": "jennie-egeriis",
       "side": "Dam",
       "seasons": [
+        2021,
         2022,
         2023,
         2024
@@ -3768,6 +3978,22 @@
         2003,
         2004,
         2005
+      ]
+    },
+    {
+      "name": "Johanna Alm",
+      "slug": "johanna-alm",
+      "side": "Dam",
+      "seasons": [
+        2021
+      ]
+    },
+    {
+      "name": "Johanna Renmark",
+      "slug": "johanna-renmark",
+      "side": "Dam",
+      "seasons": [
+        2021
       ]
     },
     {
@@ -4086,6 +4312,14 @@
       "seasons": [
         2025,
         2026
+      ]
+    },
+    {
+      "name": "Julia Nyström",
+      "slug": "julia-nystrom",
+      "side": "Dam",
+      "seasons": [
+        2020
       ]
     },
     {
@@ -4417,6 +4651,14 @@
       "side": "Herr",
       "seasons": [
         2019
+      ]
+    },
+    {
+      "name": "Kristen Sakaki",
+      "slug": "kristen-sakaki",
+      "side": "Dam",
+      "seasons": [
+        2023
       ]
     },
     {
@@ -4843,6 +5085,14 @@
       ]
     },
     {
+      "name": "Linn Vickius",
+      "slug": "linn-vickius",
+      "side": "Dam",
+      "seasons": [
+        2021
+      ]
+    },
+    {
       "name": "Linus Brunzell",
       "slug": "linus-brunzell",
       "side": "Herr",
@@ -4902,6 +5152,14 @@
       ]
     },
     {
+      "name": "Lisa Mini Johansson",
+      "slug": "lisa-mini-johansson",
+      "side": "Dam",
+      "seasons": [
+        2023
+      ]
+    },
+    {
       "name": "Lova Braam",
       "slug": "lova-braam",
       "side": "Dam",
@@ -4917,6 +5175,17 @@
       "seasons": [
         2024,
         2026
+      ]
+    },
+    {
+      "name": "Lovisa Gustafsson",
+      "slug": "lovisa-gustafsson",
+      "side": "Dam",
+      "seasons": [
+        2020,
+        2021,
+        2022,
+        2023
       ]
     },
     {
@@ -5249,6 +5518,14 @@
         1999,
         2000,
         2001
+      ]
+    },
+    {
+      "name": "Mathilda Holmberg",
+      "slug": "mathilda-holmberg",
+      "side": "Dam",
+      "seasons": [
+        2020
       ]
     },
     {
@@ -5604,6 +5881,14 @@
       ]
     },
     {
+      "name": "Mimmi Wiklund",
+      "slug": "mimmi-wiklund",
+      "side": "Dam",
+      "seasons": [
+        2022
+      ]
+    },
+    {
       "name": "Mirza Halvadzic",
       "slug": "mirza-halvadzic",
       "side": "Herr",
@@ -5642,6 +5927,8 @@
       "slug": "molly-wiklander",
       "side": "Dam",
       "seasons": [
+        2020,
+        2021,
         2022,
         2023,
         2024
@@ -5674,6 +5961,7 @@
       "slug": "my-cato",
       "side": "Dam",
       "seasons": [
+        2021,
         2022,
         2023,
         2024
@@ -5742,6 +6030,14 @@
         1992,
         1993,
         1994
+      ]
+    },
+    {
+      "name": "Nicole Robertson",
+      "slug": "nicole-robertson",
+      "side": "Dam",
+      "seasons": [
+        2023
       ]
     },
     {
@@ -6858,6 +7154,15 @@
       ]
     },
     {
+      "name": "Ronja Karlsson Törnborg",
+      "slug": "ronja-karlsson-tornborg",
+      "side": "Dam",
+      "seasons": [
+        2020,
+        2021
+      ]
+    },
+    {
       "name": "Roy Bergström",
       "slug": "roy-bergstrom",
       "side": "Herr",
@@ -6930,6 +7235,8 @@
       "slug": "sabina-ravnell",
       "side": "Dam",
       "seasons": [
+        2020,
+        2021,
         2022,
         2023,
         2024,
@@ -7034,6 +7341,43 @@
       ]
     },
     {
+      "name": "Selma Berggren",
+      "slug": "selma-berggren",
+      "side": "Dam",
+      "seasons": [
+        2021,
+        2022
+      ]
+    },
+    {
+      "name": "Selma Cajlakovic",
+      "slug": "selma-cajlakovic",
+      "side": "Dam",
+      "seasons": [
+        2020,
+        2021,
+        2022,
+        2023
+      ]
+    },
+    {
+      "name": "Selma Nyström",
+      "slug": "selma-nystrom",
+      "side": "Dam",
+      "seasons": [
+        2021,
+        2022
+      ]
+    },
+    {
+      "name": "Shannon Woeller",
+      "slug": "shannon-woeller",
+      "side": "Dam",
+      "seasons": [
+        2023
+      ]
+    },
+    {
       "name": "Sheka Fofanah",
       "slug": "sheka-fofanah",
       "side": "Herr",
@@ -7134,6 +7478,14 @@
       ]
     },
     {
+      "name": "Siri Ed Kristersson",
+      "slug": "siri-ed-kristersson",
+      "side": "Dam",
+      "seasons": [
+        2020
+      ]
+    },
+    {
       "name": "Siyabonga Siphika",
       "slug": "siyabonga-siphika",
       "side": "Herr",
@@ -7164,6 +7516,8 @@
       "slug": "sofia-hjern",
       "side": "Dam",
       "seasons": [
+        2020,
+        2021,
         2022,
         2023,
         2024,
@@ -7552,6 +7906,14 @@
       ]
     },
     {
+      "name": "Taylor Townsend",
+      "slug": "taylor-townsend",
+      "side": "Dam",
+      "seasons": [
+        2022
+      ]
+    },
+    {
       "name": "Tesfaldet Tekie",
       "slug": "tesfaldet-tekie",
       "side": "Herr",
@@ -7575,6 +7937,16 @@
       "side": "Herr",
       "seasons": [
         2020,
+        2021,
+        2022,
+        2023
+      ]
+    },
+    {
+      "name": "Thilde Alvberger",
+      "slug": "thilde-alvberger",
+      "side": "Dam",
+      "seasons": [
         2021,
         2022,
         2023
@@ -7687,6 +8059,22 @@
       "seasons": [
         2015,
         2016
+      ]
+    },
+    {
+      "name": "Tilda Lundström",
+      "slug": "tilda-lundstrom",
+      "side": "Dam",
+      "seasons": [
+        2020
+      ]
+    },
+    {
+      "name": "Tilda Sjöqvist",
+      "slug": "tilda-sjoqvist",
+      "side": "Dam",
+      "seasons": [
+        2021
       ]
     },
     {
@@ -8025,6 +8413,14 @@
       ]
     },
     {
+      "name": "Vanessa Karagöl",
+      "slug": "vanessa-karagol",
+      "side": "Dam",
+      "seasons": [
+        2020
+      ]
+    },
+    {
       "name": "Vesna Milivojevic",
       "slug": "vesna-milivojevic",
       "side": "Dam",
@@ -8115,6 +8511,22 @@
         2023,
         2024,
         2025
+      ]
+    },
+    {
+      "name": "Viktoria Weber",
+      "slug": "viktoria-weber",
+      "side": "Dam",
+      "seasons": [
+        2026
+      ]
+    },
+    {
+      "name": "Vilma Emilia Koivisto",
+      "slug": "vilma-emilia-koivisto",
+      "side": "Dam",
+      "seasons": [
+        2023
       ]
     },
     {
