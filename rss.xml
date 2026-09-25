@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Thu, 24 Sep 2026 13:59:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 06:57:00 GMT</lastBuildDate>
+    <item>
+      <title>Publikinformation: IFK Norrköping-BK Häcken</title>
+      <link>https://ifknorrkoping.se/publikinformation-ifk-norrkoping-bk-hacken-5/</link>
+      <guid isPermaLink="false">ifk-publikinformation-ifk-norrkoping-bk-hacken-5</guid>
+      <pubDate>Fri, 25 Sep 2026 06:57:00 GMT</pubDate>
+      <description>Publikinformation: IFK Norrköping-BK Häcken</description>
+      <category>IFK Norrköping</category>
+    </item>
     <item>
       <title>IFK-löftet imponerar: &quot;Tar steg varje dag&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/ifk-loftet-imponerar-tar-steg-varje-dag/rmwqzmml</link>
@@ -797,14 +805,6 @@
       <pubDate>Sat, 05 Sep 2026 15:00:42 GMT</pubDate>
       <description>Hammarby har nu spelat åtta matcher utan att förlora i damallsvenskan. Efter att IFK Norrköping nollats under lördagen skuggas fortsatt BK Häcken i toppen.</description>
       <category>SportExpressen</category>
-    </item>
-    <item>
-      <title>IFK föll mot Hammarby – ligger på nedflyttningsplats</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/ifk-foll-mot-hammarby-ligger-pa-nedflyttningsplats/jdqvkevr</link>
-      <guid isPermaLink="false">nt-ifk-foll-mot-hammarby-ligger-pa-nedflyttningsplats-jdqvkevr</guid>
-      <pubDate>Sat, 05 Sep 2026 10:15:00 GMT</pubDate>
-      <description>IFK Norrköping lyckades inte rubba guldjagande Hammarby på bortaplan. Efter en mållös första halvlek avgjorde stockholmarna med två mål efter paus och vann med 2–0. Förlusten innebär att IFK befinner sig på nedflyttningsplats i damallsvenskan. Här är vår liverapportering från matchen.</description>
-      <category>Norrköpings Tidningar</category>
     </item>
   </channel>
 </rss>

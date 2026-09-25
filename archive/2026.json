@@ -1,7 +1,41 @@
 {
   "year": 2026,
-  "itemCount": 569,
+  "itemCount": 570,
   "items": [
+    {
+      "id": "ifk-publikinformation-ifk-norrkoping-bk-hacken-5",
+      "title": "Publikinformation: IFK Norrköping-BK Häcken",
+      "summary": "Publikinformation: IFK Norrköping-BK Häcken",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/publikinformation-ifk-norrkoping-bk-hacken-5/",
+      "publishedAt": "2026-09-25T06:57:00.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla",
+          "IFK i rubrik"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
     {
       "id": "nt-ifk-loftet-imponerar-tar-steg-varje-dag-rmwqzmml",
       "title": "IFK-löftet imponerar: \"Tar steg varje dag\"",
