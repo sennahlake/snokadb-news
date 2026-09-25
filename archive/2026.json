@@ -1,7 +1,65 @@
 {
   "year": 2026,
-  "itemCount": 572,
+  "itemCount": 573,
   "items": [
+    {
+      "id": "nt-elias-jemal-klar-for-ifk-norrkoping-permanent-r230dk7l",
+      "title": "Succéspelaren stannar på \"Parken\": \"Livet är på topp här\"",
+      "summary": "Elias Jemal blir kvar i IFK Norrköping. Succéspelaren har skrivit på ett treårskontrakt. – Livet är på topp här. Norrköping är mitt nya hem, säger han till klubbens hemsida.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/elias-jemal-klar-for-ifk-norrkoping-permanent/r230dk7l",
+      "publishedAt": "2026-09-25T19:24:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Elias Jemal",
+          "slug": "elias-jemal",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-25",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "ifk-elias-jemal-blir-kvar-pa-parken-livet-ar-pa-topp-har",
       "title": "Elias Jemal blir kvar på “Parken” – “Livet är på topp här!”",
