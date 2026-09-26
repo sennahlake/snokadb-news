@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sat, 26 Sep 2026 11:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 16:53:00 GMT</lastBuildDate>
+    <item>
+      <title>Nya skadesmällen för IFK – tre spelare fick kliva av mot Häcken</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/nya-skadesmallen-for-ifk-tre-spelare-fick-kliva-av-mot-hacken/r1wm4g3l</link>
+      <guid isPermaLink="false">nt-nya-skadesmallen-for-ifk-tre-spelare-fick-kliva-av-mot-hacken-r1wm4g3l</guid>
+      <pubDate>Sat, 26 Sep 2026 16:53:00 GMT</pubDate>
+      <description>Några tuffa skador redan. Mot Häcken klev ytterligare tre spelare ut efter smällar. Tuffast såg det ut för Amanda Sundström. – Jag hoppas inget är för allvarligt, sa tränaren Rob Clark.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>IFK möter Champions League-laget – fortsatt jakt på säker mark</title>
       <link>https://www.nt.se/sport/fotboll/artikel/ifk-moter-champions-league-laget-fortsatt-jakt-pa-saker-mark/j82qem1j</link>
@@ -20,6 +28,14 @@
       <guid isPermaLink="false">nt-detaljerna-som-ifks-sportchef-hyllar-efter-kontraktsbeskedet-jo5qw8yl</guid>
       <pubDate>Sat, 26 Sep 2026 11:00:00 GMT</pubDate>
       <description>Han lyfter fram den personliga utvecklingen – och säger att beslutet blev ganska självklart till slut. – Det är en ny Elias Jemal mot hur det var för några år sedan, säger IFK:s sportchef Henrik Jurelius.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>Käftsmäll för IFK – jätteförlust mot Häcken</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/kaftsmall-for-ifk-jatteforlust-mot-hacken/j82qem1j</link>
+      <guid isPermaLink="false">nt-kaftsmall-for-ifk-jatteforlust-mot-hacken-j82qem1j</guid>
+      <pubDate>Sat, 26 Sep 2026 11:00:00 GMT</pubDate>
+      <description>IFK förlorade med 0–6. Vi rapporterade från hemmamötet med BK Häcken.</description>
       <category>Norrköpings Tidningar</category>
     </item>
     <item>
@@ -789,22 +805,6 @@
       <pubDate>Tue, 08 Sep 2026 07:00:00 GMT</pubDate>
       <description>En lovande start, därefter färre minuter. Var befinner sig IFK-löftet Albert Aleksanjan? – På sikt är det en spelare som vi tror kommer bli otroligt bra, säger Eldar Abdulic.</description>
       <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Stora IFK-projektet – dokumenterar säsongen 2026</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/stora-ifk-projektet-dokumenterar-sasongen-2026/jvzn8w7r</link>
-      <guid isPermaLink="false">nt-stora-ifk-projektet-dokumenterar-sasongen-2026-jvzn8w7r</guid>
-      <pubDate>Mon, 07 Sep 2026 18:01:00 GMT</pubDate>
-      <description>Gustav Åström följer IFK på nära håll för att skildra resan – från det som händer på planen till människorna och livet runt omkring. I vår ska det hela mynna ut i en dokumentär om 2026.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>189. Ålagille</title>
-      <link>https://pod.space/genomljuvalivet/189-alagille</link>
-      <guid isPermaLink="false">genom-ljuva-livet-189-alagille</guid>
-      <pubDate>Mon, 07 Sep 2026 16:37:59 GMT</pubDate>
-      <description>IFK Norrköping har tappat poäng mot Ljungskile! Vi snackar om det och massor annat runt en ganska störig match.</description>
-      <category>Genom Ljuva Livet</category>
     </item>
   </channel>
 </rss>

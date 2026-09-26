@@ -1,7 +1,64 @@
 {
   "year": 2026,
-  "itemCount": 577,
+  "itemCount": 579,
   "items": [
+    {
+      "id": "nt-nya-skadesmallen-for-ifk-tre-spelare-fick-kliva-av-mot-hacken-r1wm4g3l",
+      "title": "Nya skadesmällen för IFK – tre spelare fick kliva av mot Häcken",
+      "summary": "Några tuffa skador redan. Mot Häcken klev ytterligare tre spelare ut efter smällar. Tuffast såg det ut för Amanda Sundström. – Jag hoppas inget är för allvarligt, sa tränaren Rob Clark.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/nya-skadesmallen-for-ifk-tre-spelare-fick-kliva-av-mot-hacken/r1wm4g3l",
+      "publishedAt": "2026-09-26T16:53:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Amanda Sundström",
+          "slug": "amanda-sundstrom",
+          "side": "Dam",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-26",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-ifk-moter-champions-league-laget-fortsatt-jakt-pa-saker-mark-j82qem1j",
       "title": "IFK möter Champions League-laget – fortsatt jakt på säker mark",
@@ -106,6 +163,51 @@
       ]
     },
     {
+      "id": "nt-kaftsmall-for-ifk-jatteforlust-mot-hacken-j82qem1j",
+      "title": "Käftsmäll för IFK – jätteförlust mot Häcken",
+      "summary": "IFK förlorade med 0–6. Vi rapporterade från hemmamötet med BK Häcken.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/kaftsmall-for-ifk-jatteforlust-mot-hacken/j82qem1j",
+      "publishedAt": "2026-09-26T11:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-26",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
       "id": "ifk-truppen-mot-bk-hacken-15",
       "title": "Truppen mot BK Häcken",
       "summary": "Truppen mot BK Häcken",
@@ -115,7 +217,8 @@
       "publishedAt": "2026-09-26T08:58:47.000Z",
       "category": "Officiellt",
       "tags": [
-        "Officiellt"
+        "Officiellt",
+        "Dam"
       ],
       "keywords": [
         "IFK Norrköping",
