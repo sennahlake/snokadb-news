@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-26T17:07:42.380Z",
-  "itemCount": 4497,
+  "generatedAt": "2026-09-26T19:49:08.554Z",
+  "itemCount": 4500,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 5,
+      "count": 6,
       "ok": true
     },
     {
@@ -65,6 +65,141 @@
     }
   ],
   "items": [
+    {
+      "id": "nt-ifk-kritiken-inte-okej-det-ska-inte-handa-r353o8oj",
+      "title": "IFK-kritiken: \"Inte okej – det ska inte hända\"",
+      "summary": "0–6. IFK:s damallsvenska läge är fortsatt prekärt. – Under all kritik, säger Sofia Hjern.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/-ifk-kritiken-inte-okej-det-ska-inte-handa/r353o8oj",
+      "publishedAt": "2026-09-26T19:08:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Sofia Hjern",
+          "slug": "sofia-hjern",
+          "side": "Dam",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-26",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-vad-ska-ifk-gora-med-sitt-damlag-rxq5v0vj",
+      "title": "Vad ska IFK göra med sitt damlag?",
+      "summary": "Brakförlusten mot Häcken går inte att försvara, men förklara. Och det är ingen liten sak.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/vad-ska-ifk-gora-med-sitt-damlag/rxq5v0vj",
+      "publishedAt": "2026-09-26T18:18:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-26",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "ifk-clark-efter-forlusten-vi-far-studsa-tillbaka-snabbt-och-spela-derby-pa-tisdag",
+      "title": "Clark efter förlusten: “Vi får studsa tillbaka snabbt och spela derby på tisdag.”",
+      "summary": "Clark efter förlusten: “Vi får studsa tillbaka snabbt och spela derby på tisdag.”",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/clark-efter-forlusten-vi-far-studsa-tillbaka-snabbt-och-spela-derby-pa-tisdag/",
+      "publishedAt": "2026-09-26T17:58:27.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
     {
       "id": "nt-nya-skadesmallen-for-ifk-tre-spelare-fick-kliva-av-mot-hacken-r1wm4g3l",
       "title": "Nya skadesmällen för IFK – tre spelare fick kliva av mot Häcken",
