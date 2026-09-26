@@ -5,7 +5,31 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sat, 26 Sep 2026 05:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 11:00:00 GMT</lastBuildDate>
+    <item>
+      <title>IFK möter Champions League-laget – fortsatt jakt på säker mark</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-moter-champions-league-laget-fortsatt-jakt-pa-saker-mark/j82qem1j</link>
+      <guid isPermaLink="false">nt-ifk-moter-champions-league-laget-fortsatt-jakt-pa-saker-mark-j82qem1j</guid>
+      <pubDate>Sat, 26 Sep 2026 11:00:00 GMT</pubDate>
+      <description>IFK Norrköping fick den nödvändiga starten efter tränarbytet. Säsongen lever. Vi rapporterar från dagens hemmamöte med svårast tänkbara motstånd i damallsvenskan – BK Häcken.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>Detaljerna som IFK:s sportchef hyllar efter kontraktsbeskedet</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/detaljerna-som-ifks-sportchef-hyllar-efter-kontraktsbeskedet/jo5qw8yl</link>
+      <guid isPermaLink="false">nt-detaljerna-som-ifks-sportchef-hyllar-efter-kontraktsbeskedet-jo5qw8yl</guid>
+      <pubDate>Sat, 26 Sep 2026 11:00:00 GMT</pubDate>
+      <description>Han lyfter fram den personliga utvecklingen – och säger att beslutet blev ganska självklart till slut. – Det är en ny Elias Jemal mot hur det var för några år sedan, säger IFK:s sportchef Henrik Jurelius.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>Truppen mot BK Häcken</title>
+      <link>https://ifknorrkoping.se/truppen-mot-bk-hacken-15/</link>
+      <guid isPermaLink="false">ifk-truppen-mot-bk-hacken-15</guid>
+      <pubDate>Sat, 26 Sep 2026 08:58:47 GMT</pubDate>
+      <description>Truppen mot BK Häcken</description>
+      <category>IFK Norrköping</category>
+    </item>
     <item>
       <title>IFK-doldisens kluriga jakt på genombrottet</title>
       <link>https://www.nt.se/sport/fotboll/artikel/ifk-doldisens-kluriga-jakt-pa-genombrottet/lzdpqngr</link>
@@ -781,30 +805,6 @@
       <pubDate>Mon, 07 Sep 2026 16:37:59 GMT</pubDate>
       <description>IFK Norrköping har tappat poäng mot Ljungskile! Vi snackar om det och massor annat runt en ganska störig match.</description>
       <category>Genom Ljuva Livet</category>
-    </item>
-    <item>
-      <title>Kamraternas träningsvecka</title>
-      <link>https://ifknorrkoping.se/kamraternas-traningsvecka-42/</link>
-      <guid isPermaLink="false">ifk-kamraternas-traningsvecka-42</guid>
-      <pubDate>Mon, 07 Sep 2026 06:02:19 GMT</pubDate>
-      <description>Kamraternas träningsvecka</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>&quot;Lärdomen är att inte tappa ödmjukheten på något sätt&quot;</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/ifk-norrkoping-tappade-odmjukhet-mot-ljungskile/l61n7kwj</link>
-      <guid isPermaLink="false">nt-ifk-norrkoping-tappade-odmjukhet-mot-ljungskile-l61n7kwj</guid>
-      <pubDate>Sun, 06 Sep 2026 03:00:00 GMT</pubDate>
-      <description>Det finns ett ord som IFK Norrköpings tränare Eldar Abdulic har återkommit till hela säsongen: ödmjukhet. Besvikelsen efter 2–2-matchen mot Ljungskile är att han tycker att laget tappade den. – Ju längre halvleken gick, ju fler procent ödmjukhet tappade vi, sa han efter matchen.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Malva efter förlusten: “Vi ska fortsätta jobba för varandra”</title>
-      <link>https://ifknorrkoping.se/malva-efter-forlusten-vi-ska-fortsatta-jobba-for-varandra/</link>
-      <guid isPermaLink="false">ifk-malva-efter-forlusten-vi-ska-fortsatta-jobba-for-varandra</guid>
-      <pubDate>Sat, 05 Sep 2026 16:37:43 GMT</pubDate>
-      <description>Malva efter förlusten: “Vi ska fortsätta jobba för varandra”</description>
-      <category>IFK Norrköping</category>
     </item>
   </channel>
 </rss>
