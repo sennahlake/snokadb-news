@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Fri, 25 Sep 2026 19:24:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 05:00:00 GMT</lastBuildDate>
+    <item>
+      <title>IFK-doldisens kluriga jakt på genombrottet</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-doldisens-kluriga-jakt-pa-genombrottet/lzdpqngr</link>
+      <guid isPermaLink="false">nt-ifk-doldisens-kluriga-jakt-pa-genombrottet-lzdpqngr</guid>
+      <pubDate>Sat, 26 Sep 2026 05:00:00 GMT</pubDate>
+      <description>Sigdis Bardardottir har tillbringat drygt två år i IFK, men känner att hon inte har visat vad hon kan. – Det är en underbar spelare, säger tränaren Rob Clark.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Succéspelaren stannar på &quot;Parken&quot;: &quot;Livet är på topp här&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/elias-jemal-klar-for-ifk-norrkoping-permanent/r230dk7l</link>
@@ -797,14 +805,6 @@
       <pubDate>Sat, 05 Sep 2026 16:37:43 GMT</pubDate>
       <description>Malva efter förlusten: “Vi ska fortsätta jobba för varandra”</description>
       <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>IFK:s alarmerande läge: “Strid på kniven hela vägen”</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/ifk-norrkoping-halkar-ner-till-nedflyttningsplats/jvzn38or</link>
-      <guid isPermaLink="false">nt-ifk-norrkoping-halkar-ner-till-nedflyttningsplats-jvzn38or</guid>
-      <pubDate>Sat, 05 Sep 2026 16:27:00 GMT</pubDate>
-      <description>IFK Norrköping befinner sig på nedflyttningsplats i damallsvenskan. Nu återstår nio finaler för Stellan Carlssons lag. – Det kommer bli otroliga krigarmatcher, säger IFK-tränaren.</description>
-      <category>Norrköpings Tidningar</category>
     </item>
   </channel>
 </rss>

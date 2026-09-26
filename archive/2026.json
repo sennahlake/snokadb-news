@@ -1,7 +1,51 @@
 {
   "year": 2026,
-  "itemCount": 573,
+  "itemCount": 574,
   "items": [
+    {
+      "id": "nt-ifk-doldisens-kluriga-jakt-pa-genombrottet-lzdpqngr",
+      "title": "IFK-doldisens kluriga jakt på genombrottet",
+      "summary": "Sigdis Bardardottir har tillbringat drygt två år i IFK, men känner att hon inte har visat vad hon kan. – Det är en underbar spelare, säger tränaren Rob Clark.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-doldisens-kluriga-jakt-pa-genombrottet/lzdpqngr",
+      "publishedAt": "2026-09-26T05:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-26",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-elias-jemal-klar-for-ifk-norrkoping-permanent-r230dk7l",
       "title": "Succéspelaren stannar på \"Parken\": \"Livet är på topp här\"",
