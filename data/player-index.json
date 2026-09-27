@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
-  "itemCount": 869,
+  "itemCount": 868,
   "sides": {
     "Herr": 777,
-    "Dam": 92
+    "Dam": 91
   },
   "players": [
     {
@@ -6261,7 +6261,6 @@
       "slug": "olivia-montel-arvidsson",
       "side": "Dam",
       "seasons": [
-        2025,
         2026
       ]
     },
@@ -8511,14 +8510,6 @@
         2023,
         2024,
         2025
-      ]
-    },
-    {
-      "name": "Viktoria Weber",
-      "slug": "viktoria-weber",
-      "side": "Dam",
-      "seasons": [
-        2026
       ]
     },
     {
