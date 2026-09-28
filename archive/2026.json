@@ -1,7 +1,53 @@
 {
   "year": 2026,
-  "itemCount": 582,
+  "itemCount": 583,
   "items": [
+    {
+      "id": "nt-tycker-till-om-ifk-han-ar-arets-spelare-sa-har-langt-rmwq4k8l",
+      "title": "Tycker till om IFK – han är årets spelare så här långt",
+      "summary": "Superettan har gått på ett långt uppehåll, men om några veckor kan IFK Norrköping fira allsvenskt avancemang. Eller? Eric Persson och Christer Gustafson, reportrar och krönikörer på NT, svarar på tre funderingar.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/tycker-till-om-ifk-han-ar-arets-spelare-sa-har-langt/rmwq4k8l",
+      "publishedAt": "2026-09-28T03:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-28",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-ifk-kritiken-inte-okej-det-ska-inte-handa-r353o8oj",
       "title": "IFK-kritiken: \"Inte okej – det ska inte hända\"",

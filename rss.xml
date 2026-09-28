@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sat, 26 Sep 2026 19:08:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 03:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Tycker till om IFK – han är årets spelare så här långt</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/tycker-till-om-ifk-han-ar-arets-spelare-sa-har-langt/rmwq4k8l</link>
+      <guid isPermaLink="false">nt-tycker-till-om-ifk-han-ar-arets-spelare-sa-har-langt-rmwq4k8l</guid>
+      <pubDate>Mon, 28 Sep 2026 03:00:00 GMT</pubDate>
+      <description>Superettan har gått på ett långt uppehåll, men om några veckor kan IFK Norrköping fira allsvenskt avancemang. Eller? Eric Persson och Christer Gustafson, reportrar och krönikörer på NT, svarar på tre funderingar.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>IFK-kritiken: &quot;Inte okej – det ska inte hända&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/-ifk-kritiken-inte-okej-det-ska-inte-handa/r353o8oj</link>
@@ -796,14 +804,6 @@
       <guid isPermaLink="false">nt-ifk-orden-om-hela-ledarstaben-en-ambition-att-fortsatta-sa-har-r5pm113j</guid>
       <pubDate>Thu, 10 Sep 2026 06:00:00 GMT</pubDate>
       <description>IFK Norrköping gick in i säsongen med en relativt stor ledarstab för superettan. Ambitionen är att försöka hålla den så intakt som möjligt inför nästa år. – Vi är på en väldigt bra plats, säger sportchefen Henrik Jurelius inför torsdagens bortamöte med Varberg.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Viggo Fälths väg till Parken: &quot;Du behöver det inre drivet&quot;</title>
-      <link>https://www.nt.se/story-sport/fotboll/artikel/viggo-falth-om-vagen-fran-vanga-if-till-ifk-norrkoping/jo5kp07l</link>
-      <guid isPermaLink="false">nt-viggo-falth-om-vagen-fran-vanga-if-till-ifk-norrkoping-jo5kp07l</guid>
-      <pubDate>Wed, 09 Sep 2026 18:30:00 GMT</pubDate>
-      <description>Han började spela fotboll på Ekvallen och stod på Curva Nordahl för att se sina förebilder. Nu delar Viggo Fälth omklädningsrum med spelarna som han en gång såg upp till i IFK Norrköping. Men platsen där allt började finns fortfarande kvar. – Det har sin charm att spela här ute, säger 17-åringen.</description>
       <category>Norrköpings Tidningar</category>
     </item>
   </channel>
