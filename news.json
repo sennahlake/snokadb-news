@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-28T06:48:22.887Z",
-  "itemCount": 4501,
+  "generatedAt": "2026-09-28T15:22:53.686Z",
+  "itemCount": 4503,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -65,6 +65,84 @@
     }
   ],
   "items": [
+    {
+      "id": "nt-ifks-krisatgard-stanger-traningarna-jp9y0gml",
+      "title": "IFK:s krisåtgärd: Stänger träningarna",
+      "summary": "I jakten på nytt kontrakt ska IFK-truppen sluta sig samman. En av Rob Clarks metoder? Stängda träningar.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifks-krisatgard-stanger-traningarna/jp9y0gml",
+      "publishedAt": "2026-09-28T14:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-28",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "ifk-kamraternas-traningsvecka-45",
+      "title": "Kamraternas träningsvecka",
+      "summary": "Kamraternas träningsvecka",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/kamraternas-traningsvecka-45/",
+      "publishedAt": "2026-09-28T08:45:55.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
     {
       "id": "nt-tycker-till-om-ifk-han-ar-arets-spelare-sa-har-langt-rmwq4k8l",
       "title": "Tycker till om IFK – han är årets spelare så här långt",

@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Mon, 28 Sep 2026 03:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 14:00:00 GMT</lastBuildDate>
+    <item>
+      <title>IFK:s krisåtgärd: Stänger träningarna</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifks-krisatgard-stanger-traningarna/jp9y0gml</link>
+      <guid isPermaLink="false">nt-ifks-krisatgard-stanger-traningarna-jp9y0gml</guid>
+      <pubDate>Mon, 28 Sep 2026 14:00:00 GMT</pubDate>
+      <description>I jakten på nytt kontrakt ska IFK-truppen sluta sig samman. En av Rob Clarks metoder? Stängda träningar.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>Kamraternas träningsvecka</title>
+      <link>https://ifknorrkoping.se/kamraternas-traningsvecka-45/</link>
+      <guid isPermaLink="false">ifk-kamraternas-traningsvecka-45</guid>
+      <pubDate>Mon, 28 Sep 2026 08:45:55 GMT</pubDate>
+      <description>Kamraternas träningsvecka</description>
+      <category>IFK Norrköping</category>
+    </item>
     <item>
       <title>Tycker till om IFK – han är årets spelare så här långt</title>
       <link>https://www.nt.se/sport/fotboll/artikel/tycker-till-om-ifk-han-ar-arets-spelare-sa-har-langt/rmwq4k8l</link>
@@ -789,22 +805,6 @@
       <pubDate>Thu, 10 Sep 2026 10:39:15 GMT</pubDate>
       <description>IFK-truppen mot Varberg</description>
       <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>190. Gäst: Henrik Jurelius</title>
-      <link>https://pod.space/genomljuvalivet/190-gast-henrik-jurelius</link>
-      <guid isPermaLink="false">genom-ljuva-livet-190-gast-henrik-jurelius</guid>
-      <pubDate>Thu, 10 Sep 2026 06:32:54 GMT</pubDate>
-      <description>Sommarfönstret med Henrik Jurelius! Allt som hände, inte hände och borde hänt. Hur går det med kontraktsförlängningar och vad är tankarna inför vintern? Hur mycket påverkas av om nästa säsong är i Allsvenskan eller Superettan? Hur går det med Sernelius och Jemal? Vad händer med Anton Eriksson, Prica och alla andra? Och hur har första säsongen varit?</description>
-      <category>Genom Ljuva Livet</category>
-    </item>
-    <item>
-      <title>IFK-orden om hela ledarstaben: &quot;En ambition att fortsätta så här&quot;</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/ifk-orden-om-hela-ledarstaben-en-ambition-att-fortsatta-sa-har/r5pm113j</link>
-      <guid isPermaLink="false">nt-ifk-orden-om-hela-ledarstaben-en-ambition-att-fortsatta-sa-har-r5pm113j</guid>
-      <pubDate>Thu, 10 Sep 2026 06:00:00 GMT</pubDate>
-      <description>IFK Norrköping gick in i säsongen med en relativt stor ledarstab för superettan. Ambitionen är att försöka hålla den så intakt som möjligt inför nästa år. – Vi är på en väldigt bra plats, säger sportchefen Henrik Jurelius inför torsdagens bortamöte med Varberg.</description>
-      <category>Norrköpings Tidningar</category>
     </item>
   </channel>
 </rss>
