@@ -5,11 +5,35 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Mon, 28 Sep 2026 14:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 19:15:00 GMT</lastBuildDate>
+    <item>
+      <title>IFK-supporterns uppmaning: Åk på derbyt</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-supporterns-uppmaning-ak-pa-derbyt/jp9y0oml</link>
+      <guid isPermaLink="false">nt-ifk-supporterns-uppmaning-ak-pa-derbyt-jp9y0oml</guid>
+      <pubDate>Mon, 28 Sep 2026 19:15:00 GMT</pubDate>
+      <description>Någon organiserad samling eller resa blir det inte. Men uppmaningen inför derbyt är tydlig.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>Laddat cupderby mot Linköpings FC – “Vi ska studsa tillbaka direkt”</title>
+      <link>https://ifknorrkoping.se/laddat-cupderby-mot-linkopings-fc-vi-ska-studsa-tillbaka-direkt/</link>
+      <guid isPermaLink="false">ifk-laddat-cupderby-mot-linkopings-fc-vi-ska-studsa-tillbaka-direkt</guid>
+      <pubDate>Mon, 28 Sep 2026 15:44:43 GMT</pubDate>
+      <description>Laddat cupderby mot Linköpings FC – “Vi ska studsa tillbaka direkt”</description>
+      <category>IFK Norrköping</category>
+    </item>
     <item>
       <title>IFK:s krisåtgärd: Stänger träningarna</title>
       <link>https://www.nt.se/sport/fotboll/artikel/ifks-krisatgard-stanger-traningarna/jp9y0gml</link>
       <guid isPermaLink="false">nt-ifks-krisatgard-stanger-traningarna-jp9y0gml</guid>
+      <pubDate>Mon, 28 Sep 2026 14:00:00 GMT</pubDate>
+      <description>I jakten på nytt kontrakt ska IFK-truppen sluta sig samman. En av Rob Clarks metoder? Stängda träningar.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>IFK:s krisåtgärd: Stänger flera träningar</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifks-krisatgard-stanger-flera-traningar/jp9y0gml</link>
+      <guid isPermaLink="false">nt-ifks-krisatgard-stanger-flera-traningar-jp9y0gml</guid>
       <pubDate>Mon, 28 Sep 2026 14:00:00 GMT</pubDate>
       <description>I jakten på nytt kontrakt ska IFK-truppen sluta sig samman. En av Rob Clarks metoder? Stängda träningar.</description>
       <category>Norrköpings Tidningar</category>
@@ -781,30 +805,6 @@
       <pubDate>Thu, 10 Sep 2026 14:00:00 GMT</pubDate>
       <description>Toppmöte. Ettan mot tvåan. Och IFK har chansen att ta ett ytterligare stort kliv mot allsvenskt avancemang på Påskbergsvallen i bortamötet med Varberg. Vi rapporterar direkt från kvällens match.</description>
       <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>IFK kan ta ett stort kliv mot avancemang – följ toppmötet här</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/kaptenen-ger-ifk-ledningen-efter-trippla-chanser-folj-toppmotet/jo5kmkql</link>
-      <guid isPermaLink="false">nt-kaptenen-ger-ifk-ledningen-efter-trippla-chanser-folj-toppmotet-jo5kmkql</guid>
-      <pubDate>Thu, 10 Sep 2026 14:00:00 GMT</pubDate>
-      <description>Toppmöte. Ettan mot tvåan. Och IFK har chansen att ta ett ytterligare stort kliv mot allsvenskt avancemang på Påskbergsvallen i bortamötet med Varberg. Vi rapporterar direkt från kvällens match.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Betygen: Så presterade IFK-spelarna i matchen mot Varberg</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/betygen-sa-presterade-ifk-spelarna-i-toppmotet/jo5kmkql</link>
-      <guid isPermaLink="false">nt-betygen-sa-presterade-ifk-spelarna-i-toppmotet-jo5kmkql</guid>
-      <pubDate>Thu, 10 Sep 2026 14:00:00 GMT</pubDate>
-      <description>Allsvenskan närmar sig för IFK efter kvällens toppmöte mot Varberg på Påskbergsvallen. Här hittar du vår rapportering från matchen.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>IFK-truppen mot Varberg</title>
-      <link>https://ifknorrkoping.se/ifk-truppen-mot-varberg/</link>
-      <guid isPermaLink="false">ifk-ifk-truppen-mot-varberg</guid>
-      <pubDate>Thu, 10 Sep 2026 10:39:15 GMT</pubDate>
-      <description>IFK-truppen mot Varberg</description>
-      <category>IFK Norrköping</category>
     </item>
   </channel>
 </rss>

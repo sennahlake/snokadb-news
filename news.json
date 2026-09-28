@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-28T15:22:53.686Z",
-  "itemCount": 4503,
+  "generatedAt": "2026-09-28T21:57:04.042Z",
+  "itemCount": 4506,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 1,
+      "count": 2,
       "ok": true
     },
     {
@@ -66,12 +66,134 @@
   ],
   "items": [
     {
+      "id": "nt-ifk-supporterns-uppmaning-ak-pa-derbyt-jp9y0oml",
+      "title": "IFK-supporterns uppmaning: Åk på derbyt",
+      "summary": "Någon organiserad samling eller resa blir det inte. Men uppmaningen inför derbyt är tydlig.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-supporterns-uppmaning-ak-pa-derbyt/jp9y0oml",
+      "publishedAt": "2026-09-28T19:15:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-28",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "ifk-laddat-cupderby-mot-linkopings-fc-vi-ska-studsa-tillbaka-direkt",
+      "title": "Laddat cupderby mot Linköpings FC – “Vi ska studsa tillbaka direkt”",
+      "summary": "Laddat cupderby mot Linköpings FC – “Vi ska studsa tillbaka direkt”",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/laddat-cupderby-mot-linkopings-fc-vi-ska-studsa-tillbaka-direkt/",
+      "publishedAt": "2026-09-28T15:44:43.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
       "id": "nt-ifks-krisatgard-stanger-traningarna-jp9y0gml",
       "title": "IFK:s krisåtgärd: Stänger träningarna",
       "summary": "I jakten på nytt kontrakt ska IFK-truppen sluta sig samman. En av Rob Clarks metoder? Stängda träningar.",
       "source": "Norrköpings Tidningar",
       "sourceUrl": "https://www.nt.se/sport/fotboll",
       "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifks-krisatgard-stanger-traningarna/jp9y0gml",
+      "publishedAt": "2026-09-28T14:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-28",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-ifks-krisatgard-stanger-flera-traningar-jp9y0gml",
+      "title": "IFK:s krisåtgärd: Stänger flera träningar",
+      "summary": "I jakten på nytt kontrakt ska IFK-truppen sluta sig samman. En av Rob Clarks metoder? Stängda träningar.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifks-krisatgard-stanger-flera-traningar/jp9y0gml",
       "publishedAt": "2026-09-28T14:00:00.000Z",
       "category": "Lokal",
       "tags": [
