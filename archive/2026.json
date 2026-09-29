@@ -1,7 +1,141 @@
 {
   "year": 2026,
-  "itemCount": 588,
+  "itemCount": 591,
   "items": [
+    {
+      "id": "nt-ifk-malvakten-ar-tillbaka-javligt-skont-r5pqdd3j",
+      "title": "IFK-målvakten är tillbaka: \"Jävligt skönt\"",
+      "summary": "Återställd efter ännu en skadeperiod. När IFK stormar mot allsvenskan sprider David Mitov Nilsson ett budskap. – Vi ska hantera träningsveckorna och matcherna som finaler, säger han.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-malvakten-ar-tillbaka-javligt-skont/r5pqdd3j",
+      "publishedAt": "2026-09-29T13:57:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "David Mitov Nilsson",
+          "slug": "david-mitov-nilsson",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-29",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "ifk-derbytruppen-mot-linkoping-fc",
+      "title": "Derbytruppen mot Linköping FC",
+      "summary": "Derbytruppen mot Linköping FC",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/derbytruppen-mot-linkoping-fc/",
+      "publishedAt": "2026-09-29T13:23:42.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "nt-live-ostgotaderby-i-linkoping-folj-ifks-match-har-r2308w7l",
+      "title": "LIVE: Östgötaderby i Linköping – följ IFK:s match här",
+      "summary": "Linköping mot Norrköping. Under tisdagskvällen ställs de båda städernas fotbollslag mot varandra. Följ allt från matchen här.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/live-ostgotaderby-i-linkoping-folj-ifks-match-har/r2308w7l",
+      "publishedAt": "2026-09-29T13:10:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-29",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-ifk-supporterns-uppmaning-ak-pa-derbyt-jp9y0oml",
       "title": "IFK-supporterns uppmaning: Åk på derbyt",

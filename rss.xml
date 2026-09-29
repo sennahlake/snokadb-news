@@ -5,7 +5,31 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Mon, 28 Sep 2026 19:15:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 13:57:00 GMT</lastBuildDate>
+    <item>
+      <title>IFK-målvakten är tillbaka: &quot;Jävligt skönt&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-malvakten-ar-tillbaka-javligt-skont/r5pqdd3j</link>
+      <guid isPermaLink="false">nt-ifk-malvakten-ar-tillbaka-javligt-skont-r5pqdd3j</guid>
+      <pubDate>Tue, 29 Sep 2026 13:57:00 GMT</pubDate>
+      <description>Återställd efter ännu en skadeperiod. När IFK stormar mot allsvenskan sprider David Mitov Nilsson ett budskap. – Vi ska hantera träningsveckorna och matcherna som finaler, säger han.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>Derbytruppen mot Linköping FC</title>
+      <link>https://ifknorrkoping.se/derbytruppen-mot-linkoping-fc/</link>
+      <guid isPermaLink="false">ifk-derbytruppen-mot-linkoping-fc</guid>
+      <pubDate>Tue, 29 Sep 2026 13:23:42 GMT</pubDate>
+      <description>Derbytruppen mot Linköping FC</description>
+      <category>IFK Norrköping</category>
+    </item>
+    <item>
+      <title>LIVE: Östgötaderby i Linköping – följ IFK:s match här</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/live-ostgotaderby-i-linkoping-folj-ifks-match-har/r2308w7l</link>
+      <guid isPermaLink="false">nt-live-ostgotaderby-i-linkoping-folj-ifks-match-har-r2308w7l</guid>
+      <pubDate>Tue, 29 Sep 2026 13:10:00 GMT</pubDate>
+      <description>Linköping mot Norrköping. Under tisdagskvällen ställs de båda städernas fotbollslag mot varandra. Följ allt från matchen här.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>IFK-supporterns uppmaning: Åk på derbyt</title>
       <link>https://www.nt.se/sport/fotboll/artikel/ifk-supporterns-uppmaning-ak-pa-derbyt/jp9y0oml</link>
@@ -781,30 +805,6 @@
       <pubDate>Thu, 10 Sep 2026 19:08:14 GMT</pubDate>
       <description>Stormar mot allsvenskan The post Nyman målskytt – när Peking vann toppmötet appeared first on FotbollDirekt .</description>
       <category>FotbollDirekt</category>
-    </item>
-    <item>
-      <title>Nymans 16:e mål visade vägen i toppmötet – IFK vinnare igen</title>
-      <link>https://ifknorrkoping.se/nymans-16e-mal-visade-ifk-vagen-i-toppmotet/</link>
-      <guid isPermaLink="false">ifk-nymans-16e-mal-visade-ifk-vagen-i-toppmotet</guid>
-      <pubDate>Thu, 10 Sep 2026 18:50:48 GMT</pubDate>
-      <description>Nymans 16:e mål visade vägen i toppmötet – IFK vinnare igen</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Norrköping vinnare i toppmötet – leder serien med tio poäng: ”Tar steg hela tiden”</title>
-      <link>https://www.svt.se/sport/fotboll/norrkoping-vinnare-i-toppmotet-leder-serien-med-13-poang</link>
-      <guid isPermaLink="false">svt-fotboll-norrkoping-vinnare-i-toppmotet-leder-serien-med-13-poang</guid>
-      <pubDate>Thu, 10 Sep 2026 18:49:50 GMT</pubDate>
-      <description>Norrköping stormar tillbaka mot allsvenskan. I kväll besegrades serietvåan Varberg på västkusten med 2–0 och Norrköping leder därmed serien med tio poäng med sju matcher kvar att spela. – Vi tar steg hela tiden, säger Christoffer Nyman till TV4 Play.</description>
-      <category>SVT</category>
-    </item>
-    <item>
-      <title>IFK kan ta ett stort kliv mot avancemang – följ toppmötet här</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/ifk-kan-ta-ett-stort-kliv-mot-avancemang-folj-toppmotet-har/jo5kmkql</link>
-      <guid isPermaLink="false">nt-ifk-kan-ta-ett-stort-kliv-mot-avancemang-folj-toppmotet-har-jo5kmkql</guid>
-      <pubDate>Thu, 10 Sep 2026 14:00:00 GMT</pubDate>
-      <description>Toppmöte. Ettan mot tvåan. Och IFK har chansen att ta ett ytterligare stort kliv mot allsvenskt avancemang på Påskbergsvallen i bortamötet med Varberg. Vi rapporterar direkt från kvällens match.</description>
-      <category>Norrköpings Tidningar</category>
     </item>
   </channel>
 </rss>
