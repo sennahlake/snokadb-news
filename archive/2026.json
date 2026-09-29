@@ -1,7 +1,175 @@
 {
   "year": 2026,
-  "itemCount": 591,
+  "itemCount": 595,
   "items": [
+    {
+      "id": "nt-forwardens-derbykanslor-det-var-frustration-jvzw7por",
+      "title": "Forwardens derbykänslor: \"Det var frustration\"",
+      "summary": "IFK vann derbyt mot Linköping. Efteråt rörde sig många känslor hos Emma Engström. – Det sätter sig lite i mitt huvud ibland, säger hon.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/forwardens-derbykanslor-det-var-frustration/jvzw7por",
+      "publishedAt": "2026-09-29T20:39:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Emma Engström",
+          "slug": "emma-engstrom",
+          "side": "Dam",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-29",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-sena-beskedet-ifk-duo-till-u21-landslaget-jo5qyeyl",
+      "title": "Sena beskedet: IFK-duo till U21-landslaget",
+      "summary": "Här är Noel Sernelius och Theo Krantz drömbesked. Nu får de flyga till Polen.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/sena-beskedet-ifk-duo-till-u21-landslaget/jo5qyeyl",
+      "publishedAt": "2026-09-29T20:02:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Noel Sernelius",
+          "slug": "noel-sernelius",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        },
+        {
+          "name": "Theo Krantz",
+          "slug": "theo-krantz",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-29",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-ifk-undvek-en-derbysmall-men-hostrysaren-ar-langt-fran-over-rmwq3yml",
+      "title": "IFK undvek en derbysmäll – men höstrysaren är långt från över",
+      "summary": "Det var en kväll för knutna nävar. En kväll att visa lite derbykänsla. Det blev ... ... dramatik, cupavancemang – men känslan jag sitter med är: IFK behöver hitta sätt att vinna fotbollsmatcher efter 90 minuter.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-undvek-en-derbysmall-men-hostrysaren-ar-langt-fran-over/rmwq3yml",
+      "publishedAt": "2026-09-29T20:01:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-29",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-ifk-malvakten-ar-tillbaka-javligt-skont-r5pqdd3j",
       "title": "IFK-målvakten är tillbaka: \"Jävligt skönt\"",
@@ -69,7 +237,8 @@
       "publishedAt": "2026-09-29T13:23:42.000Z",
       "category": "Officiellt",
       "tags": [
-        "Officiellt"
+        "Officiellt",
+        "Dam"
       ],
       "keywords": [
         "IFK Norrköping",
@@ -120,6 +289,51 @@
         "matchedBy": [
           "Originalkälla",
           "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-29",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-efter-dramatiska-cupmatchen-peking-bast-i-ostergotland-r2308w7l",
+      "title": "Efter dramatiska cupmatchen — Peking bäst i Östergötland",
+      "summary": "Linköping mot Norrköping. Under tisdagskvällen ställdes de båda städernas fotbollslag mot varandra.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/efter-dramatiska-cupmatchen-peking-bast-i-ostergotland-/r2308w7l",
+      "publishedAt": "2026-09-29T13:10:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i rubrik"
         ]
       },
       "players": [],
