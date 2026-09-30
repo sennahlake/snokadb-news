@@ -1,7 +1,85 @@
 {
   "year": 2026,
-  "itemCount": 597,
+  "itemCount": 599,
   "items": [
+    {
+      "id": "nt-med-fatima-har-jag-blivit-en-battre-person-lyxwe8vr",
+      "title": "Följ med hem till lugnet hos IFK-stjärnan",
+      "summary": "En lånad IFK-stjärna som lärt sig bli seriös. En prisbelönt mångkonstnär som sökt sig bort från rampljuset. Och deras lille krabat. Vi åkte hem till familjen Jemal och Jelassi.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/story-sport/fotboll/artikel/med-fatima-har-jag-blivit-en-battre-person/lyxwe8vr",
+      "publishedAt": "2026-09-30T18:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-30",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "svt-tennis-novak-djokovic-tog-forsta-vinsten-sedan-wimbledon-hade-svart-halla-mig-frasch",
+      "title": "Novak Djokovic tog första vinsten sedan Wimbledon: ”Hade svårt hålla mig fräsch”",
+      "summary": "Legendaren Novak Djokovic hänger i trots krämpor. I dag tog han första segern sedan Wimbledon genom att besegra Nuno Borges i China Open i Peking. – Den är utsökt, säger kommentatorn om serbens läckra lobb.",
+      "source": "SVT",
+      "sourceUrl": "https://www.svt.se/sport/fotboll",
+      "articleUrl": "https://www.svt.se/sport/tennis/novak-djokovic-tog-forsta-vinsten-sedan-wimbledon-hade-svart-halla-mig-frasch",
+      "publishedAt": "2026-09-30T17:53:39.000Z",
+      "category": "Nyhet",
+      "tags": [
+        "Extern originalkälla",
+        "Public service"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "SVT"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "medium",
+        "score": 78,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "svt"
+    },
     {
       "id": "nt-ifk-tranaren-gora-det-vi-gjorde-ar-inte-latt-rky762wj",
       "title": "IFK-tränaren: \"Att göra det vi gjorde är inte lätt\"",

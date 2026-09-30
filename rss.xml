@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Wed, 30 Sep 2026 09:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 18:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Följ med hem till lugnet hos IFK-stjärnan</title>
+      <link>https://www.nt.se/story-sport/fotboll/artikel/med-fatima-har-jag-blivit-en-battre-person/lyxwe8vr</link>
+      <guid isPermaLink="false">nt-med-fatima-har-jag-blivit-en-battre-person-lyxwe8vr</guid>
+      <pubDate>Wed, 30 Sep 2026 18:00:00 GMT</pubDate>
+      <description>En lånad IFK-stjärna som lärt sig bli seriös. En prisbelönt mångkonstnär som sökt sig bort från rampljuset. Och deras lille krabat. Vi åkte hem till familjen Jemal och Jelassi.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>Novak Djokovic tog första vinsten sedan Wimbledon: ”Hade svårt hålla mig fräsch”</title>
+      <link>https://www.svt.se/sport/tennis/novak-djokovic-tog-forsta-vinsten-sedan-wimbledon-hade-svart-halla-mig-frasch</link>
+      <guid isPermaLink="false">svt-tennis-novak-djokovic-tog-forsta-vinsten-sedan-wimbledon-hade-svart-halla-mig-frasch</guid>
+      <pubDate>Wed, 30 Sep 2026 17:53:39 GMT</pubDate>
+      <description>Legendaren Novak Djokovic hänger i trots krämpor. I dag tog han första segern sedan Wimbledon genom att besegra Nuno Borges i China Open i Peking. – Den är utsökt, säger kommentatorn om serbens läckra lobb.</description>
+      <category>SVT</category>
+    </item>
     <item>
       <title>IFK-tränaren: &quot;Att göra det vi gjorde är inte lätt&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/ifk-tranaren-gora-det-vi-gjorde-ar-inte-latt/rky762wj</link>
@@ -788,22 +804,6 @@
       <guid isPermaLink="false">nt-betygen-sa-skotte-sig-ifk-i-matchen-mot-brommapojkarna-j82odopj</guid>
       <pubDate>Sat, 12 Sep 2026 08:01:00 GMT</pubDate>
       <description>IFK Norrköping hade svårt att få in bollen i mål och blev straffade på kontringar i första halvlek.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Näst sämst framåt: Så ska IFK:s målskytte lossna</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/nast-samst-framat-sa-ska-ifks-malskytte-lossna/l61nqnzj</link>
-      <guid isPermaLink="false">nt-nast-samst-framat-sa-ska-ifks-malskytte-lossna-l61nqnzj</guid>
-      <pubDate>Sat, 12 Sep 2026 03:00:00 GMT</pubDate>
-      <description>Bara ett lag har gjort färre mål än IFK. Hur ska de offensiva knutarna lösas?</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>IFK-rösterna: Han bör vara aktuell för U21-landslaget</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/ifk-rosterna-han-bor-vara-aktuell-for-u21-landslaget/jvzn6z1r</link>
-      <guid isPermaLink="false">nt-ifk-rosterna-han-bor-vara-aktuell-for-u21-landslaget-jvzn6z1r</guid>
-      <pubDate>Fri, 11 Sep 2026 15:00:00 GMT</pubDate>
-      <description>Succémålvakten har redan fått en kallelse. Är det dags för Noel Sernelius inträde i svenska U21-landslaget? Eldar Abdulic utbrister: – Subjektivt: ja, för fan!</description>
       <category>Norrköpings Tidningar</category>
     </item>
   </channel>
