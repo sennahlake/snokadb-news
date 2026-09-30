@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Tue, 29 Sep 2026 20:39:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 22:23:25 GMT</lastBuildDate>
+    <item>
+      <title>Berömmet efter derbysegern: “De tar för sig direkt”</title>
+      <link>https://ifknorrkoping.se/berommet-efter-derbysegern-de-tar-for-sig-direkt/</link>
+      <guid isPermaLink="false">ifk-berommet-efter-derbysegern-de-tar-for-sig-direkt</guid>
+      <pubDate>Tue, 29 Sep 2026 22:23:25 GMT</pubDate>
+      <description>Berömmet efter derbysegern: “De tar för sig direkt”</description>
+      <category>IFK Norrköping</category>
+    </item>
     <item>
       <title>Forwardens derbykänslor: &quot;Det var frustration&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/forwardens-derbykanslor-det-var-frustration/jvzw7por</link>
@@ -796,14 +804,6 @@
       <guid isPermaLink="false">ifk-infor-bp</guid>
       <pubDate>Fri, 11 Sep 2026 14:37:31 GMT</pubDate>
       <description>Inför BP: “Vi kommer dit med självförtroende”</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Nyman och Abdulic prisas för augusti</title>
-      <link>https://ifknorrkoping.se/nyman-och-abdulic-prisas-for-augusti/</link>
-      <guid isPermaLink="false">ifk-nyman-och-abdulic-prisas-for-augusti</guid>
-      <pubDate>Fri, 11 Sep 2026 09:32:36 GMT</pubDate>
-      <description>Nyman och Abdulic prisas för augusti</description>
       <category>IFK Norrköping</category>
     </item>
   </channel>

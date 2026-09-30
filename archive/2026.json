@@ -1,7 +1,40 @@
 {
   "year": 2026,
-  "itemCount": 595,
+  "itemCount": 596,
   "items": [
+    {
+      "id": "ifk-berommet-efter-derbysegern-de-tar-for-sig-direkt",
+      "title": "Berömmet efter derbysegern: “De tar för sig direkt”",
+      "summary": "Berömmet efter derbysegern: “De tar för sig direkt”",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/berommet-efter-derbysegern-de-tar-for-sig-direkt/",
+      "publishedAt": "2026-09-29T22:23:25.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
     {
       "id": "nt-forwardens-derbykanslor-det-var-frustration-jvzw7por",
       "title": "Forwardens derbykänslor: \"Det var frustration\"",
