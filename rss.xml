@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Tue, 29 Sep 2026 22:23:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 09:00:00 GMT</lastBuildDate>
+    <item>
+      <title>IFK-tränaren: &quot;Att göra det vi gjorde är inte lätt&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-tranaren-gora-det-vi-gjorde-ar-inte-latt/rky762wj</link>
+      <guid isPermaLink="false">nt-ifk-tranaren-gora-det-vi-gjorde-ar-inte-latt-rky762wj</guid>
+      <pubDate>Wed, 30 Sep 2026 09:00:00 GMT</pubDate>
+      <description>– Jag ville se en reaktion, sa Rob Clark om storförlusten mot Häcken. Det krävdes 120 minuter för att ta IFK vidare i cupen.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Berömmet efter derbysegern: “De tar för sig direkt”</title>
       <link>https://ifknorrkoping.se/berommet-efter-derbysegern-de-tar-for-sig-direkt/</link>
@@ -797,14 +805,6 @@
       <pubDate>Fri, 11 Sep 2026 15:00:00 GMT</pubDate>
       <description>Succémålvakten har redan fått en kallelse. Är det dags för Noel Sernelius inträde i svenska U21-landslaget? Eldar Abdulic utbrister: – Subjektivt: ja, för fan!</description>
       <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Inför BP: “Vi kommer dit med självförtroende”</title>
-      <link>https://ifknorrkoping.se/infor-bp/</link>
-      <guid isPermaLink="false">ifk-infor-bp</guid>
-      <pubDate>Fri, 11 Sep 2026 14:37:31 GMT</pubDate>
-      <description>Inför BP: “Vi kommer dit med självförtroende”</description>
-      <category>IFK Norrköping</category>
     </item>
   </channel>
 </rss>

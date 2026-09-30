@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T00:23:25.598Z",
-  "itemCount": 4514,
+  "generatedAt": "2026-09-30T13:38:32.413Z",
+  "itemCount": 4515,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 5,
+      "count": 4,
       "ok": true
     },
     {
@@ -65,6 +65,51 @@
     }
   ],
   "items": [
+    {
+      "id": "nt-ifk-tranaren-gora-det-vi-gjorde-ar-inte-latt-rky762wj",
+      "title": "IFK-tränaren: \"Att göra det vi gjorde är inte lätt\"",
+      "summary": "– Jag ville se en reaktion, sa Rob Clark om storförlusten mot Häcken. Det krävdes 120 minuter för att ta IFK vidare i cupen.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-tranaren-gora-det-vi-gjorde-ar-inte-latt/rky762wj",
+      "publishedAt": "2026-09-30T09:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i rubrik"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-09-30",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "ifk-berommet-efter-derbysegern-de-tar-for-sig-direkt",
       "title": "Berömmet efter derbysegern: “De tar för sig direkt”",
