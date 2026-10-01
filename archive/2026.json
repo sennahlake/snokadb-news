@@ -1,7 +1,218 @@
 {
   "year": 2026,
-  "itemCount": 601,
+  "itemCount": 606,
   "items": [
+    {
+      "id": "genom-ljuva-livet-193-betyg-pa-alla-nyforvarv",
+      "title": "193. Betyg på alla nyförvärv",
+      "summary": "Vi sätter betyg på alla nyförvärv den här säsongen! Långt och härligt. Dessutom blickar vi lite framåt och hyllar vår \"nya\" spelare Jemal. Och kommer med tydliga uppmaningar till Noel Sernelius!",
+      "source": "Genom Ljuva Livet",
+      "sourceUrl": "https://poddtoppen.se/podcast/1728458754/genom-ljuva-livet",
+      "articleUrl": "https://pod.space/genomljuvalivet/193-betyg-pa-alla-nyforvarv",
+      "publishedAt": "2026-10-01T16:48:13.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Genom Ljuva Livet",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 94,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Noel Sernelius",
+          "slug": "noel-sernelius",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "genom-ljuva-livet"
+    },
+    {
+      "id": "studio-peking-cupkvall-och-stangda-traningar",
+      "title": "Cupkväll och stängda träningar",
+      "summary": "I veckans avsnitt av Studio Peking snackar vi, bland mycket annat, ner IFK-damernas seger i cupderbyt mot Linköping.",
+      "source": "Studio Peking",
+      "sourceUrl": "https://poddtoppen.se/podcast/1738623973/studio-peking",
+      "articleUrl": "https://pod.space/studiopeking/cupkvall-och-stangda-traningar",
+      "publishedAt": "2026-10-01T15:36:55.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Studio Peking",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "studio-peking"
+    },
+    {
+      "id": "svt-bordtennis-kinesiska-stjarnavhoppen-oppnar-for-truls-moregardh",
+      "title": "Kinesiska stjärnavhoppen öppnar för Truls Möregårdh",
+      "summary": "Bara timmar innan avprickningen stängde för China Smash i Peking hoppade de kinesiska stjärnorna Wang Chuqin och Lin Shidong chockartat av.",
+      "source": "SVT",
+      "sourceUrl": "https://www.svt.se/sport/fotboll",
+      "articleUrl": "https://www.svt.se/sport/bordtennis/kinesiska-stjarnavhoppen-oppnar-for-truls-moregardh",
+      "publishedAt": "2026-10-01T15:23:28.000Z",
+      "category": "Nyhet",
+      "tags": [
+        "Extern originalkälla",
+        "Public service"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "SVT"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "medium",
+        "score": 78,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "svt"
+    },
+    {
+      "id": "nt-klart-vi-sander-ifks-traningsmote-med-allsvenskt-motstand-r5pq06gj",
+      "title": "Klart: Vi sänder IFK:s träningsmöte möte med allsvenskt motstånd",
+      "summary": "IFK Norrköping slipar formen mot Kalmar FF under uppehållet. Hur det ser ut? Det kan man se på nt.se.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/klart-vi-sander-ifks-traningsmote-med-allsvenskt-motstand/r5pq06gj",
+      "publishedAt": "2026-10-01T14:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-01",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-live-folj-ifks-medlemsmote-nt-rapporterar-live-jvzw7vpr",
+      "title": "LIVE: Följ IFK:s medlemsmöte – NT rapporterar live",
+      "summary": "IFK har kallat medlemmarna till möte. NT rapporterar från kvällen.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/live-folj-ifks-medlemsmote-nt-rapporterar-live/jvzw7vpr",
+      "publishedAt": "2026-10-01T13:44:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-01",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-beskedet-for-ifk-mittfaltaren-halsenan-ar-av-sasongen-over-lw62ww8j",
       "title": "Beskedet för IFK-mittfältaren: Hälsenan är av – säsongen över",
