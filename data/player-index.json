@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
-  "itemCount": 922,
+  "itemCount": 972,
   "sides": {
     "Herr": 777,
-    "Dam": 145
+    "Dam": 195
   },
   "players": [
     {
@@ -240,6 +240,8 @@
       "slug": "alice-wader",
       "side": "Dam",
       "seasons": [
+        2013,
+        2014,
         2015
       ]
     },
@@ -324,8 +326,18 @@
       "slug": "amanda-ekstrand",
       "side": "Dam",
       "seasons": [
+        2013,
+        2014,
         2015,
         2016
+      ]
+    },
+    {
+      "name": "Amanda Hansson",
+      "slug": "amanda-hansson",
+      "side": "Dam",
+      "seasons": [
+        2011
       ]
     },
     {
@@ -558,6 +570,14 @@
       "seasons": [
         2022,
         2023
+      ]
+    },
+    {
+      "name": "Angelica Märling",
+      "slug": "angelica-marling",
+      "side": "Dam",
+      "seasons": [
+        2010
       ]
     },
     {
@@ -1247,6 +1267,15 @@
       ]
     },
     {
+      "name": "Camilla Johansson",
+      "slug": "camilla-johansson",
+      "side": "Dam",
+      "seasons": [
+        2010,
+        2011
+      ]
+    },
+    {
       "name": "Camilla Olsson",
       "slug": "camilla-olsson",
       "side": "Dam",
@@ -1283,6 +1312,15 @@
         1935,
         1936,
         1939
+      ]
+    },
+    {
+      "name": "Caroline Arvidsson",
+      "slug": "caroline-arvidsson",
+      "side": "Dam",
+      "seasons": [
+        2010,
+        2011
       ]
     },
     {
@@ -1430,6 +1468,15 @@
       ]
     },
     {
+      "name": "Chutharat Bunchuai",
+      "slug": "chutharat-bunchuai",
+      "side": "Dam",
+      "seasons": [
+        2013,
+        2014
+      ]
+    },
+    {
       "name": "Clara Flenhagen",
       "slug": "clara-flenhagen",
       "side": "Dam",
@@ -1447,6 +1494,7 @@
       "slug": "clara-vader",
       "side": "Dam",
       "seasons": [
+        2013,
         2015
       ]
     },
@@ -1488,6 +1536,16 @@
       "side": "Herr",
       "seasons": [
         1948
+      ]
+    },
+    {
+      "name": "Dafina Memedov",
+      "slug": "dafina-memedov",
+      "side": "Dam",
+      "seasons": [
+        2012,
+        2013,
+        2014
       ]
     },
     {
@@ -1591,6 +1649,17 @@
       "side": "Herr",
       "seasons": [
         2006
+      ]
+    },
+    {
+      "name": "Daniela Angela Anna Di Luca",
+      "slug": "daniela-angela-anna-di-luca",
+      "side": "Dam",
+      "seasons": [
+        2011,
+        2012,
+        2013,
+        2014
       ]
     },
     {
@@ -2074,6 +2143,14 @@
       ]
     },
     {
+      "name": "Elsa Bard",
+      "slug": "elsa-bard",
+      "side": "Dam",
+      "seasons": [
+        2013
+      ]
+    },
+    {
       "name": "Elsa Burvall",
       "slug": "elsa-burvall",
       "side": "Dam",
@@ -2164,12 +2241,48 @@
       ]
     },
     {
+      "name": "Emma Ahlstrand",
+      "slug": "emma-ahlstrand",
+      "side": "Dam",
+      "seasons": [
+        2010,
+        2011
+      ]
+    },
+    {
+      "name": "Emma Ekman",
+      "slug": "emma-ekman",
+      "side": "Dam",
+      "seasons": [
+        2013,
+        2014
+      ]
+    },
+    {
       "name": "Emma Engström",
       "slug": "emma-engstrom",
       "side": "Dam",
       "seasons": [
         2021,
         2026
+      ]
+    },
+    {
+      "name": "Emma Kanerva Palovaara",
+      "slug": "emma-kanerva-palovaara",
+      "side": "Dam",
+      "seasons": [
+        2012
+      ]
+    },
+    {
+      "name": "Emma Lennartsson",
+      "slug": "emma-lennartsson",
+      "side": "Dam",
+      "seasons": [
+        2010,
+        2011,
+        2012
       ]
     },
     {
@@ -2233,6 +2346,15 @@
       "side": "Dam",
       "seasons": [
         2021
+      ]
+    },
+    {
+      "name": "Erica Fyrberg",
+      "slug": "erica-fyrberg",
+      "side": "Dam",
+      "seasons": [
+        2013,
+        2014
       ]
     },
     {
@@ -2310,6 +2432,22 @@
       ]
     },
     {
+      "name": "Erika Hallman",
+      "slug": "erika-hallman",
+      "side": "Dam",
+      "seasons": [
+        2014
+      ]
+    },
+    {
+      "name": "Erika Petersson",
+      "slug": "erika-petersson",
+      "side": "Dam",
+      "seasons": [
+        2013
+      ]
+    },
+    {
       "name": "Evert Lager",
       "slug": "evert-lager",
       "side": "Herr",
@@ -2344,6 +2482,15 @@
       ]
     },
     {
+      "name": "Fannie Frohm Tallberg",
+      "slug": "fannie-frohm-tallberg",
+      "side": "Dam",
+      "seasons": [
+        2011,
+        2012
+      ]
+    },
+    {
       "name": "Fanny Andersson",
       "slug": "fanny-andersson",
       "side": "Dam",
@@ -2351,6 +2498,14 @@
         2024,
         2025,
         2026
+      ]
+    },
+    {
+      "name": "Fanny Vester",
+      "slug": "fanny-vester",
+      "side": "Dam",
+      "seasons": [
+        2014
       ]
     },
     {
@@ -2524,10 +2679,29 @@
       ]
     },
     {
+      "name": "Frida Bremer Källqvist",
+      "slug": "frida-bremer-kallqvist",
+      "side": "Dam",
+      "seasons": [
+        2010
+      ]
+    },
+    {
+      "name": "Frida Hillerström",
+      "slug": "frida-hillerstrom",
+      "side": "Dam",
+      "seasons": [
+        2012,
+        2013,
+        2014
+      ]
+    },
+    {
       "name": "Frida Kilby",
       "slug": "frida-kilby",
       "side": "Dam",
       "seasons": [
+        2013,
         2015
       ]
     },
@@ -2536,7 +2710,16 @@
       "slug": "frida-lundstrom",
       "side": "Dam",
       "seasons": [
+        2014,
         2015
+      ]
+    },
+    {
+      "name": "Frida Nyström",
+      "slug": "frida-nystrom",
+      "side": "Dam",
+      "seasons": [
+        2011
       ]
     },
     {
@@ -2556,6 +2739,15 @@
       "side": "Herr",
       "seasons": [
         2009
+      ]
+    },
+    {
+      "name": "Gabriella Perenkranz",
+      "slug": "gabriella-perenkranz",
+      "side": "Dam",
+      "seasons": [
+        2010,
+        2011
       ]
     },
     {
@@ -3119,6 +3311,7 @@
       "slug": "hanna-hellstrom",
       "side": "Dam",
       "seasons": [
+        2014,
         2015,
         2016
       ]
@@ -3128,10 +3321,22 @@
       "slug": "hanna-ahlman",
       "side": "Dam",
       "seasons": [
+        2013,
+        2014,
         2015,
         2016,
         2017,
         2018
+      ]
+    },
+    {
+      "name": "Hanne Gråhns",
+      "slug": "hanne-grahns",
+      "side": "Dam",
+      "seasons": [
+        2010,
+        2011,
+        2012
       ]
     },
     {
@@ -3564,10 +3769,20 @@
       ]
     },
     {
+      "name": "Ida Blomstrand",
+      "slug": "ida-blomstrand",
+      "side": "Dam",
+      "seasons": [
+        2010,
+        2011
+      ]
+    },
+    {
       "name": "Ida Larsson",
       "slug": "ida-larsson",
       "side": "Dam",
       "seasons": [
+        2013,
         2025,
         2026
       ]
@@ -3577,6 +3792,9 @@
       "slug": "ida-lindell",
       "side": "Dam",
       "seasons": [
+        2010,
+        2011,
+        2013,
         2017,
         2018
       ]
@@ -3663,6 +3881,16 @@
         2021,
         2022,
         2023
+      ]
+    },
+    {
+      "name": "Irma Nordmark",
+      "slug": "irma-nordmark",
+      "side": "Dam",
+      "seasons": [
+        2012,
+        2013,
+        2014
       ]
     },
     {
@@ -4053,6 +4281,8 @@
       "slug": "jessica-seitz",
       "side": "Dam",
       "seasons": [
+        2013,
+        2014,
         2015
       ]
     },
@@ -4063,6 +4293,15 @@
       "seasons": [
         2025,
         2026
+      ]
+    },
+    {
+      "name": "Jessica Wärn Björk",
+      "slug": "jessica-warn-bjork",
+      "side": "Dam",
+      "seasons": [
+        2013,
+        2014
       ]
     },
     {
@@ -4441,6 +4680,7 @@
       "slug": "jonna-andersson",
       "side": "Dam",
       "seasons": [
+        2012,
         2016,
         2018
       ]
@@ -4509,6 +4749,14 @@
       "side": "Dam",
       "seasons": [
         2026
+      ]
+    },
+    {
+      "name": "Josefine Saina",
+      "slug": "josefine-saina",
+      "side": "Dam",
+      "seasons": [
+        2014
       ]
     },
     {
@@ -4589,6 +4837,14 @@
       "side": "Dam",
       "seasons": [
         2026
+      ]
+    },
+    {
+      "name": "Karin Gyllander",
+      "slug": "karin-gyllander",
+      "side": "Dam",
+      "seasons": [
+        2014
       ]
     },
     {
@@ -5318,11 +5574,28 @@
       ]
     },
     {
+      "name": "Lina Nedell",
+      "slug": "lina-nedell",
+      "side": "Dam",
+      "seasons": [
+        2012,
+        2013
+      ]
+    },
+    {
       "name": "Lina Nystrand",
       "slug": "lina-nystrand",
       "side": "Dam",
       "seasons": [
         2017
+      ]
+    },
+    {
+      "name": "Lina Pegler",
+      "slug": "lina-pegler",
+      "side": "Dam",
+      "seasons": [
+        2010
       ]
     },
     {
@@ -5350,6 +5623,33 @@
       "seasons": [
         2019,
         2021
+      ]
+    },
+    {
+      "name": "Linnéa Kogsta",
+      "slug": "linnea-kogsta",
+      "side": "Dam",
+      "seasons": [
+        2010,
+        2011,
+        2012,
+        2013
+      ]
+    },
+    {
+      "name": "Linnea Liif",
+      "slug": "linnea-liif",
+      "side": "Dam",
+      "seasons": [
+        2013
+      ]
+    },
+    {
+      "name": "Linnéa Mellblom",
+      "slug": "linnea-mellblom",
+      "side": "Dam",
+      "seasons": [
+        2010
       ]
     },
     {
@@ -5428,6 +5728,15 @@
       ]
     },
     {
+      "name": "Lisa Moberg",
+      "slug": "lisa-moberg",
+      "side": "Dam",
+      "seasons": [
+        2012,
+        2014
+      ]
+    },
+    {
       "name": "Lova Braam",
       "slug": "lova-braam",
       "side": "Dam",
@@ -5443,6 +5752,16 @@
       "seasons": [
         2024,
         2026
+      ]
+    },
+    {
+      "name": "Lovisa Ederström",
+      "slug": "lovisa-ederstrom",
+      "side": "Dam",
+      "seasons": [
+        2010,
+        2011,
+        2012
       ]
     },
     {
@@ -5463,6 +5782,8 @@
       "slug": "lovisa-karlsson",
       "side": "Dam",
       "seasons": [
+        2013,
+        2014,
         2015,
         2016
       ]
@@ -5556,6 +5877,15 @@
       ]
     },
     {
+      "name": "Maja Bargello",
+      "slug": "maja-bargello",
+      "side": "Dam",
+      "seasons": [
+        2010,
+        2011
+      ]
+    },
+    {
       "name": "Maja Lundman",
       "slug": "maja-lundman",
       "side": "Dam",
@@ -5598,6 +5928,23 @@
       "side": "Herr",
       "seasons": [
         1996
+      ]
+    },
+    {
+      "name": "Malin Erichsen",
+      "slug": "malin-erichsen",
+      "side": "Dam",
+      "seasons": [
+        2010,
+        2011
+      ]
+    },
+    {
+      "name": "Malin Gustafsson",
+      "slug": "malin-gustafsson",
+      "side": "Dam",
+      "seasons": [
+        2014
       ]
     },
     {
@@ -5717,6 +6064,28 @@
       ]
     },
     {
+      "name": "Maria Andersson",
+      "slug": "maria-andersson",
+      "side": "Dam",
+      "seasons": [
+        2010,
+        2011,
+        2012,
+        2013
+      ]
+    },
+    {
+      "name": "Marion Olsson",
+      "slug": "marion-olsson",
+      "side": "Dam",
+      "seasons": [
+        2010,
+        2011,
+        2013,
+        2014
+      ]
+    },
+    {
       "name": "Markus Hansson",
       "slug": "markus-hansson",
       "side": "Herr",
@@ -5827,11 +6196,29 @@
       ]
     },
     {
+      "name": "Mathilda Johansson Prakt",
+      "slug": "mathilda-johansson-prakt",
+      "side": "Dam",
+      "seasons": [
+        2013,
+        2014
+      ]
+    },
+    {
       "name": "Matilda Kristell",
       "slug": "matilda-kristell",
       "side": "Dam",
       "seasons": [
         2026
+      ]
+    },
+    {
+      "name": "Matilda Pettersson",
+      "slug": "matilda-pettersson",
+      "side": "Dam",
+      "seasons": [
+        2013,
+        2014
       ]
     },
     {
@@ -6534,6 +6921,16 @@
       "side": "Herr",
       "seasons": [
         1936
+      ]
+    },
+    {
+      "name": "Nina Dahlholm",
+      "slug": "nina-dahlholm",
+      "side": "Dam",
+      "seasons": [
+        2010,
+        2011,
+        2012
       ]
     },
     {
@@ -7379,6 +7776,8 @@
       "slug": "rebecka-ronnegard",
       "side": "Dam",
       "seasons": [
+        2013,
+        2014,
         2015,
         2016
       ]
@@ -7703,8 +8102,29 @@
       "slug": "sandra-gyllander",
       "side": "Dam",
       "seasons": [
+        2014,
         2015,
         2016
+      ]
+    },
+    {
+      "name": "Sandra Karlsson",
+      "slug": "sandra-karlsson",
+      "side": "Dam",
+      "seasons": [
+        2010,
+        2011,
+        2012
+      ]
+    },
+    {
+      "name": "Sandra Landberg Heikne",
+      "slug": "sandra-landberg-heikne",
+      "side": "Dam",
+      "seasons": [
+        2010,
+        2011,
+        2012
       ]
     },
     {
@@ -7733,6 +8153,14 @@
       "side": "Dam",
       "seasons": [
         2024
+      ]
+    },
+    {
+      "name": "Sara Sema",
+      "slug": "sara-sema",
+      "side": "Dam",
+      "seasons": [
+        2013
       ]
     },
     {
@@ -7826,6 +8254,14 @@
       "seasons": [
         2021,
         2022
+      ]
+    },
+    {
+      "name": "Shamiram Yakob",
+      "slug": "shamiram-yakob",
+      "side": "Dam",
+      "seasons": [
+        2012
       ]
     },
     {
@@ -7937,6 +8373,15 @@
       ]
     },
     {
+      "name": "Simona Ågren",
+      "slug": "simona-agren",
+      "side": "Dam",
+      "seasons": [
+        2011,
+        2012
+      ]
+    },
+    {
       "name": "Siri Ed Kristersson",
       "slug": "siri-ed-kristersson",
       "side": "Dam",
@@ -7990,8 +8435,19 @@
       "slug": "sofie-benzler",
       "side": "Dam",
       "seasons": [
+        2014,
         2015,
         2016
+      ]
+    },
+    {
+      "name": "Sofie Wikström",
+      "slug": "sofie-wikstrom",
+      "side": "Dam",
+      "seasons": [
+        2010,
+        2011,
+        2012
       ]
     },
     {
@@ -8148,6 +8604,15 @@
         1948,
         1949,
         1950
+      ]
+    },
+    {
+      "name": "Stina Andersson",
+      "slug": "stina-andersson",
+      "side": "Dam",
+      "seasons": [
+        2013,
+        2015
       ]
     },
     {
@@ -8379,6 +8844,7 @@
       "slug": "tanya-nasman",
       "side": "Dam",
       "seasons": [
+        2011,
         2015,
         2016,
         2017,
@@ -8551,6 +9017,14 @@
         2018,
         2019,
         2020
+      ]
+    },
+    {
+      "name": "Tilda Pegler",
+      "slug": "tilda-pegler",
+      "side": "Dam",
+      "seasons": [
+        2010
       ]
     },
     {
@@ -8829,6 +9303,7 @@
       "slug": "tove-werner",
       "side": "Dam",
       "seasons": [
+        2014,
         2015,
         2016,
         2017,
@@ -8897,6 +9372,7 @@
       "slug": "ulrica-lov",
       "side": "Dam",
       "seasons": [
+        2014,
         2015,
         2016,
         2017

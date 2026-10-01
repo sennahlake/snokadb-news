@@ -1,7 +1,52 @@
 {
   "year": 2026,
-  "itemCount": 606,
+  "itemCount": 608,
   "items": [
+    {
+      "id": "nt-ifk-ordforanden-vi-kan-inte-bloda-for-mycket-for-lange-rgowqnmj",
+      "title": "IFK-ordföranden: \"Vi kan inte blöda för mycket för länge\"",
+      "summary": "Hur mycket får satsningen på två elitlag kosta? Åren i damallsvenskan har inneburit ett underskott i snitt på nio miljoner per år. – Vi behöver landa på en kostnad som vi mäktar med, säger IFK-ordföranden Martin Gyllix.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-ordforanden-vi-kan-inte-bloda-for-mycket-for-lange/rgowqnmj",
+      "publishedAt": "2026-10-01T19:31:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-01",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "genom-ljuva-livet-193-betyg-pa-alla-nyforvarv",
       "title": "193. Betyg på alla nyförvärv",
@@ -176,6 +221,50 @@
       "source": "Norrköpings Tidningar",
       "sourceUrl": "https://www.nt.se/sport/fotboll",
       "articleUrl": "https://www.nt.se/sport/fotboll/artikel/live-folj-ifks-medlemsmote-nt-rapporterar-live/jvzw7vpr",
+      "publishedAt": "2026-10-01T13:44:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-01",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-ifk-holl-medlemsmote-nt-rapporterade-fran-kvallen-jvzw7vpr",
+      "title": "IFK höll medlemsmöte – NT rapporterade från kvällen",
+      "summary": "IFK kallade medlemmarna till möte. NT rapporterade från kvällen.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-holl-medlemsmote-nt-rapporterade-fran-kvallen/jvzw7vpr",
       "publishedAt": "2026-10-01T13:44:00.000Z",
       "category": "Lokal",
       "tags": [

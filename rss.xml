@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Thu, 01 Oct 2026 16:48:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 19:31:00 GMT</lastBuildDate>
+    <item>
+      <title>IFK-ordföranden: &quot;Vi kan inte blöda för mycket för länge&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-ordforanden-vi-kan-inte-bloda-for-mycket-for-lange/rgowqnmj</link>
+      <guid isPermaLink="false">nt-ifk-ordforanden-vi-kan-inte-bloda-for-mycket-for-lange-rgowqnmj</guid>
+      <pubDate>Thu, 01 Oct 2026 19:31:00 GMT</pubDate>
+      <description>Hur mycket får satsningen på två elitlag kosta? Åren i damallsvenskan har inneburit ett underskott i snitt på nio miljoner per år. – Vi behöver landa på en kostnad som vi mäktar med, säger IFK-ordföranden Martin Gyllix.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>193. Betyg på alla nyförvärv</title>
       <link>https://pod.space/genomljuvalivet/193-betyg-pa-alla-nyforvarv</link>
@@ -44,6 +52,14 @@
       <guid isPermaLink="false">nt-live-folj-ifks-medlemsmote-nt-rapporterar-live-jvzw7vpr</guid>
       <pubDate>Thu, 01 Oct 2026 13:44:00 GMT</pubDate>
       <description>IFK har kallat medlemmarna till möte. NT rapporterar från kvällen.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>IFK höll medlemsmöte – NT rapporterade från kvällen</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-holl-medlemsmote-nt-rapporterade-fran-kvallen/jvzw7vpr</link>
+      <guid isPermaLink="false">nt-ifk-holl-medlemsmote-nt-rapporterade-fran-kvallen-jvzw7vpr</guid>
+      <pubDate>Thu, 01 Oct 2026 13:44:00 GMT</pubDate>
+      <description>IFK kallade medlemmarna till möte. NT rapporterade från kvällen.</description>
       <category>Norrköpings Tidningar</category>
     </item>
     <item>
@@ -788,22 +804,6 @@
       <guid isPermaLink="false">nt-folj-ifk-norrkoping-mot-oddevold-i-nts-liverapport-r5pq8kwj</guid>
       <pubDate>Sun, 13 Sep 2026 12:01:00 GMT</pubDate>
       <description>IFK Norrköping fortsatte jaga avancemanget till allsvenskan. Men det blev ingen seger mot Oddevold. Istället fick de nöja sig med 0–0. Se vad som hände – minut för minut – nedan.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>IFK-truppen mot IK Oddevold</title>
-      <link>https://ifknorrkoping.se/ifk-truppen-mot-ik-oddevold-2/</link>
-      <guid isPermaLink="false">ifk-ifk-truppen-mot-ik-oddevold-2</guid>
-      <pubDate>Sun, 13 Sep 2026 10:00:27 GMT</pubDate>
-      <description>IFK-truppen mot IK Oddevold</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>&quot;Någon jävla gång måste vi trycka dit en boll&quot;</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/ifk-forlorade-mot-brommapojkarna-pa-grimsta/rky7kowj</link>
-      <guid isPermaLink="false">nt-ifk-forlorade-mot-brommapojkarna-pa-grimsta-rky7kowj</guid>
-      <pubDate>Sun, 13 Sep 2026 03:00:00 GMT</pubDate>
-      <description>Bollen på mållinjen, i insidan av stolpen och precis utanför. Det studsar inte direkt med IFK Norrköping just nu. – Det vill sig definitivt inte, säger Stellan Carlsson efter förlusten mot Brommapojkarna.</description>
       <category>Norrköpings Tidningar</category>
     </item>
   </channel>
