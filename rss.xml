@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Wed, 30 Sep 2026 18:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 07:38:00 GMT</lastBuildDate>
+    <item>
+      <title>Beskedet för IFK-mittfältaren: Hälsenan är av – säsongen över</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/beskedet-for-ifk-mittfaltaren-halsenan-ar-av-sasongen-over/lw62ww8j</link>
+      <guid isPermaLink="false">nt-beskedet-for-ifk-mittfaltaren-halsenan-ar-av-sasongen-over-lw62ww8j</guid>
+      <pubDate>Thu, 01 Oct 2026 07:38:00 GMT</pubDate>
+      <description>Amanda Sundström fick kliva av direkt efter att hon byttes in mot Häcken. Nu har IFK-mittfältaren fått sin dom: Hälsenan är av, säsongen över.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>Skadeuppdatering damlaget</title>
+      <link>https://ifknorrkoping.se/skadeuppdatering-damlaget-3/</link>
+      <guid isPermaLink="false">ifk-skadeuppdatering-damlaget-3</guid>
+      <pubDate>Thu, 01 Oct 2026 07:17:56 GMT</pubDate>
+      <description>Skadeuppdatering damlaget</description>
+      <category>IFK Norrköping</category>
+    </item>
     <item>
       <title>Följ med hem till lugnet hos IFK-stjärnan</title>
       <link>https://www.nt.se/story-sport/fotboll/artikel/med-fatima-har-jag-blivit-en-battre-person/lyxwe8vr</link>
@@ -788,22 +804,6 @@
       <guid isPermaLink="false">nt-live-bottenmote-i-huvudstaden-ifk-jagar-viktiga-poang-mot-bp-j82odopj</guid>
       <pubDate>Sat, 12 Sep 2026 08:01:00 GMT</pubDate>
       <description>IFK är nästjumbo med nio matcher kvar. Under lördagen väntar tabellnian BP. Följ allt från matchen här.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>LIVE: Bottenmöte i huvudstaden – IFK jagar viktiga poäng mot BP</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/live-ifk-kammade-noll-i-viktiga-bottenmotet/j82odopj</link>
-      <guid isPermaLink="false">nt-live-ifk-kammade-noll-i-viktiga-bottenmotet-j82odopj</guid>
-      <pubDate>Sat, 12 Sep 2026 08:01:00 GMT</pubDate>
-      <description>IFK är nästjumbo med nio matcher kvar. Under lördagen väntar tabellnian BP. Följ allt från matchen här.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>BETYGEN: Så skötte sig IFK i matchen mot Brommapojkarna</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/betygen-sa-skotte-sig-ifk-i-matchen-mot-brommapojkarna/j82odopj</link>
-      <guid isPermaLink="false">nt-betygen-sa-skotte-sig-ifk-i-matchen-mot-brommapojkarna-j82odopj</guid>
-      <pubDate>Sat, 12 Sep 2026 08:01:00 GMT</pubDate>
-      <description>IFK Norrköping hade svårt att få in bollen i mål och blev straffade på kontringar i första halvlek.</description>
       <category>Norrköpings Tidningar</category>
     </item>
   </channel>

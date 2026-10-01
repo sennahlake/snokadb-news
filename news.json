@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T19:14:33.883Z",
-  "itemCount": 4517,
+  "generatedAt": "2026-10-01T13:05:48.813Z",
+  "itemCount": 4519,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 2,
+      "count": 1,
       "ok": true
     },
     {
@@ -65,6 +65,97 @@
     }
   ],
   "items": [
+    {
+      "id": "nt-beskedet-for-ifk-mittfaltaren-halsenan-ar-av-sasongen-over-lw62ww8j",
+      "title": "Beskedet för IFK-mittfältaren: Hälsenan är av – säsongen över",
+      "summary": "Amanda Sundström fick kliva av direkt efter att hon byttes in mot Häcken. Nu har IFK-mittfältaren fått sin dom: Hälsenan är av, säsongen över.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/beskedet-for-ifk-mittfaltaren-halsenan-ar-av-sasongen-over/lw62ww8j",
+      "publishedAt": "2026-10-01T07:38:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Amanda Sundström",
+          "slug": "amanda-sundstrom",
+          "side": "Dam",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-01",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "ifk-skadeuppdatering-damlaget-3",
+      "title": "Skadeuppdatering damlaget",
+      "summary": "Skadeuppdatering damlaget",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/skadeuppdatering-damlaget-3/",
+      "publishedAt": "2026-10-01T07:17:56.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
     {
       "id": "nt-med-fatima-har-jag-blivit-en-battre-person-lyxwe8vr",
       "title": "Följ med hem till lugnet hos IFK-stjärnan",
