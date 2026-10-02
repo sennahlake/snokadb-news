@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Thu, 01 Oct 2026 19:31:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 08:23:28 GMT</lastBuildDate>
+    <item>
+      <title>Inifrån Norrköpings förvandling: ”Jag kräks på att vi pratar om det”</title>
+      <link>https://www.expressen.se/sport/fotboll/superettan/inifran-norrkopings-forvandling-jag-kraks-pa-att-vi-pratar-om-det/</link>
+      <guid isPermaLink="false">sportexpressen-superettan-inifran-norrkopings-forvandling-jag-kraks-pa-att-vi-pratar-om-det</guid>
+      <pubDate>Fri, 02 Oct 2026 08:23:28 GMT</pubDate>
+      <description>Efter flera år på glid kraschade IFK Norrköping förra hösten. Men i stället för att slukas av superettan har Eldar Abdulics lag dansat fram med unga spelare och nya nyckeltal som lyser grönt. Efter en händelsekedja med start sommaren 2024 ser det ut som att vändpunkten är här. Expressen besökte en fotbollsklubb som verkar ha fått ordning på grejerna.</description>
+      <category>SportExpressen</category>
+    </item>
+    <item>
+      <title>IFK:s plan inför möjliga återkomsten: &quot;Kommer behöva göra en del&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifks-plan-infor-mojliga-aterkomsten-kommer-behova-gora-en-del/lyx01xvr</link>
+      <guid isPermaLink="false">nt-ifks-plan-infor-mojliga-aterkomsten-kommer-behova-gora-en-del-lyx01xvr</guid>
+      <pubDate>Fri, 02 Oct 2026 07:00:00 GMT</pubDate>
+      <description>IFK är nära allsvenskan. Sportchefen Henrik Jurelius berättar om planerna framåt, vinterfönstret och dialogen med Noel Sernelius.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>IFK-ordföranden: &quot;Vi kan inte blöda för mycket för länge&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/ifk-ordforanden-vi-kan-inte-bloda-for-mycket-for-lange/rgowqnmj</link>
@@ -788,22 +804,6 @@
       <guid isPermaLink="false">nt-theo-krantz-haller-nollan-igen-for-ifk-norrkoping-r230x6vl</guid>
       <pubDate>Sun, 13 Sep 2026 16:14:00 GMT</pubDate>
       <description>Han har blivit ett självklart namn i IFK Norrköpings startelva. Mot Oddevold höll Theo Krantz sin andra raka nolla. – När man får spela blir man mer mogen i sitt spel och höjer sin lägstanivå, säger målvakten efter 0–0-matchen.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Namnet på ryggen räcker inte längre – du måste ha rätt attityd</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/namnet-pa-ryggen-racker-inte-langre-du-maste-ha-ratt-attityd/r1wmq83l</link>
-      <guid isPermaLink="false">nt-namnet-pa-ryggen-racker-inte-langre-du-maste-ha-ratt-attityd-r1wmq83l</guid>
-      <pubDate>Sun, 13 Sep 2026 15:04:00 GMT</pubDate>
-      <description>Det går att diskutera byten, startelvor och poängtapp. Men det finns något annat som är betydligt mer intressant med IFK Norrköping just nu: känslan av att beteende och attityd har blivit viktigare än namnet på ryggen.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Mållös match mot Oddevold – IFK fick nöja sig med en poäng</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/folj-ifk-norrkoping-mot-oddevold-i-nts-liverapport/r5pq8kwj</link>
-      <guid isPermaLink="false">nt-folj-ifk-norrkoping-mot-oddevold-i-nts-liverapport-r5pq8kwj</guid>
-      <pubDate>Sun, 13 Sep 2026 12:01:00 GMT</pubDate>
-      <description>IFK Norrköping fortsatte jaga avancemanget till allsvenskan. Men det blev ingen seger mot Oddevold. Istället fick de nöja sig med 0–0. Se vad som hände – minut för minut – nedan.</description>
       <category>Norrköpings Tidningar</category>
     </item>
   </channel>

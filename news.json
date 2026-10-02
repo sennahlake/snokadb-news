@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T23:09:06.102Z",
-  "itemCount": 4526,
+  "generatedAt": "2026-10-02T09:41:06.738Z",
+  "itemCount": 4528,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 4,
+      "count": 2,
       "ok": true
     },
     {
@@ -30,7 +30,7 @@
     },
     {
       "source": "SportExpressen",
-      "count": 0,
+      "count": 1,
       "ok": true
     },
     {
@@ -65,6 +65,106 @@
     }
   ],
   "items": [
+    {
+      "id": "sportexpressen-superettan-inifran-norrkopings-forvandling-jag-kraks-pa-att-vi-pratar-om-det",
+      "title": "Inifrån Norrköpings förvandling: ”Jag kräks på att vi pratar om det”",
+      "summary": "Efter flera år på glid kraschade IFK Norrköping förra hösten. Men i stället för att slukas av superettan har Eldar Abdulics lag dansat fram med unga spelare och nya nyckeltal som lyser grönt. Efter en händelsekedja med start sommaren 2024 ser det ut som att vändpunkten är här. Expressen besökte en fotbollsklubb som verkar ha fått ordning på grejerna.",
+      "source": "SportExpressen",
+      "sourceUrl": "https://www.expressen.se/sport/fotboll/",
+      "articleUrl": "https://www.expressen.se/sport/fotboll/superettan/inifran-norrkopings-forvandling-jag-kraks-pa-att-vi-pratar-om-det/",
+      "publishedAt": "2026-10-02T08:23:28.000Z",
+      "category": "Nyhet",
+      "tags": [
+        "Extern originalkälla",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "SportExpressen"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "medium",
+        "score": 78,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "sportexpressen",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "SportExpressen",
+          "date": "2026-10-02",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-ifks-plan-infor-mojliga-aterkomsten-kommer-behova-gora-en-del-lyx01xvr",
+      "title": "IFK:s plan inför möjliga återkomsten: \"Kommer behöva göra en del\"",
+      "summary": "IFK är nära allsvenskan. Sportchefen Henrik Jurelius berättar om planerna framåt, vinterfönstret och dialogen med Noel Sernelius.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifks-plan-infor-mojliga-aterkomsten-kommer-behova-gora-en-del/lyx01xvr",
+      "publishedAt": "2026-10-02T07:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Noel Sernelius",
+          "slug": "noel-sernelius",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-02",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-ifk-ordforanden-vi-kan-inte-bloda-for-mycket-for-lange-rgowqnmj",
       "title": "IFK-ordföranden: \"Vi kan inte blöda för mycket för länge\"",
