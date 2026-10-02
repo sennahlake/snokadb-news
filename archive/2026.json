@@ -1,7 +1,108 @@
 {
   "year": 2026,
-  "itemCount": 610,
+  "itemCount": 612,
   "items": [
+    {
+      "id": "nt-forsoker-ta-sig-ur-skuggan-jag-har-mycket-mer-att-ge-l78dqy8j",
+      "title": "Försöker ta sig ur skuggan: \"Jag har mycket mer att ge\"",
+      "summary": "Traditionella egenskaper i ett nytänkande system. Fabian Holst-Larsen sliter på. – Jag har fler kvalitéer än det jag visat hittills, säger IFK-backen.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/forsoker-ta-sig-ur-skuggan-jag-har-mycket-mer-att-ge/l78dqy8j",
+      "publishedAt": "2026-10-02T14:41:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Fabian Holst-Larsen",
+          "slug": "fabian-holst-larsen",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-02",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-transferintakter-forbattrar-ifks-prognos-med-198-miljoner-rmw7v0ml",
+      "title": "Transferintäkter förbättrar IFK:s prognos – med 19,8 miljoner",
+      "summary": "Prognosen talar för ett resultat 19,8 miljoner bättre än budgeten. Men det drivs också väldigt mycket av transferintäkter. – Det är framför allt kopplat till det, säger ordföranden Martin Gyllix.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/transferintakter-forbattrar-ifks-prognos-med-198-miljoner/rmw7v0ml",
+      "publishedAt": "2026-10-02T13:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-02",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "sportexpressen-superettan-inifran-norrkopings-forvandling-jag-kraks-pa-att-vi-pratar-om-det",
       "title": "Inifrån Norrköpings förvandling: ”Jag kräks på att vi pratar om det”",
