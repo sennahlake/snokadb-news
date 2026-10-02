@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T16:15:15.774Z",
-  "itemCount": 4530,
+  "generatedAt": "2026-10-02T21:18:43.620Z",
+  "itemCount": 4532,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -66,6 +66,85 @@
     }
   ],
   "items": [
+    {
+      "id": "nt-ifk-hur-kunde-det-ga-sa-fel-jo5dg0gl",
+      "title": "IFK, hur kunde det gå så fel?",
+      "summary": "För några år sedan var IFK Norrköpings damlag ett lag som det pratades om. Spelarna hade spetsiga personligheter och fick egna ramsor samtidigt som klubben hade ett varumärke på frammarsch. I dag är känslan en helt annan.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-hur-kunde-det-ga-sa-fel-/jo5dg0gl",
+      "publishedAt": "2026-10-02T19:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-02",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "ifk-clark-infor-pitea-borta-det-ar-fullt-med-energi",
+      "title": "Clark inför Piteå borta: “Det är fullt med energi”",
+      "summary": "Clark inför Piteå borta: “Det är fullt med energi”",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/clark-infor-pitea-borta-det-ar-fullt-med-energi/",
+      "publishedAt": "2026-10-02T17:38:01.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
     {
       "id": "nt-forsoker-ta-sig-ur-skuggan-jag-har-mycket-mer-att-ge-l78dqy8j",
       "title": "Försöker ta sig ur skuggan: \"Jag har mycket mer att ge\"",

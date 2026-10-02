@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Fri, 02 Oct 2026 14:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 19:00:00 GMT</lastBuildDate>
+    <item>
+      <title>IFK, hur kunde det gå så fel?</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-hur-kunde-det-ga-sa-fel-/jo5dg0gl</link>
+      <guid isPermaLink="false">nt-ifk-hur-kunde-det-ga-sa-fel-jo5dg0gl</guid>
+      <pubDate>Fri, 02 Oct 2026 19:00:00 GMT</pubDate>
+      <description>För några år sedan var IFK Norrköpings damlag ett lag som det pratades om. Spelarna hade spetsiga personligheter och fick egna ramsor samtidigt som klubben hade ett varumärke på frammarsch. I dag är känslan en helt annan.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>Clark inför Piteå borta: “Det är fullt med energi”</title>
+      <link>https://ifknorrkoping.se/clark-infor-pitea-borta-det-ar-fullt-med-energi/</link>
+      <guid isPermaLink="false">ifk-clark-infor-pitea-borta-det-ar-fullt-med-energi</guid>
+      <pubDate>Fri, 02 Oct 2026 17:38:01 GMT</pubDate>
+      <description>Clark inför Piteå borta: “Det är fullt med energi”</description>
+      <category>IFK Norrköping</category>
+    </item>
     <item>
       <title>Försöker ta sig ur skuggan: &quot;Jag har mycket mer att ge&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/forsoker-ta-sig-ur-skuggan-jag-har-mycket-mer-att-ge/l78dqy8j</link>
@@ -788,22 +804,6 @@
       <guid isPermaLink="false">nt-ifk-fortsatter-att-morka-skadelaget-kommunicerar-i-veckan-rxq5p32j</guid>
       <pubDate>Mon, 14 Sep 2026 16:00:00 GMT</pubDate>
       <description>Fanny Andersson klev av förra helgen – och tränar fortfarande inte. Malva Larsson gjorde detsamma i lördags. Statusen på dem? IFK väljer att mörka det tills vidare.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Kamraternas träningsvecka</title>
-      <link>https://ifknorrkoping.se/kamraternas-traningsvecka-43/</link>
-      <guid isPermaLink="false">ifk-kamraternas-traningsvecka-43</guid>
-      <pubDate>Mon, 14 Sep 2026 06:59:37 GMT</pubDate>
-      <description>Kamraternas träningsvecka</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Weber har väntat på chansen – men kräver mer av sig själv</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/jonas-weber-tillbaka-i-ifks-startelva-mot-oddevold/r9mq6vxl</link>
-      <guid isPermaLink="false">nt-jonas-weber-tillbaka-i-ifks-startelva-mot-oddevold-r9mq6vxl</guid>
-      <pubDate>Mon, 14 Sep 2026 04:00:00 GMT</pubDate>
-      <description>Begränsat med speltid, familjen långt bort – och ett alltmer stukat självförtroende. Det har varit en tuff period för IFK-försvararen Jonas Weber. Men mot Oddevold fick han chansen från start. – Man har sina kompisar, men det är samtidigt de man konkurrerar med, säger han.</description>
       <category>Norrköpings Tidningar</category>
     </item>
   </channel>
