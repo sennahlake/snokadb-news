@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Fri, 02 Oct 2026 19:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 08:00:42 GMT</lastBuildDate>
+    <item>
+      <title>Truppen mot Piteå IF</title>
+      <link>https://ifknorrkoping.se/truppen-mot-pitea-if-8/</link>
+      <guid isPermaLink="false">ifk-truppen-mot-pitea-if-8</guid>
+      <pubDate>Sat, 03 Oct 2026 08:00:42 GMT</pubDate>
+      <description>Truppen mot Piteå IF</description>
+      <category>IFK Norrköping</category>
+    </item>
+    <item>
+      <title>LIVE: Ny måstematch för IFK – ställs mot Piteå på bortaplan</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-norrkoping-i-bortamatch-mot-pitea/jdq76gvr</link>
+      <guid isPermaLink="false">nt-ifk-norrkoping-i-bortamatch-mot-pitea-jdq76gvr</guid>
+      <pubDate>Sat, 03 Oct 2026 08:00:00 GMT</pubDate>
+      <description>Läget är fortsatt prekärt för IFK Norrköping som har rest till Norrbotten för ny match i damallsvenskan. Följ bortamatchen mot Piteå och ställ dina frågor till NT:s reportrar här.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>IFK, hur kunde det gå så fel?</title>
       <link>https://www.nt.se/sport/fotboll/artikel/ifk-hur-kunde-det-ga-sa-fel-/jo5dg0gl</link>
@@ -789,22 +805,6 @@
       <pubDate>Mon, 14 Sep 2026 20:20:24 GMT</pubDate>
       <description>Det fortsätter gå motigt för Örebro SK. Mot Nordic fick nyförvärvet Max Watson hjärnsläpp – och slog Liiban Abadid i bakhuvudet. – Det där är inte vackert, säger TV4:s kommentator Daniel Kristiansson.</description>
       <category>SVT</category>
-    </item>
-    <item>
-      <title>Max Watson utvisad – efter slag mot huvudet</title>
-      <link>https://www.expressen.se/sport/fotboll/superettan/max-watson-utvisad-efter-slag-mot-huvudet/</link>
-      <guid isPermaLink="false">sportexpressen-superettan-max-watson-utvisad-efter-slag-mot-huvudet</guid>
-      <pubDate>Mon, 14 Sep 2026 18:59:00 GMT</pubDate>
-      <description>Max Watson tappade humöret helt och hållet. Örebros mittback blev utvisad efter att ha delat ut ett slag mot Liiban Abadids bakhuvud.</description>
-      <category>SportExpressen</category>
-    </item>
-    <item>
-      <title>IFK fortsätter hålla skadeläget hemligt: &quot;Kommer i veckan&quot;</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/ifk-fortsatter-att-morka-skadelaget-kommunicerar-i-veckan/rxq5p32j</link>
-      <guid isPermaLink="false">nt-ifk-fortsatter-att-morka-skadelaget-kommunicerar-i-veckan-rxq5p32j</guid>
-      <pubDate>Mon, 14 Sep 2026 16:00:00 GMT</pubDate>
-      <description>Fanny Andersson klev av förra helgen – och tränar fortfarande inte. Malva Larsson gjorde detsamma i lördags. Statusen på dem? IFK väljer att mörka det tills vidare.</description>
-      <category>Norrköpings Tidningar</category>
     </item>
   </channel>
 </rss>

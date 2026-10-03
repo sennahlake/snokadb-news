@@ -1,7 +1,87 @@
 {
   "year": 2026,
-  "itemCount": 614,
+  "itemCount": 616,
   "items": [
+    {
+      "id": "ifk-truppen-mot-pitea-if-8",
+      "title": "Truppen mot Piteå IF",
+      "summary": "Truppen mot Piteå IF",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/truppen-mot-pitea-if-8/",
+      "publishedAt": "2026-10-03T08:00:42.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "nt-ifk-norrkoping-i-bortamatch-mot-pitea-jdq76gvr",
+      "title": "LIVE: Ny måstematch för IFK – ställs mot Piteå på bortaplan",
+      "summary": "Läget är fortsatt prekärt för IFK Norrköping som har rest till Norrbotten för ny match i damallsvenskan. Följ bortamatchen mot Piteå och ställ dina frågor till NT:s reportrar här.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-norrkoping-i-bortamatch-mot-pitea/jdq76gvr",
+      "publishedAt": "2026-10-03T08:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-03",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-ifk-hur-kunde-det-ga-sa-fel-jo5dg0gl",
       "title": "IFK, hur kunde det gå så fel?",
