@@ -1,7 +1,227 @@
 {
   "year": 2026,
-  "itemCount": 616,
+  "itemCount": 621,
   "items": [
+    {
+      "id": "nt-ifk-spelarna-om-nya-sena-smallen-tufft-nar-man-kampar-i-botten-jp9doyql",
+      "title": "IFK-spelarna om nya sena smällen: \"Tufft när man kämpar i botten\"",
+      "summary": "Hur hanterar IFK-truppen det utsatta läget? Ett kryss i Piteå var en ny sen besvikelse för ett lag som behöver vinna. – Jag tycker att vi håller ihop gruppen bra, sa Julia Karlernäs.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-spelarna-om-nya-sena-smallen-tufft-nar-man-kampar-i-botten/jp9doyql",
+      "publishedAt": "2026-10-03T17:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Julia Karlernäs",
+          "slug": "julia-karlernas",
+          "side": "Dam",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-03",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-mentalt-knutna-navar-men-anda-samma-ifk-visa-r0eo320j",
+      "title": "Mentalt knutna nävar – men ändå samma IFK-visa",
+      "summary": "Resten av säsongen handlar om en räddningsaktion. Innan vägen framåt ska stakas ut. I Piteå syntes mentalt knutna nävar. Men så var det en av detaljerna som gäckar IFK – gång på gång.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/mentalt-knutna-navar-men-anda-samma-ifk-visa/r0eo320j",
+      "publishedAt": "2026-10-03T14:51:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-03",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "ifk-sent-poangtapp-i-pitea",
+      "title": "Sent poängtapp i Piteå",
+      "summary": "Sent poängtapp i Piteå",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/sent-poangtapp-i-pitea/",
+      "publishedAt": "2026-10-03T14:00:33.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "sportbladet-aow33m-ifk-norrkoping-tappade-segern-mot-pitea-if",
+      "title": "Tappar segern i 90:e minuten",
+      "summary": "Blytung smäll för ”Peking”",
+      "source": "Sportbladet",
+      "sourceUrl": "https://www.aftonbladet.se/sportbladet/fotboll",
+      "articleUrl": "https://www.aftonbladet.se/sportbladet/fotboll/a/aOw33M/ifk-norrkoping-tappade-segern-mot-pitea-if?utm_medium=rss",
+      "publishedAt": "2026-10-03T12:53:03.000Z",
+      "category": "Nyhet",
+      "tags": [
+        "Extern originalkälla"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Sportbladet"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "medium",
+        "score": 78,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "sportbladet",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Sportbladet",
+          "date": "2026-10-03",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "sportexpressen-damallsvenskan-norrkoping-tog-blytung-seger-i-bottenstriden",
+      "title": "Norrköping tappade poäng i bottenstriden",
+      "summary": "Måstematch i norr. Då tappade IFK Norrköping tre hyperviktiga poäng i slutminuten mot bottenkonkurrenten Piteå.",
+      "source": "SportExpressen",
+      "sourceUrl": "https://www.expressen.se/sport/fotboll/",
+      "articleUrl": "https://www.expressen.se/sport/fotboll/damallsvenskan/norrkoping-tog-blytung-seger-i-bottenstriden/",
+      "publishedAt": "2026-10-03T12:52:35.000Z",
+      "category": "Nyhet",
+      "tags": [
+        "Extern originalkälla",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "SportExpressen"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "medium",
+        "score": 78,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "sportexpressen",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "SportExpressen",
+          "date": "2026-10-03",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "ifk-truppen-mot-pitea-if-8",
       "title": "Truppen mot Piteå IF",
