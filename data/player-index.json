@@ -298,6 +298,7 @@
       "slug": "alva-lundin",
       "side": "Dam",
       "seasons": [
+        2020,
         2021
       ]
     },
@@ -1495,6 +1496,7 @@
       "side": "Dam",
       "seasons": [
         2013,
+        2014,
         2015
       ]
     },
@@ -1503,6 +1505,7 @@
       "slug": "cornelia-baldi-sundelius",
       "side": "Dam",
       "seasons": [
+        2020,
         2021,
         2022
       ]
@@ -2192,6 +2195,7 @@
       "slug": "emelie-lindh",
       "side": "Dam",
       "seasons": [
+        2020,
         2021,
         2022
       ]
@@ -2513,7 +2517,8 @@
       "slug": "felicia-rohlen",
       "side": "Dam",
       "seasons": [
-        2019
+        2019,
+        2020
       ]
     },
     {
@@ -4216,6 +4221,7 @@
       "slug": "jennie-egeriis",
       "side": "Dam",
       "seasons": [
+        2020,
         2021,
         2022,
         2023,
@@ -5936,7 +5942,8 @@
       "side": "Dam",
       "seasons": [
         2010,
-        2011
+        2011,
+        2014
       ]
     },
     {
@@ -6606,6 +6613,7 @@
       "slug": "moa-gustavsson",
       "side": "Dam",
       "seasons": [
+        2014,
         2016
       ]
     },
@@ -7768,7 +7776,8 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     },
     {
@@ -7779,7 +7788,8 @@
         2013,
         2014,
         2015,
-        2016
+        2016,
+        2017
       ]
     },
     {
@@ -8231,6 +8241,7 @@
       "slug": "selma-berggren",
       "side": "Dam",
       "seasons": [
+        2020,
         2021,
         2022
       ]
@@ -8252,6 +8263,7 @@
       "slug": "selma-nystrom",
       "side": "Dam",
       "seasons": [
+        2020,
         2021,
         2022
       ]
