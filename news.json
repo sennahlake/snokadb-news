@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T17:14:03.995Z",
-  "itemCount": 4539,
+  "generatedAt": "2026-10-04T05:46:10.323Z",
+  "itemCount": 4540,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -30,7 +30,7 @@
     },
     {
       "source": "SportExpressen",
-      "count": 1,
+      "count": 0,
       "ok": true
     },
     {
@@ -40,9 +40,8 @@
     },
     {
       "source": "Sveriges Radio",
-      "count": 0,
-      "ok": false,
-      "error": "HTTP 500 for https://api.sr.se/api/v2/episodes/search?query=IFK%20Norrk%C3%B6ping&format=json&size=100"
+      "count": 3,
+      "ok": true
     },
     {
       "source": "Genom Ljuva Livet",
@@ -66,6 +65,50 @@
     }
   ],
   "items": [
+    {
+      "id": "nt-detaljen-dar-ifk-tappade-igen-behover-bli-battre-pa-det-rgow46pj",
+      "title": "Detaljen där IFK tappade – igen: \"Behöver bli bättre på det\"",
+      "summary": "En fast situation – sedan hade IFK tappat poäng igen. – Det är svårt för mig att sätta ord på det, sa tränaren Rob Clark.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/detaljen-dar-ifk-tappade-igen-behover-bli-battre-pa-det/rgow46pj",
+      "publishedAt": "2026-10-04T03:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-04",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-ifk-spelarna-om-nya-sena-smallen-tufft-nar-man-kampar-i-botten-jp9doyql",
       "title": "IFK-spelarna om nya sena smällen: \"Tufft när man kämpar i botten\"",

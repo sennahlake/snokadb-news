@@ -1,7 +1,51 @@
 {
   "year": 2026,
-  "itemCount": 621,
+  "itemCount": 622,
   "items": [
+    {
+      "id": "nt-detaljen-dar-ifk-tappade-igen-behover-bli-battre-pa-det-rgow46pj",
+      "title": "Detaljen där IFK tappade – igen: \"Behöver bli bättre på det\"",
+      "summary": "En fast situation – sedan hade IFK tappat poäng igen. – Det är svårt för mig att sätta ord på det, sa tränaren Rob Clark.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/detaljen-dar-ifk-tappade-igen-behover-bli-battre-pa-det/rgow46pj",
+      "publishedAt": "2026-10-04T03:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-04",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-ifk-spelarna-om-nya-sena-smallen-tufft-nar-man-kampar-i-botten-jp9doyql",
       "title": "IFK-spelarna om nya sena smällen: \"Tufft när man kämpar i botten\"",

@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sat, 03 Oct 2026 17:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 03:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Detaljen där IFK tappade – igen: &quot;Behöver bli bättre på det&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/detaljen-dar-ifk-tappade-igen-behover-bli-battre-pa-det/rgow46pj</link>
+      <guid isPermaLink="false">nt-detaljen-dar-ifk-tappade-igen-behover-bli-battre-pa-det-rgow46pj</guid>
+      <pubDate>Sun, 04 Oct 2026 03:00:00 GMT</pubDate>
+      <description>En fast situation – sedan hade IFK tappat poäng igen. – Det är svårt för mig att sätta ord på det, sa tränaren Rob Clark.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>IFK-spelarna om nya sena smällen: &quot;Tufft när man kämpar i botten&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/ifk-spelarna-om-nya-sena-smallen-tufft-nar-man-kampar-i-botten/jp9doyql</link>
@@ -797,14 +805,6 @@
       <pubDate>Tue, 15 Sep 2026 09:47:58 GMT</pubDate>
       <description>IFK Norrköping är på väg att ramla ur damallsvenskan. Nu sparkar man huvudtränaren Stellan Carlsson i ett försök att rädda kontraktet.</description>
       <category>SVT</category>
-    </item>
-    <item>
-      <title>IFK Norrköping arbetsbefriar huvudtränaren</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/ifk-norrkoping-entledigar-tranaren-stellan-carlsson/rexpnkyl</link>
-      <guid isPermaLink="false">nt-ifk-norrkoping-entledigar-tranaren-stellan-carlsson-rexpnkyl</guid>
-      <pubDate>Tue, 15 Sep 2026 09:17:00 GMT</pubDate>
-      <description>Med åtta omgångar kvar i damallsvenskan, och på en placering som i skrivande stund innebär degradering, agerar IFK Norrköping. Huvudtränaren Stellan Carlsson kommer inte leda laget i slutet av säsongen.</description>
-      <category>Norrköpings Tidningar</category>
     </item>
   </channel>
 </rss>
