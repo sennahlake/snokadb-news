@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sun, 04 Oct 2026 03:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 14:35:00 GMT</lastBuildDate>
+    <item>
+      <title>Förvirringen kring IFK-duon: &quot;Bättre att komma hem&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/forvirringen-kring-ifk-duon-battre-att-komma-hem/r1wop7kl</link>
+      <guid isPermaLink="false">nt-forvirringen-kring-ifk-duon-battre-att-komma-hem-r1wop7kl</guid>
+      <pubDate>Mon, 05 Oct 2026 14:35:00 GMT</pubDate>
+      <description>Träningsmatch mot Kalmar i stället för läktarplats med U21-landslaget. Noel Sernelius medger samtidigt att framtidsdiskussionerna har blivit mer aktuella.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>Kamraternas träningsvecka</title>
+      <link>https://ifknorrkoping.se/kamraternas-traningsvecka-46/</link>
+      <guid isPermaLink="false">ifk-kamraternas-traningsvecka-46</guid>
+      <pubDate>Mon, 05 Oct 2026 07:02:50 GMT</pubDate>
+      <description>Kamraternas träningsvecka</description>
+      <category>IFK Norrköping</category>
+    </item>
     <item>
       <title>Detaljen där IFK tappade – igen: &quot;Behöver bli bättre på det&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/detaljen-dar-ifk-tappade-igen-behover-bli-battre-pa-det/rgow46pj</link>
@@ -789,22 +805,6 @@
       <pubDate>Tue, 15 Sep 2026 10:54:00 GMT</pubDate>
       <description>Förlusten mot Brommapojkarna blev droppen. På måndagskvällen beslutade IFK att Stellan Carlsson inte längre leder laget i damallsvenskan. – Jag tror att vi kan få ut mer av den här truppen, säger sportchefen Dennis Popperyd.</description>
       <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>IFK Norrköping petar Stellan Carlsson</title>
-      <link>https://www.expressen.se/sport/fotboll/damallsvenskan/ifk-norrkoping-petar-stellan-carlsson-/</link>
-      <guid isPermaLink="false">sportexpressen-damallsvenskan-ifk-norrkoping-petar-stellan-carlsson</guid>
-      <pubDate>Tue, 15 Sep 2026 10:11:56 GMT</pubDate>
-      <description>IFK Norrköping agerar i krisen. Stellan Carlsson arbetsbefrias säsongen ut. – Det är inget enkelt beslut, säger sportchefen Dennis Popperyd i ett uttalande.</description>
-      <category>SportExpressen</category>
-    </item>
-    <item>
-      <title>IFK Norrköping sparkar tränaren</title>
-      <link>https://www.svt.se/sport/fotboll/ifk-norrkoping-sparkar-tranaren</link>
-      <guid isPermaLink="false">svt-fotboll-ifk-norrkoping-sparkar-tranaren</guid>
-      <pubDate>Tue, 15 Sep 2026 09:47:58 GMT</pubDate>
-      <description>IFK Norrköping är på väg att ramla ur damallsvenskan. Nu sparkar man huvudtränaren Stellan Carlsson i ett försök att rädda kontraktet.</description>
-      <category>SVT</category>
     </item>
   </channel>
 </rss>

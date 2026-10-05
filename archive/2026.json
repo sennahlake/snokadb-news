@@ -1,7 +1,97 @@
 {
   "year": 2026,
-  "itemCount": 622,
+  "itemCount": 624,
   "items": [
+    {
+      "id": "nt-forvirringen-kring-ifk-duon-battre-att-komma-hem-r1wop7kl",
+      "title": "Förvirringen kring IFK-duon: \"Bättre att komma hem\"",
+      "summary": "Träningsmatch mot Kalmar i stället för läktarplats med U21-landslaget. Noel Sernelius medger samtidigt att framtidsdiskussionerna har blivit mer aktuella.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/forvirringen-kring-ifk-duon-battre-att-komma-hem/r1wop7kl",
+      "publishedAt": "2026-10-05T14:35:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Noel Sernelius",
+          "slug": "noel-sernelius",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-05",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "ifk-kamraternas-traningsvecka-46",
+      "title": "Kamraternas träningsvecka",
+      "summary": "Kamraternas träningsvecka",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/kamraternas-traningsvecka-46/",
+      "publishedAt": "2026-10-05T07:02:50.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
     {
       "id": "nt-detaljen-dar-ifk-tappade-igen-behover-bli-battre-pa-det-rgow46pj",
       "title": "Detaljen där IFK tappade – igen: \"Behöver bli bättre på det\"",
