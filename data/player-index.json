@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "itemCount": 972,
+  "itemCount": 973,
   "sides": {
-    "Herr": 777,
+    "Herr": 778,
     "Dam": 195
   },
   "players": [
@@ -7327,8 +7327,20 @@
       ]
     },
     {
-      "name": "Patrik Andersson",
-      "slug": "patrik-andersson",
+      "name": "Patrik  Andersson (Målvakt)",
+      "slug": "patrik-andersson-malvakt",
+      "side": "Herr",
+      "seasons": [
+        1999,
+        2000,
+        2001,
+        2002,
+        2009
+      ]
+    },
+    {
+      "name": "Patrik \"Pinnen\" Andersson",
+      "slug": "patrik-pinnen-andersson",
       "side": "Herr",
       "seasons": [
         1986,
@@ -7340,12 +7352,7 @@
         1992,
         1993,
         1994,
-        1995,
-        1999,
-        2000,
-        2001,
-        2002,
-        2009
+        1995
       ]
     },
     {
