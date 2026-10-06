@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-06T10:11:09.822Z",
-  "itemCount": 4543,
+  "generatedAt": "2026-10-06T16:48:55.414Z",
+  "itemCount": 4545,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 0,
+      "count": 1,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
     },
     {
       "source": "SVT",
-      "count": 0,
+      "count": 1,
       "ok": true
     },
     {
@@ -30,7 +30,7 @@
     },
     {
       "source": "SportExpressen",
-      "count": 1,
+      "count": 0,
       "ok": true
     },
     {
@@ -66,6 +66,107 @@
     }
   ],
   "items": [
+    {
+      "id": "nt-duon-som-forvantas-skriva-kontrakt-med-ifk-r1wom81l",
+      "title": "Duon som förväntas skriva kontrakt med IFK",
+      "summary": "IFK:s truppbygge inför nästa säsong är igång. Ett drag, enligt NT:s uppgifter, är att erbjuda senioravtal till Algot Hjelm och Hugo Ringsten.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/duon-som-forvantas-skriva-kontrakt-med-ifk/r1wom81l",
+      "publishedAt": "2026-10-06T14:17:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Algot Hjelm",
+          "slug": "algot-hjelm",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        },
+        {
+          "name": "Hugo Ringsten",
+          "slug": "hugo-ringsten",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-06",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "svt-bordtennis-truls-moregardh-slog-ut-kines-i-peking-nu-vantar-baste-kinesen",
+      "title": "Truls Möregårdh slog ut kines i Peking – nu väntar bäste kinesen",
+      "summary": "Truls Möregårdh är klar för åttondel i China Smash i Peking efter att ha besegrat en hemmaspelare. Nu väntar ännu en kines, den bäst rankade i turneringen, Wen Ruibo. – Det är otroligt dålig tajming, säger J-O Waldner om matchens häftigaste duell.",
+      "source": "SVT",
+      "sourceUrl": "https://www.svt.se/sport/fotboll",
+      "articleUrl": "https://www.svt.se/sport/bordtennis/truls-moregardh-slog-ut-kines-i-peking-nu-vantar-baste-kinesen",
+      "publishedAt": "2026-10-06T13:23:23.000Z",
+      "category": "Nyhet",
+      "tags": [
+        "Extern originalkälla",
+        "Public service"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "SVT"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK i rubrik"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "svt"
+    },
     {
       "id": "sportexpressen-tennis-coco-gauff-rasar-mot-rasistiska-pahoppen-galet",
       "title": "Coco Gauff rasar mot rasistiska påhoppen: ”Galet”",

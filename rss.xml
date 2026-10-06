@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Tue, 06 Oct 2026 08:01:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 14:17:00 GMT</lastBuildDate>
+    <item>
+      <title>Duon som förväntas skriva kontrakt med IFK</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/duon-som-forvantas-skriva-kontrakt-med-ifk/r1wom81l</link>
+      <guid isPermaLink="false">nt-duon-som-forvantas-skriva-kontrakt-med-ifk-r1wom81l</guid>
+      <pubDate>Tue, 06 Oct 2026 14:17:00 GMT</pubDate>
+      <description>IFK:s truppbygge inför nästa säsong är igång. Ett drag, enligt NT:s uppgifter, är att erbjuda senioravtal till Algot Hjelm och Hugo Ringsten.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>Truls Möregårdh slog ut kines i Peking – nu väntar bäste kinesen</title>
+      <link>https://www.svt.se/sport/bordtennis/truls-moregardh-slog-ut-kines-i-peking-nu-vantar-baste-kinesen</link>
+      <guid isPermaLink="false">svt-bordtennis-truls-moregardh-slog-ut-kines-i-peking-nu-vantar-baste-kinesen</guid>
+      <pubDate>Tue, 06 Oct 2026 13:23:23 GMT</pubDate>
+      <description>Truls Möregårdh är klar för åttondel i China Smash i Peking efter att ha besegrat en hemmaspelare. Nu väntar ännu en kines, den bäst rankade i turneringen, Wen Ruibo. – Det är otroligt dålig tajming, säger J-O Waldner om matchens häftigaste duell.</description>
+      <category>SVT</category>
+    </item>
     <item>
       <title>Coco Gauff rasar mot rasistiska påhoppen: ”Galet”</title>
       <link>https://www.expressen.se/sport/tennis/coco-gauff-rasar-mot-rasistiska-pahoppen-galet/</link>
@@ -789,22 +805,6 @@
       <pubDate>Tue, 15 Sep 2026 20:45:02 GMT</pubDate>
       <description>Podden är tillbaka med ett fullmatat och maxat avsnitt! IK Oddevold missräkningen! Vad hände? Är bredden så bra som man tror? Saknaden av Noel Sernelius! Totte Nyman historisk! Fira Varbergs vinsten på Grönan tillsammans med Markus Krunegård! Ett kortare snack med Viktor Christiansson! Öster Away på lördag! Vi ta oss även ett snack med Öster-experten Viggo Engelholm! Tuff avslutning eller en bra? </description>
       <category>Gate Upp och Gate Ner</category>
-    </item>
-    <item>
-      <title>Förklaringen till IFK:s stora rotation</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/forklaringen-till-ifks-stora-rotation/rky70vej</link>
-      <guid isPermaLink="false">nt-forklaringen-till-ifks-stora-rotation-rky70vej</guid>
-      <pubDate>Tue, 15 Sep 2026 15:00:00 GMT</pubDate>
-      <description>Med mindre än tre dygn mellan matcherna roterade IFK. Rejält. För att ha fräscha ben – men också av erfarenhet från tidigare. – Vi hade en liknande period inför Brage borta och vet hur vi tog oss an den, säger assisterande tränaren Kim Vaattovaara.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Smällen: IFK-kaptenen knäskadad – igen</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/fanny-andersson-knaskadad-borta-resten-av-2026/jvzw94pr</link>
-      <guid isPermaLink="false">nt-fanny-andersson-knaskadad-borta-resten-av-2026-jvzw94pr</guid>
-      <pubDate>Tue, 15 Sep 2026 11:29:00 GMT</pubDate>
-      <description>I det tunga läget, där IFK Norrköping kämpar för sin överlevnad i damallsvenskan, kom nästa smäll. Kapten Fanny Andersson har ådragit sig en ny knäskada – och kommer inte till spel under resten av säsongen.</description>
-      <category>Norrköpings Tidningar</category>
     </item>
   </channel>
 </rss>
