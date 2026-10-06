@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Mon, 05 Oct 2026 14:35:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 08:01:28 GMT</lastBuildDate>
+    <item>
+      <title>Coco Gauff rasar mot rasistiska påhoppen: ”Galet”</title>
+      <link>https://www.expressen.se/sport/tennis/coco-gauff-rasar-mot-rasistiska-pahoppen-galet/</link>
+      <guid isPermaLink="false">sportexpressen-tennis-coco-gauff-rasar-mot-rasistiska-pahoppen-galet</guid>
+      <pubDate>Tue, 06 Oct 2026 08:01:28 GMT</pubDate>
+      <description>Coco Gauff utsattes för en våg av nätrasism efter segern mot kinesiska tonåringen Sun Xinran i China Open i Peking. Nu ryter tennisstjärnan ifrån i sociala medier.</description>
+      <category>SportExpressen</category>
+    </item>
     <item>
       <title>Förvirringen kring IFK-duon: &quot;Bättre att komma hem&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/forvirringen-kring-ifk-duon-battre-att-komma-hem/r1wop7kl</link>
@@ -796,14 +804,6 @@
       <guid isPermaLink="false">nt-fanny-andersson-knaskadad-borta-resten-av-2026-jvzw94pr</guid>
       <pubDate>Tue, 15 Sep 2026 11:29:00 GMT</pubDate>
       <description>I det tunga läget, där IFK Norrköping kämpar för sin överlevnad i damallsvenskan, kom nästa smäll. Kapten Fanny Andersson har ådragit sig en ny knäskada – och kommer inte till spel under resten av säsongen.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>IFK:s sportchef efter tränarbeskedet: &quot;Jag har ett ansvar&quot;</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/ifks-sportchef-efter-tranarbeskedet-jag-har-ett-ansvar/j82qpw4j</link>
-      <guid isPermaLink="false">nt-ifks-sportchef-efter-tranarbeskedet-jag-har-ett-ansvar-j82qpw4j</guid>
-      <pubDate>Tue, 15 Sep 2026 10:54:00 GMT</pubDate>
-      <description>Förlusten mot Brommapojkarna blev droppen. På måndagskvällen beslutade IFK att Stellan Carlsson inte längre leder laget i damallsvenskan. – Jag tror att vi kan få ut mer av den här truppen, säger sportchefen Dennis Popperyd.</description>
       <category>Norrköpings Tidningar</category>
     </item>
   </channel>

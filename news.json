@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-05T15:57:30.039Z",
-  "itemCount": 4542,
+  "generatedAt": "2026-10-06T10:11:09.822Z",
+  "itemCount": 4543,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 1,
+      "count": 0,
       "ok": true
     },
     {
@@ -30,7 +30,7 @@
     },
     {
       "source": "SportExpressen",
-      "count": 0,
+      "count": 1,
       "ok": true
     },
     {
@@ -66,6 +66,48 @@
     }
   ],
   "items": [
+    {
+      "id": "sportexpressen-tennis-coco-gauff-rasar-mot-rasistiska-pahoppen-galet",
+      "title": "Coco Gauff rasar mot rasistiska påhoppen: ”Galet”",
+      "summary": "Coco Gauff utsattes för en våg av nätrasism efter segern mot kinesiska tonåringen Sun Xinran i China Open i Peking. Nu ryter tennisstjärnan ifrån i sociala medier.",
+      "source": "SportExpressen",
+      "sourceUrl": "https://www.expressen.se/sport/fotboll/",
+      "articleUrl": "https://www.expressen.se/sport/tennis/coco-gauff-rasar-mot-rasistiska-pahoppen-galet/",
+      "publishedAt": "2026-10-06T08:01:28.000Z",
+      "category": "Nyhet",
+      "tags": [
+        "Extern originalkälla"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "SportExpressen"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "medium",
+        "score": 78,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "sportexpressen",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "SportExpressen",
+          "date": "2026-10-06",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-forvirringen-kring-ifk-duon-battre-att-komma-hem-r1wop7kl",
       "title": "Förvirringen kring IFK-duon: \"Bättre att komma hem\"",
