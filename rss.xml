@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Tue, 06 Oct 2026 14:17:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 16:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Dagerståls besked – vill förlänga med IFK</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/dagerstals-besked-vill-forlanga-med-ifk/jdq793vr</link>
+      <guid isPermaLink="false">nt-dagerstals-besked-vill-forlanga-med-ifk-jdq793vr</guid>
+      <pubDate>Wed, 07 Oct 2026 16:00:00 GMT</pubDate>
+      <description>Stanna i hjärteklubben eller – ja, vadå? – Det hade känts konstigt med något annat än IFK, säger profilen i Studio Peking.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>194. Jonatan Pinheiro Diamant</title>
+      <link>https://pod.space/genomljuvalivet/194-jonatan-pinheiro-diamant</link>
+      <guid isPermaLink="false">genom-ljuva-livet-194-jonatan-pinheiro-diamant</guid>
+      <pubDate>Wed, 07 Oct 2026 10:26:30 GMT</pubDate>
+      <description>Aftonbladets (och Sveriges?) Superettanexpert Jonatan Pinheiro Diamant gästar och vi går igenom hans bild av IFK:s säsong. Lagdel för lagdel, hur kommer det hålla i Allsvenskan, hur bra är egentligen Sernelius och hur ser han utifrån på allt? Dessutom: Pierre Gallo och Kleber-special.</description>
+      <category>Genom Ljuva Livet</category>
+    </item>
     <item>
       <title>Duon som förväntas skriva kontrakt med IFK</title>
       <link>https://www.nt.se/sport/fotboll/artikel/duon-som-forvantas-skriva-kontrakt-med-ifk/r1wom81l</link>
@@ -789,22 +805,6 @@
       <pubDate>Wed, 16 Sep 2026 12:33:05 GMT</pubDate>
       <description>60 minuter bara om IFK Norrköping</description>
       <category>Sportbladet</category>
-    </item>
-    <item>
-      <title>Allvaret</title>
-      <link>https://pod.space/studiopeking/allvaret</link>
-      <guid isPermaLink="false">studio-peking-allvaret</guid>
-      <pubDate>Wed, 16 Sep 2026 11:45:11 GMT</pubDate>
-      <description>IFK Norrköping har arbetsbefriat Stellan Carlsson. Är det klokt? I Studio Peking resonerar vi om de senaste nyheterna kring damlaget, där det även kommit ett dystert besked kring en kugge. Från herrsfären blickar vi längre och fantiserar redan om 2027. Dessutom får ni höra Ísak Andri Sigurgeirsson i en intervju med Christer Gustafson. Medverkande: Rebecca Candevi, Eric Persson och Gabriel Ohlsson.</description>
-      <category>Studio Peking</category>
-    </item>
-    <item>
-      <title>#296:Viktor Christiansson:&quot;Vi skapar för lite för att vinna matchen&quot;</title>
-      <link>https://podcasters.spotify.com/pod/show/gate-upp-och-gate-ner/episodes/296Viktor-ChristianssonVi-skapar-fr-lite-fr-att-vinna-matchen-e3ot966</link>
-      <guid isPermaLink="false">gate-upp-gate-ner-296-viktor-christiansson-vi-skapar-for-lite-for-att-vinna-matchen</guid>
-      <pubDate>Tue, 15 Sep 2026 20:45:02 GMT</pubDate>
-      <description>Podden är tillbaka med ett fullmatat och maxat avsnitt! IK Oddevold missräkningen! Vad hände? Är bredden så bra som man tror? Saknaden av Noel Sernelius! Totte Nyman historisk! Fira Varbergs vinsten på Grönan tillsammans med Markus Krunegård! Ett kortare snack med Viktor Christiansson! Öster Away på lördag! Vi ta oss även ett snack med Öster-experten Viggo Engelholm! Tuff avslutning eller en bra? </description>
-      <category>Gate Upp och Gate Ner</category>
     </item>
   </channel>
 </rss>

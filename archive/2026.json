@@ -1,7 +1,90 @@
 {
   "year": 2026,
-  "itemCount": 627,
+  "itemCount": 629,
   "items": [
+    {
+      "id": "nt-dagerstals-besked-vill-forlanga-med-ifk-jdq793vr",
+      "title": "Dagerståls besked – vill förlänga med IFK",
+      "summary": "Stanna i hjärteklubben eller – ja, vadå? – Det hade känts konstigt med något annat än IFK, säger profilen i Studio Peking.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/dagerstals-besked-vill-forlanga-med-ifk/jdq793vr",
+      "publishedAt": "2026-10-07T16:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-07",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "genom-ljuva-livet-194-jonatan-pinheiro-diamant",
+      "title": "194. Jonatan Pinheiro Diamant",
+      "summary": "Aftonbladets (och Sveriges?) Superettanexpert Jonatan Pinheiro Diamant gästar och vi går igenom hans bild av IFK:s säsong. Lagdel för lagdel, hur kommer det hålla i Allsvenskan, hur bra är egentligen Sernelius och hur ser han utifrån på allt? Dessutom: Pierre Gallo och Kleber-special.",
+      "source": "Genom Ljuva Livet",
+      "sourceUrl": "https://poddtoppen.se/podcast/1728458754/genom-ljuva-livet",
+      "articleUrl": "https://pod.space/genomljuvalivet/194-jonatan-pinheiro-diamant",
+      "publishedAt": "2026-10-07T10:26:30.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Genom Ljuva Livet",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "genom-ljuva-livet"
+    },
     {
       "id": "nt-duon-som-forvantas-skriva-kontrakt-med-ifk-r1wom81l",
       "title": "Duon som förväntas skriva kontrakt med IFK",
