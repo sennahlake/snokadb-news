@@ -5,7 +5,31 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Thu, 08 Oct 2026 05:35:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 14:00:26 GMT</lastBuildDate>
+    <item>
+      <title>Het Truls Möregårdh vidare: ”Tar 78 timmar på sig”</title>
+      <link>https://www.svt.se/sport/bordtennis/het-truls-moregardh-vidare-tar-78-timmar-pa-sig</link>
+      <guid isPermaLink="false">svt-bordtennis-het-truls-moregardh-vidare-tar-78-timmar-pa-sig</guid>
+      <pubDate>Thu, 08 Oct 2026 14:00:26 GMT</pubDate>
+      <description>Truls Möregårdh vann åttondelsfinalen mot den bäste kinesen Wen Ruibo med 3–2 i en het match i China Smash i Peking. – Han tar 78 timmar på sig mellan varje boll. Jag orkar inte med honom, sade Möregårdh i SVT:s sändning.</description>
+      <category>SVT</category>
+    </item>
+    <item>
+      <title>Nike klär IFK Norrköping – nytt avtal över fem år</title>
+      <link>https://ifknorrkoping.se/nike-klar-ifk-norrkoping-nytt-avtal-over-fem-ar/</link>
+      <guid isPermaLink="false">ifk-nike-klar-ifk-norrkoping-nytt-avtal-over-fem-ar</guid>
+      <pubDate>Thu, 08 Oct 2026 10:20:34 GMT</pubDate>
+      <description>Nike klär IFK Norrköping – nytt avtal över fem år</description>
+      <category>IFK Norrköping</category>
+    </item>
+    <item>
+      <title>Efter svåra åren – mittfältare lämnar IFK</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/efter-svara-aren-mittfaltare-lamnar-ifk/jn3dw80r</link>
+      <guid isPermaLink="false">nt-efter-svara-aren-mittfaltare-lamnar-ifk-jn3dw80r</guid>
+      <pubDate>Thu, 08 Oct 2026 09:50:00 GMT</pubDate>
+      <description>IFK har beslutat sig för att inte förlänga Stephen Bolmas kontrakt, enligt uppgifter till NT.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Filip Dagerstål</title>
       <link>https://pod.space/studiopeking/filip-dagerstal</link>
@@ -781,30 +805,6 @@
       <pubDate>Thu, 17 Sep 2026 13:51:21 GMT</pubDate>
       <description>Max Watson fick ett hjärnsläpp och slog till motståndaren i bakhuvudet. Nu straffas han. Örebros mittback stängs av i fyra matcher.</description>
       <category>SVT</category>
-    </item>
-    <item>
-      <title>Max Watson stängs av efter attacken</title>
-      <link>https://www.expressen.se/sport/fotboll/superettan/max-watson-stangs-av-efter-attacken-/</link>
-      <guid isPermaLink="false">sportexpressen-superettan-max-watson-stangs-av-efter-attacken</guid>
-      <pubDate>Thu, 17 Sep 2026 13:42:24 GMT</pubDate>
-      <description>Max Watson slog Liiban Abadid i bakhuvudet. Nu stängs ÖSK-mittbacken av i fyra matcher.</description>
-      <category>SportExpressen</category>
-    </item>
-    <item>
-      <title>IFK-basen motiverar krisbeslutet: &quot;Besvikna&quot;</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/ifk-basen-motiverar-krisbeslutet-besvikna/l61zd7vj</link>
-      <guid isPermaLink="false">nt-ifk-basen-motiverar-krisbeslutet-besvikna-l61zd7vj</guid>
-      <pubDate>Wed, 16 Sep 2026 18:00:00 GMT</pubDate>
-      <description>IFK Norrköping ligger på nedflyttningsplats i damallsvenskan med åtta matcher kvar. Klubbdirektören André Skagervik ger sin syn på sportchefen Dennis Popperyds förtroende, vägen framåt och medger att klubben borde ha fått ut mer av truppen hittills.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Tävling: Vinn biljetter och VM-bollar här!</title>
-      <link>https://ifknorrkoping.se/tavling-vinn-biljetter-och-vm-bollar-har/</link>
-      <guid isPermaLink="false">ifk-tavling-vinn-biljetter-och-vm-bollar-har</guid>
-      <pubDate>Wed, 16 Sep 2026 14:10:26 GMT</pubDate>
-      <description>Tävling: Vinn biljetter och VM-bollar här!</description>
-      <category>IFK Norrköping</category>
     </item>
   </channel>
 </rss>

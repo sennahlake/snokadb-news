@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T08:54:01.718Z",
-  "itemCount": 4548,
+  "generatedAt": "2026-10-08T16:26:04.278Z",
+  "itemCount": 4551,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -20,7 +20,7 @@
     },
     {
       "source": "SVT",
-      "count": 0,
+      "count": 1,
       "ok": true
     },
     {
@@ -66,6 +66,118 @@
     }
   ],
   "items": [
+    {
+      "id": "svt-bordtennis-het-truls-moregardh-vidare-tar-78-timmar-pa-sig",
+      "title": "Het Truls Möregårdh vidare: ”Tar 78 timmar på sig”",
+      "summary": "Truls Möregårdh vann åttondelsfinalen mot den bäste kinesen Wen Ruibo med 3–2 i en het match i China Smash i Peking. – Han tar 78 timmar på sig mellan varje boll. Jag orkar inte med honom, sade Möregårdh i SVT:s sändning.",
+      "source": "SVT",
+      "sourceUrl": "https://www.svt.se/sport/fotboll",
+      "articleUrl": "https://www.svt.se/sport/bordtennis/het-truls-moregardh-vidare-tar-78-timmar-pa-sig",
+      "publishedAt": "2026-10-08T14:00:26.000Z",
+      "category": "Nyhet",
+      "tags": [
+        "Extern originalkälla",
+        "Public service"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "SVT"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "medium",
+        "score": 78,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "svt"
+    },
+    {
+      "id": "ifk-nike-klar-ifk-norrkoping-nytt-avtal-over-fem-ar",
+      "title": "Nike klär IFK Norrköping – nytt avtal över fem år",
+      "summary": "Nike klär IFK Norrköping – nytt avtal över fem år",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/nike-klar-ifk-norrkoping-nytt-avtal-over-fem-ar/",
+      "publishedAt": "2026-10-08T10:20:34.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla",
+          "IFK i rubrik"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "nt-efter-svara-aren-mittfaltare-lamnar-ifk-jn3dw80r",
+      "title": "Efter svåra åren – mittfältare lämnar IFK",
+      "summary": "IFK har beslutat sig för att inte förlänga Stephen Bolmas kontrakt, enligt uppgifter till NT.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/efter-svara-aren-mittfaltare-lamnar-ifk/jn3dw80r",
+      "publishedAt": "2026-10-08T09:50:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-08",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "studio-peking-filip-dagerstal",
       "title": "Filip Dagerstål",
