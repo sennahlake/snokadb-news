@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-07T16:24:26.685Z",
-  "itemCount": 4547,
+  "generatedAt": "2026-10-08T08:54:01.718Z",
+  "itemCount": 4548,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -56,7 +56,7 @@
     },
     {
       "source": "Studio Peking",
-      "count": 143,
+      "count": 144,
       "ok": true
     },
     {
@@ -66,6 +66,57 @@
     }
   ],
   "items": [
+    {
+      "id": "studio-peking-filip-dagerstal",
+      "title": "Filip Dagerstål",
+      "summary": "Filip Dagerstål är hemma igen och ser IFK Norrköping som den nödvändiga räddningsplankan när han kom bort från skadehelvetet. I Studio Peking berättar profilen detaljerat om turerna bakom kulisserna, den känslostarka säsongen i superettan och vad han anser att IFK gjort rätt efter fjolårets debacle. Avsnittet innehåller betydligt mer än så, bland annat det utgående kontraktet, pappalivet, speciell",
+      "source": "Studio Peking",
+      "sourceUrl": "https://poddtoppen.se/podcast/1738623973/studio-peking",
+      "articleUrl": "https://pod.space/studiopeking/filip-dagerstal",
+      "publishedAt": "2026-10-08T05:35:50.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Studio Peking",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 94,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd",
+          "IFK i ingress",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Filip Dagerstål",
+          "slug": "filip-dagerstal",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "studio-peking"
+    },
     {
       "id": "nt-dagerstals-besked-vill-forlanga-med-ifk-jdq793vr",
       "title": "Dagerståls besked – vill förlänga med IFK",
