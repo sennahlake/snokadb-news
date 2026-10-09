@@ -5,7 +5,31 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Thu, 08 Oct 2026 14:00:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 08:33:09 GMT</lastBuildDate>
+    <item>
+      <title>Abdulic framröstad till månadens tränare igen</title>
+      <link>https://ifknorrkoping.se/abdulic-framrostad-till-manadens-tranare-igen/</link>
+      <guid isPermaLink="false">ifk-abdulic-framrostad-till-manadens-tranare-igen</guid>
+      <pubDate>Fri, 09 Oct 2026 08:33:09 GMT</pubDate>
+      <description>Abdulic framröstad till månadens tränare igen</description>
+      <category>IFK Norrköping</category>
+    </item>
+    <item>
+      <title>Uppdatering om Stephen Bolma</title>
+      <link>https://ifknorrkoping.se/uppdatering-om-stephen-bolma/</link>
+      <guid isPermaLink="false">ifk-uppdatering-om-stephen-bolma</guid>
+      <pubDate>Fri, 09 Oct 2026 08:00:07 GMT</pubDate>
+      <description>Uppdatering om Stephen Bolma</description>
+      <category>IFK Norrköping</category>
+    </item>
+    <item>
+      <title>195. Säsongsavslutningar vi minns!</title>
+      <link>https://pod.space/genomljuvalivet/195-sasongsavslutningar-vi-minns</link>
+      <guid isPermaLink="false">genom-ljuva-livet-195-sasongsavslutningar-vi-minns</guid>
+      <pubDate>Fri, 09 Oct 2026 03:00:00 GMT</pubDate>
+      <description>Ännu ett specialavsnitt, den här gången är vår favoritstatistiker Hannes tillbaka och vi går tillsammans igenom dom säsongsavslutningar som stuckit ut mest för IFK Norrköping. Historiska guld, riktiga skitsäsonger, uttåg, grymma avslutningar och massor mer. MYS!</description>
+      <category>Genom Ljuva Livet</category>
+    </item>
     <item>
       <title>Het Truls Möregårdh vidare: ”Tar 78 timmar på sig”</title>
       <link>https://www.svt.se/sport/bordtennis/het-truls-moregardh-vidare-tar-78-timmar-pa-sig</link>
@@ -781,30 +805,6 @@
       <pubDate>Fri, 18 Sep 2026 15:00:00 GMT</pubDate>
       <description>De har jobbat ihop i flera år. Nu kliver Rob Clark in som huvudansvarig när Stellan Carlsson fått lämna IFK. – Tyvärr är det en del av jobbet, säger engelsmannen om klubbens beslut.</description>
       <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Lite hybris och Agent Watson</title>
-      <link>https://pod.space/genomljuvalivet/lite-hybris-och-agent-watson</link>
-      <guid isPermaLink="false">genom-ljuva-livet-lite-hybris-och-agent-watson</guid>
-      <pubDate>Thu, 17 Sep 2026 16:46:24 GMT</pubDate>
-      <description>Vi pratar om matcherna mot Varberg och Oddevold. En bra match och ett otroligt sömnpiller - undantaget Aleksanjan som ser ut som på försäsongen. Stellan Carlsson har fått sparken, vi är besvikna på hans gärning i IFK.</description>
-      <category>Genom Ljuva Livet</category>
-    </item>
-    <item>
-      <title>Publikinfo: IFK Norrköping-FC Rosengård</title>
-      <link>https://ifknorrkoping.se/publikinfo-ifk-norrkoping-fc-rosengard/</link>
-      <guid isPermaLink="false">ifk-publikinfo-ifk-norrkoping-fc-rosengard</guid>
-      <pubDate>Thu, 17 Sep 2026 14:41:09 GMT</pubDate>
-      <description>Publikinfo: IFK Norrköping-FC Rosengård</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Max Watson stängs av fyra matcher efter slaget i bakhuvudet</title>
-      <link>https://www.svt.se/sport/fotboll/max-watson-stangs-av-fyra-matcher-efter-slaget-i-bakhuvudet</link>
-      <guid isPermaLink="false">svt-fotboll-max-watson-stangs-av-fyra-matcher-efter-slaget-i-bakhuvudet</guid>
-      <pubDate>Thu, 17 Sep 2026 13:51:21 GMT</pubDate>
-      <description>Max Watson fick ett hjärnsläpp och slog till motståndaren i bakhuvudet. Nu straffas han. Örebros mittback stängs av i fyra matcher.</description>
-      <category>SVT</category>
     </item>
   </channel>
 </rss>

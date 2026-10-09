@@ -1,7 +1,111 @@
 {
   "year": 2026,
-  "itemCount": 633,
+  "itemCount": 636,
   "items": [
+    {
+      "id": "ifk-abdulic-framrostad-till-manadens-tranare-igen",
+      "title": "Abdulic framröstad till månadens tränare igen",
+      "summary": "Abdulic framröstad till månadens tränare igen",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/abdulic-framrostad-till-manadens-tranare-igen/",
+      "publishedAt": "2026-10-09T08:33:09.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "ifk-uppdatering-om-stephen-bolma",
+      "title": "Uppdatering om Stephen Bolma",
+      "summary": "Uppdatering om Stephen Bolma",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/uppdatering-om-stephen-bolma/",
+      "publishedAt": "2026-10-09T08:00:07.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "genom-ljuva-livet-195-sasongsavslutningar-vi-minns",
+      "title": "195. Säsongsavslutningar vi minns!",
+      "summary": "Ännu ett specialavsnitt, den här gången är vår favoritstatistiker Hannes tillbaka och vi går tillsammans igenom dom säsongsavslutningar som stuckit ut mest för IFK Norrköping. Historiska guld, riktiga skitsäsonger, uttåg, grymma avslutningar och massor mer. MYS!",
+      "source": "Genom Ljuva Livet",
+      "sourceUrl": "https://poddtoppen.se/podcast/1728458754/genom-ljuva-livet",
+      "articleUrl": "https://pod.space/genomljuvalivet/195-sasongsavslutningar-vi-minns",
+      "publishedAt": "2026-10-09T03:00:00.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Genom Ljuva Livet",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "genom-ljuva-livet"
+    },
     {
       "id": "svt-bordtennis-het-truls-moregardh-vidare-tar-78-timmar-pa-sig",
       "title": "Het Truls Möregårdh vidare: ”Tar 78 timmar på sig”",
