@@ -1,7 +1,104 @@
 {
   "year": 2026,
-  "itemCount": 636,
+  "itemCount": 638,
   "items": [
+    {
+      "id": "gate-upp-gate-ner-297-vi-ska-hem-till-allsvenskan",
+      "title": "#297:\"Vi ska hem till Allsvenskan!\"",
+      "summary": "Nytt avsnitt efter en jäkla massa strul, lite daterat men vi gasar vidare. VIVA GUGN!!!",
+      "source": "Gate Upp och Gate Ner",
+      "sourceUrl": "https://poddtoppen.se/podcast/1619327870/gate-upp-gate-ner",
+      "articleUrl": "https://podcasters.spotify.com/pod/show/gate-upp-och-gate-ner/episodes/297Vi-ska-hem-till-Allsvenskan-e3q7l74",
+      "publishedAt": "2026-10-09T12:41:56.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Gate Upp och Gate Ner",
+        "GUGN",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "gate-upp-gate-ner"
+    },
+    {
+      "id": "nt-allsvenska-toppklubbar-jagar-noel-sernelius-jvz8687r",
+      "title": "IFK:s succémittfältares intresse från allsvenskan och utlandet",
+      "summary": "IFK Norrköping har velat förlänga kontraktet med Noel Sernelius sedan i vintras. Nu visar flera allsvenska toppklubbar och utländska klubbar intresse for succémittfältare, enligt uppgifter till Sportbladet.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/allsvenska-toppklubbar-jagar-noel-sernelius/jvz8687r",
+      "publishedAt": "2026-10-09T11:15:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Noel Sernelius",
+          "slug": "noel-sernelius",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-09",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "ifk-abdulic-framrostad-till-manadens-tranare-igen",
       "title": "Abdulic framröstad till månadens tränare igen",

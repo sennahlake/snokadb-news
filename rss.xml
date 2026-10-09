@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Fri, 09 Oct 2026 08:33:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 12:41:56 GMT</lastBuildDate>
+    <item>
+      <title>#297:&quot;Vi ska hem till Allsvenskan!&quot;</title>
+      <link>https://podcasters.spotify.com/pod/show/gate-upp-och-gate-ner/episodes/297Vi-ska-hem-till-Allsvenskan-e3q7l74</link>
+      <guid isPermaLink="false">gate-upp-gate-ner-297-vi-ska-hem-till-allsvenskan</guid>
+      <pubDate>Fri, 09 Oct 2026 12:41:56 GMT</pubDate>
+      <description>Nytt avsnitt efter en jäkla massa strul, lite daterat men vi gasar vidare. VIVA GUGN!!!</description>
+      <category>Gate Upp och Gate Ner</category>
+    </item>
+    <item>
+      <title>IFK:s succémittfältares intresse från allsvenskan och utlandet</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/allsvenska-toppklubbar-jagar-noel-sernelius/jvz8687r</link>
+      <guid isPermaLink="false">nt-allsvenska-toppklubbar-jagar-noel-sernelius-jvz8687r</guid>
+      <pubDate>Fri, 09 Oct 2026 11:15:00 GMT</pubDate>
+      <description>IFK Norrköping har velat förlänga kontraktet med Noel Sernelius sedan i vintras. Nu visar flera allsvenska toppklubbar och utländska klubbar intresse for succémittfältare, enligt uppgifter till Sportbladet.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Abdulic framröstad till månadens tränare igen</title>
       <link>https://ifknorrkoping.se/abdulic-framrostad-till-manadens-tranare-igen/</link>
@@ -789,22 +805,6 @@
       <pubDate>Fri, 18 Sep 2026 18:15:34 GMT</pubDate>
       <description>Ryan Nelson: “Viktigt att vi avslutar bra”</description>
       <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Så har IFK hållit truppen skadefri: &quot;Tog en kalkylerad risk&quot;</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/sa-har-ifk-hallit-truppen-skadefri-tog-en-kalkylerad-risk/rexp585l</link>
-      <guid isPermaLink="false">nt-sa-har-ifk-hallit-truppen-skadefri-tog-en-kalkylerad-risk-rexp585l</guid>
-      <pubDate>Fri, 18 Sep 2026 17:00:00 GMT</pubDate>
-      <description>Under en lång period har IFK haft väldigt få skador. Ingen slump, om du frågar tränaren Eldar Abdulic. – Vi har planerat för det här hela året, säger han.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Han ska rädda IFK ur allsvenska krisen: &quot;Inte bara Stellans fel&quot;</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/han-ska-radda-ifk-ur-allsvenska-krisen-inte-bara-stellans-fel/lqpvd4kr</link>
-      <guid isPermaLink="false">nt-han-ska-radda-ifk-ur-allsvenska-krisen-inte-bara-stellans-fel-lqpvd4kr</guid>
-      <pubDate>Fri, 18 Sep 2026 15:00:00 GMT</pubDate>
-      <description>De har jobbat ihop i flera år. Nu kliver Rob Clark in som huvudansvarig när Stellan Carlsson fått lämna IFK. – Tyvärr är det en del av jobbet, säger engelsmannen om klubbens beslut.</description>
-      <category>Norrköpings Tidningar</category>
     </item>
   </channel>
 </rss>
