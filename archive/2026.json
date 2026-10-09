@@ -1,7 +1,111 @@
 {
   "year": 2026,
-  "itemCount": 638,
+  "itemCount": 640,
   "items": [
+    {
+      "id": "nt-hugo-ringsten-klar-for-langtidskontrakt-i-ifk-jp9dp90l",
+      "title": "18-åringen skriver på långtidskontrakt för IFK",
+      "summary": "IFK Norrköping har säkrat en av sina mest lovande talanger för framtiden. Under fredagen skrev 18-årige Hugo Ringsten på ett femårskontrakt med klubben.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/hugo-ringsten-klar-for-langtidskontrakt-i-ifk/jp9dp90l",
+      "publishedAt": "2026-10-09T17:46:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Hugo Ringsten",
+          "slug": "hugo-ringsten",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-09",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "ifk-hugo-ringsten-far-a-lagskontrakt-skriver-pa-for-fem-ar-pa-parken",
+      "title": "Hugo Ringsten får A-lagskontrakt – skriver på för fem år på “Parken”",
+      "summary": "Hugo Ringsten får A-lagskontrakt – skriver på för fem år på “Parken”",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/hugo-ringsten-far-a-lagskontrakt-skriver-pa-for-fem-ar-pa-parken/",
+      "publishedAt": "2026-10-09T16:19:59.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Hugo Ringsten",
+          "slug": "hugo-ringsten",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
     {
       "id": "gate-upp-gate-ner-297-vi-ska-hem-till-allsvenskan",
       "title": "#297:\"Vi ska hem till Allsvenskan!\"",

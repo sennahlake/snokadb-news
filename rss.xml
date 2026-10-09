@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Fri, 09 Oct 2026 12:41:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 17:46:00 GMT</lastBuildDate>
+    <item>
+      <title>18-åringen skriver på långtidskontrakt för IFK</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/hugo-ringsten-klar-for-langtidskontrakt-i-ifk/jp9dp90l</link>
+      <guid isPermaLink="false">nt-hugo-ringsten-klar-for-langtidskontrakt-i-ifk-jp9dp90l</guid>
+      <pubDate>Fri, 09 Oct 2026 17:46:00 GMT</pubDate>
+      <description>IFK Norrköping har säkrat en av sina mest lovande talanger för framtiden. Under fredagen skrev 18-årige Hugo Ringsten på ett femårskontrakt med klubben.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>Hugo Ringsten får A-lagskontrakt – skriver på för fem år på “Parken”</title>
+      <link>https://ifknorrkoping.se/hugo-ringsten-far-a-lagskontrakt-skriver-pa-for-fem-ar-pa-parken/</link>
+      <guid isPermaLink="false">ifk-hugo-ringsten-far-a-lagskontrakt-skriver-pa-for-fem-ar-pa-parken</guid>
+      <pubDate>Fri, 09 Oct 2026 16:19:59 GMT</pubDate>
+      <description>Hugo Ringsten får A-lagskontrakt – skriver på för fem år på “Parken”</description>
+      <category>IFK Norrköping</category>
+    </item>
     <item>
       <title>#297:&quot;Vi ska hem till Allsvenskan!&quot;</title>
       <link>https://podcasters.spotify.com/pod/show/gate-upp-och-gate-ner/episodes/297Vi-ska-hem-till-Allsvenskan-e3q7l74</link>
@@ -788,22 +804,6 @@
       <guid isPermaLink="false">ifk-ifk-truppen-mot-osters-if-2</guid>
       <pubDate>Sat, 19 Sep 2026 06:53:13 GMT</pubDate>
       <description>IFK-truppen mot Östers IF</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Spelarnas syn på tränarrockaden: &quot;Känner stort ansvar&quot;</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/spelarnas-syn-pa-tranarrockaden-kanner-stort-ansvar/r49qg8oj</link>
-      <guid isPermaLink="false">nt-spelarnas-syn-pa-tranarrockaden-kanner-stort-ansvar-r49qg8oj</guid>
-      <pubDate>Sat, 19 Sep 2026 03:00:00 GMT</pubDate>
-      <description>Stellan Carlsson arbetsbefriades i tisdags. Nu kommenterar IFK-spelarna beslutet. – Vi är lika ansvariga som han och alla andra, säger mittfältaren Matilda Kristell.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Ryan Nelson: “Viktigt att vi avslutar bra”</title>
-      <link>https://ifknorrkoping.se/ryan-nelson-viktigt-att-vi-avslutar-bra/</link>
-      <guid isPermaLink="false">ifk-ryan-nelson-viktigt-att-vi-avslutar-bra</guid>
-      <pubDate>Fri, 18 Sep 2026 18:15:34 GMT</pubDate>
-      <description>Ryan Nelson: “Viktigt att vi avslutar bra”</description>
       <category>IFK Norrköping</category>
     </item>
   </channel>
