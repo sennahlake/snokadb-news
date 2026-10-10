@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sat, 10 Oct 2026 04:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 16:32:00 GMT</lastBuildDate>
+    <item>
+      <title>IFK kan säkra allsvenskt spel på tisdag: &quot;Otroligt kul&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-kan-sakra-allsvenskt-spel-pa-tisdag-otroligt-kul/jn3d09mr</link>
+      <guid isPermaLink="false">nt-ifk-kan-sakra-allsvenskt-spel-pa-tisdag-otroligt-kul-jn3d09mr</guid>
+      <pubDate>Sat, 10 Oct 2026 16:32:00 GMT</pubDate>
+      <description>Östersund och Varberg kryssade. Det betyder att IFK kan säkra det allsvenska avancemanget på tisdag. – Det kan bli ett oförglömligt ögonblick för alla på plats, säger klubbdirektören André Skagervik.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Profilens glädje: &quot;IFK blev min räddning&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/profilens-gladje-ifk-blev-min-raddning/lw62yd8j</link>
@@ -796,14 +804,6 @@
       <guid isPermaLink="false">nt-sa-startar-ifk-i-bortamatchen-mot-oster-lyx98mzr</guid>
       <pubDate>Sat, 19 Sep 2026 07:40:00 GMT</pubDate>
       <description>Sista matchen innan ett längre uppehåll väntar. Följ IFK:s bortamatch mot Öster här.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Stort steg mot allsvenskan för IFK</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/betygen-han-showade-mot-oster-matchavgorande-insatser/lyx98mzr</link>
-      <guid isPermaLink="false">nt-betygen-han-showade-mot-oster-matchavgorande-insatser-lyx98mzr</guid>
-      <pubDate>Sat, 19 Sep 2026 07:40:00 GMT</pubDate>
-      <description>IFK mötte Öster borta i sista matchen innan det längre uppehållet väntar.</description>
       <category>Norrköpings Tidningar</category>
     </item>
   </channel>

@@ -1,7 +1,51 @@
 {
   "year": 2026,
-  "itemCount": 641,
+  "itemCount": 642,
   "items": [
+    {
+      "id": "nt-ifk-kan-sakra-allsvenskt-spel-pa-tisdag-otroligt-kul-jn3d09mr",
+      "title": "IFK kan säkra allsvenskt spel på tisdag: \"Otroligt kul\"",
+      "summary": "Östersund och Varberg kryssade. Det betyder att IFK kan säkra det allsvenska avancemanget på tisdag. – Det kan bli ett oförglömligt ögonblick för alla på plats, säger klubbdirektören André Skagervik.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-kan-sakra-allsvenskt-spel-pa-tisdag-otroligt-kul/jn3d09mr",
+      "publishedAt": "2026-10-10T16:32:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-10",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-profilens-gladje-ifk-blev-min-raddning-lw62yd8j",
       "title": "Profilens glädje: \"IFK blev min räddning\"",
