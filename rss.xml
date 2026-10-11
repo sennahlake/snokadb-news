@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sun, 11 Oct 2026 13:14:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 17:30:00 GMT</lastBuildDate>
+    <item>
+      <title>Bakom IFK-succén: Pappan som blivit en profil</title>
+      <link>https://www.nt.se/story-sport/fotboll/artikel/pappan-bakom-ifk-succen-i-familjen-kallas-jag-for-selfiekungen/jdq99m1r</link>
+      <guid isPermaLink="false">nt-pappan-bakom-ifk-succen-i-familjen-kallas-jag-for-selfiekungen-jdq99m1r</guid>
+      <pubDate>Sun, 11 Oct 2026 17:30:00 GMT</pubDate>
+      <description>En norsk frisör med profilstatus och en succémittback som värdesätter trygghet. På Norrköpings gator blir Ken stoppad oftare än Aleksander.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>IFK nära allsvenskan – truppens syn på läget: &quot;Drömmen&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/ifk-nara-allsvenskan-truppens-syn-pa-laget-drommen/r35g32oj</link>
@@ -796,14 +804,6 @@
       <guid isPermaLink="false">nt-en-forklaring-till-jemals-offensiva-kraft-far-det-fortroendet-jp9y6mml</guid>
       <pubDate>Sat, 19 Sep 2026 15:30:00 GMT</pubDate>
       <description>I IFK har Elias Jemal fått sitt utrymme. Men det kommer också med höga krav. – Vi ska springa och jobba hårt för klubben och märket, sa han.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Om vi ska prata om nycklar till IFK:s säsong är han en stor sådan</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/om-vi-ska-prata-om-nycklar-till-ifks-sasong-ar-han-en-stor-sadan/l78dnv1j</link>
-      <guid isPermaLink="false">nt-om-vi-ska-prata-om-nycklar-till-ifks-sasong-ar-han-en-stor-sadan-l78dnv1j</guid>
-      <pubDate>Sat, 19 Sep 2026 14:18:00 GMT</pubDate>
-      <description>IFK är på väg på snabbast möjliga återkomst. Och faller i stort sett aldrig igenom. Kanske läge att lyfta det Eldar Abdulic har åstadkommit i år.</description>
       <category>Norrköpings Tidningar</category>
     </item>
   </channel>

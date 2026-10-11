@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T15:37:08.905Z",
-  "itemCount": 4563,
+  "generatedAt": "2026-10-11T20:13:00.433Z",
+  "itemCount": 4564,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -66,6 +66,50 @@
     }
   ],
   "items": [
+    {
+      "id": "nt-pappan-bakom-ifk-succen-i-familjen-kallas-jag-for-selfiekungen-jdq99m1r",
+      "title": "Bakom IFK-succén: Pappan som blivit en profil",
+      "summary": "En norsk frisör med profilstatus och en succémittback som värdesätter trygghet. På Norrköpings gator blir Ken stoppad oftare än Aleksander.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/story-sport/fotboll/artikel/pappan-bakom-ifk-succen-i-familjen-kallas-jag-for-selfiekungen/jdq99m1r",
+      "publishedAt": "2026-10-11T17:30:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-11",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-ifk-nara-allsvenskan-truppens-syn-pa-laget-drommen-r35g32oj",
       "title": "IFK nära allsvenskan – truppens syn på läget: \"Drömmen\"",
