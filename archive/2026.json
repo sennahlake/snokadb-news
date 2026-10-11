@@ -1,7 +1,98 @@
 {
   "year": 2026,
-  "itemCount": 643,
+  "itemCount": 645,
   "items": [
+    {
+      "id": "nt-ifk-nara-allsvenskan-truppens-syn-pa-laget-drommen-r35g32oj",
+      "title": "IFK nära allsvenskan – truppens syn på läget: \"Drömmen\"",
+      "summary": "På tisdag kan spel i landets högsta serie säkras. Så beskriver IFK-lägret möjligheten. – Att kunna hjälpa laget till allsvenskan är drömmen, säger Noel Sernelius.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-nara-allsvenskan-truppens-syn-pa-laget-drommen/r35g32oj",
+      "publishedAt": "2026-10-11T13:14:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Noel Sernelius",
+          "slug": "noel-sernelius",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-11",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "ifk-tre-poang-fran-allsvenskan-2027-vi-maste-vaga-tanka-den-tanken",
+      "title": "Tre poäng från allsvenskan 2027 – “Vi måste våga tänka den tanken”",
+      "summary": "Tre poäng från allsvenskan 2027 – “Vi måste våga tänka den tanken”",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/tre-poang-fran-allsvenskan-2027-vi-maste-vaga-tanka-den-tanken/",
+      "publishedAt": "2026-10-11T11:45:13.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
     {
       "id": "nt-ifk-spelarnas-syn-pa-osakra-laget-ar-optimistisk-jp9y0qkl",
       "title": "IFK-spelarnas syn på damallsvenskans framtid: \"Är optimistisk\"",

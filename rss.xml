@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sun, 11 Oct 2026 05:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 13:14:00 GMT</lastBuildDate>
+    <item>
+      <title>IFK nära allsvenskan – truppens syn på läget: &quot;Drömmen&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-nara-allsvenskan-truppens-syn-pa-laget-drommen/r35g32oj</link>
+      <guid isPermaLink="false">nt-ifk-nara-allsvenskan-truppens-syn-pa-laget-drommen-r35g32oj</guid>
+      <pubDate>Sun, 11 Oct 2026 13:14:00 GMT</pubDate>
+      <description>På tisdag kan spel i landets högsta serie säkras. Så beskriver IFK-lägret möjligheten. – Att kunna hjälpa laget till allsvenskan är drömmen, säger Noel Sernelius.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>Tre poäng från allsvenskan 2027 – “Vi måste våga tänka den tanken”</title>
+      <link>https://ifknorrkoping.se/tre-poang-fran-allsvenskan-2027-vi-maste-vaga-tanka-den-tanken/</link>
+      <guid isPermaLink="false">ifk-tre-poang-fran-allsvenskan-2027-vi-maste-vaga-tanka-den-tanken</guid>
+      <pubDate>Sun, 11 Oct 2026 11:45:13 GMT</pubDate>
+      <description>Tre poäng från allsvenskan 2027 – “Vi måste våga tänka den tanken”</description>
+      <category>IFK Norrköping</category>
+    </item>
     <item>
       <title>IFK-spelarnas syn på damallsvenskans framtid: &quot;Är optimistisk&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/ifk-spelarnas-syn-pa-osakra-laget-ar-optimistisk/jp9y0qkl</link>
@@ -789,22 +805,6 @@
       <pubDate>Sat, 19 Sep 2026 14:18:00 GMT</pubDate>
       <description>IFK är på väg på snabbast möjliga återkomst. Och faller i stort sett aldrig igenom. Kanske läge att lyfta det Eldar Abdulic har åstadkommit i år.</description>
       <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Jemals roliga lördag i Växö – åttonde raka bortasegern</title>
-      <link>https://ifknorrkoping.se/jemals-roliga-lordag-i-vaxo-attonde-raka-bortasegern/</link>
-      <guid isPermaLink="false">ifk-jemals-roliga-lordag-i-vaxo-attonde-raka-bortasegern</guid>
-      <pubDate>Sat, 19 Sep 2026 14:02:38 GMT</pubDate>
-      <description>Jemals roliga lördag i Växö – åttonde raka bortasegern</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Krantz går för rekordet: ”Kul att skriva in sig i historieböckerna”</title>
-      <link>https://www.aftonbladet.se/sportbladet/fotboll/a/GxRJmJ/theo-krantz-och-hans-ifk-norrkoping-stormar-mot-allsvenskan?utm_medium=rss</link>
-      <guid isPermaLink="false">sportbladet-gxrjmj-theo-krantz-och-hans-ifk-norrkoping-stormar-mot-allsvenskan</guid>
-      <pubDate>Sat, 19 Sep 2026 08:10:41 GMT</pubDate>
-      <description>Krantz och ”Peking” stormar mot allsvenskan</description>
-      <category>Sportbladet</category>
     </item>
   </channel>
 </rss>
