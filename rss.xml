@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sat, 10 Oct 2026 16:32:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 05:00:00 GMT</lastBuildDate>
+    <item>
+      <title>IFK-spelarnas syn på damallsvenskans framtid: &quot;Är optimistisk&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-spelarnas-syn-pa-osakra-laget-ar-optimistisk/jp9y0qkl</link>
+      <guid isPermaLink="false">nt-ifk-spelarnas-syn-pa-osakra-laget-ar-optimistisk-jp9y0qkl</guid>
+      <pubDate>Sun, 11 Oct 2026 05:00:00 GMT</pubDate>
+      <description>Damallsvenskan står inför flera stora frågetecken. Trots oro kring ekonomi, sponsorer och tv-avtal tror IFK-spelarna på ligans framtid. – Jag tror och hoppas att det finns personer som gör det de kan, säger målvakten Sofia Hjern.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>IFK kan säkra allsvenskt spel på tisdag: &quot;Otroligt kul&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/ifk-kan-sakra-allsvenskt-spel-pa-tisdag-otroligt-kul/jn3d09mr</link>
@@ -797,14 +805,6 @@
       <pubDate>Sat, 19 Sep 2026 08:10:41 GMT</pubDate>
       <description>Krantz och ”Peking” stormar mot allsvenskan</description>
       <category>Sportbladet</category>
-    </item>
-    <item>
-      <title>LIVE: Allsvenska jakten går vidare – följ IFK mot Öster</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/sa-startar-ifk-i-bortamatchen-mot-oster/lyx98mzr</link>
-      <guid isPermaLink="false">nt-sa-startar-ifk-i-bortamatchen-mot-oster-lyx98mzr</guid>
-      <pubDate>Sat, 19 Sep 2026 07:40:00 GMT</pubDate>
-      <description>Sista matchen innan ett längre uppehåll väntar. Följ IFK:s bortamatch mot Öster här.</description>
-      <category>Norrköpings Tidningar</category>
     </item>
   </channel>
 </rss>

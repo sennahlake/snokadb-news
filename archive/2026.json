@@ -1,7 +1,64 @@
 {
   "year": 2026,
-  "itemCount": 642,
+  "itemCount": 643,
   "items": [
+    {
+      "id": "nt-ifk-spelarnas-syn-pa-osakra-laget-ar-optimistisk-jp9y0qkl",
+      "title": "IFK-spelarnas syn på damallsvenskans framtid: \"Är optimistisk\"",
+      "summary": "Damallsvenskan står inför flera stora frågetecken. Trots oro kring ekonomi, sponsorer och tv-avtal tror IFK-spelarna på ligans framtid. – Jag tror och hoppas att det finns personer som gör det de kan, säger målvakten Sofia Hjern.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-spelarnas-syn-pa-osakra-laget-ar-optimistisk/jp9y0qkl",
+      "publishedAt": "2026-10-11T05:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Sofia Hjern",
+          "slug": "sofia-hjern",
+          "side": "Dam",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-11",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-ifk-kan-sakra-allsvenskt-spel-pa-tisdag-otroligt-kul-jn3d09mr",
       "title": "IFK kan säkra allsvenskt spel på tisdag: \"Otroligt kul\"",
