@@ -1,7 +1,74 @@
 {
   "year": 2026,
-  "itemCount": 646,
+  "itemCount": 648,
   "items": [
+    {
+      "id": "ifk-kamraternas-traningsvecka-47",
+      "title": "Kamraternas träningsvecka",
+      "summary": "Kamraternas träningsvecka",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/kamraternas-traningsvecka-47/",
+      "publishedAt": "2026-10-12T06:42:44.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "svt-tennis-zheng-qinwen-sjong-for-fansen-efter-forsta-titeln-pa-tva-ar-ett-tufft-ar",
+      "title": "Zheng Qinwen sjöng för fansen efter första titeln på två år: ”Ett tufft år”",
+      "summary": "Den regerande OS-mästaren Zheng Qinwen vann finalen i storturneringen China Open inför hemmafansen i Peking. Som tack för stödet bjöd kinesiskan på sång.",
+      "source": "SVT",
+      "sourceUrl": "https://www.svt.se/sport/fotboll",
+      "articleUrl": "https://www.svt.se/sport/tennis/zheng-qinwen-sjong-for-fansen-efter-forsta-titeln-pa-tva-ar-ett-tufft-ar",
+      "publishedAt": "2026-10-12T05:54:29.000Z",
+      "category": "Nyhet",
+      "tags": [
+        "Extern originalkälla",
+        "Public service"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "SVT"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "medium",
+        "score": 78,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "svt"
+    },
     {
       "id": "nt-pappan-bakom-ifk-succen-i-familjen-kallas-jag-for-selfiekungen-jdq99m1r",
       "title": "Bakom IFK-succén: Pappan som blivit en profil",
