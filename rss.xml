@@ -5,7 +5,39 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Mon, 12 Oct 2026 06:42:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 17:33:22 GMT</lastBuildDate>
+    <item>
+      <title>196. Inför Sundsvall!</title>
+      <link>https://pod.space/genomljuvalivet/196-infor-sundsvall</link>
+      <guid isPermaLink="false">genom-ljuva-livet-196-infor-sundsvall</guid>
+      <pubDate>Mon, 12 Oct 2026 17:33:22 GMT</pubDate>
+      <description>Vi snackar upp Sundsvall hemma, matchen där IFK kan säkra Allsvenskan 2026! Vilka är vi taggade på att se? Hur mycket kommer den eventuella segern firas? Hur känner man inför Allsvenskan? Är framgång skit?</description>
+      <category>Genom Ljuva Livet</category>
+    </item>
+    <item>
+      <title>Returbiljetten</title>
+      <link>https://pod.space/studiopeking/returbiljetten</link>
+      <guid isPermaLink="false">studio-peking-returbiljetten</guid>
+      <pubDate>Mon, 12 Oct 2026 17:31:20 GMT</pubDate>
+      <description>Dagen före den speciella matchen mot Gif Sundsvall värmer vi upp poddstudion och känner på pulsen. Avgörandet närmar sig. Är IFK redo?</description>
+      <category>Studio Peking</category>
+    </item>
+    <item>
+      <title>Kapten redo för en kväll i elljuset – “Såna här matcher man lever för…”</title>
+      <link>https://ifknorrkoping.se/kapten-redo-for-en-kvall-i-elljuset-sana-har-matcher-man-lever-for/</link>
+      <guid isPermaLink="false">ifk-kapten-redo-for-en-kvall-i-elljuset-sana-har-matcher-man-lever-for</guid>
+      <pubDate>Mon, 12 Oct 2026 14:37:13 GMT</pubDate>
+      <description>Kapten redo för en kväll i elljuset – “Såna här matcher man lever för…”</description>
+      <category>IFK Norrköping</category>
+    </item>
+    <item>
+      <title>Stort intresse för biljetter – när IFK kan säkra allsvenskt spel</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/hogt-biljettryck-nar-ifk-kan-sakra-allsvenskt-spel/l78wv81j</link>
+      <guid isPermaLink="false">nt-hogt-biljettryck-nar-ifk-kan-sakra-allsvenskt-spel-l78wv81j</guid>
+      <pubDate>Mon, 12 Oct 2026 14:25:00 GMT</pubDate>
+      <description>På måndagseftermiddagen var 9 500 biljetter sålda till IFK:s match mot Sundsvall. Föreningen räknar dock med en betydligt högre siffra än så.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Kamraternas träningsvecka</title>
       <link>https://ifknorrkoping.se/kamraternas-traningsvecka-47/</link>
@@ -773,38 +805,6 @@
       <pubDate>Sun, 20 Sep 2026 10:16:44 GMT</pubDate>
       <description>Truppen mot FC Rosengård</description>
       <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>LIVE: Viktiga poäng på spel för IFK – följ bottenmötet här</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/live-viktiga-poang-pa-spel-for-ifk-folj-bottenmotet-har/rexpv00l</link>
-      <guid isPermaLink="false">nt-live-viktiga-poang-pa-spel-for-ifk-folj-bottenmotet-har-rexpv00l</guid>
-      <pubDate>Sun, 20 Sep 2026 08:46:00 GMT</pubDate>
-      <description>IFK ligger på nedflyttningsplats och Rosengård fyra poäng framför. Under söndagen möts lagen i Norrköping.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Mittbacken frälste IFK — nickade in segermål på övertid</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/betygen-sa-har-skotte-sig-ifk-i-matchen-mot-rosengard/rexpv00l</link>
-      <guid isPermaLink="false">nt-betygen-sa-har-skotte-sig-ifk-i-matchen-mot-rosengard-rexpv00l</guid>
-      <pubDate>Sun, 20 Sep 2026 08:46:00 GMT</pubDate>
-      <description>IFK mötte Rosengård hemma på söndagen. Så skötte sig IFK-spelarna i mötet.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Sjukdomar i IFK inför heta bottenmötet: &quot;Inget allvarligt&quot;</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/sjukdomar-i-ifk-infor-heta-bottenmotet-inget-allvarligt/l78dwq5j</link>
-      <guid isPermaLink="false">nt-sjukdomar-i-ifk-infor-heta-bottenmotet-inget-allvarligt-l78dwq5j</guid>
-      <pubDate>Sun, 20 Sep 2026 05:00:00 GMT</pubDate>
-      <description>Sjukdom i truppen. Men nye tränaren Rob Clark räknar med att både målvakten Sofia Hjern och anfallaren Beatrice Persson kan spela mot Rosengård.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>IFK-backen uttagen i landslaget – men kan tvingas tacka nej?</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/ifk-backen-uttagen-i-landslaget-men-kan-tvingas-tacka-nej/r9mq7pml</link>
-      <guid isPermaLink="false">nt-ifk-backen-uttagen-i-landslaget-men-kan-tvingas-tacka-nej-r9mq7pml</guid>
-      <pubDate>Sat, 19 Sep 2026 18:00:00 GMT</pubDate>
-      <description>Under uppehållet ska Moutaz Neffati spela kval till afrikanska mästerskapen. Om inte kroppen säger ifrån. – Just nu har jag ont, sa IFK-backen efter segern i Växjö.</description>
-      <category>Norrköpings Tidningar</category>
     </item>
   </channel>
 </rss>

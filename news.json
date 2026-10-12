@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T07:18:56.659Z",
-  "itemCount": 4566,
+  "generatedAt": "2026-10-12T17:50:07.946Z",
+  "itemCount": 4570,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 3,
+      "count": 1,
       "ok": true
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "source": "Genom Ljuva Livet",
-      "count": 196,
+      "count": 197,
       "ok": true
     },
     {
@@ -56,7 +56,7 @@
     },
     {
       "source": "Studio Peking",
-      "count": 144,
+      "count": 145,
       "ok": true
     },
     {
@@ -66,6 +66,159 @@
     }
   ],
   "items": [
+    {
+      "id": "genom-ljuva-livet-196-infor-sundsvall",
+      "title": "196. Inför Sundsvall!",
+      "summary": "Vi snackar upp Sundsvall hemma, matchen där IFK kan säkra Allsvenskan 2026! Vilka är vi taggade på att se? Hur mycket kommer den eventuella segern firas? Hur känner man inför Allsvenskan? Är framgång skit?",
+      "source": "Genom Ljuva Livet",
+      "sourceUrl": "https://poddtoppen.se/podcast/1728458754/genom-ljuva-livet",
+      "articleUrl": "https://pod.space/genomljuvalivet/196-infor-sundsvall",
+      "publishedAt": "2026-10-12T17:33:22.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Genom Ljuva Livet",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "genom-ljuva-livet"
+    },
+    {
+      "id": "studio-peking-returbiljetten",
+      "title": "Returbiljetten",
+      "summary": "Dagen före den speciella matchen mot Gif Sundsvall värmer vi upp poddstudion och känner på pulsen. Avgörandet närmar sig. Är IFK redo?",
+      "source": "Studio Peking",
+      "sourceUrl": "https://poddtoppen.se/podcast/1738623973/studio-peking",
+      "articleUrl": "https://pod.space/studiopeking/returbiljetten",
+      "publishedAt": "2026-10-12T17:31:20.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Studio Peking",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd",
+          "IFK i artikel-URL"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "studio-peking"
+    },
+    {
+      "id": "ifk-kapten-redo-for-en-kvall-i-elljuset-sana-har-matcher-man-lever-for",
+      "title": "Kapten redo för en kväll i elljuset – “Såna här matcher man lever för…”",
+      "summary": "Kapten redo för en kväll i elljuset – “Såna här matcher man lever för…”",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/kapten-redo-for-en-kvall-i-elljuset-sana-har-matcher-man-lever-for/",
+      "publishedAt": "2026-10-12T14:37:13.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "nt-hogt-biljettryck-nar-ifk-kan-sakra-allsvenskt-spel-l78wv81j",
+      "title": "Stort intresse för biljetter – när IFK kan säkra allsvenskt spel",
+      "summary": "På måndagseftermiddagen var 9 500 biljetter sålda till IFK:s match mot Sundsvall. Föreningen räknar dock med en betydligt högre siffra än så.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/hogt-biljettryck-nar-ifk-kan-sakra-allsvenskt-spel/l78wv81j",
+      "publishedAt": "2026-10-12T14:25:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-12",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "ifk-kamraternas-traningsvecka-47",
       "title": "Kamraternas träningsvecka",
