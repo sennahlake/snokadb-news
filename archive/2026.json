@@ -1,7 +1,472 @@
 {
   "year": 2026,
-  "itemCount": 657,
+  "itemCount": 668,
   "items": [
+    {
+      "id": "nt-bronners-eufori-det-basta-jag-varit-med-om-lyx0no9r",
+      "title": "Brönners eufori: \"Det bästa jag varit med om\"",
+      "summary": "Från ångest och tårar till en uppfylld dröm. – Känslorna är utanpå kroppen, jublar Axel Brönner.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/bronners-eufori-det-basta-jag-varit-med-om/lyx0no9r",
+      "publishedAt": "2026-10-13T20:41:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Axel Brönner",
+          "slug": "axel-bronner",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-13",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-de-nya-hjaltarna-har-kommit-hem-rgow6npj",
+      "title": "De nya hjältarna har kommit hem",
+      "summary": "Dåtid och nutid på en och samma gång. Nu skiner nya hjältar klart i IFK Norrköpings historia.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/de-nya-hjaltarna-har-kommit-hem/rgow6npj",
+      "publishedAt": "2026-10-13T19:38:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-13",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "sportexpressen-allsvenskan-gjort-narr-av-hela-serien-horde-inte-hemma-har",
+      "title": "Gjort narr av hela serien – hörde inte hemma här",
+      "summary": "IFK Norrköping borde aldrig ha spelat i superettan. Allt talar för att Eldar Abdulic unga lag blir en sevärdhet i allsvenskan.",
+      "source": "SportExpressen",
+      "sourceUrl": "https://www.expressen.se/sport/fotboll/",
+      "articleUrl": "https://www.expressen.se/sport/fotboll/allsvenskan/gjort-narr-av-hela-serien-horde-inte-hemma-har/",
+      "publishedAt": "2026-10-13T19:26:30.000Z",
+      "category": "Nyhet",
+      "tags": [
+        "Extern originalkälla",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "SportExpressen"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "medium",
+        "score": 78,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "sportexpressen",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "SportExpressen",
+          "date": "2026-10-13",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "sportexpressen-superettan-ifk-norrkoping-tillbaka-i-allsvenskan",
+      "title": "IFK Norrköping tillbaka i allsvenskan",
+      "summary": "Sejouren i superettan blev kortvarig. IFK Norrköping är tillbaka i allsvenskan. – Nu är vi hemma igen, säger Alexander Fransson i TV4.",
+      "source": "SportExpressen",
+      "sourceUrl": "https://www.expressen.se/sport/fotboll/",
+      "articleUrl": "https://www.expressen.se/sport/fotboll/superettan/ifk-norrkoping-tillbaka-i-allsvenskan/",
+      "publishedAt": "2026-10-13T19:26:07.000Z",
+      "category": "Nyhet",
+      "tags": [
+        "Extern originalkälla",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "SportExpressen"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 96,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK i rubrik",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Alexander Fransson",
+          "slug": "alexander-fransson",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "sportexpressen",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "SportExpressen",
+          "date": "2026-10-13",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-ifk-fixade-sin-festkvall-sa-bra-var-spelarna-r1wodopl",
+      "title": "BETYG: IFK fixade sin festkväll – så bra var spelarna",
+      "summary": "IFK Norrköping är tillbaka i allsvenskan. 4–0 mot Gif Sundsvall säkrade avancemang och firande. Så här bra var IFK-spelarna på Idrottsparken:",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-fixade-sin-festkvall-sa-bra-var-spelarna/r1wodopl",
+      "publishedAt": "2026-10-13T18:55:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-13",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-truppbygget-infor-2027-de-kan-lamna-ifk-rex5pzyl",
+      "title": "Truppbygget inför 2027 – de kan lämna IFK",
+      "summary": "Efter succésäsongen står klubbarna på rad. Lyckas någon norpa IFK:s nyckelspelare? Vad sker när klubbhjärta ställs mot karriärsplanering? Här går vi igenom kontraktsläget – spelare för spelare.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/truppbygget-infor-2027-de-kan-lamna-ifk/rex5pzyl",
+      "publishedAt": "2026-10-13T18:54:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-13",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "sportbladet-0pabxg-ifk-norrkoping-2027-sa-kan-laget-se-ut-i-allsvenskan",
+      "title": "IFK NORRKÖPING 2027: Så kan laget se ut i allsvenskan",
+      "summary": "Så kan Norrköping se ut i allsvenskan 2027",
+      "source": "Sportbladet",
+      "sourceUrl": "https://www.aftonbladet.se/sportbladet/fotboll",
+      "articleUrl": "https://www.aftonbladet.se/sportbladet/fotboll/a/0pabxG/ifk-norrkoping-2027-sa-kan-laget-se-ut-i-allsvenskan?utm_medium=rss",
+      "publishedAt": "2026-10-13T18:51:43.000Z",
+      "category": "Nyhet",
+      "tags": [
+        "Extern originalkälla",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Sportbladet"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK i rubrik"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "sportbladet",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Sportbladet",
+          "date": "2026-10-13",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "sportbladet-jvmx4l-diamant-ifk-norrkoping-behovde-detta-blir-farligt-i-allsvenskan",
+      "title": "Diamant: Laget blir farligt i allsvenskan",
+      "summary": "DIAMANT: Blir farligt 2027",
+      "source": "Sportbladet",
+      "sourceUrl": "https://www.aftonbladet.se/sportbladet/fotboll",
+      "articleUrl": "https://www.aftonbladet.se/sportbladet/fotboll/a/jvmX4L/diamant-ifk-norrkoping-behovde-detta-blir-farligt-i-allsvenskan?utm_medium=rss",
+      "publishedAt": "2026-10-13T18:51:39.000Z",
+      "category": "Nyhet",
+      "tags": [
+        "Extern originalkälla",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Sportbladet"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "medium",
+        "score": 76,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK i artikel-URL"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "sportbladet",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Sportbladet",
+          "date": "2026-10-13",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "sportbladet-8gxygw-ifk-norrkoping-slog-gif-sundsvall-gar-upp-till-allsvenskan",
+      "title": "IFK Norrköping går upp till allsvenskan",
+      "summary": "Hjälte igen – 16 år senare ✓ Tillbaka",
+      "source": "Sportbladet",
+      "sourceUrl": "https://www.aftonbladet.se/sportbladet/fotboll",
+      "articleUrl": "https://www.aftonbladet.se/sportbladet/fotboll/a/8GXyGw/ifk-norrkoping-slog-gif-sundsvall-gar-upp-till-allsvenskan?utm_medium=rss",
+      "publishedAt": "2026-10-13T18:51:36.000Z",
+      "category": "Nyhet",
+      "tags": [
+        "Extern originalkälla",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Sportbladet"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK i rubrik"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "sportbladet",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Sportbladet",
+          "date": "2026-10-13",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "svt-fotboll-christoffer-nyman-skjuter-norrkoping-mot-allsvenskan",
+      "title": "Norrköping tillbaka i allsvenskan – Christoffer Nyman bakom allt",
+      "summary": "Norrköping är tillbaka i allsvenskan igen. Mycket tack vare hemmasonen Christoffer Nyman – som gjorde mål nummer 17 och 18 och assisterade till två i 4–0-segern mot Sundsvall. – Det är ovärderligt, på något sätt blir det svårt att sätta ord på känslorna, säger 34-åringen till SVT Sport.",
+      "source": "SVT",
+      "sourceUrl": "https://www.svt.se/sport/fotboll",
+      "articleUrl": "https://www.svt.se/sport/fotboll/christoffer-nyman-skjuter-norrkoping-mot-allsvenskan",
+      "publishedAt": "2026-10-13T17:55:27.000Z",
+      "category": "Nyhet",
+      "tags": [
+        "Extern originalkälla",
+        "Public service",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "SVT"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 74,
+        "matchedBy": [
+          "Originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Christoffer Nyman",
+          "slug": "christoffer-nyman",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "svt"
+    },
     {
       "id": "ifk-ifk-truppen-mot-gif-sundsvall-2",
       "title": "IFK-truppen mot GIF Sundsvall",
@@ -12,7 +477,8 @@
       "publishedAt": "2026-10-13T13:17:00.000Z",
       "category": "Officiellt",
       "tags": [
-        "Officiellt"
+        "Officiellt",
+        "Herr"
       ],
       "keywords": [
         "IFK Norrköping",
@@ -48,6 +514,52 @@
       "tags": [
         "Extern originalkälla",
         "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-13",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-christiansson-det-ar-klart-man-vagade-dromma-jo5dqy7l",
+      "title": "IFK tillbaka i allsvenskan – efter storseger",
+      "summary": "IFK Norrköping är tillbaka i allsvenskan igen efter 4–0 hemma mot Gif Sundsvall på tisdagskvällen. Följ allt från glädjeyran här.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/christiansson-det-ar-klart-man-vagade-dromma/jo5dqy7l",
+      "publishedAt": "2026-10-13T12:35:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
       ],
       "keywords": [
         "IFK Norrköping",
