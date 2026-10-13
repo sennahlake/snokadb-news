@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Mon, 12 Oct 2026 17:33:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 19:00:00 GMT</lastBuildDate>
+    <item>
+      <title>IFK-tränaren: &quot;Självklart ett väldigt specifikt tillfälle&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-tranaren-sjalvklart-ett-valdigt-specifikt-tillfalle/r49ow0oj</link>
+      <guid isPermaLink="false">nt-ifk-tranaren-sjalvklart-ett-valdigt-specifikt-tillfalle-r49ow0oj</guid>
+      <pubDate>Mon, 12 Oct 2026 19:00:00 GMT</pubDate>
+      <description>Eldar Abdulic duckar inte för läget. Om ett dygn kan han leda en klubb klar för allsvenskt avancemang. – Jag märker att det betyder mycket för många, säger IFK-tränaren.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>196. Inför Sundsvall!</title>
       <link>https://pod.space/genomljuvalivet/196-infor-sundsvall</link>
@@ -797,14 +805,6 @@
       <pubDate>Sun, 20 Sep 2026 15:35:29 GMT</pubDate>
       <description>Vilda glädjescener i Norrköping. Malva Larsson räddade segern mot Rosengård med ett klassmål i den 95:e minuten.</description>
       <category>SVT</category>
-    </item>
-    <item>
-      <title>Truppen mot FC Rosengård</title>
-      <link>https://ifknorrkoping.se/truppen-mot-fc-rosengard-8/</link>
-      <guid isPermaLink="false">ifk-truppen-mot-fc-rosengard-8</guid>
-      <pubDate>Sun, 20 Sep 2026 10:16:44 GMT</pubDate>
-      <description>Truppen mot FC Rosengård</description>
-      <category>IFK Norrköping</category>
     </item>
   </channel>
 </rss>
