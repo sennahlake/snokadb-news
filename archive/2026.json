@@ -1,7 +1,41 @@
 {
   "year": 2026,
-  "itemCount": 653,
+  "itemCount": 654,
   "items": [
+    {
+      "id": "ifk-publikinformation-ifk-norrkoping-gif-sundsvall-2",
+      "title": "Publikinformation: IFK Norrköping-GIF Sundsvall",
+      "summary": "Publikinformation: IFK Norrköping-GIF Sundsvall",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/publikinformation-ifk-norrkoping-gif-sundsvall-2/",
+      "publishedAt": "2026-10-13T07:31:25.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla",
+          "IFK i rubrik"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
     {
       "id": "nt-ifk-tranaren-sjalvklart-ett-valdigt-specifikt-tillfalle-r49ow0oj",
       "title": "IFK-tränaren: \"Självklart ett väldigt specifikt tillfälle\"",

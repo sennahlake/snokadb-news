@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Mon, 12 Oct 2026 19:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 07:31:25 GMT</lastBuildDate>
+    <item>
+      <title>Publikinformation: IFK Norrköping-GIF Sundsvall</title>
+      <link>https://ifknorrkoping.se/publikinformation-ifk-norrkoping-gif-sundsvall-2/</link>
+      <guid isPermaLink="false">ifk-publikinformation-ifk-norrkoping-gif-sundsvall-2</guid>
+      <pubDate>Tue, 13 Oct 2026 07:31:25 GMT</pubDate>
+      <description>Publikinformation: IFK Norrköping-GIF Sundsvall</description>
+      <category>IFK Norrköping</category>
+    </item>
     <item>
       <title>IFK-tränaren: &quot;Självklart ett väldigt specifikt tillfälle&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/ifk-tranaren-sjalvklart-ett-valdigt-specifikt-tillfalle/r49ow0oj</link>
@@ -797,14 +805,6 @@
       <pubDate>Sun, 20 Sep 2026 15:51:00 GMT</pubDate>
       <description>På väg att bli syndabock – i stället iklädde sig Malva Larsson hjälterollen. – Enorm glädje, säger hon.</description>
       <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Norrköping segrade i ångestmötet efter mål på stopptid</title>
-      <link>https://www.svt.se/sport/fotboll/norrkoping-segrade-i-angestmotet-efter-mal-pa-stopptid</link>
-      <guid isPermaLink="false">svt-fotboll-norrkoping-segrade-i-angestmotet-efter-mal-pa-stopptid</guid>
-      <pubDate>Sun, 20 Sep 2026 15:35:29 GMT</pubDate>
-      <description>Vilda glädjescener i Norrköping. Malva Larsson räddade segern mot Rosengård med ett klassmål i den 95:e minuten.</description>
-      <category>SVT</category>
     </item>
   </channel>
 </rss>
