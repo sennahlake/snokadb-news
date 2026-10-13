@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T07:40:30.882Z",
-  "itemCount": 4572,
+  "generatedAt": "2026-10-13T15:55:02.443Z",
+  "itemCount": 4575,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 2,
+      "count": 3,
       "ok": true
     },
     {
@@ -20,7 +20,7 @@
     },
     {
       "source": "SVT",
-      "count": 1,
+      "count": 0,
       "ok": true
     },
     {
@@ -66,6 +66,131 @@
     }
   ],
   "items": [
+    {
+      "id": "ifk-ifk-truppen-mot-gif-sundsvall-2",
+      "title": "IFK-truppen mot GIF Sundsvall",
+      "summary": "IFK-truppen mot GIF Sundsvall",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/ifk-truppen-mot-gif-sundsvall-2/",
+      "publishedAt": "2026-10-13T13:17:00.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla",
+          "IFK i rubrik"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "nt-optimism-bland-fansen-infor-ifk-dramat-jo5dqy7l",
+      "title": "Optimism bland fansen inför IFK-dramat",
+      "summary": "Vid IFK-vinst kommer stora glädjescener utspela sig. Följ allt från matchen där Peking kan säkra allsvenskt avancemang.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/optimism-bland-fansen-infor-ifk-dramat/jo5dqy7l",
+      "publishedAt": "2026-10-13T12:35:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-13",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-pontus-hammarkvist-infor-ifk-norrkoping-gif-match-r1wo586l",
+      "title": "Poddaren Pontus inför IFK-dramat: \"Jag är orolig\"",
+      "summary": "Snart kan IFK Norrköping vara tillbaka i allsvenskan. För poddaren och supportern Pontus Hammarkvist väntar en nervös kväll, men också hopp om ett efterlängtat firande hemma i Norrköping. – Det kommer nog bli väldigt många spontana kramar med okända människor, säger IFK-supportern.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/pontus-hammarkvist-infor-ifk-norrkoping-gif-match/r1wo586l",
+      "publishedAt": "2026-10-13T10:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-13",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "ifk-publikinformation-ifk-norrkoping-gif-sundsvall-2",
       "title": "Publikinformation: IFK Norrköping-GIF Sundsvall",

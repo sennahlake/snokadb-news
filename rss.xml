@@ -5,7 +5,31 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Tue, 13 Oct 2026 07:31:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 13:17:00 GMT</lastBuildDate>
+    <item>
+      <title>IFK-truppen mot GIF Sundsvall</title>
+      <link>https://ifknorrkoping.se/ifk-truppen-mot-gif-sundsvall-2/</link>
+      <guid isPermaLink="false">ifk-ifk-truppen-mot-gif-sundsvall-2</guid>
+      <pubDate>Tue, 13 Oct 2026 13:17:00 GMT</pubDate>
+      <description>IFK-truppen mot GIF Sundsvall</description>
+      <category>IFK Norrköping</category>
+    </item>
+    <item>
+      <title>Optimism bland fansen inför IFK-dramat</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/optimism-bland-fansen-infor-ifk-dramat/jo5dqy7l</link>
+      <guid isPermaLink="false">nt-optimism-bland-fansen-infor-ifk-dramat-jo5dqy7l</guid>
+      <pubDate>Tue, 13 Oct 2026 12:35:00 GMT</pubDate>
+      <description>Vid IFK-vinst kommer stora glädjescener utspela sig. Följ allt från matchen där Peking kan säkra allsvenskt avancemang.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>Poddaren Pontus inför IFK-dramat: &quot;Jag är orolig&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/pontus-hammarkvist-infor-ifk-norrkoping-gif-match/r1wo586l</link>
+      <guid isPermaLink="false">nt-pontus-hammarkvist-infor-ifk-norrkoping-gif-match-r1wo586l</guid>
+      <pubDate>Tue, 13 Oct 2026 10:00:00 GMT</pubDate>
+      <description>Snart kan IFK Norrköping vara tillbaka i allsvenskan. För poddaren och supportern Pontus Hammarkvist väntar en nervös kväll, men också hopp om ett efterlängtat firande hemma i Norrköping. – Det kommer nog bli väldigt många spontana kramar med okända människor, säger IFK-supportern.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Publikinformation: IFK Norrköping-GIF Sundsvall</title>
       <link>https://ifknorrkoping.se/publikinformation-ifk-norrkoping-gif-sundsvall-2/</link>
@@ -780,30 +804,6 @@
       <guid isPermaLink="false">nt-turbulenta-ifk-veckan-over-kan-inte-vara-stoltare-r9mq945l</guid>
       <pubDate>Sun, 20 Sep 2026 18:30:00 GMT</pubDate>
       <description>Tränarbyte, säsongens viktigaste match – och ett slut som nästan var regisserat. IFK:s tuffa vecka påverkade många. – Vi har behövt hålla oss professionella, sa lagkaptenen Carrie Jones.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Från självmål till matchvinnare – Malvas känslofyllda söndag</title>
-      <link>https://ifknorrkoping.se/fran-sjalvmal-till-matchvinnare-malvas-kanslofyllda-sondag/</link>
-      <guid isPermaLink="false">ifk-fran-sjalvmal-till-matchvinnare-malvas-kanslofyllda-sondag</guid>
-      <pubDate>Sun, 20 Sep 2026 16:47:04 GMT</pubDate>
-      <description>Från självmål till matchvinnare – Malvas känslofyllda söndag</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Segern var nödvändig – men jobbet är långt från gjort än för IFK</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/segern-var-nodvandig-men-jobbet-ar-langt-fran-gjort-an-for-ifk/jvzwv87r</link>
-      <guid isPermaLink="false">nt-segern-var-nodvandig-men-jobbet-ar-langt-fran-gjort-an-for-ifk-jvzwv87r</guid>
-      <pubDate>Sun, 20 Sep 2026 15:59:00 GMT</pubDate>
-      <description>Första testet avklarat med väl godkänt. Det kommer flera till. IFK skakade liv i säsongen, på det mest dramatiskt tänkbara sättet, men allvaret är långt från undanröjt än.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>IFK:s matchhjälte: &quot;Blev nästan rörd&quot;</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/ifks-matchhjalte-blev-nastan-rord/r1wmkmkl</link>
-      <guid isPermaLink="false">nt-ifks-matchhjalte-blev-nastan-rord-r1wmkmkl</guid>
-      <pubDate>Sun, 20 Sep 2026 15:51:00 GMT</pubDate>
-      <description>På väg att bli syndabock – i stället iklädde sig Malva Larsson hjälterollen. – Enorm glädje, säger hon.</description>
       <category>Norrköpings Tidningar</category>
     </item>
   </channel>
