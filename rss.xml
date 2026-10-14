@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Wed, 14 Oct 2026 10:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 19:25:04 GMT</lastBuildDate>
+    <item>
+      <title>197. Allsvenskan är klart!</title>
+      <link>https://pod.space/genomljuvalivet/197-allsvenskan-ar-klart</link>
+      <guid isPermaLink="false">genom-ljuva-livet-197-allsvenskan-ar-klart</guid>
+      <pubDate>Wed, 14 Oct 2026 19:25:04 GMT</pubDate>
+      <description>Allt om gårdagen från ett gäng som är lite möra i skallen! Matchen, planstormningen, lustiga intervjuer, ananas, kärleken till Totte och massor mer. Och så gottar vi oss lite snabbt i Örebros misär samt hyllar alla som har med IFK att göra.</description>
+      <category>Genom Ljuva Livet</category>
+    </item>
     <item>
       <title>Rösterna inifrån – så byggde IFK för vägen tillbaka</title>
       <link>https://www.nt.se/story-sport/fotboll/artikel/rosterna-inifran-sa-byggde-ifk-for-vagen-tillbaka/r9mq6wzl</link>
@@ -796,14 +804,6 @@
       <guid isPermaLink="false">nt-nya-skadesmallen-for-ifk-tre-spelare-fick-kliva-av-mot-hacken-r1wm4g3l</guid>
       <pubDate>Sat, 26 Sep 2026 16:53:00 GMT</pubDate>
       <description>Några tuffa skador redan. Mot Häcken klev ytterligare tre spelare ut efter smällar. Tuffast såg det ut för Amanda Sundström. – Jag hoppas inget är för allvarligt, sa tränaren Rob Clark.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>IFK möter Champions League-laget – fortsatt jakt på säker mark</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/ifk-moter-champions-league-laget-fortsatt-jakt-pa-saker-mark/j82qem1j</link>
-      <guid isPermaLink="false">nt-ifk-moter-champions-league-laget-fortsatt-jakt-pa-saker-mark-j82qem1j</guid>
-      <pubDate>Sat, 26 Sep 2026 11:00:00 GMT</pubDate>
-      <description>IFK Norrköping fick den nödvändiga starten efter tränarbytet. Säsongen lever. Vi rapporterar från dagens hemmamöte med svårast tänkbara motstånd i damallsvenskan – BK Häcken.</description>
       <category>Norrköpings Tidningar</category>
     </item>
   </channel>

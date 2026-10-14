@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T11:47:44.660Z",
-  "itemCount": 4595,
+  "generatedAt": "2026-10-14T20:42:17.611Z",
+  "itemCount": 4596,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 9,
+      "count": 2,
       "ok": true
     },
     {
@@ -20,12 +20,12 @@
     },
     {
       "source": "SVT",
-      "count": 2,
+      "count": 0,
       "ok": true
     },
     {
       "source": "Sportbladet",
-      "count": 4,
+      "count": 0,
       "ok": true
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "source": "Genom Ljuva Livet",
-      "count": 197,
+      "count": 198,
       "ok": true
     },
     {
@@ -66,6 +66,44 @@
     }
   ],
   "items": [
+    {
+      "id": "genom-ljuva-livet-197-allsvenskan-ar-klart",
+      "title": "197. Allsvenskan är klart!",
+      "summary": "Allt om gårdagen från ett gäng som är lite möra i skallen! Matchen, planstormningen, lustiga intervjuer, ananas, kärleken till Totte och massor mer. Och så gottar vi oss lite snabbt i Örebros misär samt hyllar alla som har med IFK att göra.",
+      "source": "Genom Ljuva Livet",
+      "sourceUrl": "https://poddtoppen.se/podcast/1728458754/genom-ljuva-livet",
+      "articleUrl": "https://pod.space/genomljuvalivet/197-allsvenskan-ar-klart",
+      "publishedAt": "2026-10-14T19:25:04.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Genom Ljuva Livet",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "genom-ljuva-livet"
+    },
     {
       "id": "nt-rosterna-inifran-sa-byggde-ifk-for-vagen-tillbaka-r9mq6wzl",
       "title": "Rösterna inifrån – så byggde IFK för vägen tillbaka",
