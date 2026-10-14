@@ -1,7 +1,52 @@
 {
   "year": 2026,
-  "itemCount": 674,
+  "itemCount": 675,
   "items": [
+    {
+      "id": "nt-ifk-tranarens-raka-svar-jag-amnar-vara-kvar-lw62yxyj",
+      "title": "IFK-tränarens raka svar: \"Jag ämnar vara kvar\"",
+      "summary": "Eldar Abdulic gör succé med IFK – efter kovändningen i vintras. – Jag var överens med en annan klubb, säger tränaren.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-tranarens-raka-svar-jag-amnar-vara-kvar/lw62yxyj",
+      "publishedAt": "2026-10-14T03:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i rubrik"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-14",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "studio-peking-gladjens-epicentrum",
       "title": "Glädjens epicentrum",

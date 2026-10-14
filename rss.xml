@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Tue, 13 Oct 2026 23:44:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 03:00:00 GMT</lastBuildDate>
+    <item>
+      <title>IFK-tränarens raka svar: &quot;Jag ämnar vara kvar&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-tranarens-raka-svar-jag-amnar-vara-kvar/lw62yxyj</link>
+      <guid isPermaLink="false">nt-ifk-tranarens-raka-svar-jag-amnar-vara-kvar-lw62yxyj</guid>
+      <pubDate>Wed, 14 Oct 2026 03:00:00 GMT</pubDate>
+      <description>Eldar Abdulic gör succé med IFK – efter kovändningen i vintras. – Jag var överens med en annan klubb, säger tränaren.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Glädjens epicentrum</title>
       <link>https://pod.space/studiopeking/gladjens-epicentrum</link>
@@ -797,14 +805,6 @@
       <pubDate>Sat, 26 Sep 2026 11:00:00 GMT</pubDate>
       <description>IFK förlorade med 0–6. Vi rapporterade från hemmamötet med BK Häcken.</description>
       <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Truppen mot BK Häcken</title>
-      <link>https://ifknorrkoping.se/truppen-mot-bk-hacken-15/</link>
-      <guid isPermaLink="false">ifk-truppen-mot-bk-hacken-15</guid>
-      <pubDate>Sat, 26 Sep 2026 08:58:47 GMT</pubDate>
-      <description>Truppen mot BK Häcken</description>
-      <category>IFK Norrköping</category>
     </item>
   </channel>
 </rss>
