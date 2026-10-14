@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Wed, 14 Oct 2026 03:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 10:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Rösterna inifrån – så byggde IFK för vägen tillbaka</title>
+      <link>https://www.nt.se/story-sport/fotboll/artikel/rosterna-inifran-sa-byggde-ifk-for-vagen-tillbaka/r9mq6wzl</link>
+      <guid isPermaLink="false">nt-rosterna-inifran-sa-byggde-ifk-for-vagen-tillbaka-r9mq6wzl</guid>
+      <pubDate>Wed, 14 Oct 2026 10:00:00 GMT</pubDate>
+      <description>Svarta rubriker, en dyster verklighet och ett fall som påverkade en hel fotbollsstad. Ett år senare står IFK här. Tillbaka. Inte bara i allsvenskan utan också i tron på sig själv. Det här är historien om en klassisk klubbs resa hem.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>Publikfavoritens starka känslor: &quot;Grät glädjetårar&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/publikfavoritens-starka-kanslor-grat-gladjetarar/jp9dvz7l</link>
+      <guid isPermaLink="false">nt-publikfavoritens-starka-kanslor-grat-gladjetarar-jp9dvz7l</guid>
+      <pubDate>Wed, 14 Oct 2026 07:00:00 GMT</pubDate>
+      <description>Ryan Nelson var med och sköt upp IFK till allsvenskan. Efteråt grät familjen glädjetårar. – Jag sa att jag älskade dem och att jag önskade att de var här, säger han.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>IFK-tränarens raka svar: &quot;Jag ämnar vara kvar&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/ifk-tranarens-raka-svar-jag-amnar-vara-kvar/lw62yxyj</link>
@@ -788,22 +804,6 @@
       <guid isPermaLink="false">nt-ifk-moter-champions-league-laget-fortsatt-jakt-pa-saker-mark-j82qem1j</guid>
       <pubDate>Sat, 26 Sep 2026 11:00:00 GMT</pubDate>
       <description>IFK Norrköping fick den nödvändiga starten efter tränarbytet. Säsongen lever. Vi rapporterar från dagens hemmamöte med svårast tänkbara motstånd i damallsvenskan – BK Häcken.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Detaljerna som IFK:s sportchef hyllar efter kontraktsbeskedet</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/detaljerna-som-ifks-sportchef-hyllar-efter-kontraktsbeskedet/jo5qw8yl</link>
-      <guid isPermaLink="false">nt-detaljerna-som-ifks-sportchef-hyllar-efter-kontraktsbeskedet-jo5qw8yl</guid>
-      <pubDate>Sat, 26 Sep 2026 11:00:00 GMT</pubDate>
-      <description>Han lyfter fram den personliga utvecklingen – och säger att beslutet blev ganska självklart till slut. – Det är en ny Elias Jemal mot hur det var för några år sedan, säger IFK:s sportchef Henrik Jurelius.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Käftsmäll för IFK – jätteförlust mot Häcken</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/kaftsmall-for-ifk-jatteforlust-mot-hacken/j82qem1j</link>
-      <guid isPermaLink="false">nt-kaftsmall-for-ifk-jatteforlust-mot-hacken-j82qem1j</guid>
-      <pubDate>Sat, 26 Sep 2026 11:00:00 GMT</pubDate>
-      <description>IFK förlorade med 0–6. Vi rapporterade från hemmamötet med BK Häcken.</description>
       <category>Norrköpings Tidningar</category>
     </item>
   </channel>

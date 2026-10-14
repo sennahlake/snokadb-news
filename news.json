@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T06:09:07.694Z",
-  "itemCount": 4593,
+  "generatedAt": "2026-10-14T11:47:44.660Z",
+  "itemCount": 4595,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 7,
+      "count": 9,
       "ok": true
     },
     {
@@ -30,7 +30,7 @@
     },
     {
       "source": "SportExpressen",
-      "count": 2,
+      "count": 0,
       "ok": true
     },
     {
@@ -66,6 +66,108 @@
     }
   ],
   "items": [
+    {
+      "id": "nt-rosterna-inifran-sa-byggde-ifk-for-vagen-tillbaka-r9mq6wzl",
+      "title": "Rösterna inifrån – så byggde IFK för vägen tillbaka",
+      "summary": "Svarta rubriker, en dyster verklighet och ett fall som påverkade en hel fotbollsstad. Ett år senare står IFK här. Tillbaka. Inte bara i allsvenskan utan också i tron på sig själv. Det här är historien om en klassisk klubbs resa hem.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/story-sport/fotboll/artikel/rosterna-inifran-sa-byggde-ifk-for-vagen-tillbaka/r9mq6wzl",
+      "publishedAt": "2026-10-14T10:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-14",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-publikfavoritens-starka-kanslor-grat-gladjetarar-jp9dvz7l",
+      "title": "Publikfavoritens starka känslor: \"Grät glädjetårar\"",
+      "summary": "Ryan Nelson var med och sköt upp IFK till allsvenskan. Efteråt grät familjen glädjetårar. – Jag sa att jag älskade dem och att jag önskade att de var här, säger han.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/publikfavoritens-starka-kanslor-grat-gladjetarar/jp9dvz7l",
+      "publishedAt": "2026-10-14T07:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Ryan Nelson",
+          "slug": "ryan-nelson",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-14",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-ifk-tranarens-raka-svar-jag-amnar-vara-kvar-lw62yxyj",
       "title": "IFK-tränarens raka svar: \"Jag ämnar vara kvar\"",
