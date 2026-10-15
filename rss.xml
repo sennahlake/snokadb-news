@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Wed, 14 Oct 2026 19:25:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 07:30:00 GMT</lastBuildDate>
+    <item>
+      <title>Så vill IFK:s sportchef bygga vidare: &quot;Behålla identiteten&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/sa-vill-ifks-sportchef-bygga-vidare-behalla-identiteten/lqpd021r</link>
+      <guid isPermaLink="false">nt-sa-vill-ifks-sportchef-bygga-vidare-behalla-identiteten-lqpd021r</guid>
+      <pubDate>Thu, 15 Oct 2026 07:30:00 GMT</pubDate>
+      <description>Hur vill Henrik Jurelius bygga IFK vidare? Vart strävar han nu – efter det allsvenska avancemanget? Ser han någon risk att Eldar Abdulic kan intressera större klubbar? – En delikat fråga, säger sportchefen om succétränaren.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>197. Allsvenskan är klart!</title>
       <link>https://pod.space/genomljuvalivet/197-allsvenskan-ar-klart</link>
@@ -797,14 +805,6 @@
       <pubDate>Sat, 26 Sep 2026 17:58:27 GMT</pubDate>
       <description>Clark efter förlusten: “Vi får studsa tillbaka snabbt och spela derby på tisdag.”</description>
       <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Nya skadesmällen för IFK – tre spelare fick kliva av mot Häcken</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/nya-skadesmallen-for-ifk-tre-spelare-fick-kliva-av-mot-hacken/r1wm4g3l</link>
-      <guid isPermaLink="false">nt-nya-skadesmallen-for-ifk-tre-spelare-fick-kliva-av-mot-hacken-r1wm4g3l</guid>
-      <pubDate>Sat, 26 Sep 2026 16:53:00 GMT</pubDate>
-      <description>Några tuffa skador redan. Mot Häcken klev ytterligare tre spelare ut efter smällar. Tuffast såg det ut för Amanda Sundström. – Jag hoppas inget är för allvarligt, sa tränaren Rob Clark.</description>
-      <category>Norrköpings Tidningar</category>
     </item>
   </channel>
 </rss>

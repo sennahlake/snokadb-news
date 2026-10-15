@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T20:42:17.611Z",
-  "itemCount": 4596,
+  "generatedAt": "2026-10-15T09:50:48.059Z",
+  "itemCount": 4597,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 2,
+      "count": 1,
       "ok": true
     },
     {
@@ -66,6 +66,50 @@
     }
   ],
   "items": [
+    {
+      "id": "nt-sa-vill-ifks-sportchef-bygga-vidare-behalla-identiteten-lqpd021r",
+      "title": "Så vill IFK:s sportchef bygga vidare: \"Behålla identiteten\"",
+      "summary": "Hur vill Henrik Jurelius bygga IFK vidare? Vart strävar han nu – efter det allsvenska avancemanget? Ser han någon risk att Eldar Abdulic kan intressera större klubbar? – En delikat fråga, säger sportchefen om succétränaren.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/sa-vill-ifks-sportchef-bygga-vidare-behalla-identiteten/lqpd021r",
+      "publishedAt": "2026-10-15T07:30:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-15",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "genom-ljuva-livet-197-allsvenskan-ar-klart",
       "title": "197. Allsvenskan är klart!",
