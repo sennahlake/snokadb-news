@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "itemCount": 682,
+  "itemCount": 683,
   "items": [
     {
       "id": "ifk-algot-hjelms-lyckliga-vecka-allsvensk-18-ar-och-a-lagskontrakt",
@@ -613,6 +613,39 @@
           "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
         }
       ]
+    },
+    {
+      "id": "ifk-allsvenskt-jubel-pa-parken-kaptenen-visade-vagen-igen",
+      "title": "Allsvenskt jubel på Parken – kaptenen visade vägen igen",
+      "summary": "Allsvenskt jubel på Parken – kaptenen visade vägen igen",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/allsvenskt-jubel-pa-parken-kaptenen-visade-vagen-igen/",
+      "publishedAt": "2026-10-13T20:59:26.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
     },
     {
       "id": "nt-bronners-eufori-det-basta-jag-varit-med-om-lyx0no9r",
