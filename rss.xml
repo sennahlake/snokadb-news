@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Thu, 15 Oct 2026 09:47:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 18:00:32 GMT</lastBuildDate>
+    <item>
+      <title>Algot Hjelms lyckliga vecka – allsvensk, 18 år och A-lagskontrakt</title>
+      <link>https://ifknorrkoping.se/algot-hjelms-lyckliga-vecka-allsvensk-18-ar-och-a-lagskontrakt/</link>
+      <guid isPermaLink="false">ifk-algot-hjelms-lyckliga-vecka-allsvensk-18-ar-och-a-lagskontrakt</guid>
+      <pubDate>Thu, 15 Oct 2026 18:00:32 GMT</pubDate>
+      <description>Algot Hjelms lyckliga vecka – allsvensk, 18 år och A-lagskontrakt</description>
+      <category>IFK Norrköping</category>
+    </item>
+    <item>
+      <title>Mitt bland alla IFK-hjärtan finns en som vunnit många</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/mitt-bland-alla-ifk-hjartan-finns-en-som-vunnit-manga/rxqm46kj</link>
+      <guid isPermaLink="false">nt-mitt-bland-alla-ifk-hjartan-finns-en-som-vunnit-manga-rxqm46kj</guid>
+      <pubDate>Thu, 15 Oct 2026 18:00:00 GMT</pubDate>
+      <description>IFK Norrköping är tillbaka i allsvenskan. Det finns många med en stark historisk koppling. Det finns en klubbikon som aldrig slutar att vara unik. Men här sitter jag och tänker på en 29-årig britt.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Förra ordföranden slår tillbaka: ”Jag tycker det är fult”</title>
       <link>https://www.expressen.se/sport/fotboll/superettan/forra-ordforanden-slar-tillbaka-jag-tycker-det-ar-fult/</link>
@@ -788,22 +804,6 @@
       <guid isPermaLink="false">nt-tycker-till-om-ifk-han-ar-arets-spelare-sa-har-langt-rmwq4k8l</guid>
       <pubDate>Mon, 28 Sep 2026 03:00:00 GMT</pubDate>
       <description>Superettan har gått på ett långt uppehåll, men om några veckor kan IFK Norrköping fira allsvenskt avancemang. Eller? Eric Persson och Christer Gustafson, reportrar och krönikörer på NT, svarar på tre funderingar.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>IFK-kritiken: &quot;Inte okej – det ska inte hända&quot;</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/-ifk-kritiken-inte-okej-det-ska-inte-handa/r353o8oj</link>
-      <guid isPermaLink="false">nt-ifk-kritiken-inte-okej-det-ska-inte-handa-r353o8oj</guid>
-      <pubDate>Sat, 26 Sep 2026 19:08:00 GMT</pubDate>
-      <description>0–6. IFK:s damallsvenska läge är fortsatt prekärt. – Under all kritik, säger Sofia Hjern.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Vad ska IFK göra med sitt damlag?</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/vad-ska-ifk-gora-med-sitt-damlag/rxq5v0vj</link>
-      <guid isPermaLink="false">nt-vad-ska-ifk-gora-med-sitt-damlag-rxq5v0vj</guid>
-      <pubDate>Sat, 26 Sep 2026 18:18:00 GMT</pubDate>
-      <description>Brakförlusten mot Häcken går inte att försvara, men förklara. Och det är ingen liten sak.</description>
       <category>Norrköpings Tidningar</category>
     </item>
   </channel>

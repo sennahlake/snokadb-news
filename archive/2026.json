@@ -1,7 +1,86 @@
 {
   "year": 2026,
-  "itemCount": 680,
+  "itemCount": 682,
   "items": [
+    {
+      "id": "ifk-algot-hjelms-lyckliga-vecka-allsvensk-18-ar-och-a-lagskontrakt",
+      "title": "Algot Hjelms lyckliga vecka – allsvensk, 18 år och A-lagskontrakt",
+      "summary": "Algot Hjelms lyckliga vecka – allsvensk, 18 år och A-lagskontrakt",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/algot-hjelms-lyckliga-vecka-allsvensk-18-ar-och-a-lagskontrakt/",
+      "publishedAt": "2026-10-15T18:00:32.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "nt-mitt-bland-alla-ifk-hjartan-finns-en-som-vunnit-manga-rxqm46kj",
+      "title": "Mitt bland alla IFK-hjärtan finns en som vunnit många",
+      "summary": "IFK Norrköping är tillbaka i allsvenskan. Det finns många med en stark historisk koppling. Det finns en klubbikon som aldrig slutar att vara unik. Men här sitter jag och tänker på en 29-årig britt.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/mitt-bland-alla-ifk-hjartan-finns-en-som-vunnit-manga/rxqm46kj",
+      "publishedAt": "2026-10-15T18:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-15",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "sportexpressen-superettan-forra-ordforanden-slar-tillbaka-jag-tycker-det-ar-fult",
       "title": "Förra ordföranden slår tillbaka: ”Jag tycker det är fult”",
