@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Thu, 15 Oct 2026 07:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 09:47:41 GMT</lastBuildDate>
+    <item>
+      <title>Förra ordföranden slår tillbaka: ”Jag tycker det är fult”</title>
+      <link>https://www.expressen.se/sport/fotboll/superettan/forra-ordforanden-slar-tillbaka-jag-tycker-det-ar-fult/</link>
+      <guid isPermaLink="false">sportexpressen-superettan-forra-ordforanden-slar-tillbaka-jag-tycker-det-ar-fult</guid>
+      <pubDate>Thu, 15 Oct 2026 09:47:41 GMT</pubDate>
+      <description>IFK Norrköpings styrelse har riktat hård kritik mot den tidigare ledningen sedan den valdes in i början av förra året. Nu slår den förre ordföranden Sakarias Mårdh tillbaka. – Jag tycker att det är ganska fult, säger han.</description>
+      <category>SportExpressen</category>
+    </item>
     <item>
       <title>Så vill IFK:s sportchef bygga vidare: &quot;Behålla identiteten&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/sa-vill-ifks-sportchef-bygga-vidare-behalla-identiteten/lqpd021r</link>
@@ -797,14 +805,6 @@
       <pubDate>Sat, 26 Sep 2026 18:18:00 GMT</pubDate>
       <description>Brakförlusten mot Häcken går inte att försvara, men förklara. Och det är ingen liten sak.</description>
       <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Clark efter förlusten: “Vi får studsa tillbaka snabbt och spela derby på tisdag.”</title>
-      <link>https://ifknorrkoping.se/clark-efter-forlusten-vi-far-studsa-tillbaka-snabbt-och-spela-derby-pa-tisdag/</link>
-      <guid isPermaLink="false">ifk-clark-efter-forlusten-vi-far-studsa-tillbaka-snabbt-och-spela-derby-pa-tisdag</guid>
-      <pubDate>Sat, 26 Sep 2026 17:58:27 GMT</pubDate>
-      <description>Clark efter förlusten: “Vi får studsa tillbaka snabbt och spela derby på tisdag.”</description>
-      <category>IFK Norrköping</category>
     </item>
   </channel>
 </rss>

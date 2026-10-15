@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T09:50:48.059Z",
-  "itemCount": 4597,
+  "generatedAt": "2026-10-15T14:58:00.761Z",
+  "itemCount": 4598,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -30,7 +30,7 @@
     },
     {
       "source": "SportExpressen",
-      "count": 0,
+      "count": 1,
       "ok": true
     },
     {
@@ -42,7 +42,7 @@
       "source": "Sveriges Radio",
       "count": 0,
       "ok": false,
-      "error": "HTTP 410 for https://api.sr.se/api/v2/episodes/search?query=IFK%20Norrk%C3%B6ping&format=json&size=100"
+      "error": "HTTP 403 for https://api.sr.se/api/v2/episodes/search?query=IFK%20Norrk%C3%B6ping&format=json&size=100"
     },
     {
       "source": "Genom Ljuva Livet",
@@ -66,6 +66,49 @@
     }
   ],
   "items": [
+    {
+      "id": "sportexpressen-superettan-forra-ordforanden-slar-tillbaka-jag-tycker-det-ar-fult",
+      "title": "Förra ordföranden slår tillbaka: ”Jag tycker det är fult”",
+      "summary": "IFK Norrköpings styrelse har riktat hård kritik mot den tidigare ledningen sedan den valdes in i början av förra året. Nu slår den förre ordföranden Sakarias Mårdh tillbaka. – Jag tycker att det är ganska fult, säger han.",
+      "source": "SportExpressen",
+      "sourceUrl": "https://www.expressen.se/sport/fotboll/",
+      "articleUrl": "https://www.expressen.se/sport/fotboll/superettan/forra-ordforanden-slar-tillbaka-jag-tycker-det-ar-fult/",
+      "publishedAt": "2026-10-15T09:47:41.000Z",
+      "category": "Nyhet",
+      "tags": [
+        "Extern originalkälla",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "SportExpressen"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "medium",
+        "score": 78,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "sportexpressen",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "SportExpressen",
+          "date": "2026-10-15",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-sa-vill-ifks-sportchef-bygga-vidare-behalla-identiteten-lqpd021r",
       "title": "Så vill IFK:s sportchef bygga vidare: \"Behålla identiteten\"",
