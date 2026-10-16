@@ -1,7 +1,84 @@
 {
   "year": 2026,
-  "itemCount": 686,
+  "itemCount": 688,
   "items": [
+    {
+      "id": "nt-ifk-bossens-reaktion-pa-beskedet-jattetrakigt-r9mx3dml",
+      "title": "IFK-bossens reaktion på beskedet: \"Jättetråkigt\"",
+      "summary": "IK Uppsala lägger efter säsongen ner sin verksamhet. Dennis Popperyd är inte förvånad. – Det är väldigt, väldigt tråkigt, säger IFK:s sportchef.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-bossens-reaktion-pa-beskedet-jattetrakigt/r9mx3dml",
+      "publishedAt": "2026-10-16T15:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-16",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "ifk-infor-eskilstuna-med-braam-och-broddner-klingspor-vi-vill-mer",
+      "title": "Inför Eskilstuna med Braam och Broddner Klingspor: “vi vill mer”",
+      "summary": "Inför Eskilstuna med Braam och Broddner Klingspor: “vi vill mer”",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/infor-eskilstuna-med-braam-och-broddner-klingspor-vi-vill-mer/",
+      "publishedAt": "2026-10-16T14:33:51.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
     {
       "id": "nt-jattefyndet-ser-ingen-anledning-att-lamna-r49owk1j",
       "title": "Jättefyndet: \"Ser ingen anledning att lämna\"",

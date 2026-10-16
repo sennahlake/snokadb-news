@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Fri, 16 Oct 2026 05:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 15:00:00 GMT</lastBuildDate>
+    <item>
+      <title>IFK-bossens reaktion på beskedet: &quot;Jättetråkigt&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-bossens-reaktion-pa-beskedet-jattetrakigt/r9mx3dml</link>
+      <guid isPermaLink="false">nt-ifk-bossens-reaktion-pa-beskedet-jattetrakigt-r9mx3dml</guid>
+      <pubDate>Fri, 16 Oct 2026 15:00:00 GMT</pubDate>
+      <description>IK Uppsala lägger efter säsongen ner sin verksamhet. Dennis Popperyd är inte förvånad. – Det är väldigt, väldigt tråkigt, säger IFK:s sportchef.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>Inför Eskilstuna med Braam och Broddner Klingspor: “vi vill mer”</title>
+      <link>https://ifknorrkoping.se/infor-eskilstuna-med-braam-och-broddner-klingspor-vi-vill-mer/</link>
+      <guid isPermaLink="false">ifk-infor-eskilstuna-med-braam-och-broddner-klingspor-vi-vill-mer</guid>
+      <pubDate>Fri, 16 Oct 2026 14:33:51 GMT</pubDate>
+      <description>Inför Eskilstuna med Braam och Broddner Klingspor: “vi vill mer”</description>
+      <category>IFK Norrköping</category>
+    </item>
     <item>
       <title>Jättefyndet: &quot;Ser ingen anledning att lämna&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/jattefyndet-ser-ingen-anledning-att-lamna/r49owk1j</link>
@@ -789,22 +805,6 @@
       <pubDate>Tue, 29 Sep 2026 13:10:00 GMT</pubDate>
       <description>Linköping mot Norrköping. Under tisdagskvällen ställdes de båda städernas fotbollslag mot varandra.</description>
       <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>IFK-supporterns uppmaning: Åk på derbyt</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/ifk-supporterns-uppmaning-ak-pa-derbyt/jp9y0oml</link>
-      <guid isPermaLink="false">nt-ifk-supporterns-uppmaning-ak-pa-derbyt-jp9y0oml</guid>
-      <pubDate>Mon, 28 Sep 2026 19:15:00 GMT</pubDate>
-      <description>Någon organiserad samling eller resa blir det inte. Men uppmaningen inför derbyt är tydlig.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Laddat cupderby mot Linköpings FC – “Vi ska studsa tillbaka direkt”</title>
-      <link>https://ifknorrkoping.se/laddat-cupderby-mot-linkopings-fc-vi-ska-studsa-tillbaka-direkt/</link>
-      <guid isPermaLink="false">ifk-laddat-cupderby-mot-linkopings-fc-vi-ska-studsa-tillbaka-direkt</guid>
-      <pubDate>Mon, 28 Sep 2026 15:44:43 GMT</pubDate>
-      <description>Laddat cupderby mot Linköpings FC – “Vi ska studsa tillbaka direkt”</description>
-      <category>IFK Norrköping</category>
     </item>
   </channel>
 </rss>
