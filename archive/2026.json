@@ -1,7 +1,65 @@
 {
   "year": 2026,
-  "itemCount": 683,
+  "itemCount": 684,
   "items": [
+    {
+      "id": "nt-algot-hjelm-skriver-femarskontrakt-med-ifk-norrkoping-jp9d96kl",
+      "title": "18-åring skriver femårskontrakt med IFK Norrköping",
+      "summary": "På bara tre dagar fick Algot Hjelm uppleva mer än många gör på flera år. IFK Norrköping säkrade allsvenskt spel, han fyllde 18 år och på torsdagen skrev han sitt första A-lagskontrakt.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/algot-hjelm-skriver-femarskontrakt-med-ifk-norrkoping/jp9d96kl",
+      "publishedAt": "2026-10-15T19:06:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 96,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i rubrik",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Algot Hjelm",
+          "slug": "algot-hjelm",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-15",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "ifk-algot-hjelms-lyckliga-vecka-allsvensk-18-ar-och-a-lagskontrakt",
       "title": "Algot Hjelms lyckliga vecka – allsvensk, 18 år och A-lagskontrakt",
