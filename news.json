@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T17:22:41.357Z",
-  "itemCount": 4606,
+  "generatedAt": "2026-10-16T21:02:39.054Z",
+  "itemCount": 4607,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -66,6 +66,74 @@
     }
   ],
   "items": [
+    {
+      "id": "nt-stora-hyllningar-till-ifk-tranaren-han-har-forandrat-klubben-r35gvmkj",
+      "title": "Stora hyllningar till IFK-tränaren: \"Han har förändrat klubben\"",
+      "summary": "Vägvisaren stod bakom Eldar Abdulic när det gick trögt. Det är ett av flera nyckelmoment under säsongen då vinden vände. – Bästa tränaren jag haft, säger Theo Krantz. – En resa som få hade kunnat göra, säger Moutaz Neffati.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/stora-hyllningar-till-ifk-tranaren-han-har-forandrat-klubben/r35gvmkj",
+      "publishedAt": "2026-10-16T18:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 96,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i rubrik",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Moutaz Neffati",
+          "slug": "moutaz-neffati",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        },
+        {
+          "name": "Theo Krantz",
+          "slug": "theo-krantz",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-16",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-ifk-bossens-reaktion-pa-beskedet-jattetrakigt-r9mx3dml",
       "title": "IFK-bossens reaktion på beskedet: \"Jättetråkigt\"",

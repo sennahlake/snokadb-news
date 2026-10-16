@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Fri, 16 Oct 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 18:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Stora hyllningar till IFK-tränaren: &quot;Han har förändrat klubben&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/stora-hyllningar-till-ifk-tranaren-han-har-forandrat-klubben/r35gvmkj</link>
+      <guid isPermaLink="false">nt-stora-hyllningar-till-ifk-tranaren-han-har-forandrat-klubben-r35gvmkj</guid>
+      <pubDate>Fri, 16 Oct 2026 18:00:00 GMT</pubDate>
+      <description>Vägvisaren stod bakom Eldar Abdulic när det gick trögt. Det är ett av flera nyckelmoment under säsongen då vinden vände. – Bästa tränaren jag haft, säger Theo Krantz. – En resa som få hade kunnat göra, säger Moutaz Neffati.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>IFK-bossens reaktion på beskedet: &quot;Jättetråkigt&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/ifk-bossens-reaktion-pa-beskedet-jattetrakigt/r9mx3dml</link>
@@ -796,14 +804,6 @@
       <guid isPermaLink="false">nt-live-ostgotaderby-i-linkoping-folj-ifks-match-har-r2308w7l</guid>
       <pubDate>Tue, 29 Sep 2026 13:10:00 GMT</pubDate>
       <description>Linköping mot Norrköping. Under tisdagskvällen ställs de båda städernas fotbollslag mot varandra. Följ allt från matchen här.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Efter dramatiska cupmatchen — Peking bäst i Östergötland</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/efter-dramatiska-cupmatchen-peking-bast-i-ostergotland-/r2308w7l</link>
-      <guid isPermaLink="false">nt-efter-dramatiska-cupmatchen-peking-bast-i-ostergotland-r2308w7l</guid>
-      <pubDate>Tue, 29 Sep 2026 13:10:00 GMT</pubDate>
-      <description>Linköping mot Norrköping. Under tisdagskvällen ställdes de båda städernas fotbollslag mot varandra.</description>
       <category>Norrköpings Tidningar</category>
     </item>
   </channel>
