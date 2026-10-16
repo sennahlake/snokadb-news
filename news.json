@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T01:17:37.119Z",
-  "itemCount": 4602,
+  "generatedAt": "2026-10-16T07:06:00.477Z",
+  "itemCount": 4604,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 2,
+      "count": 3,
       "ok": true
     },
     {
@@ -61,11 +61,130 @@
     },
     {
       "source": "Gate Upp och Gate Ner",
-      "count": 298,
+      "count": 299,
       "ok": true
     }
   ],
   "items": [
+    {
+      "id": "nt-jattefyndet-ser-ingen-anledning-att-lamna-r49owk1j",
+      "title": "Jättefyndet: \"Ser ingen anledning att lämna\"",
+      "summary": "IFK hittade honom i en norsk fyndlåda. Nästa år ämnar Aleksander Opsahl visa upp sig för den allsvenska publiken. – Det är så stort att jag nästan börjar gråta, säger han.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/jattefyndet-ser-ingen-anledning-att-lamna/r49owk1j",
+      "publishedAt": "2026-10-16T05:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Aleksander Opsahl",
+          "slug": "aleksander-opsahl",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-16",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "gate-upp-gate-ner-298-har-ar-peking-fanz-pa-turne-2-0",
+      "title": "#298:\"Här är Peking fanz på turné 2.0!\"",
+      "summary": "Podden är tillbaka och nu officiellt som en allsvensk-podd 2027!! Hyllningarnas avsnitt! Ett försök till monolog! Är Ryan Nelson 167 eller 162 egentligen? Krossen av GIF Sundsvall! Dagen i helhet! Hur dricker Andre sitt kaffe? Moutaz Neffati relation till Pontahontas! Dags för Jurelius att ta på sig lusekoftan! Eldar Abdulic! 2 plus intervjuer från innerplan i slutet! Planstormningen! Avstängninga",
+      "source": "Gate Upp och Gate Ner",
+      "sourceUrl": "https://poddtoppen.se/podcast/1619327870/gate-upp-gate-ner",
+      "articleUrl": "https://podcasters.spotify.com/pod/show/gate-upp-och-gate-ner/episodes/298Hr-r-Peking-fanz-p-turn-2-0-e3qir6d",
+      "publishedAt": "2026-10-16T04:05:00.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Gate Upp och Gate Ner",
+        "GUGN",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 96,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd",
+          "IFK i rubrik",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Moutaz Neffati",
+          "slug": "moutaz-neffati",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        },
+        {
+          "name": "Ryan Nelson",
+          "slug": "ryan-nelson",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "gate-upp-gate-ner"
+    },
     {
       "id": "nt-algot-hjelm-skriver-femarskontrakt-med-ifk-norrkoping-jp9d96kl",
       "title": "18-åring skriver femårskontrakt med IFK Norrköping",

@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Thu, 15 Oct 2026 19:06:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 05:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Jättefyndet: &quot;Ser ingen anledning att lämna&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/jattefyndet-ser-ingen-anledning-att-lamna/r49owk1j</link>
+      <guid isPermaLink="false">nt-jattefyndet-ser-ingen-anledning-att-lamna-r49owk1j</guid>
+      <pubDate>Fri, 16 Oct 2026 05:00:00 GMT</pubDate>
+      <description>IFK hittade honom i en norsk fyndlåda. Nästa år ämnar Aleksander Opsahl visa upp sig för den allsvenska publiken. – Det är så stort att jag nästan börjar gråta, säger han.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>#298:&quot;Här är Peking fanz på turné 2.0!&quot;</title>
+      <link>https://podcasters.spotify.com/pod/show/gate-upp-och-gate-ner/episodes/298Hr-r-Peking-fanz-p-turn-2-0-e3qir6d</link>
+      <guid isPermaLink="false">gate-upp-gate-ner-298-har-ar-peking-fanz-pa-turne-2-0</guid>
+      <pubDate>Fri, 16 Oct 2026 04:05:00 GMT</pubDate>
+      <description>Podden är tillbaka och nu officiellt som en allsvensk-podd 2027!! Hyllningarnas avsnitt! Ett försök till monolog! Är Ryan Nelson 167 eller 162 egentligen? Krossen av GIF Sundsvall! Dagen i helhet! Hur dricker Andre sitt kaffe? Moutaz Neffati relation till Pontahontas! Dags för Jurelius att ta på sig lusekoftan! Eldar Abdulic! 2 plus intervjuer från innerplan i slutet! Planstormningen! Avstängninga</description>
+      <category>Gate Upp och Gate Ner</category>
+    </item>
     <item>
       <title>18-åring skriver femårskontrakt med IFK Norrköping</title>
       <link>https://www.nt.se/sport/fotboll/artikel/algot-hjelm-skriver-femarskontrakt-med-ifk-norrkoping/jp9d96kl</link>
@@ -789,22 +805,6 @@
       <pubDate>Mon, 28 Sep 2026 15:44:43 GMT</pubDate>
       <description>Laddat cupderby mot Linköpings FC – “Vi ska studsa tillbaka direkt”</description>
       <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>IFK:s krisåtgärd: Stänger träningarna</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/ifks-krisatgard-stanger-traningarna/jp9y0gml</link>
-      <guid isPermaLink="false">nt-ifks-krisatgard-stanger-traningarna-jp9y0gml</guid>
-      <pubDate>Mon, 28 Sep 2026 14:00:00 GMT</pubDate>
-      <description>I jakten på nytt kontrakt ska IFK-truppen sluta sig samman. En av Rob Clarks metoder? Stängda träningar.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>IFK:s krisåtgärd: Stänger flera träningar</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/ifks-krisatgard-stanger-flera-traningar/jp9y0gml</link>
-      <guid isPermaLink="false">nt-ifks-krisatgard-stanger-flera-traningar-jp9y0gml</guid>
-      <pubDate>Mon, 28 Sep 2026 14:00:00 GMT</pubDate>
-      <description>I jakten på nytt kontrakt ska IFK-truppen sluta sig samman. En av Rob Clarks metoder? Stängda träningar.</description>
-      <category>Norrköpings Tidningar</category>
     </item>
   </channel>
 </rss>
