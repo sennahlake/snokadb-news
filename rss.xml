@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Fri, 16 Oct 2026 18:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 08:59:39 GMT</lastBuildDate>
+    <item>
+      <title>Truppen mot Eskilstuna United</title>
+      <link>https://ifknorrkoping.se/truppen-mot-eskilstuna-united-5/</link>
+      <guid isPermaLink="false">ifk-truppen-mot-eskilstuna-united-5</guid>
+      <pubDate>Sat, 17 Oct 2026 08:59:39 GMT</pubDate>
+      <description>Truppen mot Eskilstuna United</description>
+      <category>IFK Norrköping</category>
+    </item>
     <item>
       <title>Stora hyllningar till IFK-tränaren: &quot;Han har förändrat klubben&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/stora-hyllningar-till-ifk-tranaren-han-har-forandrat-klubben/r35gvmkj</link>
@@ -797,14 +805,6 @@
       <pubDate>Tue, 29 Sep 2026 13:23:42 GMT</pubDate>
       <description>Derbytruppen mot Linköping FC</description>
       <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>LIVE: Östgötaderby i Linköping – följ IFK:s match här</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/live-ostgotaderby-i-linkoping-folj-ifks-match-har/r2308w7l</link>
-      <guid isPermaLink="false">nt-live-ostgotaderby-i-linkoping-folj-ifks-match-har-r2308w7l</guid>
-      <pubDate>Tue, 29 Sep 2026 13:10:00 GMT</pubDate>
-      <description>Linköping mot Norrköping. Under tisdagskvällen ställs de båda städernas fotbollslag mot varandra. Följ allt från matchen här.</description>
-      <category>Norrköpings Tidningar</category>
     </item>
   </channel>
 </rss>

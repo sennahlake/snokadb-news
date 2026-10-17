@@ -1,7 +1,40 @@
 {
   "year": 2026,
-  "itemCount": 689,
+  "itemCount": 690,
   "items": [
+    {
+      "id": "ifk-truppen-mot-eskilstuna-united-5",
+      "title": "Truppen mot Eskilstuna United",
+      "summary": "Truppen mot Eskilstuna United",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/truppen-mot-eskilstuna-united-5/",
+      "publishedAt": "2026-10-17T08:59:39.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
     {
       "id": "nt-stora-hyllningar-till-ifk-tranaren-han-har-forandrat-klubben-r35gvmkj",
       "title": "Stora hyllningar till IFK-tränaren: \"Han har förändrat klubben\"",
