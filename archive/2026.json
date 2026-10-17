@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "itemCount": 691,
+  "itemCount": 692,
   "items": [
     {
       "id": "nt-ny-viktig-match-for-ifk-i-bottenkampen-sa-startar-laget-r1wo1p1l",
@@ -15,6 +15,50 @@
         "Extern originalkälla",
         "Lokal",
         "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-17",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-betygen-sa-presterade-ifk-spelarna-i-matchen-mot-eskilstuna-r1wo1p1l",
+      "title": "Seger för IFK efter stor dramatik",
+      "summary": "Mål på övertid — IFK tog viktiga poäng i matchen mot Eskilstuna på söndagen.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/betygen-sa-presterade-ifk-spelarna-i-matchen-mot-eskilstuna/r1wo1p1l",
+      "publishedAt": "2026-10-17T10:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
       ],
       "keywords": [
         "IFK Norrköping",
