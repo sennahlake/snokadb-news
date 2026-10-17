@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T17:06:46.275Z",
-  "itemCount": 4610,
+  "generatedAt": "2026-10-17T19:20:33.384Z",
+  "itemCount": 4612,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -66,6 +66,96 @@
     }
   ],
   "items": [
+    {
+      "id": "ifk-kristell-efter-segern-att-carrie-avgor-dar-ar-helt-otroligt",
+      "title": "Kristell efter segern: “Att Carrie avgör där är helt otroligt”",
+      "summary": "Kristell efter segern: “Att Carrie avgör där är helt otroligt”",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/kristell-efter-segern-att-carrie-avgor-dar-ar-helt-otroligt/",
+      "publishedAt": "2026-10-17T19:05:39.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "nt-fralste-ifk-pa-overtid-spelarna-om-att-hantera-pressen-i-botten-jn3d584r",
+      "title": "Frälste IFK på övertid – spelarna om att hantera pressen i botten",
+      "summary": "Hon har varit i ett sådant här läge förr – det har IFK-kaptenen nytta av. – Jag visste att det skulle dyka upp ett läge till, sa Carrie Jones om sitt avgörande mål på övertid.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/fralste-ifk-pa-overtid-spelarna-om-att-hantera-pressen-i-botten/jn3d584r",
+      "publishedAt": "2026-10-17T17:46:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Carrie Jones",
+          "slug": "carrie-jones",
+          "side": "Dam",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-17",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-ny-viktig-match-for-ifk-i-bottenkampen-sa-startar-laget-r1wo1p1l",
       "title": "Ny viktig match för IFK i botten – följ mötet med Eskilstuna här",

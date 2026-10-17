@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sat, 17 Oct 2026 10:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 19:05:39 GMT</lastBuildDate>
+    <item>
+      <title>Kristell efter segern: “Att Carrie avgör där är helt otroligt”</title>
+      <link>https://ifknorrkoping.se/kristell-efter-segern-att-carrie-avgor-dar-ar-helt-otroligt/</link>
+      <guid isPermaLink="false">ifk-kristell-efter-segern-att-carrie-avgor-dar-ar-helt-otroligt</guid>
+      <pubDate>Sat, 17 Oct 2026 19:05:39 GMT</pubDate>
+      <description>Kristell efter segern: “Att Carrie avgör där är helt otroligt”</description>
+      <category>IFK Norrköping</category>
+    </item>
+    <item>
+      <title>Frälste IFK på övertid – spelarna om att hantera pressen i botten</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/fralste-ifk-pa-overtid-spelarna-om-att-hantera-pressen-i-botten/jn3d584r</link>
+      <guid isPermaLink="false">nt-fralste-ifk-pa-overtid-spelarna-om-att-hantera-pressen-i-botten-jn3d584r</guid>
+      <pubDate>Sat, 17 Oct 2026 17:46:00 GMT</pubDate>
+      <description>Hon har varit i ett sådant här läge förr – det har IFK-kaptenen nytta av. – Jag visste att det skulle dyka upp ett läge till, sa Carrie Jones om sitt avgörande mål på övertid.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Ny viktig match för IFK i botten – följ mötet med Eskilstuna här</title>
       <link>https://www.nt.se/sport/fotboll/artikel/ny-viktig-match-for-ifk-i-bottenkampen-sa-startar-laget/r1wo1p1l</link>
@@ -788,22 +804,6 @@
       <guid isPermaLink="false">nt-forwardens-derbykanslor-det-var-frustration-jvzw7por</guid>
       <pubDate>Tue, 29 Sep 2026 20:39:00 GMT</pubDate>
       <description>IFK vann derbyt mot Linköping. Efteråt rörde sig många känslor hos Emma Engström. – Det sätter sig lite i mitt huvud ibland, säger hon.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Sena beskedet: IFK-duo till U21-landslaget</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/sena-beskedet-ifk-duo-till-u21-landslaget/jo5qyeyl</link>
-      <guid isPermaLink="false">nt-sena-beskedet-ifk-duo-till-u21-landslaget-jo5qyeyl</guid>
-      <pubDate>Tue, 29 Sep 2026 20:02:00 GMT</pubDate>
-      <description>Här är Noel Sernelius och Theo Krantz drömbesked. Nu får de flyga till Polen.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>IFK undvek en derbysmäll – men höstrysaren är långt från över</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/ifk-undvek-en-derbysmall-men-hostrysaren-ar-langt-fran-over/rmwq3yml</link>
-      <guid isPermaLink="false">nt-ifk-undvek-en-derbysmall-men-hostrysaren-ar-langt-fran-over-rmwq3yml</guid>
-      <pubDate>Tue, 29 Sep 2026 20:01:00 GMT</pubDate>
-      <description>Det var en kväll för knutna nävar. En kväll att visa lite derbykänsla. Det blev ... ... dramatik, cupavancemang – men känslan jag sitter med är: IFK behöver hitta sätt att vinna fotbollsmatcher efter 90 minuter.</description>
       <category>Norrköpings Tidningar</category>
     </item>
   </channel>
