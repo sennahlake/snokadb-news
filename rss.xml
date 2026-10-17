@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sat, 17 Oct 2026 08:59:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 10:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Ny viktig match för IFK i botten – följ mötet med Eskilstuna här</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ny-viktig-match-for-ifk-i-bottenkampen-sa-startar-laget/r1wo1p1l</link>
+      <guid isPermaLink="false">nt-ny-viktig-match-for-ifk-i-bottenkampen-sa-startar-laget-r1wo1p1l</guid>
+      <pubDate>Sat, 17 Oct 2026 10:00:00 GMT</pubDate>
+      <description>Damallsvenskan är igång igen efter landslagsuppehållet. För IFK väntar en ny viktig match i bottenstriden. Vi rapporterar direkt från mötet med Eskilstuna United här.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Truppen mot Eskilstuna United</title>
       <link>https://ifknorrkoping.se/truppen-mot-eskilstuna-united-5/</link>
@@ -797,14 +805,6 @@
       <pubDate>Tue, 29 Sep 2026 13:57:00 GMT</pubDate>
       <description>Återställd efter ännu en skadeperiod. När IFK stormar mot allsvenskan sprider David Mitov Nilsson ett budskap. – Vi ska hantera träningsveckorna och matcherna som finaler, säger han.</description>
       <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Derbytruppen mot Linköping FC</title>
-      <link>https://ifknorrkoping.se/derbytruppen-mot-linkoping-fc/</link>
-      <guid isPermaLink="false">ifk-derbytruppen-mot-linkoping-fc</guid>
-      <pubDate>Tue, 29 Sep 2026 13:23:42 GMT</pubDate>
-      <description>Derbytruppen mot Linköping FC</description>
-      <category>IFK Norrköping</category>
     </item>
   </channel>
 </rss>

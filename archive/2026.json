@@ -1,7 +1,52 @@
 {
   "year": 2026,
-  "itemCount": 690,
+  "itemCount": 691,
   "items": [
+    {
+      "id": "nt-ny-viktig-match-for-ifk-i-bottenkampen-sa-startar-laget-r1wo1p1l",
+      "title": "Ny viktig match för IFK i botten – följ mötet med Eskilstuna här",
+      "summary": "Damallsvenskan är igång igen efter landslagsuppehållet. För IFK väntar en ny viktig match i bottenstriden. Vi rapporterar direkt från mötet med Eskilstuna United här.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ny-viktig-match-for-ifk-i-bottenkampen-sa-startar-laget/r1wo1p1l",
+      "publishedAt": "2026-10-17T10:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-17",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "ifk-truppen-mot-eskilstuna-united-5",
       "title": "Truppen mot Eskilstuna United",
