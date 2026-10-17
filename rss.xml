@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sat, 17 Oct 2026 19:05:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 19:30:00 GMT</lastBuildDate>
+    <item>
+      <title>Glöden var precis vad IFK behöver ta fram för att rädda det här</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/gloden-var-precis-vad-ifk-behover-ta-fram-for-att-radda-det-har/j823vwqj</link>
+      <guid isPermaLink="false">nt-gloden-var-precis-vad-ifk-behover-ta-fram-for-att-radda-det-har-j823vwqj</guid>
+      <pubDate>Sat, 17 Oct 2026 19:30:00 GMT</pubDate>
+      <description>IFK visade det som kommer att bli helt avgörande. Hjärta och mod när allt gick emot. Därför är laget med i bottenkampen. Här är Christer Gustafsons punkter från Eskilstuna.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Kristell efter segern: “Att Carrie avgör där är helt otroligt”</title>
       <link>https://ifknorrkoping.se/kristell-efter-segern-att-carrie-avgor-dar-ar-helt-otroligt/</link>
@@ -797,14 +805,6 @@
       <pubDate>Tue, 29 Sep 2026 22:23:25 GMT</pubDate>
       <description>Berömmet efter derbysegern: “De tar för sig direkt”</description>
       <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Forwardens derbykänslor: &quot;Det var frustration&quot;</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/forwardens-derbykanslor-det-var-frustration/jvzw7por</link>
-      <guid isPermaLink="false">nt-forwardens-derbykanslor-det-var-frustration-jvzw7por</guid>
-      <pubDate>Tue, 29 Sep 2026 20:39:00 GMT</pubDate>
-      <description>IFK vann derbyt mot Linköping. Efteråt rörde sig många känslor hos Emma Engström. – Det sätter sig lite i mitt huvud ibland, säger hon.</description>
-      <category>Norrköpings Tidningar</category>
     </item>
   </channel>
 </rss>

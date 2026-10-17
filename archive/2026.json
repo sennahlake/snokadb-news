@@ -1,7 +1,51 @@
 {
   "year": 2026,
-  "itemCount": 694,
+  "itemCount": 695,
   "items": [
+    {
+      "id": "nt-gloden-var-precis-vad-ifk-behover-ta-fram-for-att-radda-det-har-j823vwqj",
+      "title": "Glöden var precis vad IFK behöver ta fram för att rädda det här",
+      "summary": "IFK visade det som kommer att bli helt avgörande. Hjärta och mod när allt gick emot. Därför är laget med i bottenkampen. Här är Christer Gustafsons punkter från Eskilstuna.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/gloden-var-precis-vad-ifk-behover-ta-fram-for-att-radda-det-har/j823vwqj",
+      "publishedAt": "2026-10-17T19:30:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-17",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "ifk-kristell-efter-segern-att-carrie-avgor-dar-ar-helt-otroligt",
       "title": "Kristell efter segern: “Att Carrie avgör där är helt otroligt”",
