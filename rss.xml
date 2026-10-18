@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sun, 18 Oct 2026 07:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 12:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Orden om IFK:s förvandling: &quot;Inget gift eller toxisk miljö&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/orden-om-ifks-forvandling-inget-gift-eller-toxisk-miljo/jdq7054r</link>
+      <guid isPermaLink="false">nt-orden-om-ifks-forvandling-inget-gift-eller-toxisk-miljo-jdq7054r</guid>
+      <pubDate>Sun, 18 Oct 2026 12:00:00 GMT</pubDate>
+      <description>Det har blivit ett år med mycket bänk. Men det är ingen tvekan om att David Mitov Nilsson vill ta upp kampen i allsvenskan. – Jag tänker kämpa på, säger han.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Förstärkte IFK-bänken från herrarnas stab: &quot;En självklarhet&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/forstarkte-ifk-banken-fran-herrarnas-stab-en-sjalvklarhet/jp9dn46l</link>
@@ -797,14 +805,6 @@
       <pubDate>Wed, 30 Sep 2026 17:53:39 GMT</pubDate>
       <description>Legendaren Novak Djokovic hänger i trots krämpor. I dag tog han första segern sedan Wimbledon genom att besegra Nuno Borges i China Open i Peking. – Den är utsökt, säger kommentatorn om serbens läckra lobb.</description>
       <category>SVT</category>
-    </item>
-    <item>
-      <title>IFK-tränaren: &quot;Att göra det vi gjorde är inte lätt&quot;</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/ifk-tranaren-gora-det-vi-gjorde-ar-inte-latt/rky762wj</link>
-      <guid isPermaLink="false">nt-ifk-tranaren-gora-det-vi-gjorde-ar-inte-latt-rky762wj</guid>
-      <pubDate>Wed, 30 Sep 2026 09:00:00 GMT</pubDate>
-      <description>– Jag ville se en reaktion, sa Rob Clark om storförlusten mot Häcken. Det krävdes 120 minuter för att ta IFK vidare i cupen.</description>
-      <category>Norrköpings Tidningar</category>
     </item>
   </channel>
 </rss>

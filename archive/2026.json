@@ -1,7 +1,64 @@
 {
   "year": 2026,
-  "itemCount": 696,
+  "itemCount": 697,
   "items": [
+    {
+      "id": "nt-orden-om-ifks-forvandling-inget-gift-eller-toxisk-miljo-jdq7054r",
+      "title": "Orden om IFK:s förvandling: \"Inget gift eller toxisk miljö\"",
+      "summary": "Det har blivit ett år med mycket bänk. Men det är ingen tvekan om att David Mitov Nilsson vill ta upp kampen i allsvenskan. – Jag tänker kämpa på, säger han.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/orden-om-ifks-forvandling-inget-gift-eller-toxisk-miljo/jdq7054r",
+      "publishedAt": "2026-10-18T12:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "David Mitov Nilsson",
+          "slug": "david-mitov-nilsson",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-18",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-forstarkte-ifk-banken-fran-herrarnas-stab-en-sjalvklarhet-jp9dn46l",
       "title": "Förstärkte IFK-bänken från herrarnas stab: \"En självklarhet\"",
