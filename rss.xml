@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sat, 17 Oct 2026 19:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 07:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Förstärkte IFK-bänken från herrarnas stab: &quot;En självklarhet&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/forstarkte-ifk-banken-fran-herrarnas-stab-en-sjalvklarhet/jp9dn46l</link>
+      <guid isPermaLink="false">nt-forstarkte-ifk-banken-fran-herrarnas-stab-en-sjalvklarhet-jp9dn46l</guid>
+      <pubDate>Sun, 18 Oct 2026 07:00:00 GMT</pubDate>
+      <description>Här är ett IFK-drag för att rädda sig kvar i damallsvenskan. Mot Eskilstuna fanns videoanalytikern Jacob Dahl med på bänken. – Kan vi hjälpa varandra tycker jag att vi ska göra det, sa han.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Glöden var precis vad IFK behöver ta fram för att rädda det här</title>
       <link>https://www.nt.se/sport/fotboll/artikel/gloden-var-precis-vad-ifk-behover-ta-fram-for-att-radda-det-har/j823vwqj</link>
@@ -797,14 +805,6 @@
       <pubDate>Wed, 30 Sep 2026 09:00:00 GMT</pubDate>
       <description>– Jag ville se en reaktion, sa Rob Clark om storförlusten mot Häcken. Det krävdes 120 minuter för att ta IFK vidare i cupen.</description>
       <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Berömmet efter derbysegern: “De tar för sig direkt”</title>
-      <link>https://ifknorrkoping.se/berommet-efter-derbysegern-de-tar-for-sig-direkt/</link>
-      <guid isPermaLink="false">ifk-berommet-efter-derbysegern-de-tar-for-sig-direkt</guid>
-      <pubDate>Tue, 29 Sep 2026 22:23:25 GMT</pubDate>
-      <description>Berömmet efter derbysegern: “De tar för sig direkt”</description>
-      <category>IFK Norrköping</category>
     </item>
   </channel>
 </rss>

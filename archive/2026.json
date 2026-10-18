@@ -1,7 +1,52 @@
 {
   "year": 2026,
-  "itemCount": 695,
+  "itemCount": 696,
   "items": [
+    {
+      "id": "nt-forstarkte-ifk-banken-fran-herrarnas-stab-en-sjalvklarhet-jp9dn46l",
+      "title": "Förstärkte IFK-bänken från herrarnas stab: \"En självklarhet\"",
+      "summary": "Här är ett IFK-drag för att rädda sig kvar i damallsvenskan. Mot Eskilstuna fanns videoanalytikern Jacob Dahl med på bänken. – Kan vi hjälpa varandra tycker jag att vi ska göra det, sa han.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/forstarkte-ifk-banken-fran-herrarnas-stab-en-sjalvklarhet/jp9dn46l",
+      "publishedAt": "2026-10-18T07:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-18",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-gloden-var-precis-vad-ifk-behover-ta-fram-for-att-radda-det-har-j823vwqj",
       "title": "Glöden var precis vad IFK behöver ta fram för att rädda det här",
