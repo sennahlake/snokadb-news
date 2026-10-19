@@ -1,7 +1,130 @@
 {
   "year": 2026,
-  "itemCount": 697,
+  "itemCount": 700,
   "items": [
+    {
+      "id": "ifk-vi-ar-ett-gang-vinnarskallar-och-ska-bara-var-stolthet-hela-vagen",
+      "title": "“Vi är ett gäng vinnarskallar och ska bära vår stolthet hela vägen”",
+      "summary": "“Vi är ett gäng vinnarskallar och ska bära vår stolthet hela vägen”",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/vi-ar-ett-gang-vinnarskallar-och-ska-bara-var-stolthet-hela-vagen/",
+      "publishedAt": "2026-10-19T14:03:25.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "nt-ifk-kan-bli-basta-superettanlaget-nagonsin-rex5670l",
+      "title": "IFK kan bli bästa superettanlaget någonsin",
+      "summary": "Innan superettan är över kan IFK bocka av flera rekord. – Det vore roligt att komma in i historieböckerna, säger målvakten Theo Krantz.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-kan-bli-basta-superettanlaget-nagonsin/rex5670l",
+      "publishedAt": "2026-10-19T13:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Theo Krantz",
+          "slug": "theo-krantz",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-19",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "ifk-kamraternas-traningsvecka-48",
+      "title": "Kamraternas träningsvecka",
+      "summary": "Kamraternas träningsvecka",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/kamraternas-traningsvecka-48/",
+      "publishedAt": "2026-10-19T11:15:35.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
     {
       "id": "nt-orden-om-ifks-forvandling-inget-gift-eller-toxisk-miljo-jdq7054r",
       "title": "Orden om IFK:s förvandling: \"Inget gift eller toxisk miljö\"",

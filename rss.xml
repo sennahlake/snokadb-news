@@ -5,7 +5,31 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sun, 18 Oct 2026 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 14:03:25 GMT</lastBuildDate>
+    <item>
+      <title>“Vi är ett gäng vinnarskallar och ska bära vår stolthet hela vägen”</title>
+      <link>https://ifknorrkoping.se/vi-ar-ett-gang-vinnarskallar-och-ska-bara-var-stolthet-hela-vagen/</link>
+      <guid isPermaLink="false">ifk-vi-ar-ett-gang-vinnarskallar-och-ska-bara-var-stolthet-hela-vagen</guid>
+      <pubDate>Mon, 19 Oct 2026 14:03:25 GMT</pubDate>
+      <description>“Vi är ett gäng vinnarskallar och ska bära vår stolthet hela vägen”</description>
+      <category>IFK Norrköping</category>
+    </item>
+    <item>
+      <title>IFK kan bli bästa superettanlaget någonsin</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-kan-bli-basta-superettanlaget-nagonsin/rex5670l</link>
+      <guid isPermaLink="false">nt-ifk-kan-bli-basta-superettanlaget-nagonsin-rex5670l</guid>
+      <pubDate>Mon, 19 Oct 2026 13:00:00 GMT</pubDate>
+      <description>Innan superettan är över kan IFK bocka av flera rekord. – Det vore roligt att komma in i historieböckerna, säger målvakten Theo Krantz.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>Kamraternas träningsvecka</title>
+      <link>https://ifknorrkoping.se/kamraternas-traningsvecka-48/</link>
+      <guid isPermaLink="false">ifk-kamraternas-traningsvecka-48</guid>
+      <pubDate>Mon, 19 Oct 2026 11:15:35 GMT</pubDate>
+      <description>Kamraternas träningsvecka</description>
+      <category>IFK Norrköping</category>
+    </item>
     <item>
       <title>Orden om IFK:s förvandling: &quot;Inget gift eller toxisk miljö&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/orden-om-ifks-forvandling-inget-gift-eller-toxisk-miljo/jdq7054r</link>
@@ -781,30 +805,6 @@
       <pubDate>Thu, 01 Oct 2026 07:38:00 GMT</pubDate>
       <description>Amanda Sundström fick kliva av direkt efter att hon byttes in mot Häcken. Nu har IFK-mittfältaren fått sin dom: Hälsenan är av, säsongen över.</description>
       <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Skadeuppdatering damlaget</title>
-      <link>https://ifknorrkoping.se/skadeuppdatering-damlaget-3/</link>
-      <guid isPermaLink="false">ifk-skadeuppdatering-damlaget-3</guid>
-      <pubDate>Thu, 01 Oct 2026 07:17:56 GMT</pubDate>
-      <description>Skadeuppdatering damlaget</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Följ med hem till lugnet hos IFK-stjärnan</title>
-      <link>https://www.nt.se/story-sport/fotboll/artikel/med-fatima-har-jag-blivit-en-battre-person/lyxwe8vr</link>
-      <guid isPermaLink="false">nt-med-fatima-har-jag-blivit-en-battre-person-lyxwe8vr</guid>
-      <pubDate>Wed, 30 Sep 2026 18:00:00 GMT</pubDate>
-      <description>En lånad IFK-stjärna som lärt sig bli seriös. En prisbelönt mångkonstnär som sökt sig bort från rampljuset. Och deras lille krabat. Vi åkte hem till familjen Jemal och Jelassi.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Novak Djokovic tog första vinsten sedan Wimbledon: ”Hade svårt hålla mig fräsch”</title>
-      <link>https://www.svt.se/sport/tennis/novak-djokovic-tog-forsta-vinsten-sedan-wimbledon-hade-svart-halla-mig-frasch</link>
-      <guid isPermaLink="false">svt-tennis-novak-djokovic-tog-forsta-vinsten-sedan-wimbledon-hade-svart-halla-mig-frasch</guid>
-      <pubDate>Wed, 30 Sep 2026 17:53:39 GMT</pubDate>
-      <description>Legendaren Novak Djokovic hänger i trots krämpor. I dag tog han första segern sedan Wimbledon genom att besegra Nuno Borges i China Open i Peking. – Den är utsökt, säger kommentatorn om serbens läckra lobb.</description>
-      <category>SVT</category>
     </item>
   </channel>
 </rss>
