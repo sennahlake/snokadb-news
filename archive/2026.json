@@ -1,7 +1,44 @@
 {
   "year": 2026,
-  "itemCount": 700,
+  "itemCount": 701,
   "items": [
+    {
+      "id": "genom-ljuva-livet-198-chilla-genom-goa-livet",
+      "title": "198. Chilla genom goa livet",
+      "summary": "Vi myser vidare i IFK:s segermånad och laddar upp inför Örebro hemma. Eventuella poängrekord, Jurelius fest, Tambas lån, vilka som borde få speltid nu i slutet och massor mer sånt gött avhandlas.",
+      "source": "Genom Ljuva Livet",
+      "sourceUrl": "https://poddtoppen.se/podcast/1728458754/genom-ljuva-livet",
+      "articleUrl": "https://pod.space/genomljuvalivet/198-chilla-genom-goa-livet",
+      "publishedAt": "2026-10-19T18:53:31.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Genom Ljuva Livet",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "genom-ljuva-livet"
+    },
     {
       "id": "ifk-vi-ar-ett-gang-vinnarskallar-och-ska-bara-var-stolthet-hela-vagen",
       "title": "“Vi är ett gäng vinnarskallar och ska bära vår stolthet hela vägen”",

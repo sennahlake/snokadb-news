@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Mon, 19 Oct 2026 14:03:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 18:53:31 GMT</lastBuildDate>
+    <item>
+      <title>198. Chilla genom goa livet</title>
+      <link>https://pod.space/genomljuvalivet/198-chilla-genom-goa-livet</link>
+      <guid isPermaLink="false">genom-ljuva-livet-198-chilla-genom-goa-livet</guid>
+      <pubDate>Mon, 19 Oct 2026 18:53:31 GMT</pubDate>
+      <description>Vi myser vidare i IFK:s segermånad och laddar upp inför Örebro hemma. Eventuella poängrekord, Jurelius fest, Tambas lån, vilka som borde få speltid nu i slutet och massor mer sånt gött avhandlas.</description>
+      <category>Genom Ljuva Livet</category>
+    </item>
     <item>
       <title>“Vi är ett gäng vinnarskallar och ska bära vår stolthet hela vägen”</title>
       <link>https://ifknorrkoping.se/vi-ar-ett-gang-vinnarskallar-och-ska-bara-var-stolthet-hela-vagen/</link>
@@ -796,14 +804,6 @@
       <guid isPermaLink="false">nt-ifk-holl-medlemsmote-nt-rapporterade-fran-kvallen-jvzw7vpr</guid>
       <pubDate>Thu, 01 Oct 2026 13:44:00 GMT</pubDate>
       <description>IFK kallade medlemmarna till möte. NT rapporterade från kvällen.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Beskedet för IFK-mittfältaren: Hälsenan är av – säsongen över</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/beskedet-for-ifk-mittfaltaren-halsenan-ar-av-sasongen-over/lw62ww8j</link>
-      <guid isPermaLink="false">nt-beskedet-for-ifk-mittfaltaren-halsenan-ar-av-sasongen-over-lw62ww8j</guid>
-      <pubDate>Thu, 01 Oct 2026 07:38:00 GMT</pubDate>
-      <description>Amanda Sundström fick kliva av direkt efter att hon byttes in mot Häcken. Nu har IFK-mittfältaren fått sin dom: Hälsenan är av, säsongen över.</description>
       <category>Norrköpings Tidningar</category>
     </item>
   </channel>
