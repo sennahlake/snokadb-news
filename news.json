@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T16:57:17.603Z",
-  "itemCount": 4622,
+  "generatedAt": "2026-10-20T20:33:15.891Z",
+  "itemCount": 4633,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 1,
+      "count": 4,
       "ok": true
     },
     {
@@ -20,17 +20,17 @@
     },
     {
       "source": "SVT",
-      "count": 0,
+      "count": 2,
       "ok": true
     },
     {
       "source": "Sportbladet",
-      "count": 0,
+      "count": 1,
       "ok": true
     },
     {
       "source": "SportExpressen",
-      "count": 0,
+      "count": 2,
       "ok": true
     },
     {
@@ -66,6 +66,427 @@
     }
   ],
   "items": [
+    {
+      "id": "nt-andra-starten-i-ar-ifk-backen-har-borjat-prata-framtid-r23g503l",
+      "title": "Andra starten i år – IFK-backen har börjat prata framtid",
+      "summary": "Andra starten för året. Och med ett kontrakt som går ut. Filip Dagerstål vill inte se slutet på säsongen som en chans spela sig till ett nytt. – Jag tror att det hade låst sig mer än det hjälper, sa mittbacken.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/andra-starten-i-ar-ifk-backen-har-borjat-prata-framtid/r23g503l",
+      "publishedAt": "2026-10-20T20:17:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Filip Dagerstål",
+          "slug": "filip-dagerstal",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-20",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-ett-statement-for-datid-nutid-och-framtid-jvz8437r",
+      "title": "Ett statement för dåtid, nutid och framtid",
+      "summary": "På helig mark tog IFK Norrköping tillfället i akt att göra narr av Örebro SK. Så bra har Peking varit i år – att en nyhet i halvtidspausen kan vara viktigare än matchens resultat.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ett-statement-for-datid-nutid-och-framtid/jvz8437r",
+      "publishedAt": "2026-10-20T20:02:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-20",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "sportexpressen-superettan-parken-far-aldrig-byta-namn-igen",
+      "title": "Parken får aldrig byta namn igen",
+      "summary": "Avancemang-färdiga IFK Norrköping ställdes mot ÖSK i superettan. Då bjöd föreningen på en nyhet i halvtid. Att Idrottsparken aldrig får byta namn igen. – Vår själ, vårt arv och vår historia är inte till salu, säger IFK:s ordföranden Martin Gyllix till NT .",
+      "source": "SportExpressen",
+      "sourceUrl": "https://www.expressen.se/sport/fotboll/",
+      "articleUrl": "https://www.expressen.se/sport/fotboll/superettan/parken-far-aldrig-byta-namn-igen/",
+      "publishedAt": "2026-10-20T19:21:23.000Z",
+      "category": "Nyhet",
+      "tags": [
+        "Extern originalkälla",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "SportExpressen"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "medium",
+        "score": 78,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "sportexpressen",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "SportExpressen",
+          "date": "2026-10-20",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "sportexpressen-superettan-osk-tappade-ledning-mot-ifk-norrkoping",
+      "title": "ÖSK tappade ledning mot IFK Norrköping",
+      "summary": "Förra veckan sparkades Rikard Norling. Kanske gav det effekt? I rivalmötet mot topplaget Norrköping tog ÖSK en poäng, efter att ha tappat en tvåmålsledning. – Det är så jävla dåligt, säger ÖSK:s Antonio Yakoub.",
+      "source": "SportExpressen",
+      "sourceUrl": "https://www.expressen.se/sport/fotboll/",
+      "articleUrl": "https://www.expressen.se/sport/fotboll/superettan/osk-tappade-ledning-mot-ifk-norrkoping/",
+      "publishedAt": "2026-10-20T18:57:06.000Z",
+      "category": "Nyhet",
+      "tags": [
+        "Extern originalkälla",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "SportExpressen"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK i rubrik"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "sportexpressen",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "SportExpressen",
+          "date": "2026-10-20",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "svt-fotboll-supertraff-av-elias-jemal-nar-norrkoping-hamtade-ikapp",
+      "title": "Superträff av Elias Jemal när Norrköping hämtade ikapp",
+      "summary": "IFK Norrköping var illa ute hemma mot krislaget Örebro SK. Då fick Elias Jemal på en riktig superträff innan skyttekungen Christoffer ”Totte” Nyman räddade en poäng. – Att den går stolpe in, tack till Gud, säger Jemal till TV4 Play.",
+      "source": "SVT",
+      "sourceUrl": "https://www.svt.se/sport/fotboll",
+      "articleUrl": "https://www.svt.se/sport/fotboll/supertraff-av-elias-jemal-nar-norrkoping-hamtade-ikapp",
+      "publishedAt": "2026-10-20T18:55:26.000Z",
+      "category": "Nyhet",
+      "tags": [
+        "Extern originalkälla",
+        "Public service",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "SVT"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 82,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK i ingress",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Elias Jemal",
+          "slug": "elias-jemal",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "svt"
+    },
+    {
+      "id": "sportbladet-vgbzpp-ifk-norrkopings-arena-ska-heta-idrottsparken-for-evigt-far-10-miljoner",
+      "title": "Arenabeskedet: Idrottsparken – för evigt",
+      "summary": "Miljonsatsar på arenan – får aldrig byta namn",
+      "source": "Sportbladet",
+      "sourceUrl": "https://www.aftonbladet.se/sportbladet/fotboll",
+      "articleUrl": "https://www.aftonbladet.se/sportbladet/fotboll/a/VgBzPp/ifk-norrkopings-arena-ska-heta-idrottsparken-for-evigt-far-10-miljoner?utm_medium=rss",
+      "publishedAt": "2026-10-20T18:43:12.000Z",
+      "category": "Nyhet",
+      "tags": [
+        "Extern originalkälla"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Sportbladet"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "medium",
+        "score": 76,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK i artikel-URL"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "sportbladet",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Sportbladet",
+          "date": "2026-10-20",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "ifk-idrottsparken-for-evigt",
+      "title": "Idrottsparken. För evigt.",
+      "summary": "Idrottsparken. För evigt.",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/idrottsparken-for-evigt/",
+      "publishedAt": "2026-10-20T18:12:24.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "ifk-jemals-dromtraff-lyfte-kvallen-vi-kan-battre-an-sa-har",
+      "title": "Jemals drömträff lyfte kvällen – “Vi kan bättre än så här”",
+      "summary": "Jemals drömträff lyfte kvällen – “Vi kan bättre än så här”",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/jemals-dromtraff-lyfte-kvallen-vi-kan-battre-an-sa-har/",
+      "publishedAt": "2026-10-20T18:05:45.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "nt-stora-beslutet-kring-parken-en-kulturell-pelare-i-norrkoping-r1wgqpxl",
+      "title": "Stora beslutet kring Parken: \"En kulturell pelare i Norrköping\"",
+      "summary": "Idrottsparken får aldrig byta namn igen. – Vår själ, vårt arv och vår historia är inte till salu, säger IFK:s ordföranden Martin Gyllix till NT.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/stora-beslutet-kring-parken-en-kulturell-pelare-i-norrkoping/r1wgqpxl",
+      "publishedAt": "2026-10-20T18:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-20",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "svt-fotboll-orebro-sks-mardrom-skrackskada-for-ahmed-yasin",
+      "title": "Örebro SK:s mardröm – skräckskada för Ahmed Yasin",
+      "summary": "Krisen blir allt djupare för klassiska Örebro SK. I dag tappade man 2–0 till 2–2 borta mot serieledande IFK Norrköping. Och ikonen Ahmed Yasin klev av med en befarad knäskada.",
+      "source": "SVT",
+      "sourceUrl": "https://www.svt.se/sport/fotboll",
+      "articleUrl": "https://www.svt.se/sport/fotboll/orebro-sks-mardrom-skrackskada-for-ahmed-yasin",
+      "publishedAt": "2026-10-20T17:40:57.000Z",
+      "category": "Nyhet",
+      "tags": [
+        "Extern originalkälla",
+        "Public service"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "SVT"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "medium",
+        "score": 78,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "svt"
+    },
     {
       "id": "ifk-ifk-truppen-mot-orebro-sk-3",
       "title": "IFK-truppen mot Örebro SK",
@@ -111,7 +532,53 @@
       "category": "Lokal",
       "tags": [
         "Extern originalkälla",
-        "Lokal"
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-20",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-ifk-spelade-oavgjort-mot-krislaget-sa-var-matchen-r237q82l",
+      "title": "IFK spelade oavgjort mot krislaget – så var matchen",
+      "summary": "IFK säkrade avancemanget förra veckan. I de återstående omgångarna kan laget även gå för ett poängrekord – men då krävs idel segrar. Vi rapporterar direkt från tisdagens hemmamöte med krisande Örebro SK.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-spelade-oavgjort-mot-krislaget-sa-var-matchen/r237q82l",
+      "publishedAt": "2026-10-20T12:36:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
       ],
       "keywords": [
         "IFK Norrköping",
