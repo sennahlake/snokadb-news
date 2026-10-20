@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T20:33:15.891Z",
-  "itemCount": 4633,
+  "generatedAt": "2026-10-20T23:50:35.277Z",
+  "itemCount": 4634,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -56,7 +56,7 @@
     },
     {
       "source": "Studio Peking",
-      "count": 146,
+      "count": 147,
       "ok": true
     },
     {
@@ -66,6 +66,44 @@
     }
   ],
   "items": [
+    {
+      "id": "studio-peking-henrik-jurelius",
+      "title": "Henrik Jurelius",
+      "summary": "Varför har IFK lyckats så bra i år? Hur ska vägen framåt se ut? Vad förväntas ske med truppbygget? Och kan två spelare i ett motståndarlag vara aktuella? Det är några av frågorna som florerar när sportchefen Henrik Jurelius gästar. Medverkande reportrar: Eric Persson och Christer Gustafson.",
+      "source": "Studio Peking",
+      "sourceUrl": "https://poddtoppen.se/podcast/1738623973/studio-peking",
+      "articleUrl": "https://pod.space/studiopeking/henrik-jurelius",
+      "publishedAt": "2026-10-20T20:43:35.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Studio Peking",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd",
+          "IFK i artikel-URL"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "studio-peking"
+    },
     {
       "id": "nt-andra-starten-i-ar-ifk-backen-har-borjat-prata-framtid-r23g503l",
       "title": "Andra starten i år – IFK-backen har börjat prata framtid",
