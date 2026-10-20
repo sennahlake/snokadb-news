@@ -1,7 +1,41 @@
 {
   "year": 2026,
-  "itemCount": 701,
+  "itemCount": 702,
   "items": [
+    {
+      "id": "ifk-publikinfo-ifk-norrkoping-orebro-sk",
+      "title": "Publikinfo: IFK Norrköping-Örebro SK",
+      "summary": "Publikinfo: IFK Norrköping-Örebro SK",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/publikinfo-ifk-norrkoping-orebro-sk/",
+      "publishedAt": "2026-10-20T08:05:07.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla",
+          "IFK i rubrik"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
     {
       "id": "genom-ljuva-livet-198-chilla-genom-goa-livet",
       "title": "198. Chilla genom goa livet",

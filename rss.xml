@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Mon, 19 Oct 2026 18:53:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 08:05:07 GMT</lastBuildDate>
+    <item>
+      <title>Publikinfo: IFK Norrköping-Örebro SK</title>
+      <link>https://ifknorrkoping.se/publikinfo-ifk-norrkoping-orebro-sk/</link>
+      <guid isPermaLink="false">ifk-publikinfo-ifk-norrkoping-orebro-sk</guid>
+      <pubDate>Tue, 20 Oct 2026 08:05:07 GMT</pubDate>
+      <description>Publikinfo: IFK Norrköping-Örebro SK</description>
+      <category>IFK Norrköping</category>
+    </item>
     <item>
       <title>198. Chilla genom goa livet</title>
       <link>https://pod.space/genomljuvalivet/198-chilla-genom-goa-livet</link>
@@ -796,14 +804,6 @@
       <guid isPermaLink="false">nt-live-folj-ifks-medlemsmote-nt-rapporterar-live-jvzw7vpr</guid>
       <pubDate>Thu, 01 Oct 2026 13:44:00 GMT</pubDate>
       <description>IFK har kallat medlemmarna till möte. NT rapporterar från kvällen.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>IFK höll medlemsmöte – NT rapporterade från kvällen</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/ifk-holl-medlemsmote-nt-rapporterade-fran-kvallen/jvzw7vpr</link>
-      <guid isPermaLink="false">nt-ifk-holl-medlemsmote-nt-rapporterade-fran-kvallen-jvzw7vpr</guid>
-      <pubDate>Thu, 01 Oct 2026 13:44:00 GMT</pubDate>
-      <description>IFK kallade medlemmarna till möte. NT rapporterade från kvällen.</description>
       <category>Norrköpings Tidningar</category>
     </item>
   </channel>
