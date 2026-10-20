@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:29:07.961Z",
-  "itemCount": 4620,
+  "generatedAt": "2026-10-20T16:57:17.603Z",
+  "itemCount": 4622,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 0,
+      "count": 1,
       "ok": true
     },
     {
@@ -66,6 +66,84 @@
     }
   ],
   "items": [
+    {
+      "id": "ifk-ifk-truppen-mot-orebro-sk-3",
+      "title": "IFK-truppen mot Örebro SK",
+      "summary": "IFK-truppen mot Örebro SK",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/ifk-truppen-mot-orebro-sk-3/",
+      "publishedAt": "2026-10-20T13:43:20.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla",
+          "IFK i rubrik"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "nt-ifk-mot-krislaget-folj-jakten-pa-poangrekord-efter-avancemanget-r237q82l",
+      "title": "IFK mot krislaget – följ jakten på poängrekord efter avancemanget",
+      "summary": "IFK säkrade avancemanget förra veckan. I de återstående omgångarna kan laget även gå för ett poängrekord – men då krävs idel segrar. Vi rapporterar direkt från tisdagens hemmamöte med krisande Örebro SK.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-mot-krislaget-folj-jakten-pa-poangrekord-efter-avancemanget/r237q82l",
+      "publishedAt": "2026-10-20T12:36:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-20",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "ifk-publikinfo-ifk-norrkoping-orebro-sk",
       "title": "Publikinfo: IFK Norrköping-Örebro SK",
