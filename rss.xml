@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Tue, 20 Oct 2026 20:43:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 03:00:00 GMT</lastBuildDate>
+    <item>
+      <title>IFK-tränaren: &quot;Fortfarande i festmode&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-tranaren-fortfarande-i-festmode/lw624mwj</link>
+      <guid isPermaLink="false">nt-ifk-tranaren-fortfarande-i-festmode-lw624mwj</guid>
+      <pubDate>Wed, 21 Oct 2026 03:00:00 GMT</pubDate>
+      <description>Påverkade festkänslan insatsen mot Örebro? Eldar Abdulic upplevde det. – Allt ifrån disciplin till att vara påkopplade och ta jobbet innan det blev fara, säger tränaren.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Henrik Jurelius</title>
       <link>https://pod.space/studiopeking/henrik-jurelius</link>
@@ -797,14 +805,6 @@
       <pubDate>Sat, 03 Oct 2026 12:53:03 GMT</pubDate>
       <description>Blytung smäll för ”Peking”</description>
       <category>Sportbladet</category>
-    </item>
-    <item>
-      <title>Norrköping tappade poäng i bottenstriden</title>
-      <link>https://www.expressen.se/sport/fotboll/damallsvenskan/norrkoping-tog-blytung-seger-i-bottenstriden/</link>
-      <guid isPermaLink="false">sportexpressen-damallsvenskan-norrkoping-tog-blytung-seger-i-bottenstriden</guid>
-      <pubDate>Sat, 03 Oct 2026 12:52:35 GMT</pubDate>
-      <description>Måstematch i norr. Då tappade IFK Norrköping tre hyperviktiga poäng i slutminuten mot bottenkonkurrenten Piteå.</description>
-      <category>SportExpressen</category>
     </item>
   </channel>
 </rss>
