@@ -1,7 +1,64 @@
 {
   "year": 2026,
-  "itemCount": 717,
+  "itemCount": 718,
   "items": [
+    {
+      "id": "nt-profilerna-hyllar-ifks-beslut-viktigt-att-bevara-namnet-r493go5j",
+      "title": "Profilerna hyllar IFK:s beslut: \"Viktigt att bevara namnet\"",
+      "summary": "Idrottsparken fortsätter heta Idrottsparken. För all framtid. – Det känns som det mest naturliga som finns, säger Filip Dagerstål.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/profilerna-hyllar-ifks-beslut-viktigt-att-bevara-namnet/r493go5j",
+      "publishedAt": "2026-10-21T07:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Filip Dagerstål",
+          "slug": "filip-dagerstal",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-21",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-ifk-tranaren-fortfarande-i-festmode-lw624mwj",
       "title": "IFK-tränaren: \"Fortfarande i festmode\"",
