@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T10:04:42.806Z",
-  "itemCount": 4636,
+  "generatedAt": "2026-10-21T15:12:04.380Z",
+  "itemCount": 4637,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 5,
+      "count": 4,
       "ok": true
     },
     {
@@ -66,6 +66,39 @@
     }
   ],
   "items": [
+    {
+      "id": "ifk-akademifonden-fotbollen-ska-vara-tillganglig-for-alla",
+      "title": "Akademifonden: fotbollen ska vara tillgänglig för alla",
+      "summary": "Akademifonden: fotbollen ska vara tillgänglig för alla",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/akademifonden-fotbollen-ska-vara-tillganglig-for-alla/",
+      "publishedAt": "2026-10-21T10:33:39.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
     {
       "id": "nt-profilerna-hyllar-ifks-beslut-viktigt-att-bevara-namnet-r493go5j",
       "title": "Profilerna hyllar IFK:s beslut: \"Viktigt att bevara namnet\"",

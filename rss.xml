@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Wed, 21 Oct 2026 07:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 10:33:39 GMT</lastBuildDate>
+    <item>
+      <title>Akademifonden: fotbollen ska vara tillgänglig för alla</title>
+      <link>https://ifknorrkoping.se/akademifonden-fotbollen-ska-vara-tillganglig-for-alla/</link>
+      <guid isPermaLink="false">ifk-akademifonden-fotbollen-ska-vara-tillganglig-for-alla</guid>
+      <pubDate>Wed, 21 Oct 2026 10:33:39 GMT</pubDate>
+      <description>Akademifonden: fotbollen ska vara tillgänglig för alla</description>
+      <category>IFK Norrköping</category>
+    </item>
     <item>
       <title>Profilerna hyllar IFK:s beslut: &quot;Viktigt att bevara namnet&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/profilerna-hyllar-ifks-beslut-viktigt-att-bevara-namnet/r493go5j</link>
@@ -797,14 +805,6 @@
       <pubDate>Sat, 03 Oct 2026 14:51:00 GMT</pubDate>
       <description>Resten av säsongen handlar om en räddningsaktion. Innan vägen framåt ska stakas ut. I Piteå syntes mentalt knutna nävar. Men så var det en av detaljerna som gäckar IFK – gång på gång.</description>
       <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Sent poängtapp i Piteå</title>
-      <link>https://ifknorrkoping.se/sent-poangtapp-i-pitea/</link>
-      <guid isPermaLink="false">ifk-sent-poangtapp-i-pitea</guid>
-      <pubDate>Sat, 03 Oct 2026 14:00:33 GMT</pubDate>
-      <description>Sent poängtapp i Piteå</description>
-      <category>IFK Norrköping</category>
     </item>
   </channel>
 </rss>
