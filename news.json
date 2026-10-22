@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T15:12:04.380Z",
-  "itemCount": 4637,
+  "generatedAt": "2026-10-22T10:07:17.796Z",
+  "itemCount": 4639,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 4,
+      "count": 2,
       "ok": true
     },
     {
@@ -20,12 +20,12 @@
     },
     {
       "source": "SVT",
-      "count": 2,
+      "count": 0,
       "ok": true
     },
     {
       "source": "Sportbladet",
-      "count": 1,
+      "count": 0,
       "ok": true
     },
     {
@@ -66,6 +66,117 @@
     }
   ],
   "items": [
+    {
+      "id": "nt-ifk-duon-star-i-skuggan-tar-tydliga-kliv-jdq7ey0r",
+      "title": "IFK-duon står i skuggan: \"Tar tydliga kliv\"",
+      "summary": "Speltiden är knapp, men IFK har inte gett upp Kylian Seka och Mbaye Cissé. – Vi känner att de inte är alldeles för långt ifrån, säger sportchefen Henrik Jurelius.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-duon-star-i-skuggan-tar-tydliga-kliv/jdq7ey0r",
+      "publishedAt": "2026-10-22T10:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Kylian Seka",
+          "slug": "kylian-seka",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        },
+        {
+          "name": "Mbaye Cissé",
+          "slug": "mbaye-cisse",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-22",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-experten-synar-ifks-lage-da-kan-de-slippa-kval-rky12qej",
+      "title": "Experten synar IFK:s läge: \"Då kan de slippa kval\"",
+      "summary": "Tre segrar. Det tror Viaplays expert Pär Lagerström IFK behöver för att undvika kval.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/experten-synar-ifks-lage-da-kan-de-slippa-kval/rky12qej",
+      "publishedAt": "2026-10-22T06:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-22",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "ifk-akademifonden-fotbollen-ska-vara-tillganglig-for-alla",
       "title": "Akademifonden: fotbollen ska vara tillgänglig för alla",

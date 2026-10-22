@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Wed, 21 Oct 2026 10:33:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 10:00:00 GMT</lastBuildDate>
+    <item>
+      <title>IFK-duon står i skuggan: &quot;Tar tydliga kliv&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-duon-star-i-skuggan-tar-tydliga-kliv/jdq7ey0r</link>
+      <guid isPermaLink="false">nt-ifk-duon-star-i-skuggan-tar-tydliga-kliv-jdq7ey0r</guid>
+      <pubDate>Thu, 22 Oct 2026 10:00:00 GMT</pubDate>
+      <description>Speltiden är knapp, men IFK har inte gett upp Kylian Seka och Mbaye Cissé. – Vi känner att de inte är alldeles för långt ifrån, säger sportchefen Henrik Jurelius.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>Experten synar IFK:s läge: &quot;Då kan de slippa kval&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/experten-synar-ifks-lage-da-kan-de-slippa-kval/rky12qej</link>
+      <guid isPermaLink="false">nt-experten-synar-ifks-lage-da-kan-de-slippa-kval-rky12qej</guid>
+      <pubDate>Thu, 22 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Tre segrar. Det tror Viaplays expert Pär Lagerström IFK behöver för att undvika kval.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Akademifonden: fotbollen ska vara tillgänglig för alla</title>
       <link>https://ifknorrkoping.se/akademifonden-fotbollen-ska-vara-tillganglig-for-alla/</link>
@@ -788,22 +804,6 @@
       <guid isPermaLink="false">nt-detaljen-dar-ifk-tappade-igen-behover-bli-battre-pa-det-rgow46pj</guid>
       <pubDate>Sun, 04 Oct 2026 03:00:00 GMT</pubDate>
       <description>En fast situation – sedan hade IFK tappat poäng igen. – Det är svårt för mig att sätta ord på det, sa tränaren Rob Clark.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>IFK-spelarna om nya sena smällen: &quot;Tufft när man kämpar i botten&quot;</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/ifk-spelarna-om-nya-sena-smallen-tufft-nar-man-kampar-i-botten/jp9doyql</link>
-      <guid isPermaLink="false">nt-ifk-spelarna-om-nya-sena-smallen-tufft-nar-man-kampar-i-botten-jp9doyql</guid>
-      <pubDate>Sat, 03 Oct 2026 17:00:00 GMT</pubDate>
-      <description>Hur hanterar IFK-truppen det utsatta läget? Ett kryss i Piteå var en ny sen besvikelse för ett lag som behöver vinna. – Jag tycker att vi håller ihop gruppen bra, sa Julia Karlernäs.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Mentalt knutna nävar – men ändå samma IFK-visa</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/mentalt-knutna-navar-men-anda-samma-ifk-visa/r0eo320j</link>
-      <guid isPermaLink="false">nt-mentalt-knutna-navar-men-anda-samma-ifk-visa-r0eo320j</guid>
-      <pubDate>Sat, 03 Oct 2026 14:51:00 GMT</pubDate>
-      <description>Resten av säsongen handlar om en räddningsaktion. Innan vägen framåt ska stakas ut. I Piteå syntes mentalt knutna nävar. Men så var det en av detaljerna som gäckar IFK – gång på gång.</description>
       <category>Norrköpings Tidningar</category>
     </item>
   </channel>
