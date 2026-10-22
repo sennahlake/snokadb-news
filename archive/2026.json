@@ -1,7 +1,40 @@
 {
   "year": 2026,
-  "itemCount": 721,
+  "itemCount": 722,
   "items": [
+    {
+      "id": "ifk-fira-hemkomsten-pa-parken",
+      "title": "Fira hemkomsten på Parken",
+      "summary": "Fira hemkomsten på Parken",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/fira-hemkomsten-pa-parken/",
+      "publishedAt": "2026-10-22T15:00:09.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
     {
       "id": "nt-ifk-duon-star-i-skuggan-tar-tydliga-kliv-jdq7ey0r",
       "title": "IFK-duon står i skuggan: \"Tar tydliga kliv\"",
