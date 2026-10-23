@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Thu, 22 Oct 2026 15:00:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 06:28:00 GMT</lastBuildDate>
+    <item>
+      <title>Publikinformation: IFK Norrköping-IK Uppsala</title>
+      <link>https://ifknorrkoping.se/publikinformation-ifk-norrkoping-ik-uppsala/</link>
+      <guid isPermaLink="false">ifk-publikinformation-ifk-norrkoping-ik-uppsala</guid>
+      <pubDate>Fri, 23 Oct 2026 06:28:00 GMT</pubDate>
+      <description>Publikinformation: IFK Norrköping-IK Uppsala</description>
+      <category>IFK Norrköping</category>
+    </item>
     <item>
       <title>Fira hemkomsten på Parken</title>
       <link>https://ifknorrkoping.se/fira-hemkomsten-pa-parken/</link>
@@ -797,14 +805,6 @@
       <pubDate>Mon, 05 Oct 2026 14:35:00 GMT</pubDate>
       <description>Träningsmatch mot Kalmar i stället för läktarplats med U21-landslaget. Noel Sernelius medger samtidigt att framtidsdiskussionerna har blivit mer aktuella.</description>
       <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Kamraternas träningsvecka</title>
-      <link>https://ifknorrkoping.se/kamraternas-traningsvecka-46/</link>
-      <guid isPermaLink="false">ifk-kamraternas-traningsvecka-46</guid>
-      <pubDate>Mon, 05 Oct 2026 07:02:50 GMT</pubDate>
-      <description>Kamraternas träningsvecka</description>
-      <category>IFK Norrköping</category>
     </item>
   </channel>
 </rss>

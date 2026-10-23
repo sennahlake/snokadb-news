@@ -1,7 +1,41 @@
 {
   "year": 2026,
-  "itemCount": 722,
+  "itemCount": 723,
   "items": [
+    {
+      "id": "ifk-publikinformation-ifk-norrkoping-ik-uppsala",
+      "title": "Publikinformation: IFK Norrköping-IK Uppsala",
+      "summary": "Publikinformation: IFK Norrköping-IK Uppsala",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/publikinformation-ifk-norrkoping-ik-uppsala/",
+      "publishedAt": "2026-10-23T06:28:00.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla",
+          "IFK i rubrik"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
     {
       "id": "ifk-fira-hemkomsten-pa-parken",
       "title": "Fira hemkomsten på Parken",
