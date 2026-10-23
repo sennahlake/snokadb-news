@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Fri, 23 Oct 2026 14:50:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 16:52:20 GMT</lastBuildDate>
+    <item>
+      <title>199. Psykisk terror</title>
+      <link>https://pod.space/genomljuvalivet/199-psykisk-terror</link>
+      <guid isPermaLink="false">genom-ljuva-livet-199-psykisk-terror</guid>
+      <pubDate>Fri, 23 Oct 2026 16:52:20 GMT</pubDate>
+      <description>Vi pratar om att IFK inte lyckades tagga till nog för att slå Örebro, om årets snyggaste (?) mål och en massa annat.</description>
+      <category>Genom Ljuva Livet</category>
+    </item>
     <item>
       <title>IFK-backen: &quot;Skulle kunna skriva en hel bok&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/ifk-backen-skulle-kunna-skriva-en-hel-bok/lw62q0wj</link>
@@ -797,14 +805,6 @@
       <pubDate>Tue, 06 Oct 2026 14:17:00 GMT</pubDate>
       <description>IFK:s truppbygge inför nästa säsong är igång. Ett drag, enligt NT:s uppgifter, är att erbjuda senioravtal till Algot Hjelm och Hugo Ringsten.</description>
       <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Truls Möregårdh slog ut kines i Peking – nu väntar bäste kinesen</title>
-      <link>https://www.svt.se/sport/bordtennis/truls-moregardh-slog-ut-kines-i-peking-nu-vantar-baste-kinesen</link>
-      <guid isPermaLink="false">svt-bordtennis-truls-moregardh-slog-ut-kines-i-peking-nu-vantar-baste-kinesen</guid>
-      <pubDate>Tue, 06 Oct 2026 13:23:23 GMT</pubDate>
-      <description>Truls Möregårdh är klar för åttondel i China Smash i Peking efter att ha besegrat en hemmaspelare. Nu väntar ännu en kines, den bäst rankade i turneringen, Wen Ruibo. – Det är otroligt dålig tajming, säger J-O Waldner om matchens häftigaste duell.</description>
-      <category>SVT</category>
     </item>
   </channel>
 </rss>

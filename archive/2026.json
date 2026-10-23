@@ -1,7 +1,44 @@
 {
   "year": 2026,
-  "itemCount": 725,
+  "itemCount": 726,
   "items": [
+    {
+      "id": "genom-ljuva-livet-199-psykisk-terror",
+      "title": "199. Psykisk terror",
+      "summary": "Vi pratar om att IFK inte lyckades tagga till nog för att slå Örebro, om årets snyggaste (?) mål och en massa annat.",
+      "source": "Genom Ljuva Livet",
+      "sourceUrl": "https://poddtoppen.se/podcast/1728458754/genom-ljuva-livet",
+      "articleUrl": "https://pod.space/genomljuvalivet/199-psykisk-terror",
+      "publishedAt": "2026-10-23T16:52:20.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Genom Ljuva Livet",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "genom-ljuva-livet"
+    },
     {
       "id": "nt-ifk-backen-skulle-kunna-skriva-en-hel-bok-lw62q0wj",
       "title": "IFK-backen: \"Skulle kunna skriva en hel bok\"",
