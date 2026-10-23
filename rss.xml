@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Fri, 23 Oct 2026 06:28:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 14:50:00 GMT</lastBuildDate>
+    <item>
+      <title>IFK-backen: &quot;Skulle kunna skriva en hel bok&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-backen-skulle-kunna-skriva-en-hel-bok/lw62q0wj</link>
+      <guid isPermaLink="false">nt-ifk-backen-skulle-kunna-skriva-en-hel-bok-lw62q0wj</guid>
+      <pubDate>Fri, 23 Oct 2026 14:50:00 GMT</pubDate>
+      <description>Anton Erikssons kommande karriärskapitel är blankt. – Jag har faktiskt inget konkret att ta ställning, säger han.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>Ekberg inför Uppsala: “Vi kör in i kaklet och slutar inte spela förrän domaren har blåst”</title>
+      <link>https://ifknorrkoping.se/ekberg-infor-uppsala-vi-kor-in-i-kaklet-och-slutar-inte-spela-forran-domaren-har-blast/</link>
+      <guid isPermaLink="false">ifk-ekberg-infor-uppsala-vi-kor-in-i-kaklet-och-slutar-inte-spela-forran-domaren-har-blast</guid>
+      <pubDate>Fri, 23 Oct 2026 14:41:13 GMT</pubDate>
+      <description>Ekberg inför Uppsala: “Vi kör in i kaklet och slutar inte spela förrän domaren har blåst”</description>
+      <category>IFK Norrköping</category>
+    </item>
     <item>
       <title>Publikinformation: IFK Norrköping-IK Uppsala</title>
       <link>https://ifknorrkoping.se/publikinformation-ifk-norrkoping-ik-uppsala/</link>
@@ -789,22 +805,6 @@
       <pubDate>Tue, 06 Oct 2026 13:23:23 GMT</pubDate>
       <description>Truls Möregårdh är klar för åttondel i China Smash i Peking efter att ha besegrat en hemmaspelare. Nu väntar ännu en kines, den bäst rankade i turneringen, Wen Ruibo. – Det är otroligt dålig tajming, säger J-O Waldner om matchens häftigaste duell.</description>
       <category>SVT</category>
-    </item>
-    <item>
-      <title>Coco Gauff rasar mot rasistiska påhoppen: ”Galet”</title>
-      <link>https://www.expressen.se/sport/tennis/coco-gauff-rasar-mot-rasistiska-pahoppen-galet/</link>
-      <guid isPermaLink="false">sportexpressen-tennis-coco-gauff-rasar-mot-rasistiska-pahoppen-galet</guid>
-      <pubDate>Tue, 06 Oct 2026 08:01:28 GMT</pubDate>
-      <description>Coco Gauff utsattes för en våg av nätrasism efter segern mot kinesiska tonåringen Sun Xinran i China Open i Peking. Nu ryter tennisstjärnan ifrån i sociala medier.</description>
-      <category>SportExpressen</category>
-    </item>
-    <item>
-      <title>Förvirringen kring IFK-duon: &quot;Bättre att komma hem&quot;</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/forvirringen-kring-ifk-duon-battre-att-komma-hem/r1wop7kl</link>
-      <guid isPermaLink="false">nt-forvirringen-kring-ifk-duon-battre-att-komma-hem-r1wop7kl</guid>
-      <pubDate>Mon, 05 Oct 2026 14:35:00 GMT</pubDate>
-      <description>Träningsmatch mot Kalmar i stället för läktarplats med U21-landslaget. Noel Sernelius medger samtidigt att framtidsdiskussionerna har blivit mer aktuella.</description>
-      <category>Norrköpings Tidningar</category>
     </item>
   </channel>
 </rss>

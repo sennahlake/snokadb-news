@@ -1,7 +1,84 @@
 {
   "year": 2026,
-  "itemCount": 723,
+  "itemCount": 725,
   "items": [
+    {
+      "id": "nt-ifk-backen-skulle-kunna-skriva-en-hel-bok-lw62q0wj",
+      "title": "IFK-backen: \"Skulle kunna skriva en hel bok\"",
+      "summary": "Anton Erikssons kommande karriärskapitel är blankt. – Jag har faktiskt inget konkret att ta ställning, säger han.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-backen-skulle-kunna-skriva-en-hel-bok/lw62q0wj",
+      "publishedAt": "2026-10-23T14:50:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-23",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "ifk-ekberg-infor-uppsala-vi-kor-in-i-kaklet-och-slutar-inte-spela-forran-domaren-har-blast",
+      "title": "Ekberg inför Uppsala: “Vi kör in i kaklet och slutar inte spela förrän domaren har blåst”",
+      "summary": "Ekberg inför Uppsala: “Vi kör in i kaklet och slutar inte spela förrän domaren har blåst”",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/ekberg-infor-uppsala-vi-kor-in-i-kaklet-och-slutar-inte-spela-forran-domaren-har-blast/",
+      "publishedAt": "2026-10-23T14:41:13.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
     {
       "id": "ifk-publikinformation-ifk-norrkoping-ik-uppsala",
       "title": "Publikinformation: IFK Norrköping-IK Uppsala",
