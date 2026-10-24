@@ -1,7 +1,53 @@
 {
   "year": 2026,
-  "itemCount": 734,
+  "itemCount": 735,
   "items": [
+    {
+      "id": "nt-ifk-tranarens-rutinerade-stod-ar-en-gava-for-alla-lzdwpqzr",
+      "title": "IFK-tränarens rutinerade stöd: \"Är en gåva för alla\"",
+      "summary": "Rob Clark fick ansvaret att rädda IFK kvar i damallsvenskan. Han har valt att ta hjälp av olika delar av klubben. Mot Uppsala satt Stefan Hellberg på bänken.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-tranarens-rutinerade-stod-ar-en-gava-for-alla/lzdwpqzr",
+      "publishedAt": "2026-10-24T19:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i rubrik"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-24",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "ifk-storseger-och-maljubel-pa-parken-vi-har-en-tro-pa-det-har-nu",
       "title": "Storseger och måljubel på Parken – “Vi har en tro på det här nu”",
@@ -103,7 +149,8 @@
       "category": "Lokal",
       "tags": [
         "Extern originalkälla",
-        "Lokal"
+        "Lokal",
+        "Dam"
       ],
       "keywords": [
         "IFK Norrköping",
@@ -147,7 +194,8 @@
       "category": "Lokal",
       "tags": [
         "Extern originalkälla",
-        "Lokal"
+        "Lokal",
+        "Dam"
       ],
       "keywords": [
         "IFK Norrköping",
@@ -235,7 +283,8 @@
       "publishedAt": "2026-10-24T09:57:59.000Z",
       "category": "Officiellt",
       "tags": [
-        "Officiellt"
+        "Officiellt",
+        "Dam"
       ],
       "keywords": [
         "IFK Norrköping",

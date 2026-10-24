@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sat, 24 Oct 2026 17:27:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 19:00:00 GMT</lastBuildDate>
+    <item>
+      <title>IFK-tränarens rutinerade stöd: &quot;Är en gåva för alla&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-tranarens-rutinerade-stod-ar-en-gava-for-alla/lzdwpqzr</link>
+      <guid isPermaLink="false">nt-ifk-tranarens-rutinerade-stod-ar-en-gava-for-alla-lzdwpqzr</guid>
+      <pubDate>Sat, 24 Oct 2026 19:00:00 GMT</pubDate>
+      <description>Rob Clark fick ansvaret att rädda IFK kvar i damallsvenskan. Han har valt att ta hjälp av olika delar av klubben. Mot Uppsala satt Stefan Hellberg på bänken.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Storseger och måljubel på Parken – “Vi har en tro på det här nu”</title>
       <link>https://ifknorrkoping.se/storseger-och-maljubel-pa-parken-vi-har-en-tro-pa-det-har-nu/</link>
@@ -796,14 +804,6 @@
       <guid isPermaLink="false">ifk-abdulic-framrostad-till-manadens-tranare-igen</guid>
       <pubDate>Fri, 09 Oct 2026 08:33:09 GMT</pubDate>
       <description>Abdulic framröstad till månadens tränare igen</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Uppdatering om Stephen Bolma</title>
-      <link>https://ifknorrkoping.se/uppdatering-om-stephen-bolma/</link>
-      <guid isPermaLink="false">ifk-uppdatering-om-stephen-bolma</guid>
-      <pubDate>Fri, 09 Oct 2026 08:00:07 GMT</pubDate>
-      <description>Uppdatering om Stephen Bolma</description>
       <category>IFK Norrköping</category>
     </item>
   </channel>
