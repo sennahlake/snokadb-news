@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T10:51:46.244Z",
-  "itemCount": 4647,
+  "generatedAt": "2026-10-24T14:28:50.264Z",
+  "itemCount": 4648,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 3,
+      "count": 4,
       "ok": true
     },
     {
@@ -66,6 +66,50 @@
     }
   ],
   "items": [
+    {
+      "id": "nt-viktig-ledning-for-ifk-i-bottenstriden-folj-matchen-har-jdq29vxr",
+      "title": "IFK jagar viktiga poäng mot jumbon – följ matchen här",
+      "summary": "De senaste matchernas poängutdelning har satt IFK i ett lite bättre läge i bottenstriden. Mot IK Uppsala behöver laget ta tre poäng – vi rapporterar direkt från matchen på Idrottsparken.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/viktig-ledning-for-ifk-i-bottenstriden-folj-matchen-har/jdq29vxr",
+      "publishedAt": "2026-10-24T11:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-24",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "ifk-truppen-mot-ik-uppsala-5",
       "title": "Truppen mot IK Uppsala",

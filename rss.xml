@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sat, 24 Oct 2026 09:57:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 11:00:00 GMT</lastBuildDate>
+    <item>
+      <title>IFK jagar viktiga poäng mot jumbon – följ matchen här</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/viktig-ledning-for-ifk-i-bottenstriden-folj-matchen-har/jdq29vxr</link>
+      <guid isPermaLink="false">nt-viktig-ledning-for-ifk-i-bottenstriden-folj-matchen-har-jdq29vxr</guid>
+      <pubDate>Sat, 24 Oct 2026 11:00:00 GMT</pubDate>
+      <description>De senaste matchernas poängutdelning har satt IFK i ett lite bättre läge i bottenstriden. Mot IK Uppsala behöver laget ta tre poäng – vi rapporterar direkt från matchen på Idrottsparken.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Truppen mot IK Uppsala</title>
       <link>https://ifknorrkoping.se/truppen-mot-ik-uppsala-5/</link>
@@ -797,14 +805,6 @@
       <pubDate>Thu, 08 Oct 2026 09:50:00 GMT</pubDate>
       <description>IFK har beslutat sig för att inte förlänga Stephen Bolmas kontrakt, enligt uppgifter till NT.</description>
       <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Filip Dagerstål</title>
-      <link>https://pod.space/studiopeking/filip-dagerstal</link>
-      <guid isPermaLink="false">studio-peking-filip-dagerstal</guid>
-      <pubDate>Thu, 08 Oct 2026 05:35:50 GMT</pubDate>
-      <description>Filip Dagerstål är hemma igen och ser IFK Norrköping som den nödvändiga räddningsplankan när han kom bort från skadehelvetet. I Studio Peking berättar profilen detaljerat om turerna bakom kulisserna, den känslostarka säsongen i superettan och vad han anser att IFK gjort rätt efter fjolårets debacle. Avsnittet innehåller betydligt mer än så, bland annat det utgående kontraktet, pappalivet, speciell</description>
-      <category>Studio Peking</category>
     </item>
   </channel>
 </rss>
