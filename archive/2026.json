@@ -1,7 +1,141 @@
 {
   "year": 2026,
-  "itemCount": 730,
+  "itemCount": 734,
   "items": [
+    {
+      "id": "ifk-storseger-och-maljubel-pa-parken-vi-har-en-tro-pa-det-har-nu",
+      "title": "Storseger och måljubel på Parken – “Vi har en tro på det här nu”",
+      "summary": "Storseger och måljubel på Parken – “Vi har en tro på det här nu”",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/storseger-och-maljubel-pa-parken-vi-har-en-tro-pa-det-har-nu/",
+      "publishedAt": "2026-10-24T17:27:39.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "nt-analyserna-som-baddade-for-ifks-malfest-r5p7mv1j",
+      "title": "Analyserna som bäddade för IFK:s målfest",
+      "summary": "IFK städade av Uppsala. Bakom flera av målen gömmer sig ett metodiskt arbete och en relation som tagit fart. – Hon ska inte ens behöva kolla upp, säger Emma Engström om lagkamraten.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/analyserna-som-baddade-for-ifks-malfest/r5p7mv1j",
+      "publishedAt": "2026-10-24T17:20:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Emma Engström",
+          "slug": "emma-engstrom",
+          "side": "Dam",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-24",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-det-fanns-bara-en-vag-och-ifk-har-gett-sig-sjalva-chansen-lyxn9p9r",
+      "title": "Det fanns bara en väg – och IFK har tagit den chansen",
+      "summary": "IFK har skakat liv i säsongen. Ett par karaktärstest – och en seger som var kalkylerad. Med tunga meriter på tränarbänken. Här är Christer Gustafsons punkter efter storsegern mot Uppsala.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/det-fanns-bara-en-vag-och-ifk-har-gett-sig-sjalva-chansen/lyxn9p9r",
+      "publishedAt": "2026-10-24T17:06:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-24",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-viktig-ledning-for-ifk-i-bottenstriden-folj-matchen-har-jdq29vxr",
       "title": "IFK jagar viktiga poäng mot jumbon – följ matchen här",
@@ -30,6 +164,51 @@
         "matchedBy": [
           "Originalkälla",
           "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-24",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-malshow-pa-idrottsparken-ifk-korde-over-uppsala-jdq29vxr",
+      "title": "LIVE: Fem mål och tre viktiga poäng för IFK",
+      "summary": "IFK Norrköping tog tre blytunga poäng i bottenstriden efter en övertygande 5–0-seger mot jumbon IK Uppsala. Här är vår rapportering från Idrottsparken.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/malshow-pa-idrottsparken-ifk-korde-over-uppsala/jdq29vxr",
+      "publishedAt": "2026-10-24T11:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress"
         ]
       },
       "players": [],
