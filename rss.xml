@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sat, 24 Oct 2026 03:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 09:57:59 GMT</lastBuildDate>
+    <item>
+      <title>Truppen mot IK Uppsala</title>
+      <link>https://ifknorrkoping.se/truppen-mot-ik-uppsala-5/</link>
+      <guid isPermaLink="false">ifk-truppen-mot-ik-uppsala-5</guid>
+      <pubDate>Sat, 24 Oct 2026 09:57:59 GMT</pubDate>
+      <description>Truppen mot IK Uppsala</description>
+      <category>IFK Norrköping</category>
+    </item>
+    <item>
+      <title>IFK-duon har rötterna i unika klubben</title>
+      <link>https://www.nt.se/story-sport/fotboll/artikel/ifk-norrkopings-succeduo-fostrad-i-stangebro-united/jp96gdml</link>
+      <guid isPermaLink="false">nt-ifk-norrkopings-succeduo-fostrad-i-stangebro-united-jp96gdml</guid>
+      <pubDate>Sat, 24 Oct 2026 08:00:00 GMT</pubDate>
+      <description>IFK Norrköpings Theo Krantz och Noel Sernelius har fått sina genombrott i superettan. Båda två har Linköpingsklubben Stångebro United gemensamt – en förening som under åren både fått ris och ros för sin tidiga elitsatsning. – För mig innebär det att lika barn leka bäst, säger föreningens tränare och grundare Michael Bornehav.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>IFK-backen flyttade in centralt: &quot;Hon är bekväm med det&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/ifk-backen-flyttade-in-centralt-hon-ar-bekvam-med-det/rexm4ozl</link>
@@ -789,22 +805,6 @@
       <pubDate>Thu, 08 Oct 2026 05:35:50 GMT</pubDate>
       <description>Filip Dagerstål är hemma igen och ser IFK Norrköping som den nödvändiga räddningsplankan när han kom bort från skadehelvetet. I Studio Peking berättar profilen detaljerat om turerna bakom kulisserna, den känslostarka säsongen i superettan och vad han anser att IFK gjort rätt efter fjolårets debacle. Avsnittet innehåller betydligt mer än så, bland annat det utgående kontraktet, pappalivet, speciell</description>
       <category>Studio Peking</category>
-    </item>
-    <item>
-      <title>Dagerståls besked – vill förlänga med IFK</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/dagerstals-besked-vill-forlanga-med-ifk/jdq793vr</link>
-      <guid isPermaLink="false">nt-dagerstals-besked-vill-forlanga-med-ifk-jdq793vr</guid>
-      <pubDate>Wed, 07 Oct 2026 16:00:00 GMT</pubDate>
-      <description>Stanna i hjärteklubben eller – ja, vadå? – Det hade känts konstigt med något annat än IFK, säger profilen i Studio Peking.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>194. Jonatan Pinheiro Diamant</title>
-      <link>https://pod.space/genomljuvalivet/194-jonatan-pinheiro-diamant</link>
-      <guid isPermaLink="false">genom-ljuva-livet-194-jonatan-pinheiro-diamant</guid>
-      <pubDate>Wed, 07 Oct 2026 10:26:30 GMT</pubDate>
-      <description>Aftonbladets (och Sveriges?) Superettanexpert Jonatan Pinheiro Diamant gästar och vi går igenom hans bild av IFK:s säsong. Lagdel för lagdel, hur kommer det hålla i Allsvenskan, hur bra är egentligen Sernelius och hur ser han utifrån på allt? Dessutom: Pierre Gallo och Kleber-special.</description>
-      <category>Genom Ljuva Livet</category>
     </item>
   </channel>
 </rss>

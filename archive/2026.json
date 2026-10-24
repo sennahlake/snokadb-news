@@ -1,7 +1,108 @@
 {
   "year": 2026,
-  "itemCount": 727,
+  "itemCount": 729,
   "items": [
+    {
+      "id": "ifk-truppen-mot-ik-uppsala-5",
+      "title": "Truppen mot IK Uppsala",
+      "summary": "Truppen mot IK Uppsala",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/truppen-mot-ik-uppsala-5/",
+      "publishedAt": "2026-10-24T09:57:59.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "nt-ifk-norrkopings-succeduo-fostrad-i-stangebro-united-jp96gdml",
+      "title": "IFK-duon har rötterna i unika klubben",
+      "summary": "IFK Norrköpings Theo Krantz och Noel Sernelius har fått sina genombrott i superettan. Båda två har Linköpingsklubben Stångebro United gemensamt – en förening som under åren både fått ris och ros för sin tidiga elitsatsning. – För mig innebär det att lika barn leka bäst, säger föreningens tränare och grundare Michael Bornehav.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/story-sport/fotboll/artikel/ifk-norrkopings-succeduo-fostrad-i-stangebro-united/jp96gdml",
+      "publishedAt": "2026-10-24T08:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Noel Sernelius",
+          "slug": "noel-sernelius",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        },
+        {
+          "name": "Theo Krantz",
+          "slug": "theo-krantz",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-24",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-ifk-backen-flyttade-in-centralt-hon-ar-bekvam-med-det-rexm4ozl",
       "title": "IFK-backen flyttade in centralt: \"Hon är bekväm med det\"",
