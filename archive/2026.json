@@ -1,7 +1,51 @@
 {
   "year": 2026,
-  "itemCount": 726,
+  "itemCount": 727,
   "items": [
+    {
+      "id": "nt-ifk-backen-flyttade-in-centralt-hon-ar-bekvam-med-det-rexm4ozl",
+      "title": "IFK-backen flyttade in centralt: \"Hon är bekväm med det\"",
+      "summary": "Hon har gjort en hel säsong som mittback i Sydney FC. I IFK har Deborah-Ann de la Harpe tagit klivet in centralt de senaste matcherna. – Det är annorlunda, men det pushar mig själv, säger hon.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-backen-flyttade-in-centralt-hon-ar-bekvam-med-det/rexm4ozl",
+      "publishedAt": "2026-10-24T03:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-24",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "genom-ljuva-livet-199-psykisk-terror",
       "title": "199. Psykisk terror",

@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Fri, 23 Oct 2026 16:52:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 03:00:00 GMT</lastBuildDate>
+    <item>
+      <title>IFK-backen flyttade in centralt: &quot;Hon är bekväm med det&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-backen-flyttade-in-centralt-hon-ar-bekvam-med-det/rexm4ozl</link>
+      <guid isPermaLink="false">nt-ifk-backen-flyttade-in-centralt-hon-ar-bekvam-med-det-rexm4ozl</guid>
+      <pubDate>Sat, 24 Oct 2026 03:00:00 GMT</pubDate>
+      <description>Hon har gjort en hel säsong som mittback i Sydney FC. I IFK har Deborah-Ann de la Harpe tagit klivet in centralt de senaste matcherna. – Det är annorlunda, men det pushar mig själv, säger hon.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>199. Psykisk terror</title>
       <link>https://pod.space/genomljuvalivet/199-psykisk-terror</link>
@@ -797,14 +805,6 @@
       <pubDate>Wed, 07 Oct 2026 10:26:30 GMT</pubDate>
       <description>Aftonbladets (och Sveriges?) Superettanexpert Jonatan Pinheiro Diamant gästar och vi går igenom hans bild av IFK:s säsong. Lagdel för lagdel, hur kommer det hålla i Allsvenskan, hur bra är egentligen Sernelius och hur ser han utifrån på allt? Dessutom: Pierre Gallo och Kleber-special.</description>
       <category>Genom Ljuva Livet</category>
-    </item>
-    <item>
-      <title>Duon som förväntas skriva kontrakt med IFK</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/duon-som-forvantas-skriva-kontrakt-med-ifk/r1wom81l</link>
-      <guid isPermaLink="false">nt-duon-som-forvantas-skriva-kontrakt-med-ifk-r1wom81l</guid>
-      <pubDate>Tue, 06 Oct 2026 14:17:00 GMT</pubDate>
-      <description>IFK:s truppbygge inför nästa säsong är igång. Ett drag, enligt NT:s uppgifter, är att erbjuda senioravtal till Algot Hjelm och Hugo Ringsten.</description>
-      <category>Norrköpings Tidningar</category>
     </item>
   </channel>
 </rss>
