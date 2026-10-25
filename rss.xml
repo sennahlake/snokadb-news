@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sun, 25 Oct 2026 10:10:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 15:50:00 GMT</lastBuildDate>
+    <item>
+      <title>IFK-profilens rekordnivå: &quot;Många har snackat&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-profilens-rekordniva-manga-har-snackat/r23g02xl</link>
+      <guid isPermaLink="false">nt-ifk-profilens-rekordniva-manga-har-snackat-r23g02xl</guid>
+      <pubDate>Sun, 25 Oct 2026 15:50:00 GMT</pubDate>
+      <description>Noel Sernelius har skrivit in sig i historieböckerna. – Det sitter i ryggmärgen att spela fram andra, säger assistkungen.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>Medlemsmakt kan skapa sådana här scener</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/medlemsmakt-kan-skapa-sadana-har-scener/r1wgm51l</link>
+      <guid isPermaLink="false">nt-medlemsmakt-kan-skapa-sadana-har-scener-r1wgm51l</guid>
+      <pubDate>Sun, 25 Oct 2026 15:25:00 GMT</pubDate>
+      <description>Rekord på rekord. Ser ni hur Jakob Simsek, Noel Sernelius och IFK Norrköping ler?</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>IFK-TRUPPEN MOT NORRBY IF</title>
       <link>https://ifknorrkoping.se/ifk-truppen-mot-norrby-if-3/</link>
@@ -20,6 +36,14 @@
       <guid isPermaLink="false">nt-flera-andringar-i-ifk-folj-matchen-mot-norrby-j827qepj</guid>
       <pubDate>Sun, 25 Oct 2026 09:00:00 GMT</pubDate>
       <description>IFK är på jakt efter seriesegern, det allsvenska avancemanget är redan klart. Idag ställs laget mot Norrby borta – vi rapporterar direkt från matchen.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>Klar IFK-seger – säkrade seriesegern mot bottenlaget</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/klar-ifk-seger-sakrade-seriesegern-mot-bottenlaget/j827qepj</link>
+      <guid isPermaLink="false">nt-klar-ifk-seger-sakrade-seriesegern-mot-bottenlaget-j827qepj</guid>
+      <pubDate>Sun, 25 Oct 2026 09:00:00 GMT</pubDate>
+      <description>IFK säkrade seriesegern mot Norrby borta. Efter ett par sena mål blev resultet 4–0.</description>
       <category>Norrköpings Tidningar</category>
     </item>
     <item>
@@ -781,30 +805,6 @@
       <pubDate>Sat, 10 Oct 2026 16:32:00 GMT</pubDate>
       <description>Östersund och Varberg kryssade. Det betyder att IFK kan säkra det allsvenska avancemanget på tisdag. – Det kan bli ett oförglömligt ögonblick för alla på plats, säger klubbdirektören André Skagervik.</description>
       <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Profilens glädje: &quot;IFK blev min räddning&quot;</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/profilens-gladje-ifk-blev-min-raddning/lw62yd8j</link>
-      <guid isPermaLink="false">nt-profilens-gladje-ifk-blev-min-raddning-lw62yd8j</guid>
-      <pubDate>Sat, 10 Oct 2026 04:00:00 GMT</pubDate>
-      <description>Mysteriet krävde sina åtgärder, som att åka till Serbien för att få sprutor. Nu riktar Filip Dagerstål ett tack till IFK:s fysioterapeut Kristoffer Karlsson. – Han har varit ovärderlig, säger 29-åringen.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>18-åringen skriver på långtidskontrakt för IFK</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/hugo-ringsten-klar-for-langtidskontrakt-i-ifk/jp9dp90l</link>
-      <guid isPermaLink="false">nt-hugo-ringsten-klar-for-langtidskontrakt-i-ifk-jp9dp90l</guid>
-      <pubDate>Fri, 09 Oct 2026 17:46:00 GMT</pubDate>
-      <description>IFK Norrköping har säkrat en av sina mest lovande talanger för framtiden. Under fredagen skrev 18-årige Hugo Ringsten på ett femårskontrakt med klubben.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Hugo Ringsten får A-lagskontrakt – skriver på för fem år på “Parken”</title>
-      <link>https://ifknorrkoping.se/hugo-ringsten-far-a-lagskontrakt-skriver-pa-for-fem-ar-pa-parken/</link>
-      <guid isPermaLink="false">ifk-hugo-ringsten-far-a-lagskontrakt-skriver-pa-for-fem-ar-pa-parken</guid>
-      <pubDate>Fri, 09 Oct 2026 16:19:59 GMT</pubDate>
-      <description>Hugo Ringsten får A-lagskontrakt – skriver på för fem år på “Parken”</description>
-      <category>IFK Norrköping</category>
     </item>
   </channel>
 </rss>

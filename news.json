@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T11:18:21.105Z",
-  "itemCount": 4656,
+  "generatedAt": "2026-10-25T16:08:42.265Z",
+  "itemCount": 4659,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 5,
+      "count": 6,
       "ok": true
     },
     {
@@ -67,6 +67,121 @@
   ],
   "items": [
     {
+      "id": "nt-ifk-profilens-rekordniva-manga-har-snackat-r23g02xl",
+      "title": "IFK-profilens rekordnivå: \"Många har snackat\"",
+      "summary": "Noel Sernelius har skrivit in sig i historieböckerna. – Det sitter i ryggmärgen att spela fram andra, säger assistkungen.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-profilens-rekordniva-manga-har-snackat/r23g02xl",
+      "publishedAt": "2026-10-25T15:50:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Noel Sernelius",
+          "slug": "noel-sernelius",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-25",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-medlemsmakt-kan-skapa-sadana-har-scener-r1wgm51l",
+      "title": "Medlemsmakt kan skapa sådana här scener",
+      "summary": "Rekord på rekord. Ser ni hur Jakob Simsek, Noel Sernelius och IFK Norrköping ler?",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/medlemsmakt-kan-skapa-sadana-har-scener/r1wgm51l",
+      "publishedAt": "2026-10-25T15:25:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Noel Sernelius",
+          "slug": "noel-sernelius",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-25",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
       "id": "ifk-ifk-truppen-mot-norrby-if-3",
       "title": "IFK-TRUPPEN MOT NORRBY IF",
       "summary": "TR IF Inlägget IFK-TRUPPEN MOT NORRBY IF dök först upp på IFK Norrköping .",
@@ -107,6 +222,50 @@
       "source": "Norrköpings Tidningar",
       "sourceUrl": "https://www.nt.se/sport/fotboll",
       "articleUrl": "https://www.nt.se/sport/fotboll/artikel/flera-andringar-i-ifk-folj-matchen-mot-norrby/j827qepj",
+      "publishedAt": "2026-10-25T09:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-25",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-klar-ifk-seger-sakrade-seriesegern-mot-bottenlaget-j827qepj",
+      "title": "Klar IFK-seger – säkrade seriesegern mot bottenlaget",
+      "summary": "IFK säkrade seriesegern mot Norrby borta. Efter ett par sena mål blev resultet 4–0.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/klar-ifk-seger-sakrade-seriesegern-mot-bottenlaget/j827qepj",
       "publishedAt": "2026-10-25T09:00:00.000Z",
       "category": "Lokal",
       "tags": [
