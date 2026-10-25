@@ -1,7 +1,107 @@
 {
   "year": 2026,
-  "itemCount": 741,
+  "itemCount": 745,
   "items": [
+    {
+      "id": "ifk-4-0-sakrade-seriesegern-i-boras-aleksanjans-skona-maldubbel",
+      "title": "4-0 säkrade seriesegern i Borås – Aleksanjans sköna måldubbel",
+      "summary": "4-0 säkrade seriesegern i Borås – Aleksanjans sköna måldubbel",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/4-0-sakrade-seriesegern-i-boras-aleksanjans-skona-maldubbel/",
+      "publishedAt": "2026-10-25T18:39:16.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "nt-ifk-planerar-for-malvaktsbyte-igen-lw6y2gwj",
+      "title": "IFK planerar för målvaktsbyte – igen",
+      "summary": "David Mitov Nilsson fick en belöning mot Norrby. Härnäst vill IFK att Hugo Fagerberg bockar av sin superettandebut. – Det är få förunnat att ha den här målvaktsmiljön, säger tränaren Eldar Abdulic.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-planerar-for-malvaktsbyte-igen/lw6y2gwj",
+      "publishedAt": "2026-10-25T18:11:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "David Mitov Nilsson",
+          "slug": "david-mitov-nilsson",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        },
+        {
+          "name": "Hugo Fagerberg",
+          "slug": "hugo-fagerberg",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-25",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-ifk-profilens-rekordniva-manga-har-snackat-r23g02xl",
       "title": "IFK-profilens rekordnivå: \"Många har snackat\"",
@@ -9,6 +109,63 @@
       "source": "Norrköpings Tidningar",
       "sourceUrl": "https://www.nt.se/sport/fotboll",
       "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-profilens-rekordniva-manga-har-snackat/r23g02xl",
+      "publishedAt": "2026-10-25T15:50:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Noel Sernelius",
+          "slug": "noel-sernelius",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-25",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-20-aringen-i-ifk-ar-bast-genom-tiderna-outstanding-r23g02xl",
+      "title": "20-åringen i IFK är bäst genom tiderna: \"Outstanding\"",
+      "summary": "Noel Sernelius har skrivit in sig i historieböckerna. – Det sitter i ryggmärgen att spela fram andra, säger assistkungen.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/20-aringen-i-ifk-ar-bast-genom-tiderna-outstanding/r23g02xl",
       "publishedAt": "2026-10-25T15:50:00.000Z",
       "category": "Lokal",
       "tags": [
@@ -127,7 +284,8 @@
       "publishedAt": "2026-10-25T10:10:26.000Z",
       "category": "Officiellt",
       "tags": [
-        "Officiellt"
+        "Officiellt",
+        "Herr"
       ],
       "keywords": [
         "IFK Norrköping",
@@ -162,7 +320,8 @@
       "category": "Lokal",
       "tags": [
         "Extern originalkälla",
-        "Lokal"
+        "Lokal",
+        "Herr"
       ],
       "keywords": [
         "IFK Norrköping",
@@ -206,7 +365,53 @@
       "category": "Lokal",
       "tags": [
         "Extern originalkälla",
-        "Lokal"
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-25",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-har-ar-spelarbetygen-assistkungen-i-en-klass-for-sig-j827qepj",
+      "title": "Klar IFK-seger – säkrade seriesegern mot bottenlaget",
+      "summary": "IFK säkrade seriesegern mot Norrby borta. Efter ett par sena mål blev resultatet 4–0 till gästerna.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/har-ar-spelarbetygen-assistkungen-i-en-klass-for-sig/j827qepj",
+      "publishedAt": "2026-10-25T09:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
       ],
       "keywords": [
         "IFK Norrköping",
