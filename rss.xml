@@ -5,7 +5,31 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sat, 24 Oct 2026 19:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 10:10:26 GMT</lastBuildDate>
+    <item>
+      <title>IFK-TRUPPEN MOT NORRBY IF</title>
+      <link>https://ifknorrkoping.se/ifk-truppen-mot-norrby-if-3/</link>
+      <guid isPermaLink="false">ifk-ifk-truppen-mot-norrby-if-3</guid>
+      <pubDate>Sun, 25 Oct 2026 10:10:26 GMT</pubDate>
+      <description>TR IF Inlägget IFK-TRUPPEN MOT NORRBY IF dök först upp på IFK Norrköping .</description>
+      <category>IFK Norrköping</category>
+    </item>
+    <item>
+      <title>IFK jagar revansch från förra mötet – följ matchen mot Norrby här</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/flera-andringar-i-ifk-folj-matchen-mot-norrby/j827qepj</link>
+      <guid isPermaLink="false">nt-flera-andringar-i-ifk-folj-matchen-mot-norrby-j827qepj</guid>
+      <pubDate>Sun, 25 Oct 2026 09:00:00 GMT</pubDate>
+      <description>IFK är på jakt efter seriesegern, det allsvenska avancemanget är redan klart. Idag ställs laget mot Norrby borta – vi rapporterar direkt från matchen.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>Brönners roligaste höst är här – “Vill avsluta året på bästa sätt”</title>
+      <link>https://ifknorrkoping.se/bronners-roligaste-host-ar-har-vill-avsluta-aret-pa-basta-satt/</link>
+      <guid isPermaLink="false">ifk-bronners-roligaste-host-ar-har-vill-avsluta-aret-pa-basta-satt</guid>
+      <pubDate>Sun, 25 Oct 2026 07:22:37 GMT</pubDate>
+      <description>Brönners roligaste höst är här – “Vill avsluta året på bästa sätt”</description>
+      <category>IFK Norrköping</category>
+    </item>
     <item>
       <title>IFK-tränarens rutinerade stöd: &quot;Är en gåva för alla&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/ifk-tranarens-rutinerade-stod-ar-en-gava-for-alla/lzdwpqzr</link>
@@ -780,30 +804,6 @@
       <guid isPermaLink="false">ifk-hugo-ringsten-far-a-lagskontrakt-skriver-pa-for-fem-ar-pa-parken</guid>
       <pubDate>Fri, 09 Oct 2026 16:19:59 GMT</pubDate>
       <description>Hugo Ringsten får A-lagskontrakt – skriver på för fem år på “Parken”</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>#297:&quot;Vi ska hem till Allsvenskan!&quot;</title>
-      <link>https://podcasters.spotify.com/pod/show/gate-upp-och-gate-ner/episodes/297Vi-ska-hem-till-Allsvenskan-e3q7l74</link>
-      <guid isPermaLink="false">gate-upp-gate-ner-297-vi-ska-hem-till-allsvenskan</guid>
-      <pubDate>Fri, 09 Oct 2026 12:41:56 GMT</pubDate>
-      <description>Nytt avsnitt efter en jäkla massa strul, lite daterat men vi gasar vidare. VIVA GUGN!!!</description>
-      <category>Gate Upp och Gate Ner</category>
-    </item>
-    <item>
-      <title>IFK:s succémittfältares intresse från allsvenskan och utlandet</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/allsvenska-toppklubbar-jagar-noel-sernelius/jvz8687r</link>
-      <guid isPermaLink="false">nt-allsvenska-toppklubbar-jagar-noel-sernelius-jvz8687r</guid>
-      <pubDate>Fri, 09 Oct 2026 11:15:00 GMT</pubDate>
-      <description>IFK Norrköping har velat förlänga kontraktet med Noel Sernelius sedan i vintras. Nu visar flera allsvenska toppklubbar och utländska klubbar intresse for succémittfältare, enligt uppgifter till Sportbladet.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Abdulic framröstad till månadens tränare igen</title>
-      <link>https://ifknorrkoping.se/abdulic-framrostad-till-manadens-tranare-igen/</link>
-      <guid isPermaLink="false">ifk-abdulic-framrostad-till-manadens-tranare-igen</guid>
-      <pubDate>Fri, 09 Oct 2026 08:33:09 GMT</pubDate>
-      <description>Abdulic framröstad till månadens tränare igen</description>
       <category>IFK Norrköping</category>
     </item>
   </channel>
