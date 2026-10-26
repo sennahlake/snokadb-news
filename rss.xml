@@ -5,7 +5,31 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Mon, 26 Oct 2026 09:43:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 17:09:08 GMT</lastBuildDate>
+    <item>
+      <title>201. Allt är så gött</title>
+      <link>https://pod.space/genomljuvalivet/201-allt-ar-sa-gott</link>
+      <guid isPermaLink="false">genom-ljuva-livet-201-allt-ar-sa-gott</guid>
+      <pubDate>Mon, 26 Oct 2026 17:09:08 GMT</pubDate>
+      <description>Norrby borta! Aleksanjan! Allsvensk ångest! Brönner! Neffati! Goa tider!</description>
+      <category>Genom Ljuva Livet</category>
+    </item>
+    <item>
+      <title>Lät IFK-målskytten döpa sonen: ”Det är en liten Ryan”</title>
+      <link>https://www.tv4.se/artikel/3bKR2z0gxCPwObWGWfMV6P/laet-ifk-malskytten-doepa-sonen-det-aer-en-liten-ryan</link>
+      <guid isPermaLink="false">tv4-3bkr2z0gxcpwobwgwfmv6p-laet-ifk-malskytten-doepa-sonen-det-aer-en-liten-ryan</guid>
+      <pubDate>Mon, 26 Oct 2026 17:06:04 GMT</pubDate>
+      <description>Det var pappa Liam som kläckte den ovanliga idén, som Norrköpings Tidningar först berättade om. Den första IFK Norrköping-spelaren som gjorde mål mot GIF Sundsvall skulle få ge namn åt parets ännu ofödda son. I den 25:e minuten slog Ryan Nelson till. Och plötsligt hade Carro och Liam inte bara ett mål att fira. De hade också ett namn på sin bebis. – Det var kul att det blev ett sånt namnval, säger</description>
+      <category>TV4</category>
+    </item>
+    <item>
+      <title>Så nådde Jakob Simsek, 16, debuten i IFK: &quot;Som ett lejon&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/sa-nadde-jakob-simsek-16-debuten-i-ifk-som-ett-lejon/r493o28j</link>
+      <guid isPermaLink="false">nt-sa-nadde-jakob-simsek-16-debuten-i-ifk-som-ett-lejon-r493o28j</guid>
+      <pubDate>Mon, 26 Oct 2026 16:00:00 GMT</pubDate>
+      <description>Jakob Simsek började nyligen på gymnasiet, men IFK:s tränare tycker att han uppträder som en 26-åring. Det är inte första gången jättetalangens framfart väcker uppmärksamhet. – Det kunde bli kalabalik, säger hans förre ungdomstränare Sanne Jacob.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Kamraternas träningsvecka</title>
       <link>https://ifknorrkoping.se/kamraternas-traningsvecka-49/</link>
@@ -781,30 +805,6 @@
       <pubDate>Mon, 12 Oct 2026 14:37:13 GMT</pubDate>
       <description>Kapten redo för en kväll i elljuset – “Såna här matcher man lever för…”</description>
       <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Stort intresse för biljetter – när IFK kan säkra allsvenskt spel</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/hogt-biljettryck-nar-ifk-kan-sakra-allsvenskt-spel/l78wv81j</link>
-      <guid isPermaLink="false">nt-hogt-biljettryck-nar-ifk-kan-sakra-allsvenskt-spel-l78wv81j</guid>
-      <pubDate>Mon, 12 Oct 2026 14:25:00 GMT</pubDate>
-      <description>På måndagseftermiddagen var 9 500 biljetter sålda till IFK:s match mot Sundsvall. Föreningen räknar dock med en betydligt högre siffra än så.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Kamraternas träningsvecka</title>
-      <link>https://ifknorrkoping.se/kamraternas-traningsvecka-47/</link>
-      <guid isPermaLink="false">ifk-kamraternas-traningsvecka-47</guid>
-      <pubDate>Mon, 12 Oct 2026 06:42:44 GMT</pubDate>
-      <description>Kamraternas träningsvecka</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Zheng Qinwen sjöng för fansen efter första titeln på två år: ”Ett tufft år”</title>
-      <link>https://www.svt.se/sport/tennis/zheng-qinwen-sjong-for-fansen-efter-forsta-titeln-pa-tva-ar-ett-tufft-ar</link>
-      <guid isPermaLink="false">svt-tennis-zheng-qinwen-sjong-for-fansen-efter-forsta-titeln-pa-tva-ar-ett-tufft-ar</guid>
-      <pubDate>Mon, 12 Oct 2026 05:54:29 GMT</pubDate>
-      <description>Den regerande OS-mästaren Zheng Qinwen vann finalen i storturneringen China Open inför hemmafansen i Peking. Som tack för stödet bjöd kinesiskan på sång.</description>
-      <category>SVT</category>
     </item>
   </channel>
 </rss>

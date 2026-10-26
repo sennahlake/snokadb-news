@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T12:51:54.635Z",
-  "itemCount": 4664,
+  "generatedAt": "2026-10-26T19:14:30.613Z",
+  "itemCount": 4667,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 3,
+      "count": 2,
       "ok": true
     },
     {
@@ -35,7 +35,7 @@
     },
     {
       "source": "TV4",
-      "count": 0,
+      "count": 1,
       "ok": true
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "source": "Genom Ljuva Livet",
-      "count": 200,
+      "count": 201,
       "ok": true
     },
     {
@@ -66,6 +66,134 @@
     }
   ],
   "items": [
+    {
+      "id": "genom-ljuva-livet-201-allt-ar-sa-gott",
+      "title": "201. Allt är så gött",
+      "summary": "Norrby borta! Aleksanjan! Allsvensk ångest! Brönner! Neffati! Goa tider!",
+      "source": "Genom Ljuva Livet",
+      "sourceUrl": "https://poddtoppen.se/podcast/1728458754/genom-ljuva-livet",
+      "articleUrl": "https://pod.space/genomljuvalivet/201-allt-ar-sa-gott",
+      "publishedAt": "2026-10-26T17:09:08.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Genom Ljuva Livet",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "genom-ljuva-livet"
+    },
+    {
+      "id": "tv4-3bkr2z0gxcpwobwgwfmv6p-laet-ifk-malskytten-doepa-sonen-det-aer-en-liten-ryan",
+      "title": "Lät IFK-målskytten döpa sonen: ”Det är en liten Ryan”",
+      "summary": "Det var pappa Liam som kläckte den ovanliga idén, som Norrköpings Tidningar först berättade om. Den första IFK Norrköping-spelaren som gjorde mål mot GIF Sundsvall skulle få ge namn åt parets ännu ofödda son. I den 25:e minuten slog Ryan Nelson till. Och plötsligt hade Carro och Liam inte bara ett mål att fira. De hade också ett namn på sin bebis. – Det var kul att det blev ett sånt namnval, säger",
+      "source": "TV4",
+      "sourceUrl": "https://www.tv4.se/sport/fotbollskanalen",
+      "articleUrl": "https://www.tv4.se/artikel/3bKR2z0gxCPwObWGWfMV6P/laet-ifk-malskytten-doepa-sonen-det-aer-en-liten-ryan",
+      "publishedAt": "2026-10-26T17:06:04.000Z",
+      "category": "Nyhet",
+      "tags": [
+        "Extern originalkälla",
+        "TV",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "TV4"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 82,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK i ingress",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Ryan Nelson",
+          "slug": "ryan-nelson",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "tv4"
+    },
+    {
+      "id": "nt-sa-nadde-jakob-simsek-16-debuten-i-ifk-som-ett-lejon-r493o28j",
+      "title": "Så nådde Jakob Simsek, 16, debuten i IFK: \"Som ett lejon\"",
+      "summary": "Jakob Simsek började nyligen på gymnasiet, men IFK:s tränare tycker att han uppträder som en 26-åring. Det är inte första gången jättetalangens framfart väcker uppmärksamhet. – Det kunde bli kalabalik, säger hans förre ungdomstränare Sanne Jacob.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/sa-nadde-jakob-simsek-16-debuten-i-ifk-som-ett-lejon/r493o28j",
+      "publishedAt": "2026-10-26T16:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-26",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "ifk-kamraternas-traningsvecka-49",
       "title": "Kamraternas träningsvecka",
