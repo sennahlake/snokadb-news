@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "itemCount": 973,
+  "itemCount": 974,
   "sides": {
-    "Herr": 778,
+    "Herr": 779,
     "Dam": 195
   },
   "players": [
@@ -4030,6 +4030,14 @@
         2018,
         2019,
         2020
+      ]
+    },
+    {
+      "name": "Jakob Simsek",
+      "slug": "jakob-simsek",
+      "side": "Herr",
+      "seasons": [
+        2026
       ]
     },
     {
