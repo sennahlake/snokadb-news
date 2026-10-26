@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sun, 25 Oct 2026 18:39:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 09:43:51 GMT</lastBuildDate>
+    <item>
+      <title>Kamraternas träningsvecka</title>
+      <link>https://ifknorrkoping.se/kamraternas-traningsvecka-49/</link>
+      <guid isPermaLink="false">ifk-kamraternas-traningsvecka-49</guid>
+      <pubDate>Mon, 26 Oct 2026 09:43:51 GMT</pubDate>
+      <description>Kamraternas träningsvecka</description>
+      <category>IFK Norrköping</category>
+    </item>
     <item>
       <title>4-0 säkrade seriesegern i Borås – Aleksanjans sköna måldubbel</title>
       <link>https://ifknorrkoping.se/4-0-sakrade-seriesegern-i-boras-aleksanjans-skona-maldubbel/</link>
@@ -797,14 +805,6 @@
       <pubDate>Mon, 12 Oct 2026 05:54:29 GMT</pubDate>
       <description>Den regerande OS-mästaren Zheng Qinwen vann finalen i storturneringen China Open inför hemmafansen i Peking. Som tack för stödet bjöd kinesiskan på sång.</description>
       <category>SVT</category>
-    </item>
-    <item>
-      <title>Bakom IFK-succén: Pappan som blivit en profil</title>
-      <link>https://www.nt.se/story-sport/fotboll/artikel/pappan-bakom-ifk-succen-i-familjen-kallas-jag-for-selfiekungen/jdq99m1r</link>
-      <guid isPermaLink="false">nt-pappan-bakom-ifk-succen-i-familjen-kallas-jag-for-selfiekungen-jdq99m1r</guid>
-      <pubDate>Sun, 11 Oct 2026 17:30:00 GMT</pubDate>
-      <description>En norsk frisör med profilstatus och en succémittback som värdesätter trygghet. På Norrköpings gator blir Ken stoppad oftare än Aleksander.</description>
-      <category>Norrköpings Tidningar</category>
     </item>
   </channel>
 </rss>
