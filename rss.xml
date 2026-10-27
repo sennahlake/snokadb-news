@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Mon, 26 Oct 2026 17:09:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 17:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Efter måljublet – Nyman kan få ny roll: &quot;Vi är inte låsta&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/efter-maljublet-nyman-kan-fa-ny-roll-vi-ar-inte-lasta/r35vg8ej</link>
+      <guid isPermaLink="false">nt-efter-maljublet-nyman-kan-fa-ny-roll-vi-ar-inte-lasta-r35vg8ej</guid>
+      <pubDate>Tue, 27 Oct 2026 17:00:00 GMT</pubDate>
+      <description>Ska Albert Aleksanjan springa in i framtiden som central forward? Eldar Abdulic anser att Christoffer Nyman kan spela på andra positioner. – Vi har allt sånt i bakhuvudet, säger tränaren.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>201. Allt är så gött</title>
       <link>https://pod.space/genomljuvalivet/201-allt-ar-sa-gott</link>
@@ -797,14 +805,6 @@
       <pubDate>Mon, 12 Oct 2026 17:31:20 GMT</pubDate>
       <description>Dagen före den speciella matchen mot Gif Sundsvall värmer vi upp poddstudion och känner på pulsen. Avgörandet närmar sig. Är IFK redo?</description>
       <category>Studio Peking</category>
-    </item>
-    <item>
-      <title>Kapten redo för en kväll i elljuset – “Såna här matcher man lever för…”</title>
-      <link>https://ifknorrkoping.se/kapten-redo-for-en-kvall-i-elljuset-sana-har-matcher-man-lever-for/</link>
-      <guid isPermaLink="false">ifk-kapten-redo-for-en-kvall-i-elljuset-sana-har-matcher-man-lever-for</guid>
-      <pubDate>Mon, 12 Oct 2026 14:37:13 GMT</pubDate>
-      <description>Kapten redo för en kväll i elljuset – “Såna här matcher man lever för…”</description>
-      <category>IFK Norrköping</category>
     </item>
   </channel>
 </rss>

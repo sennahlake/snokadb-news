@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T19:14:30.613Z",
-  "itemCount": 4667,
+  "generatedAt": "2026-10-27T21:16:55.616Z",
+  "itemCount": 4668,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 2,
+      "count": 1,
       "ok": true
     },
     {
@@ -66,6 +66,73 @@
     }
   ],
   "items": [
+    {
+      "id": "nt-efter-maljublet-nyman-kan-fa-ny-roll-vi-ar-inte-lasta-r35vg8ej",
+      "title": "Efter måljublet – Nyman kan få ny roll: \"Vi är inte låsta\"",
+      "summary": "Ska Albert Aleksanjan springa in i framtiden som central forward? Eldar Abdulic anser att Christoffer Nyman kan spela på andra positioner. – Vi har allt sånt i bakhuvudet, säger tränaren.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/efter-maljublet-nyman-kan-fa-ny-roll-vi-ar-inte-lasta/r35vg8ej",
+      "publishedAt": "2026-10-27T17:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Albert Aleksanjan",
+          "slug": "albert-aleksanjan",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        },
+        {
+          "name": "Christoffer Nyman",
+          "slug": "christoffer-nyman",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-27",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "genom-ljuva-livet-201-allt-ar-sa-gott",
       "title": "201. Allt är så gött",
