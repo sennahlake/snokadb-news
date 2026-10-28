@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Wed, 28 Oct 2026 12:28:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 18:00:00 GMT</lastBuildDate>
+    <item>
+      <title>IFK-basen: &quot;Vi kommer fortsätta med samma strategi&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-basen-vi-kommer-fortsatta-med-samma-strategi/jo50kg8l</link>
+      <guid isPermaLink="false">nt-ifk-basen-vi-kommer-fortsatta-med-samma-strategi-jo50kg8l</guid>
+      <pubDate>Wed, 28 Oct 2026 18:00:00 GMT</pubDate>
+      <description>Om IFK blivit kvar i superettan hade de ekonomiska konsekvenserna påverkat hela föreningen. När det vankas allsvensk comeback är Martin Gyllix tydlig. – Vi kommer inte skena iväg och lägga vansinniga pengar på spelare, säger han.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Anton Eriksson</title>
       <link>https://pod.space/studiopeking/anton-eriksson</link>
@@ -796,14 +804,6 @@
       <guid isPermaLink="false">nt-christiansson-det-ar-klart-man-vagade-dromma-jo5dqy7l</guid>
       <pubDate>Tue, 13 Oct 2026 12:35:00 GMT</pubDate>
       <description>IFK Norrköping är tillbaka i allsvenskan igen efter 4–0 hemma mot Gif Sundsvall på tisdagskvällen. Följ allt från glädjeyran här.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Poddaren Pontus inför IFK-dramat: &quot;Jag är orolig&quot;</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/pontus-hammarkvist-infor-ifk-norrkoping-gif-match/r1wo586l</link>
-      <guid isPermaLink="false">nt-pontus-hammarkvist-infor-ifk-norrkoping-gif-match-r1wo586l</guid>
-      <pubDate>Tue, 13 Oct 2026 10:00:00 GMT</pubDate>
-      <description>Snart kan IFK Norrköping vara tillbaka i allsvenskan. För poddaren och supportern Pontus Hammarkvist väntar en nervös kväll, men också hopp om ett efterlängtat firande hemma i Norrköping. – Det kommer nog bli väldigt många spontana kramar med okända människor, säger IFK-supportern.</description>
       <category>Norrköpings Tidningar</category>
     </item>
   </channel>

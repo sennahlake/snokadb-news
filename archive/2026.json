@@ -1,7 +1,52 @@
 {
   "year": 2026,
-  "itemCount": 754,
+  "itemCount": 755,
   "items": [
+    {
+      "id": "nt-ifk-basen-vi-kommer-fortsatta-med-samma-strategi-jo50kg8l",
+      "title": "IFK-basen: \"Vi kommer fortsätta med samma strategi\"",
+      "summary": "Om IFK blivit kvar i superettan hade de ekonomiska konsekvenserna påverkat hela föreningen. När det vankas allsvensk comeback är Martin Gyllix tydlig. – Vi kommer inte skena iväg och lägga vansinniga pengar på spelare, säger han.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-basen-vi-kommer-fortsatta-med-samma-strategi/jo50kg8l",
+      "publishedAt": "2026-10-28T18:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-28",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "studio-peking-anton-eriksson",
       "title": "Anton Eriksson",

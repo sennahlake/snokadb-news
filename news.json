@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T15:58:31.689Z",
-  "itemCount": 4672,
+  "generatedAt": "2026-10-28T21:00:40.925Z",
+  "itemCount": 4673,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -35,7 +35,7 @@
     },
     {
       "source": "TV4",
-      "count": 1,
+      "count": 0,
       "ok": true
     },
     {
@@ -66,6 +66,51 @@
     }
   ],
   "items": [
+    {
+      "id": "nt-ifk-basen-vi-kommer-fortsatta-med-samma-strategi-jo50kg8l",
+      "title": "IFK-basen: \"Vi kommer fortsätta med samma strategi\"",
+      "summary": "Om IFK blivit kvar i superettan hade de ekonomiska konsekvenserna påverkat hela föreningen. När det vankas allsvensk comeback är Martin Gyllix tydlig. – Vi kommer inte skena iväg och lägga vansinniga pengar på spelare, säger han.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-basen-vi-kommer-fortsatta-med-samma-strategi/jo50kg8l",
+      "publishedAt": "2026-10-28T18:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-28",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "studio-peking-anton-eriksson",
       "title": "Anton Eriksson",
