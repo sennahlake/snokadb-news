@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T21:16:55.616Z",
-  "itemCount": 4668,
+  "generatedAt": "2026-10-28T15:58:31.689Z",
+  "itemCount": 4672,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,12 +10,12 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 1,
+      "count": 2,
       "ok": true
     },
     {
       "source": "FotbollDirekt",
-      "count": 0,
+      "count": 1,
       "ok": true
     },
     {
@@ -56,7 +56,7 @@
     },
     {
       "source": "Studio Peking",
-      "count": 147,
+      "count": 148,
       "ok": true
     },
     {
@@ -66,6 +66,168 @@
     }
   ],
   "items": [
+    {
+      "id": "studio-peking-anton-eriksson",
+      "title": "Anton Eriksson",
+      "summary": "IFK-backen gästar veckans avsnitt där det bland annat pratas kontraktsläge, åren i klubben och hans stora intresse vid sidan av planen.",
+      "source": "Studio Peking",
+      "sourceUrl": "https://poddtoppen.se/podcast/1738623973/studio-peking",
+      "articleUrl": "https://pod.space/studiopeking/anton-eriksson",
+      "publishedAt": "2026-10-28T12:28:05.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Studio Peking",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 94,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd",
+          "IFK i artikel-URL",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Anton Eriksson",
+          "slug": "anton-eriksson",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "studio-peking"
+    },
+    {
+      "id": "fotbolldirekt-damallsvenskan-beskedet-hellberg-kliver-in-som-huvudtranare",
+      "title": "Beskedet: Hellberg kliver in som huvudtränare",
+      "summary": "Tar över Peking The post Beskedet: Hellberg kliver in som huvudtränare appeared first on FotbollDirekt .",
+      "source": "FotbollDirekt",
+      "sourceUrl": "https://fotbolldirekt.se/",
+      "articleUrl": "https://fotbolldirekt.se/damallsvenskan/beskedet-hellberg-kliver-in-som-huvudtranare/",
+      "publishedAt": "2026-10-28T10:07:35.000Z",
+      "category": "Nyhet",
+      "tags": [
+        "Extern originalkälla",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "FotbollDirekt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "medium",
+        "score": 78,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "fotbolldirekt"
+    },
+    {
+      "id": "nt-darfor-kliver-hellberg-in-i-tranarrollen-i-ifk-rxqy96yj",
+      "title": "Därför kliver Stefan Hellberg in i tränarrollen i IFK igen",
+      "summary": "Stefan Hellberg kommer att finnas med runt IFK-damerna säsongen ut. Officiellt kommer han att agera huvudtränare tillsammans med Rob Clark eftersom han har nödvändig Uefa Pro-licens. – Det finns en jäkla vilja att reda ut det här, säger han.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/darfor-kliver-hellberg-in-i-tranarrollen-i-ifk/rxqy96yj",
+      "publishedAt": "2026-10-28T09:16:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-28",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "ifk-stefan-hellberg-ansluter-till-damlagets-ledarstab",
+      "title": "Stefan Hellberg ansluter till damlagets ledarstab",
+      "summary": "Stefan Hellberg ansluter till damlagets ledarstab",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/stefan-hellberg-ansluter-till-damlagets-ledarstab/",
+      "publishedAt": "2026-10-28T09:00:18.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
     {
       "id": "nt-efter-maljublet-nyman-kan-fa-ny-roll-vi-ar-inte-lasta-r35vg8ej",
       "title": "Efter måljublet – Nyman kan få ny roll: \"Vi är inte låsta\"",
