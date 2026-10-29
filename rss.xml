@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Thu, 29 Oct 2026 14:05:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 19:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Välkomnar Hellbergs intåg: &quot;Stor kunskapsbank&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/valkomnar-hellbergs-intag-stor-kunskapsbank/rxqyxxgj</link>
+      <guid isPermaLink="false">nt-valkomnar-hellbergs-intag-stor-kunskapsbank-rxqyxxgj</guid>
+      <pubDate>Thu, 29 Oct 2026 19:00:00 GMT</pubDate>
+      <description>Stor fotbollskunskap och en trygghet. Så beskriver IFK-spelarna Stefan Hellberg. – Det är inspirerande att ha en så pass kunnig person så nära oss, säger Matilda Kristell.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>IFK Norrköping byter biljettsystem inför säsongen 2027</title>
       <link>https://ifknorrkoping.se/ifk-norrkoping-byter-biljettsystem-infor-sasongen-2027/</link>
@@ -797,14 +805,6 @@
       <pubDate>Tue, 13 Oct 2026 18:51:36 GMT</pubDate>
       <description>Hjälte igen – 16 år senare ✓ Tillbaka</description>
       <category>Sportbladet</category>
-    </item>
-    <item>
-      <title>Norrköping tillbaka i allsvenskan – Christoffer Nyman bakom allt</title>
-      <link>https://www.svt.se/sport/fotboll/christoffer-nyman-skjuter-norrkoping-mot-allsvenskan</link>
-      <guid isPermaLink="false">svt-fotboll-christoffer-nyman-skjuter-norrkoping-mot-allsvenskan</guid>
-      <pubDate>Tue, 13 Oct 2026 17:55:27 GMT</pubDate>
-      <description>Norrköping är tillbaka i allsvenskan igen. Mycket tack vare hemmasonen Christoffer Nyman – som gjorde mål nummer 17 och 18 och assisterade till två i 4–0-segern mot Sundsvall. – Det är ovärderligt, på något sätt blir det svårt att sätta ord på känslorna, säger 34-åringen till SVT Sport.</description>
-      <category>SVT</category>
     </item>
   </channel>
 </rss>

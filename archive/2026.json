@@ -1,7 +1,64 @@
 {
   "year": 2026,
-  "itemCount": 758,
+  "itemCount": 759,
   "items": [
+    {
+      "id": "nt-valkomnar-hellbergs-intag-stor-kunskapsbank-rxqyxxgj",
+      "title": "Välkomnar Hellbergs intåg: \"Stor kunskapsbank\"",
+      "summary": "Stor fotbollskunskap och en trygghet. Så beskriver IFK-spelarna Stefan Hellberg. – Det är inspirerande att ha en så pass kunnig person så nära oss, säger Matilda Kristell.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/valkomnar-hellbergs-intag-stor-kunskapsbank/rxqyxxgj",
+      "publishedAt": "2026-10-29T19:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Matilda Kristell",
+          "slug": "matilda-kristell",
+          "side": "Dam",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-29",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "ifk-ifk-norrkoping-byter-biljettsystem-infor-sasongen-2027",
       "title": "IFK Norrköping byter biljettsystem inför säsongen 2027",
