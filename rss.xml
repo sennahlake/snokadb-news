@@ -5,7 +5,31 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Wed, 28 Oct 2026 18:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 14:05:40 GMT</lastBuildDate>
+    <item>
+      <title>IFK Norrköping byter biljettsystem inför säsongen 2027</title>
+      <link>https://ifknorrkoping.se/ifk-norrkoping-byter-biljettsystem-infor-sasongen-2027/</link>
+      <guid isPermaLink="false">ifk-ifk-norrkoping-byter-biljettsystem-infor-sasongen-2027</guid>
+      <pubDate>Thu, 29 Oct 2026 14:05:40 GMT</pubDate>
+      <description>IFK Norrköping byter biljettsystem inför säsongen 2027</description>
+      <category>IFK Norrköping</category>
+    </item>
+    <item>
+      <title>Elias Jemals resa till allsvenskan: ”Skulle aldrig göra det i dag”</title>
+      <link>https://www.expressen.se/sport/fotboll/allsvenskan/elias-jemals-resa-till-allsvenskan-skulle-aldrig-gora-det-i-dag/</link>
+      <guid isPermaLink="false">sportexpressen-allsvenskan-elias-jemals-resa-till-allsvenskan-skulle-aldrig-gora-det-i-dag</guid>
+      <pubDate>Thu, 29 Oct 2026 08:06:36 GMT</pubDate>
+      <description>IFK Norrköping har gått upp i allsvenskan. För Elias Jemal har allt gått uppåt sen han träffade sin fru. – Jag visste ju vem jag gifte mig med. Men samtidigt, varför ska jag visa hur vårt liv är?</description>
+      <category>SportExpressen</category>
+    </item>
+    <item>
+      <title>Inväntar IFK-svar: &quot;Helt klart på deras bord&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/invantar-ifk-svar-helt-klart-pa-deras-bord/r0egz1dj</link>
+      <guid isPermaLink="false">nt-invantar-ifk-svar-helt-klart-pa-deras-bord-r0egz1dj</guid>
+      <pubDate>Thu, 29 Oct 2026 07:00:00 GMT</pubDate>
+      <description>Förlänga eller gå skilda vägar? Anton Eriksson har inte fått något besked från IFK. – Jag vet inte hur snacket går där, vad de prioriterar och var jag är i processen, säger mittbacken i Studio Peking.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>IFK-basen: &quot;Vi kommer fortsätta med samma strategi&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/ifk-basen-vi-kommer-fortsatta-med-samma-strategi/jo50kg8l</link>
@@ -781,30 +805,6 @@
       <pubDate>Tue, 13 Oct 2026 17:55:27 GMT</pubDate>
       <description>Norrköping är tillbaka i allsvenskan igen. Mycket tack vare hemmasonen Christoffer Nyman – som gjorde mål nummer 17 och 18 och assisterade till två i 4–0-segern mot Sundsvall. – Det är ovärderligt, på något sätt blir det svårt att sätta ord på känslorna, säger 34-åringen till SVT Sport.</description>
       <category>SVT</category>
-    </item>
-    <item>
-      <title>IFK-truppen mot GIF Sundsvall</title>
-      <link>https://ifknorrkoping.se/ifk-truppen-mot-gif-sundsvall-2/</link>
-      <guid isPermaLink="false">ifk-ifk-truppen-mot-gif-sundsvall-2</guid>
-      <pubDate>Tue, 13 Oct 2026 13:17:00 GMT</pubDate>
-      <description>IFK-truppen mot GIF Sundsvall</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Optimism bland fansen inför IFK-dramat</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/optimism-bland-fansen-infor-ifk-dramat/jo5dqy7l</link>
-      <guid isPermaLink="false">nt-optimism-bland-fansen-infor-ifk-dramat-jo5dqy7l</guid>
-      <pubDate>Tue, 13 Oct 2026 12:35:00 GMT</pubDate>
-      <description>Vid IFK-vinst kommer stora glädjescener utspela sig. Följ allt från matchen där Peking kan säkra allsvenskt avancemang.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>IFK tillbaka i allsvenskan – efter storseger</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/christiansson-det-ar-klart-man-vagade-dromma/jo5dqy7l</link>
-      <guid isPermaLink="false">nt-christiansson-det-ar-klart-man-vagade-dromma-jo5dqy7l</guid>
-      <pubDate>Tue, 13 Oct 2026 12:35:00 GMT</pubDate>
-      <description>IFK Norrköping är tillbaka i allsvenskan igen efter 4–0 hemma mot Gif Sundsvall på tisdagskvällen. Följ allt från glädjeyran här.</description>
-      <category>Norrköpings Tidningar</category>
     </item>
   </channel>
 </rss>

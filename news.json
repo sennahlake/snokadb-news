@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T21:00:40.925Z",
-  "itemCount": 4673,
+  "generatedAt": "2026-10-29T14:13:00.139Z",
+  "itemCount": 4676,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,12 +10,12 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 2,
+      "count": 1,
       "ok": true
     },
     {
       "source": "FotbollDirekt",
-      "count": 1,
+      "count": 0,
       "ok": true
     },
     {
@@ -30,7 +30,7 @@
     },
     {
       "source": "SportExpressen",
-      "count": 0,
+      "count": 1,
       "ok": true
     },
     {
@@ -66,6 +66,153 @@
     }
   ],
   "items": [
+    {
+      "id": "ifk-ifk-norrkoping-byter-biljettsystem-infor-sasongen-2027",
+      "title": "IFK Norrköping byter biljettsystem inför säsongen 2027",
+      "summary": "IFK Norrköping byter biljettsystem inför säsongen 2027",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/ifk-norrkoping-byter-biljettsystem-infor-sasongen-2027/",
+      "publishedAt": "2026-10-29T14:05:40.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla",
+          "IFK i rubrik"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "sportexpressen-allsvenskan-elias-jemals-resa-till-allsvenskan-skulle-aldrig-gora-det-i-dag",
+      "title": "Elias Jemals resa till allsvenskan: ”Skulle aldrig göra det i dag”",
+      "summary": "IFK Norrköping har gått upp i allsvenskan. För Elias Jemal har allt gått uppåt sen han träffade sin fru. – Jag visste ju vem jag gifte mig med. Men samtidigt, varför ska jag visa hur vårt liv är?",
+      "source": "SportExpressen",
+      "sourceUrl": "https://www.expressen.se/sport/fotboll/",
+      "articleUrl": "https://www.expressen.se/sport/fotboll/allsvenskan/elias-jemals-resa-till-allsvenskan-skulle-aldrig-gora-det-i-dag/",
+      "publishedAt": "2026-10-29T08:06:36.000Z",
+      "category": "Nyhet",
+      "tags": [
+        "Extern originalkälla",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "SportExpressen"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 82,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK i ingress",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Elias Jemal",
+          "slug": "elias-jemal",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "sportexpressen",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "SportExpressen",
+          "date": "2026-10-29",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-invantar-ifk-svar-helt-klart-pa-deras-bord-r0egz1dj",
+      "title": "Inväntar IFK-svar: \"Helt klart på deras bord\"",
+      "summary": "Förlänga eller gå skilda vägar? Anton Eriksson har inte fått något besked från IFK. – Jag vet inte hur snacket går där, vad de prioriterar och var jag är i processen, säger mittbacken i Studio Peking.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/invantar-ifk-svar-helt-klart-pa-deras-bord/r0egz1dj",
+      "publishedAt": "2026-10-29T07:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Anton Eriksson",
+          "slug": "anton-eriksson",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-29",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-ifk-basen-vi-kommer-fortsatta-med-samma-strategi-jo50kg8l",
       "title": "IFK-basen: \"Vi kommer fortsätta med samma strategi\"",
