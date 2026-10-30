@@ -1,7 +1,41 @@
 {
   "year": 2026,
-  "itemCount": 760,
+  "itemCount": 761,
   "items": [
+    {
+      "id": "ifk-publikinformation-ifk-norrkoping-ostersunds-fk-2",
+      "title": "Publikinformation: IFK Norrköping-Östersunds FK",
+      "summary": "Publikinformation: IFK Norrköping-Östersunds FK",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/publikinformation-ifk-norrkoping-ostersunds-fk-2/",
+      "publishedAt": "2026-10-30T12:21:21.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla",
+          "IFK i rubrik"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
     {
       "id": "snokasnack-126-hej-da-varbold-nodick-united-och-dalige",
       "title": "126. Hej då Varböld, Nodick United och Dålige",

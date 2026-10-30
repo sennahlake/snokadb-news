@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Thu, 29 Oct 2026 20:28:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 12:21:21 GMT</lastBuildDate>
+    <item>
+      <title>Publikinformation: IFK Norrköping-Östersunds FK</title>
+      <link>https://ifknorrkoping.se/publikinformation-ifk-norrkoping-ostersunds-fk-2/</link>
+      <guid isPermaLink="false">ifk-publikinformation-ifk-norrkoping-ostersunds-fk-2</guid>
+      <pubDate>Fri, 30 Oct 2026 12:21:21 GMT</pubDate>
+      <description>Publikinformation: IFK Norrköping-Östersunds FK</description>
+      <category>IFK Norrköping</category>
+    </item>
     <item>
       <title>126. Hej då Varböld, Nodick United och Dålige</title>
       <link>https://soundcloud.com/user-154683921/126-hej-da-varboeld-nodick</link>
@@ -796,14 +804,6 @@
       <guid isPermaLink="false">sportbladet-0pabxg-ifk-norrkoping-2027-sa-kan-laget-se-ut-i-allsvenskan</guid>
       <pubDate>Tue, 13 Oct 2026 18:51:43 GMT</pubDate>
       <description>Så kan Norrköping se ut i allsvenskan 2027</description>
-      <category>Sportbladet</category>
-    </item>
-    <item>
-      <title>Diamant: Laget blir farligt i allsvenskan</title>
-      <link>https://www.aftonbladet.se/sportbladet/fotboll/a/jvmX4L/diamant-ifk-norrkoping-behovde-detta-blir-farligt-i-allsvenskan?utm_medium=rss</link>
-      <guid isPermaLink="false">sportbladet-jvmx4l-diamant-ifk-norrkoping-behovde-detta-blir-farligt-i-allsvenskan</guid>
-      <pubDate>Tue, 13 Oct 2026 18:51:39 GMT</pubDate>
-      <description>DIAMANT: Blir farligt 2027</description>
       <category>Sportbladet</category>
     </item>
   </channel>
