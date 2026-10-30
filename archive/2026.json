@@ -1,7 +1,154 @@
 {
   "year": 2026,
-  "itemCount": 761,
+  "itemCount": 765,
   "items": [
+    {
+      "id": "nt-ifks-markforsaljning-tar-tid-inte-sa-att-vi-gar-pa-knana-rmw2528l",
+      "title": "IFK:s markförsäljning tar tid: \"Inte så att vi går på knäna\"",
+      "summary": "Försäljningen av den södra planen drar ut på tiden. – Vi är inte så stressade över det, säger IFK-ordföranden Martin Gyllix.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifks-markforsaljning-tar-tid-inte-sa-att-vi-gar-pa-knana/rmw2528l",
+      "publishedAt": "2026-10-30T19:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-30",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "genom-ljuva-livet-202-trahundens-tecken",
+      "title": "202. Trähundens tecken",
+      "summary": "Vi pratar om lördagens match mot Östersund, en av de bästa träningsmatcherna i IFK:s historia? Vilka spelare bör få speltid? Vad är viktigt efter att seriesegern blev klar? Och lite trams om astrologi.",
+      "source": "Genom Ljuva Livet",
+      "sourceUrl": "https://poddtoppen.se/podcast/1728458754/genom-ljuva-livet",
+      "articleUrl": "https://pod.space/genomljuvalivet/202-trahundens-tecken",
+      "publishedAt": "2026-10-30T16:17:06.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Genom Ljuva Livet",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "genom-ljuva-livet"
+    },
+    {
+      "id": "ifk-snart-slapps-arskorten-2027",
+      "title": "Snart släpps årskorten 2027",
+      "summary": "Snart släpps årskorten 2027",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/snart-slapps-arskorten-2027/",
+      "publishedAt": "2026-10-30T15:03:28.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "ifk-superettans-sista-match-pa-parken-otroligt-glad-over-var-resa-i-ar",
+      "title": "Superettans sista match på Parken – “Otroligt glad över vår resa i år”",
+      "summary": "Superettans sista match på Parken – “Otroligt glad över vår resa i år”",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/superettans-sista-match-pa-parken-otroligt-glad-over-var-resa-i-ar/",
+      "publishedAt": "2026-10-30T14:08:44.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
     {
       "id": "ifk-publikinformation-ifk-norrkoping-ostersunds-fk-2",
       "title": "Publikinformation: IFK Norrköping-Östersunds FK",
