@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Thu, 29 Oct 2026 19:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 20:28:43 GMT</lastBuildDate>
+    <item>
+      <title>126. Hej då Varböld, Nodick United och Dålige</title>
+      <link>https://soundcloud.com/user-154683921/126-hej-da-varboeld-nodick</link>
+      <guid isPermaLink="false">snokasnack-126-hej-da-varbold-nodick-united-och-dalige</guid>
+      <pubDate>Thu, 29 Oct 2026 20:28:43 GMT</pubDate>
+      <description>Ett helt vanligt avsnitt via videolänk. Vi snackar om avancemanget och blickar framåt med tillförsikt.</description>
+      <category>Snokasnack</category>
+    </item>
     <item>
       <title>Välkomnar Hellbergs intåg: &quot;Stor kunskapsbank&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/valkomnar-hellbergs-intag-stor-kunskapsbank/rxqyxxgj</link>
@@ -796,14 +804,6 @@
       <guid isPermaLink="false">sportbladet-jvmx4l-diamant-ifk-norrkoping-behovde-detta-blir-farligt-i-allsvenskan</guid>
       <pubDate>Tue, 13 Oct 2026 18:51:39 GMT</pubDate>
       <description>DIAMANT: Blir farligt 2027</description>
-      <category>Sportbladet</category>
-    </item>
-    <item>
-      <title>IFK Norrköping går upp till allsvenskan</title>
-      <link>https://www.aftonbladet.se/sportbladet/fotboll/a/8GXyGw/ifk-norrkoping-slog-gif-sundsvall-gar-upp-till-allsvenskan?utm_medium=rss</link>
-      <guid isPermaLink="false">sportbladet-8gxygw-ifk-norrkoping-slog-gif-sundsvall-gar-upp-till-allsvenskan</guid>
-      <pubDate>Tue, 13 Oct 2026 18:51:36 GMT</pubDate>
-      <description>Hjälte igen – 16 år senare ✓ Tillbaka</description>
       <category>Sportbladet</category>
     </item>
   </channel>

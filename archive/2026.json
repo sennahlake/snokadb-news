@@ -1,7 +1,44 @@
 {
   "year": 2026,
-  "itemCount": 759,
+  "itemCount": 760,
   "items": [
+    {
+      "id": "snokasnack-126-hej-da-varbold-nodick-united-och-dalige",
+      "title": "126. Hej då Varböld, Nodick United och Dålige",
+      "summary": "Ett helt vanligt avsnitt via videolänk. Vi snackar om avancemanget och blickar framåt med tillförsikt.",
+      "source": "Snokasnack",
+      "sourceUrl": "https://poddtoppen.se/podcast/1223781523/snokasnack",
+      "articleUrl": "https://soundcloud.com/user-154683921/126-hej-da-varboeld-nodick",
+      "publishedAt": "2026-10-29T20:28:43.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Snokasnack",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "snokasnack"
+    },
     {
       "id": "nt-valkomnar-hellbergs-intag-stor-kunskapsbank-rxqyxxgj",
       "title": "Välkomnar Hellbergs intåg: \"Stor kunskapsbank\"",
