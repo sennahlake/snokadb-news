@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T19:17:36.693Z",
-  "itemCount": 4683,
+  "generatedAt": "2026-10-31T12:17:52.505Z",
+  "itemCount": 4685,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 1,
+      "count": 2,
       "ok": true
     },
     {
@@ -66,6 +66,84 @@
     }
   ],
   "items": [
+    {
+      "id": "ifk-ifk-truppen-mot-ostersunds-fk-2",
+      "title": "IFK-truppen mot Östersunds FK",
+      "summary": "IFK-truppen mot Östersunds FK",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/ifk-truppen-mot-ostersunds-fk-2/",
+      "publishedAt": "2026-10-31T09:27:28.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla",
+          "IFK i rubrik"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "nt-ifk-jagar-poang-mot-ostersund-folj-matchen-har-rgo6yzej",
+      "title": "Säsongsavslutning på Parken – följ IFK:s match här",
+      "summary": "I säsongens sista hemmamatch gästar Östersund. Här kan du följa allt från IFK:s match.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-jagar-poang-mot-ostersund-folj-matchen-har/rgo6yzej",
+      "publishedAt": "2026-10-31T09:14:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-31",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-ifks-markforsaljning-tar-tid-inte-sa-att-vi-gar-pa-knana-rmw2528l",
       "title": "IFK:s markförsäljning tar tid: \"Inte så att vi går på knäna\"",

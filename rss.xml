@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Fri, 30 Oct 2026 19:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 09:27:28 GMT</lastBuildDate>
+    <item>
+      <title>IFK-truppen mot Östersunds FK</title>
+      <link>https://ifknorrkoping.se/ifk-truppen-mot-ostersunds-fk-2/</link>
+      <guid isPermaLink="false">ifk-ifk-truppen-mot-ostersunds-fk-2</guid>
+      <pubDate>Sat, 31 Oct 2026 09:27:28 GMT</pubDate>
+      <description>IFK-truppen mot Östersunds FK</description>
+      <category>IFK Norrköping</category>
+    </item>
+    <item>
+      <title>Säsongsavslutning på Parken – följ IFK:s match här</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-jagar-poang-mot-ostersund-folj-matchen-har/rgo6yzej</link>
+      <guid isPermaLink="false">nt-ifk-jagar-poang-mot-ostersund-folj-matchen-har-rgo6yzej</guid>
+      <pubDate>Sat, 31 Oct 2026 09:14:00 GMT</pubDate>
+      <description>I säsongens sista hemmamatch gästar Östersund. Här kan du följa allt från IFK:s match.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>IFK:s markförsäljning tar tid: &quot;Inte så att vi går på knäna&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/ifks-markforsaljning-tar-tid-inte-sa-att-vi-gar-pa-knana/rmw2528l</link>
@@ -789,22 +805,6 @@
       <pubDate>Tue, 13 Oct 2026 19:38:00 GMT</pubDate>
       <description>Dåtid och nutid på en och samma gång. Nu skiner nya hjältar klart i IFK Norrköpings historia.</description>
       <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Gjort narr av hela serien – hörde inte hemma här</title>
-      <link>https://www.expressen.se/sport/fotboll/allsvenskan/gjort-narr-av-hela-serien-horde-inte-hemma-har/</link>
-      <guid isPermaLink="false">sportexpressen-allsvenskan-gjort-narr-av-hela-serien-horde-inte-hemma-har</guid>
-      <pubDate>Tue, 13 Oct 2026 19:26:30 GMT</pubDate>
-      <description>IFK Norrköping borde aldrig ha spelat i superettan. Allt talar för att Eldar Abdulic unga lag blir en sevärdhet i allsvenskan.</description>
-      <category>SportExpressen</category>
-    </item>
-    <item>
-      <title>IFK Norrköping tillbaka i allsvenskan</title>
-      <link>https://www.expressen.se/sport/fotboll/superettan/ifk-norrkoping-tillbaka-i-allsvenskan/</link>
-      <guid isPermaLink="false">sportexpressen-superettan-ifk-norrkoping-tillbaka-i-allsvenskan</guid>
-      <pubDate>Tue, 13 Oct 2026 19:26:07 GMT</pubDate>
-      <description>Sejouren i superettan blev kortvarig. IFK Norrköping är tillbaka i allsvenskan. – Nu är vi hemma igen, säger Alexander Fransson i TV4.</description>
-      <category>SportExpressen</category>
     </item>
   </channel>
 </rss>
