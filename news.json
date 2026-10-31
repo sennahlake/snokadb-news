@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:17:52.505Z",
-  "itemCount": 4685,
+  "generatedAt": "2026-10-31T17:41:48.095Z",
+  "itemCount": 4689,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 2,
+      "count": 3,
       "ok": true
     },
     {
@@ -67,6 +67,163 @@
   ],
   "items": [
     {
+      "id": "nt-ifk-malvaktens-oklara-framtid-tolka-det-hur-ni-vill-rxqyx8gj",
+      "title": "IFK-målvaktens oklara framtid: \"Tolka det hur ni vill\"",
+      "summary": "Seriedebuten för IFK är avklarad. Blir det en fortsättning för Hugo Fagerberg?",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-malvaktens-oklara-framtid-tolka-det-hur-ni-vill/rxqyx8gj",
+      "publishedAt": "2026-10-31T16:08:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Hugo Fagerberg",
+          "slug": "hugo-fagerberg",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-31",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "ifk-rekordartat-farval-pa-parken-jag-kanner-bara-en-enorm-gladje",
+      "title": "Rekordartat farväl på Parken – “Jag känner bara en enorm glädje”",
+      "summary": "Rekordartat farväl på Parken – “Jag känner bara en enorm glädje”",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/rekordartat-farval-pa-parken-jag-kanner-bara-en-enorm-gladje/",
+      "publishedAt": "2026-10-31T16:00:23.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "nt-han-slog-alla-tiders-superettanrekord-enorm-gladje-r4933d5j",
+      "title": "Han slog alla tiders superettanrekord: \"Enorm glädje\"",
+      "summary": "Noel Sernelius har avböjt intresse från MLS, enligt NT:s uppgifter. Nu är han superettans främste assistmakare – någonsin. – En spelare som verkligen har det lilla extra, säger Moutaz Neffati, som sköt in det speciella målet.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/han-slog-alla-tiders-superettanrekord-enorm-gladje/r4933d5j",
+      "publishedAt": "2026-10-31T15:42:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Moutaz Neffati",
+          "slug": "moutaz-neffati",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        },
+        {
+          "name": "Noel Sernelius",
+          "slug": "noel-sernelius",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-31",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
       "id": "ifk-ifk-truppen-mot-ostersunds-fk-2",
       "title": "IFK-truppen mot Östersunds FK",
       "summary": "IFK-truppen mot Östersunds FK",
@@ -107,6 +264,50 @@
       "source": "Norrköpings Tidningar",
       "sourceUrl": "https://www.nt.se/sport/fotboll",
       "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-jagar-poang-mot-ostersund-folj-matchen-har/rgo6yzej",
+      "publishedAt": "2026-10-31T09:14:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-10-31",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-ifk-showade-i-arets-sista-hemmamatch-rgo6yzej",
+      "title": "Säsongsavslutning på Parken – så var IFK:s match",
+      "summary": "IFK vann med 3–0 mot Östersund. Här kan du läsa vår liverapportering i efterhand.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-showade-i-arets-sista-hemmamatch/rgo6yzej",
       "publishedAt": "2026-10-31T09:14:00.000Z",
       "category": "Lokal",
       "tags": [
