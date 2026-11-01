@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T17:41:48.095Z",
-  "itemCount": 4689,
+  "generatedAt": "2026-11-01T19:37:17.308Z",
+  "itemCount": 4690,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 3,
+      "count": 0,
       "ok": true
     },
     {
@@ -66,6 +66,39 @@
     }
   ],
   "items": [
+    {
+      "id": "ifk-matilda-tillbaka-pa-skansk-mark-vi-har-en-stark-kansla-i-laget-nu",
+      "title": "Matilda tillbaka på skånsk mark – “Vi har en stark känsla i laget nu”",
+      "summary": "Matilda tillbaka på skånsk mark – “Vi har en stark känsla i laget nu”",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/matilda-tillbaka-pa-skansk-mark-vi-har-en-stark-kansla-i-laget-nu/",
+      "publishedAt": "2026-11-01T17:22:11.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
     {
       "id": "nt-ifk-malvaktens-oklara-framtid-tolka-det-hur-ni-vill-rxqyx8gj",
       "title": "IFK-målvaktens oklara framtid: \"Tolka det hur ni vill\"",

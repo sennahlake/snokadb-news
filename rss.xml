@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sat, 31 Oct 2026 16:08:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 17:22:11 GMT</lastBuildDate>
+    <item>
+      <title>Matilda tillbaka på skånsk mark – “Vi har en stark känsla i laget nu”</title>
+      <link>https://ifknorrkoping.se/matilda-tillbaka-pa-skansk-mark-vi-har-en-stark-kansla-i-laget-nu/</link>
+      <guid isPermaLink="false">ifk-matilda-tillbaka-pa-skansk-mark-vi-har-en-stark-kansla-i-laget-nu</guid>
+      <pubDate>Sun, 01 Nov 2026 17:22:11 GMT</pubDate>
+      <description>Matilda tillbaka på skånsk mark – “Vi har en stark känsla i laget nu”</description>
+      <category>IFK Norrköping</category>
+    </item>
     <item>
       <title>IFK-målvaktens oklara framtid: &quot;Tolka det hur ni vill&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/ifk-malvaktens-oklara-framtid-tolka-det-hur-ni-vill/rxqyx8gj</link>
@@ -797,14 +805,6 @@
       <pubDate>Tue, 13 Oct 2026 21:24:43 GMT</pubDate>
       <description>Christoffer Nyman ordnade återtåget till allsvenskan. Två mål och två assist när avancemanget säkrades och lagkamraterna finner knappt ord för ikonens betydelse. – Han är den största spelaren i IFK:s historia, det är inte svårare än så, säger Axel Brönner till SVT Sport.</description>
       <category>SVT</category>
-    </item>
-    <item>
-      <title>Extraöppet i Norrköping: ”Vi ska ut!”</title>
-      <link>https://www.aftonbladet.se/sportbladet/fotboll/a/OgakG3/sa-ska-ifk-norrkoping-fira-allsvenskt-avancemang?utm_medium=rss</link>
-      <guid isPermaLink="false">sportbladet-ogakg3-sa-ska-ifk-norrkoping-fira-allsvenskt-avancemang</guid>
-      <pubDate>Tue, 13 Oct 2026 21:22:20 GMT</pubDate>
-      <description>Tränaren vill inte med ✓ Köpte ananas</description>
-      <category>Sportbladet</category>
     </item>
   </channel>
 </rss>
