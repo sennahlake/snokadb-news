@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T15:40:39.635Z",
-  "itemCount": 4695,
+  "generatedAt": "2026-11-02T23:28:15.977Z",
+  "itemCount": 4699,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,12 +10,12 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 2,
+      "count": 3,
       "ok": true
     },
     {
       "source": "FotbollDirekt",
-      "count": 0,
+      "count": 1,
       "ok": true
     },
     {
@@ -67,6 +67,130 @@
   ],
   "items": [
     {
+      "id": "ifk-karlernas-efter-krysset-i-malmo-det-ar-trots-allt-en-bra-prestation",
+      "title": "Karlernäs efter krysset i Malmö: “Det är trots allt en bra prestation”",
+      "summary": "Karlernäs efter krysset i Malmö: “Det är trots allt en bra prestation”",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/karlernas-efter-krysset-i-malmo-det-ar-trots-allt-en-bra-prestation/",
+      "publishedAt": "2026-11-02T21:08:18.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "nt-hjerns-tuffa-slut-det-ar-valdigt-brutalt-att-vara-malvakt-jn3m820r",
+      "title": "Hjerns tuffa slut: \"Det är väldigt brutalt att vara målvakt\"",
+      "summary": "Hon fick uppleva det brutalaste med att vara målvakt. Efteråt kom alla känslorna på en och samma gång. – Jag känner mig inte ensam i det utan har ett otroligt lag som stöttar mig, sa Sofia Hjern om straffen hon orsakade på övertid.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/hjerns-tuffa-slut-det-ar-valdigt-brutalt-att-vara-malvakt/jn3m820r",
+      "publishedAt": "2026-11-02T20:38:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Sofia Hjern",
+          "slug": "sofia-hjern",
+          "side": "Dam",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-02",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "fotbolldirekt-damallsvenskan-peking-tog-viktig-poang-i-bottenstriden-kryssade-mot-mff",
+      "title": "Peking tog viktig poäng i bottenstriden – kryssade mot MFF",
+      "summary": "Malmö FF tog emot IFK Norrköping under måndagskvällen. Då kunde ”Peking” ta ett livsviktigt poäng i bottenstriden när man kryssade mot MFF. Malmö FF ligger på en stabil tredjeplats i damallsvenskan. IFK Norrköping låg på kvalplats inför måndagens match. Dessa två lag drabbades samman under kvällen och Malmö FF var nära en plump i protokollet. […] The post Peking tog viktig poäng i bottenstriden – ",
+      "source": "FotbollDirekt",
+      "sourceUrl": "https://fotbolldirekt.se/",
+      "articleUrl": "https://fotbolldirekt.se/damallsvenskan/peking-tog-viktig-poang-i-bottenstriden-kryssade-mot-mff/",
+      "publishedAt": "2026-11-02T19:23:22.000Z",
+      "category": "Nyhet",
+      "tags": [
+        "Extern originalkälla",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "FotbollDirekt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK i rubrik"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "fotbolldirekt"
+    },
+    {
       "id": "nt-viktig-kvall-for-ifk-i-bottenkampen-folj-motet-i-malmo-har-lw6y7zwj",
       "title": "Viktig kväll för IFK i bottenkampen – följ mötet i Malmö här",
       "summary": "IFK fortsätter jakten på att säkra kontraktet i damallsvenskan. Ikväll väntar bortamöte med Malmö FF. Vi rapporterar direkt från matchen här.",
@@ -79,6 +203,50 @@
         "Extern originalkälla",
         "Lokal",
         "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-02",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-ifk-tappade-poang-malmo-kvitterade-sent-lw6y7zwj",
+      "title": "IFK tappade poäng – Malmö kvitterade sent",
+      "summary": "IFK var nära att vinna mot Malmö FF, men i den 93:e minuten kvitterade hemmalaget. Vi rapporterade direkt från matchen här.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-tappade-poang-malmo-kvitterade-sent/lw6y7zwj",
+      "publishedAt": "2026-11-02T14:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
       ],
       "keywords": [
         "IFK Norrköping",
