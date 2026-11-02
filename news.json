@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T19:37:17.308Z",
-  "itemCount": 4690,
+  "generatedAt": "2026-11-02T15:40:39.635Z",
+  "itemCount": 4695,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 0,
+      "count": 2,
       "ok": true
     },
     {
@@ -66,6 +66,208 @@
     }
   ],
   "items": [
+    {
+      "id": "nt-viktig-kvall-for-ifk-i-bottenkampen-folj-motet-i-malmo-har-lw6y7zwj",
+      "title": "Viktig kväll för IFK i bottenkampen – följ mötet i Malmö här",
+      "summary": "IFK fortsätter jakten på att säkra kontraktet i damallsvenskan. Ikväll väntar bortamöte med Malmö FF. Vi rapporterar direkt från matchen här.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/viktig-kvall-for-ifk-i-bottenkampen-folj-motet-i-malmo-har/lw6y7zwj",
+      "publishedAt": "2026-11-02T14:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-02",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "ifk-arskort-2027-vi-kom-hem-men-vi-ar-inte-framme",
+      "title": "Årskort 2027: Vi kom hem – men vi är inte framme",
+      "summary": "Årskort 2027: Vi kom hem – men vi är inte framme",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/arskort-2027-vi-kom-hem-men-vi-ar-inte-framme/",
+      "publishedAt": "2026-11-02T10:58:44.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "ifk-truppen-mot-malmo-ff-16",
+      "title": "Truppen mot Malmö FF",
+      "summary": "Truppen mot Malmö FF",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/truppen-mot-malmo-ff-16/",
+      "publishedAt": "2026-11-02T10:56:19.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "ifk-kamraternas-traningsvecka-50",
+      "title": "Kamraternas träningsvecka",
+      "summary": "Kamraternas träningsvecka",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/kamraternas-traningsvecka-50/",
+      "publishedAt": "2026-11-02T08:39:14.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "nt-ifkarens-kansloladdade-mote-mot-mff-blir-speciellt-jdq2nnxr",
+      "title": "IFK:arens känsloladdade möte mot MFF: \"Blir speciellt\"",
+      "summary": "I våras rörde Matilda Kristell upp känslor i MFF-lägret. På måndag återvänder hon till klubben som inte såg henne i sina framtidsplaner. – Jag lärde mig jättemycket av den tiden, säger IFK-spelaren.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifkarens-kansloladdade-mote-mot-mff-blir-speciellt/jdq2nnxr",
+      "publishedAt": "2026-11-02T06:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Matilda Kristell",
+          "slug": "matilda-kristell",
+          "side": "Dam",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-02",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "ifk-matilda-tillbaka-pa-skansk-mark-vi-har-en-stark-kansla-i-laget-nu",
       "title": "Matilda tillbaka på skånsk mark – “Vi har en stark känsla i laget nu”",
