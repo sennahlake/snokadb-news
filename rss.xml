@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Mon, 02 Nov 2026 21:08:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 03:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Faktorerna bakom trendbrottet: &quot;Det säger jäkligt mycket&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/faktorerna-bakom-trendbrottet-det-sager-jakligt-mycket/rxqyv4gj</link>
+      <guid isPermaLink="false">nt-faktorerna-bakom-trendbrottet-det-sager-jakligt-mycket-rxqyv4gj</guid>
+      <pubDate>Tue, 03 Nov 2026 03:00:00 GMT</pubDate>
+      <description>Ebba Handfast hyllar kollektivet och sista utposten. – Sofia har fått oförtjänt mycket skit, säger mittbacken.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Karlernäs efter krysset i Malmö: “Det är trots allt en bra prestation”</title>
       <link>https://ifknorrkoping.se/karlernas-efter-krysset-i-malmo-det-ar-trots-allt-en-bra-prestation/</link>
@@ -797,14 +805,6 @@
       <pubDate>Thu, 15 Oct 2026 18:00:32 GMT</pubDate>
       <description>Algot Hjelms lyckliga vecka – allsvensk, 18 år och A-lagskontrakt</description>
       <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Mitt bland alla IFK-hjärtan finns en som vunnit många</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/mitt-bland-alla-ifk-hjartan-finns-en-som-vunnit-manga/rxqm46kj</link>
-      <guid isPermaLink="false">nt-mitt-bland-alla-ifk-hjartan-finns-en-som-vunnit-manga-rxqm46kj</guid>
-      <pubDate>Thu, 15 Oct 2026 18:00:00 GMT</pubDate>
-      <description>IFK Norrköping är tillbaka i allsvenskan. Det finns många med en stark historisk koppling. Det finns en klubbikon som aldrig slutar att vara unik. Men här sitter jag och tänker på en 29-årig britt.</description>
-      <category>Norrköpings Tidningar</category>
     </item>
   </channel>
 </rss>

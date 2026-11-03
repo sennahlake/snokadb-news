@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T23:28:15.977Z",
-  "itemCount": 4699,
+  "generatedAt": "2026-11-03T06:40:59.266Z",
+  "itemCount": 4700,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -66,6 +66,63 @@
     }
   ],
   "items": [
+    {
+      "id": "nt-faktorerna-bakom-trendbrottet-det-sager-jakligt-mycket-rxqyv4gj",
+      "title": "Faktorerna bakom trendbrottet: \"Det säger jäkligt mycket\"",
+      "summary": "Ebba Handfast hyllar kollektivet och sista utposten. – Sofia har fått oförtjänt mycket skit, säger mittbacken.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/faktorerna-bakom-trendbrottet-det-sager-jakligt-mycket/rxqyv4gj",
+      "publishedAt": "2026-11-03T03:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Ebba Handfast",
+          "slug": "ebba-handfast",
+          "side": "Dam",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-03",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "ifk-karlernas-efter-krysset-i-malmo-det-ar-trots-allt-en-bra-prestation",
       "title": "Karlernäs efter krysset i Malmö: “Det är trots allt en bra prestation”",
