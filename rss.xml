@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Tue, 03 Nov 2026 03:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 12:11:06 GMT</lastBuildDate>
+    <item>
+      <title>Rum 468</title>
+      <link>https://pod.space/studiopeking/rum-468</link>
+      <guid isPermaLink="false">studio-peking-rum-468</guid>
+      <pubDate>Tue, 03 Nov 2026 12:11:06 GMT</pubDate>
+      <description>Från ett hotell i Malmö diskuterar Christer Gustafson och Eric Persson senaste nytt från IFK-lägret. Damernas gastkramande slutstrid, Stefan Hellbergs påverkan och veteranens nytta. Dessutom svåra Christoffer Nyman-ekvationen.</description>
+      <category>Studio Peking</category>
+    </item>
     <item>
       <title>Faktorerna bakom trendbrottet: &quot;Det säger jäkligt mycket&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/faktorerna-bakom-trendbrottet-det-sager-jakligt-mycket/rxqyv4gj</link>
@@ -797,14 +805,6 @@
       <pubDate>Thu, 15 Oct 2026 19:06:00 GMT</pubDate>
       <description>På bara tre dagar fick Algot Hjelm uppleva mer än många gör på flera år. IFK Norrköping säkrade allsvenskt spel, han fyllde 18 år och på torsdagen skrev han sitt första A-lagskontrakt.</description>
       <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Algot Hjelms lyckliga vecka – allsvensk, 18 år och A-lagskontrakt</title>
-      <link>https://ifknorrkoping.se/algot-hjelms-lyckliga-vecka-allsvensk-18-ar-och-a-lagskontrakt/</link>
-      <guid isPermaLink="false">ifk-algot-hjelms-lyckliga-vecka-allsvensk-18-ar-och-a-lagskontrakt</guid>
-      <pubDate>Thu, 15 Oct 2026 18:00:32 GMT</pubDate>
-      <description>Algot Hjelms lyckliga vecka – allsvensk, 18 år och A-lagskontrakt</description>
-      <category>IFK Norrköping</category>
     </item>
   </channel>
 </rss>

@@ -1,7 +1,58 @@
 {
   "year": 2026,
-  "itemCount": 782,
+  "itemCount": 783,
   "items": [
+    {
+      "id": "studio-peking-rum-468",
+      "title": "Rum 468",
+      "summary": "Från ett hotell i Malmö diskuterar Christer Gustafson och Eric Persson senaste nytt från IFK-lägret. Damernas gastkramande slutstrid, Stefan Hellbergs påverkan och veteranens nytta. Dessutom svåra Christoffer Nyman-ekvationen.",
+      "source": "Studio Peking",
+      "sourceUrl": "https://poddtoppen.se/podcast/1738623973/studio-peking",
+      "articleUrl": "https://pod.space/studiopeking/rum-468",
+      "publishedAt": "2026-11-03T12:11:06.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Studio Peking",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 94,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd",
+          "IFK i artikel-URL",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Christoffer Nyman",
+          "slug": "christoffer-nyman",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "studio-peking"
+    },
     {
       "id": "nt-faktorerna-bakom-trendbrottet-det-sager-jakligt-mycket-rxqyv4gj",
       "title": "Faktorerna bakom trendbrottet: \"Det säger jäkligt mycket\"",
