@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Tue, 03 Nov 2026 12:11:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 04:00:00 GMT</lastBuildDate>
+    <item>
+      <title>IFK:s karaktärstest i pressade läget: &quot;Med om något stort&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifks-karaktarstest-i-pressade-laget-med-om-nagot-stort/jo50wpyl</link>
+      <guid isPermaLink="false">nt-ifks-karaktarstest-i-pressade-laget-med-om-nagot-stort-jo50wpyl</guid>
+      <pubDate>Wed, 04 Nov 2026 04:00:00 GMT</pubDate>
+      <description>Många samtal, knutna nävar och en trupp som har bestämt sig för att försöka lösa det svåra läget. – Vi har jobbat otroligt hårt för det, konstaterade mittfältaren Julia Karlernäs.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Rum 468</title>
       <link>https://pod.space/studiopeking/rum-468</link>
@@ -797,14 +805,6 @@
       <pubDate>Fri, 16 Oct 2026 04:05:00 GMT</pubDate>
       <description>Podden är tillbaka och nu officiellt som en allsvensk-podd 2027!! Hyllningarnas avsnitt! Ett försök till monolog! Är Ryan Nelson 167 eller 162 egentligen? Krossen av GIF Sundsvall! Dagen i helhet! Hur dricker Andre sitt kaffe? Moutaz Neffati relation till Pontahontas! Dags för Jurelius att ta på sig lusekoftan! Eldar Abdulic! 2 plus intervjuer från innerplan i slutet! Planstormningen! Avstängninga</description>
       <category>Gate Upp och Gate Ner</category>
-    </item>
-    <item>
-      <title>18-åring skriver femårskontrakt med IFK Norrköping</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/algot-hjelm-skriver-femarskontrakt-med-ifk-norrkoping/jp9d96kl</link>
-      <guid isPermaLink="false">nt-algot-hjelm-skriver-femarskontrakt-med-ifk-norrkoping-jp9d96kl</guid>
-      <pubDate>Thu, 15 Oct 2026 19:06:00 GMT</pubDate>
-      <description>På bara tre dagar fick Algot Hjelm uppleva mer än många gör på flera år. IFK Norrköping säkrade allsvenskt spel, han fyllde 18 år och på torsdagen skrev han sitt första A-lagskontrakt.</description>
-      <category>Norrköpings Tidningar</category>
     </item>
   </channel>
 </rss>

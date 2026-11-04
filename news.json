@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T15:03:48.490Z",
-  "itemCount": 4701,
+  "generatedAt": "2026-11-04T09:04:19.722Z",
+  "itemCount": 4702,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 2,
+      "count": 1,
       "ok": true
     },
     {
@@ -66,6 +66,63 @@
     }
   ],
   "items": [
+    {
+      "id": "nt-ifks-karaktarstest-i-pressade-laget-med-om-nagot-stort-jo50wpyl",
+      "title": "IFK:s karaktärstest i pressade läget: \"Med om något stort\"",
+      "summary": "Många samtal, knutna nävar och en trupp som har bestämt sig för att försöka lösa det svåra läget. – Vi har jobbat otroligt hårt för det, konstaterade mittfältaren Julia Karlernäs.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifks-karaktarstest-i-pressade-laget-med-om-nagot-stort/jo50wpyl",
+      "publishedAt": "2026-11-04T04:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Julia Karlernäs",
+          "slug": "julia-karlernas",
+          "side": "Dam",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-04",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "studio-peking-rum-468",
       "title": "Rum 468",
