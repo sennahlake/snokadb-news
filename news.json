@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T09:04:19.722Z",
-  "itemCount": 4702,
+  "generatedAt": "2026-11-04T17:10:36.402Z",
+  "itemCount": 4703,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -15,7 +15,7 @@
     },
     {
       "source": "FotbollDirekt",
-      "count": 1,
+      "count": 0,
       "ok": true
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "source": "Genom Ljuva Livet",
-      "count": 202,
+      "count": 203,
       "ok": true
     },
     {
@@ -66,6 +66,43 @@
     }
   ],
   "items": [
+    {
+      "id": "genom-ljuva-livet-203-arets-fest",
+      "title": "203. Årets fest!",
+      "summary": "Vi snackar ner ännu en mysig match, denna gång hemma mot Östersund! Dessutom snackar vi upp ännu en förmodad fest, denna gång borta mot Värnamo! Aleksanjan! Brönner! Ture! Neffati! Sigurgeirsson? Köp biljett och häng på årets party i helgen",
+      "source": "Genom Ljuva Livet",
+      "sourceUrl": "https://poddtoppen.se/podcast/1728458754/genom-ljuva-livet",
+      "articleUrl": "https://pod.space/genomljuvalivet/203-arets-fest",
+      "publishedAt": "2026-11-04T12:12:57.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Genom Ljuva Livet",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "genom-ljuva-livet"
+    },
     {
       "id": "nt-ifks-karaktarstest-i-pressade-laget-med-om-nagot-stort-jo50wpyl",
       "title": "IFK:s karaktärstest i pressade läget: \"Med om något stort\"",

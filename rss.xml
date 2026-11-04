@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Wed, 04 Nov 2026 04:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 12:12:57 GMT</lastBuildDate>
+    <item>
+      <title>203. Årets fest!</title>
+      <link>https://pod.space/genomljuvalivet/203-arets-fest</link>
+      <guid isPermaLink="false">genom-ljuva-livet-203-arets-fest</guid>
+      <pubDate>Wed, 04 Nov 2026 12:12:57 GMT</pubDate>
+      <description>Vi snackar ner ännu en mysig match, denna gång hemma mot Östersund! Dessutom snackar vi upp ännu en förmodad fest, denna gång borta mot Värnamo! Aleksanjan! Brönner! Ture! Neffati! Sigurgeirsson? Köp biljett och häng på årets party i helgen</description>
+      <category>Genom Ljuva Livet</category>
+    </item>
     <item>
       <title>IFK:s karaktärstest i pressade läget: &quot;Med om något stort&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/ifks-karaktarstest-i-pressade-laget-med-om-nagot-stort/jo50wpyl</link>
@@ -797,14 +805,6 @@
       <pubDate>Fri, 16 Oct 2026 05:00:00 GMT</pubDate>
       <description>IFK hittade honom i en norsk fyndlåda. Nästa år ämnar Aleksander Opsahl visa upp sig för den allsvenska publiken. – Det är så stort att jag nästan börjar gråta, säger han.</description>
       <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>#298:&quot;Här är Peking fanz på turné 2.0!&quot;</title>
-      <link>https://podcasters.spotify.com/pod/show/gate-upp-och-gate-ner/episodes/298Hr-r-Peking-fanz-p-turn-2-0-e3qir6d</link>
-      <guid isPermaLink="false">gate-upp-gate-ner-298-har-ar-peking-fanz-pa-turne-2-0</guid>
-      <pubDate>Fri, 16 Oct 2026 04:05:00 GMT</pubDate>
-      <description>Podden är tillbaka och nu officiellt som en allsvensk-podd 2027!! Hyllningarnas avsnitt! Ett försök till monolog! Är Ryan Nelson 167 eller 162 egentligen? Krossen av GIF Sundsvall! Dagen i helhet! Hur dricker Andre sitt kaffe? Moutaz Neffati relation till Pontahontas! Dags för Jurelius att ta på sig lusekoftan! Eldar Abdulic! 2 plus intervjuer från innerplan i slutet! Planstormningen! Avstängninga</description>
-      <category>Gate Upp och Gate Ner</category>
     </item>
   </channel>
 </rss>
