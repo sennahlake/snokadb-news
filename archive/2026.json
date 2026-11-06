@@ -1,7 +1,52 @@
 {
   "year": 2026,
-  "itemCount": 789,
+  "itemCount": 790,
   "items": [
+    {
+      "id": "nt-ifk-truppens-sista-resa-ihop-en-sjal-man-kan-ta-pa-rky16zxj",
+      "title": "IFK-truppens sista resa: \"En själ man kan ta på\"",
+      "summary": "Flera har pratat om att IFK-truppen 2026 har något extra. Under fredagen ger sig laget av på säsongens sista färd tillsammans. – Jag tror också att jag kommer börja känna det känslosamma i att det är sista bortaresan vi gör ihop, säger Eldar Abdulic.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-truppens-sista-resa-ihop-en-sjal-man-kan-ta-pa/rky16zxj",
+      "publishedAt": "2026-11-06T17:30:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i rubrik"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-06",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "ifk-schema-for-sasongens-sista-match-och-firandet",
       "title": "Schema för säsongens sista match och firandet",

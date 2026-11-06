@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Fri, 06 Nov 2026 13:08:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 17:30:00 GMT</lastBuildDate>
+    <item>
+      <title>IFK-truppens sista resa: &quot;En själ man kan ta på&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-truppens-sista-resa-ihop-en-sjal-man-kan-ta-pa/rky16zxj</link>
+      <guid isPermaLink="false">nt-ifk-truppens-sista-resa-ihop-en-sjal-man-kan-ta-pa-rky16zxj</guid>
+      <pubDate>Fri, 06 Nov 2026 17:30:00 GMT</pubDate>
+      <description>Flera har pratat om att IFK-truppen 2026 har något extra. Under fredagen ger sig laget av på säsongens sista färd tillsammans. – Jag tror också att jag kommer börja känna det känslosamma i att det är sista bortaresan vi gör ihop, säger Eldar Abdulic.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Schema för säsongens sista match och firandet</title>
       <link>https://ifknorrkoping.se/schema-for-sasongens-sista-match-och-firandet/</link>
@@ -797,14 +805,6 @@
       <pubDate>Sat, 17 Oct 2026 10:00:00 GMT</pubDate>
       <description>Mål på övertid — IFK tog viktiga poäng i matchen mot Eskilstuna på söndagen.</description>
       <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Truppen mot Eskilstuna United</title>
-      <link>https://ifknorrkoping.se/truppen-mot-eskilstuna-united-5/</link>
-      <guid isPermaLink="false">ifk-truppen-mot-eskilstuna-united-5</guid>
-      <pubDate>Sat, 17 Oct 2026 08:59:39 GMT</pubDate>
-      <description>Truppen mot Eskilstuna United</description>
-      <category>IFK Norrköping</category>
     </item>
   </channel>
 </rss>
