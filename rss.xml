@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Thu, 05 Nov 2026 21:14:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 03:00:00 GMT</lastBuildDate>
+    <item>
+      <title>&quot;IFK-spelaren börjar se ut som fjolårets nyckelpjäs igen&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-spelaren-borjar-se-ut-som-fjolarets-nyckelpjas-igen/r5p7d8nj</link>
+      <guid isPermaLink="false">nt-ifk-spelaren-borjar-se-ut-som-fjolarets-nyckelpjas-igen-r5p7d8nj</guid>
+      <pubDate>Fri, 06 Nov 2026 03:00:00 GMT</pubDate>
+      <description>Försvarsretorik, derby della Popperyd och spelare som steppat upp. Eric Persson och Christer Gustafson, reportrar och krönikörer på NT, svarar på tre frågor om det damallsvenska bottendramat.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>#299:&quot;Det här är mitt PEKING!&quot;</title>
       <link>https://podcasters.spotify.com/pod/show/gate-upp-och-gate-ner/episodes/299Det-hr-r-mitt-PEKING-e3rrieg</link>
@@ -797,14 +805,6 @@
       <pubDate>Fri, 16 Oct 2026 15:00:00 GMT</pubDate>
       <description>IK Uppsala lägger efter säsongen ner sin verksamhet. Dennis Popperyd är inte förvånad. – Det är väldigt, väldigt tråkigt, säger IFK:s sportchef.</description>
       <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Inför Eskilstuna med Braam och Broddner Klingspor: “vi vill mer”</title>
-      <link>https://ifknorrkoping.se/infor-eskilstuna-med-braam-och-broddner-klingspor-vi-vill-mer/</link>
-      <guid isPermaLink="false">ifk-infor-eskilstuna-med-braam-och-broddner-klingspor-vi-vill-mer</guid>
-      <pubDate>Fri, 16 Oct 2026 14:33:51 GMT</pubDate>
-      <description>Inför Eskilstuna med Braam och Broddner Klingspor: “vi vill mer”</description>
-      <category>IFK Norrköping</category>
     </item>
   </channel>
 </rss>

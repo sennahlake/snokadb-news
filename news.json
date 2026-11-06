@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T01:30:10.601Z",
-  "itemCount": 4704,
+  "generatedAt": "2026-11-06T09:18:47.747Z",
+  "itemCount": 4705,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 0,
+      "count": 1,
       "ok": true
     },
     {
@@ -66,6 +66,51 @@
     }
   ],
   "items": [
+    {
+      "id": "nt-ifk-spelaren-borjar-se-ut-som-fjolarets-nyckelpjas-igen-r5p7d8nj",
+      "title": "\"IFK-spelaren börjar se ut som fjolårets nyckelpjäs igen\"",
+      "summary": "Försvarsretorik, derby della Popperyd och spelare som steppat upp. Eric Persson och Christer Gustafson, reportrar och krönikörer på NT, svarar på tre frågor om det damallsvenska bottendramat.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-spelaren-borjar-se-ut-som-fjolarets-nyckelpjas-igen/r5p7d8nj",
+      "publishedAt": "2026-11-06T03:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i rubrik"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-06",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "gate-upp-gate-ner-299-det-har-ar-mitt-peking",
       "title": "#299:\"Det här är mitt PEKING!\"",
