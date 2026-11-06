@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Fri, 06 Nov 2026 03:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 13:08:14 GMT</lastBuildDate>
+    <item>
+      <title>Schema för säsongens sista match och firandet</title>
+      <link>https://ifknorrkoping.se/schema-for-sasongens-sista-match-och-firandet/</link>
+      <guid isPermaLink="false">ifk-schema-for-sasongens-sista-match-och-firandet</guid>
+      <pubDate>Fri, 06 Nov 2026 13:08:14 GMT</pubDate>
+      <description>Schema för säsongens sista match och firandet</description>
+      <category>IFK Norrköping</category>
+    </item>
+    <item>
+      <title>Så ser IFK:s festplaner ut: Krunegård gästar</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/krunegard-pa-parken-firar-ifk-riktig-pangkvall/r0eg29dj</link>
+      <guid isPermaLink="false">nt-krunegard-pa-parken-firar-ifk-riktig-pangkvall-r0eg29dj</guid>
+      <pubDate>Fri, 06 Nov 2026 10:50:00 GMT</pubDate>
+      <description>Avancemanget ska firas. Då får IFK besök av Markus Krunegård. – Det kan bli en riktig pangkväll, säger IFK:s Fabian Jansson.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>&quot;IFK-spelaren börjar se ut som fjolårets nyckelpjäs igen&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/ifk-spelaren-borjar-se-ut-som-fjolarets-nyckelpjas-igen/r5p7d8nj</link>
@@ -789,22 +805,6 @@
       <pubDate>Sat, 17 Oct 2026 08:59:39 GMT</pubDate>
       <description>Truppen mot Eskilstuna United</description>
       <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Stora hyllningar till IFK-tränaren: &quot;Han har förändrat klubben&quot;</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/stora-hyllningar-till-ifk-tranaren-han-har-forandrat-klubben/r35gvmkj</link>
-      <guid isPermaLink="false">nt-stora-hyllningar-till-ifk-tranaren-han-har-forandrat-klubben-r35gvmkj</guid>
-      <pubDate>Fri, 16 Oct 2026 18:00:00 GMT</pubDate>
-      <description>Vägvisaren stod bakom Eldar Abdulic när det gick trögt. Det är ett av flera nyckelmoment under säsongen då vinden vände. – Bästa tränaren jag haft, säger Theo Krantz. – En resa som få hade kunnat göra, säger Moutaz Neffati.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>IFK-bossens reaktion på beskedet: &quot;Jättetråkigt&quot;</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/ifk-bossens-reaktion-pa-beskedet-jattetrakigt/r9mx3dml</link>
-      <guid isPermaLink="false">nt-ifk-bossens-reaktion-pa-beskedet-jattetrakigt-r9mx3dml</guid>
-      <pubDate>Fri, 16 Oct 2026 15:00:00 GMT</pubDate>
-      <description>IK Uppsala lägger efter säsongen ner sin verksamhet. Dennis Popperyd är inte förvånad. – Det är väldigt, väldigt tråkigt, säger IFK:s sportchef.</description>
-      <category>Norrköpings Tidningar</category>
     </item>
   </channel>
 </rss>
