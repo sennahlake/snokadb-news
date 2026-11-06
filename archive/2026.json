@@ -1,7 +1,46 @@
 {
   "year": 2026,
-  "itemCount": 785,
+  "itemCount": 786,
   "items": [
+    {
+      "id": "gate-upp-gate-ner-299-det-har-ar-mitt-peking",
+      "title": "#299:\"Det här är mitt PEKING!\"",
+      "summary": "#299:\"Det här är mitt PEKING!\"",
+      "source": "Gate Upp och Gate Ner",
+      "sourceUrl": "https://poddtoppen.se/podcast/1619327870/gate-upp-gate-ner",
+      "articleUrl": "https://podcasters.spotify.com/pod/show/gate-upp-och-gate-ner/episodes/299Det-hr-r-mitt-PEKING-e3rrieg",
+      "publishedAt": "2026-11-05T21:14:09.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Gate Upp och Gate Ner",
+        "GUGN",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd",
+          "IFK i rubrik"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "gate-upp-gate-ner"
+    },
     {
       "id": "genom-ljuva-livet-203-arets-fest",
       "title": "203. Årets fest!",

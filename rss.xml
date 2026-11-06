@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Wed, 04 Nov 2026 12:12:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 21:14:09 GMT</lastBuildDate>
+    <item>
+      <title>#299:&quot;Det här är mitt PEKING!&quot;</title>
+      <link>https://podcasters.spotify.com/pod/show/gate-upp-och-gate-ner/episodes/299Det-hr-r-mitt-PEKING-e3rrieg</link>
+      <guid isPermaLink="false">gate-upp-gate-ner-299-det-har-ar-mitt-peking</guid>
+      <pubDate>Thu, 05 Nov 2026 21:14:09 GMT</pubDate>
+      <description>#299:&quot;Det här är mitt PEKING!&quot;</description>
+      <category>Gate Upp och Gate Ner</category>
+    </item>
     <item>
       <title>203. Årets fest!</title>
       <link>https://pod.space/genomljuvalivet/203-arets-fest</link>
@@ -797,14 +805,6 @@
       <pubDate>Fri, 16 Oct 2026 14:33:51 GMT</pubDate>
       <description>Inför Eskilstuna med Braam och Broddner Klingspor: “vi vill mer”</description>
       <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Jättefyndet: &quot;Ser ingen anledning att lämna&quot;</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/jattefyndet-ser-ingen-anledning-att-lamna/r49owk1j</link>
-      <guid isPermaLink="false">nt-jattefyndet-ser-ingen-anledning-att-lamna-r49owk1j</guid>
-      <pubDate>Fri, 16 Oct 2026 05:00:00 GMT</pubDate>
-      <description>IFK hittade honom i en norsk fyndlåda. Nästa år ämnar Aleksander Opsahl visa upp sig för den allsvenska publiken. – Det är så stort att jag nästan börjar gråta, säger han.</description>
-      <category>Norrköpings Tidningar</category>
     </item>
   </channel>
 </rss>
