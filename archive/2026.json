@@ -1,7 +1,51 @@
 {
   "year": 2026,
-  "itemCount": 790,
+  "itemCount": 791,
   "items": [
+    {
+      "id": "nt-live-ifk-stanger-sasongen-folj-matchen-mot-varnamo-rgo6vm7j",
+      "title": "LIVE: IFK stänger säsongen – följ matchen mot Värnamo",
+      "summary": "Säsongens sista match. Då väntar ett stort bortafölje och fest på hemresan. Följ allt från säsongsavslutningen i Värnamo.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/live-ifk-stanger-sasongen-folj-matchen-mot-varnamo/rgo6vm7j",
+      "publishedAt": "2026-11-07T05:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-07",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-ifk-truppens-sista-resa-ihop-en-sjal-man-kan-ta-pa-rky16zxj",
       "title": "IFK-truppens sista resa: \"En själ man kan ta på\"",
