@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T09:58:55.222Z",
-  "itemCount": 4709,
+  "generatedAt": "2026-11-07T16:23:23.308Z",
+  "itemCount": 4713,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 2,
+      "count": 4,
       "ok": true
     },
     {
@@ -67,12 +67,180 @@
   ],
   "items": [
     {
+      "id": "nt-galakvall-superettans-basta-2026-r9m7pevl",
+      "title": "Galakväll – superettans bästa 2026",
+      "summary": "Säsongen är över och nu ska IFK Norrköping på galej. Men hur har det överlag presterats i vårt avlånga superettanland? Här nominerar jag årets lag.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/galakvall-superettans-basta-2026/r9m7pevl",
+      "publishedAt": "2026-11-07T16:15:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-07",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-rysaravslutning-vantar-ifk-en-riktig-cupmatch-rexm3zxl",
+      "title": "Rysaravslutning väntar IFK: \"En riktig cupmatch\"",
+      "summary": "Överlevnadskampen fortsätter. Bottenmötet mot Växjö beskriver Stefan Hellberg som en cupmatch. – Resultatet i matchen kommer påverka agerandet hela tiden, säger IFK-tränaren.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/rysaravslutning-vantar-ifk-en-riktig-cupmatch/rexm3zxl",
+      "publishedAt": "2026-11-07T15:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-07",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "ifk-ifk-truppen-till-sista-matchen",
+      "title": "IFK-truppen till sista matchen",
+      "summary": "IFK-truppen till sista matchen",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/ifk-truppen-till-sista-matchen/",
+      "publishedAt": "2026-11-07T10:10:52.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla",
+          "IFK i rubrik"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
       "id": "nt-live-ifk-stanger-sasongen-folj-matchen-mot-varnamo-rgo6vm7j",
       "title": "LIVE: IFK stänger säsongen – följ matchen mot Värnamo",
       "summary": "Säsongens sista match. Då väntar ett stort bortafölje och fest på hemresan. Följ allt från säsongsavslutningen i Värnamo.",
       "source": "Norrköpings Tidningar",
       "sourceUrl": "https://www.nt.se/sport/fotboll",
       "articleUrl": "https://www.nt.se/sport/fotboll/artikel/live-ifk-stanger-sasongen-folj-matchen-mot-varnamo/rgo6vm7j",
+      "publishedAt": "2026-11-07T05:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-07",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-ifk-avslutar-sasongen-i-topp-jubel-nar-slutsignalen-ljuder-rgo6vm7j",
+      "title": "LIVE: IFK avslutar säsongen i topp – jubel vid slutsignal",
+      "summary": "Säsongens sista match. Då väntar ett stort bortafölje och fest på hemresan. Följ allt från säsongsavslutningen i Värnamo.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-avslutar-sasongen-i-topp-jubel-nar-slutsignalen-ljuder-/rgo6vm7j",
       "publishedAt": "2026-11-07T05:00:00.000Z",
       "category": "Lokal",
       "tags": [
