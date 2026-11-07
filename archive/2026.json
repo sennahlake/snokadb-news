@@ -1,7 +1,119 @@
 {
   "year": 2026,
-  "itemCount": 795,
+  "itemCount": 798,
   "items": [
+    {
+      "id": "nt-sa-presterade-ifk-spelarna-i-sista-matchen-mittfaltaren-bast-r23gq27l",
+      "title": "Så presterade IFK-spelarna i sista matchen – mittfältaren bäst",
+      "summary": "IFK avslutade säsongen med en 2–0-seger mot Värnamo. Så bedömer vi spelarnas insatser.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/sa-presterade-ifk-spelarna-i-sista-matchen-mittfaltaren-bast/r23gq27l",
+      "publishedAt": "2026-11-07T17:56:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-07",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-hyllar-ifk-fansen-de-ar-fantastiska-varje-gang-lzdwyqpr",
+      "title": "Hyllar IFK-fansen: \"De är fantastiska varje gång\"",
+      "summary": "Ryan Nelson lyssnade på fansens ramsor och Eldar Abdulic njöt. Fler i IFK-truppen hyllar bortaföljet. – Jag blir inte chockad längre för man vet att supportrarna är så fina, säger Axel Brönner.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/hyllar-ifk-fansen-de-ar-fantastiska-varje-gang/lzdwyqpr",
+      "publishedAt": "2026-11-07T17:42:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Axel Brönner",
+          "slug": "axel-bronner",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        },
+        {
+          "name": "Ryan Nelson",
+          "slug": "ryan-nelson",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-07",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-galakvall-superettans-basta-2026-r9m7pevl",
       "title": "Galakväll – superettans bästa 2026",
@@ -177,6 +289,50 @@
       "source": "Norrköpings Tidningar",
       "sourceUrl": "https://www.nt.se/sport/fotboll",
       "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-avslutar-sasongen-i-topp-jubel-nar-slutsignalen-ljuder-/rgo6vm7j",
+      "publishedAt": "2026-11-07T05:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-07",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-curvan-just-nu-har-drar-stora-partyt-igang-i-kvall-rgo6vm7j",
+      "title": "LIVE: IFK avslutar säsongen i topp – jubel vid slutsignal",
+      "summary": "Säsongens sista match. Då väntar ett stort bortafölje och fest på hemresan. Följ allt från säsongsavslutningen i Värnamo.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/curvan-just-nu-har-drar-stora-partyt-igang-i-kvall-/rgo6vm7j",
       "publishedAt": "2026-11-07T05:00:00.000Z",
       "category": "Lokal",
       "tags": [
