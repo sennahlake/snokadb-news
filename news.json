@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T00:30:57.827Z",
-  "itemCount": 4717,
+  "generatedAt": "2026-11-08T07:16:08.916Z",
+  "itemCount": 4718,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -66,6 +66,63 @@
     }
   ],
   "items": [
+    {
+      "id": "nt-nyman-skytteligavinnare-langesen-jag-hade-sa-kul-jn3wze4r",
+      "title": "Nyman skytteligavinnare: \"Längesen jag hade så kul\"",
+      "summary": "Lagkamraterna gläds med IFK-ikonen. Christoffer Nyman blev delad skytteligavinnare. – Jag har känt hopp, glädje och att det varit otroligt roligt med resan vi gjort, säger han.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/nyman-skytteligavinnare-langesen-jag-hade-sa-kul/jn3wze4r",
+      "publishedAt": "2026-11-08T06:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Christoffer Nyman",
+          "slug": "christoffer-nyman",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-08",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-sa-presterade-ifk-spelarna-i-sista-matchen-mittfaltaren-bast-r23gq27l",
       "title": "Så presterade IFK-spelarna i sista matchen – mittfältaren bäst",

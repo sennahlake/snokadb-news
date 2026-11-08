@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sat, 07 Nov 2026 17:56:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 06:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Nyman skytteligavinnare: &quot;Längesen jag hade så kul&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/nyman-skytteligavinnare-langesen-jag-hade-sa-kul/jn3wze4r</link>
+      <guid isPermaLink="false">nt-nyman-skytteligavinnare-langesen-jag-hade-sa-kul-jn3wze4r</guid>
+      <pubDate>Sun, 08 Nov 2026 06:00:00 GMT</pubDate>
+      <description>Lagkamraterna gläds med IFK-ikonen. Christoffer Nyman blev delad skytteligavinnare. – Jag har känt hopp, glädje och att det varit otroligt roligt med resan vi gjort, säger han.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Så presterade IFK-spelarna i sista matchen – mittfältaren bäst</title>
       <link>https://www.nt.se/sport/fotboll/artikel/sa-presterade-ifk-spelarna-i-sista-matchen-mittfaltaren-bast/r23gq27l</link>
@@ -797,14 +805,6 @@
       <pubDate>Mon, 19 Oct 2026 18:53:31 GMT</pubDate>
       <description>Vi myser vidare i IFK:s segermånad och laddar upp inför Örebro hemma. Eventuella poängrekord, Jurelius fest, Tambas lån, vilka som borde få speltid nu i slutet och massor mer sånt gött avhandlas.</description>
       <category>Genom Ljuva Livet</category>
-    </item>
-    <item>
-      <title>“Vi är ett gäng vinnarskallar och ska bära vår stolthet hela vägen”</title>
-      <link>https://ifknorrkoping.se/vi-ar-ett-gang-vinnarskallar-och-ska-bara-var-stolthet-hela-vagen/</link>
-      <guid isPermaLink="false">ifk-vi-ar-ett-gang-vinnarskallar-och-ska-bara-var-stolthet-hela-vagen</guid>
-      <pubDate>Mon, 19 Oct 2026 14:03:25 GMT</pubDate>
-      <description>“Vi är ett gäng vinnarskallar och ska bära vår stolthet hela vägen”</description>
-      <category>IFK Norrköping</category>
     </item>
   </channel>
 </rss>
