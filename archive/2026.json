@@ -1,7 +1,198 @@
 {
   "year": 2026,
-  "itemCount": 804,
+  "itemCount": 808,
   "items": [
+    {
+      "id": "ifk-segermal-i-slutminuterna-det-var-en-obeskrivlig-kansla",
+      "title": "Segermål i slutminuterna: “Det var en obeskrivlig känsla”",
+      "summary": "Segermål i slutminuterna: “Det var en obeskrivlig känsla”",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/segermal-i-slutminuterna-det-var-en-obeskrivlig-kansla/",
+      "publishedAt": "2026-11-08T19:00:40.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "nt-kristells-fulknep-storde-vaxjo-i-norrkopings-seger-rex2q45l",
+      "title": "Kristells fulknep mot Växjö: ”Behöver göra det som krävs”",
+      "summary": "Hon tjuvlyssnade på motståndarna, hamnade i hetluften och gjorde allt för att störa Växjö. Matilda Kristell tycker själv hon blivit bättre under matcherna som har betytt något. – Det kanske inte är jättesnyggt, men vi behöver göra det som krävs för att vinna, säger hon efter 0–1-segern mot Växjö.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/kristells-fulknep-storde-vaxjo-i-norrkopings-seger/rex2q45l",
+      "publishedAt": "2026-11-08T19:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Matilda Kristell",
+          "slug": "matilda-kristell",
+          "side": "Dam",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-08",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-kontrasterna-gladje-och-sorg-efter-matchen-i-vaxjo-jdq85exr",
+      "title": "Känslomässiga kontraster – IFK tog stort steg mot nytt kontrakt",
+      "summary": "Ett övertidsmål i Växjö. Tänk vad mycket det kan betyda.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/kontrasterna-gladje-och-sorg-efter-matchen-i-vaxjo/jdq85exr",
+      "publishedAt": "2026-11-08T17:35:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-08",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-avgjorde-i-94e-minuten-nadde-personliga-malet-lyxngozr",
+      "title": "Avgjorde i 94:e minuten – nådde personliga målet",
+      "summary": "Inför säsongen satte Emma Engström upp ett mål med Rob Clark. I 94:e minuten mot Växjö nådde hon tio fullträffar. – Nu är han skyldig mig ett flak Nocco, säger målskytten.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/avgjorde-i-94e-minuten-nadde-personliga-malet/lyxngozr",
+      "publishedAt": "2026-11-08T17:17:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Emma Engström",
+          "slug": "emma-engstrom",
+          "side": "Dam",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-08",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-match-i-vaxjo-folj-ifks-jakt-pa-poang-i-bottenmotet-r1wgd56l",
       "title": "LIVE: Match i Växjö – följ IFK:s jakt på poäng i bottenmötet",
@@ -13,7 +204,8 @@
       "category": "Lokal",
       "tags": [
         "Extern originalkälla",
-        "Lokal"
+        "Lokal",
+        "Dam"
       ],
       "keywords": [
         "IFK Norrköping",
@@ -56,7 +248,8 @@
       "publishedAt": "2026-11-08T10:22:44.000Z",
       "category": "Officiellt",
       "tags": [
-        "Officiellt"
+        "Officiellt",
+        "Dam"
       ],
       "keywords": [
         "IFK Norrköping",
