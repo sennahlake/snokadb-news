@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T19:38:12.182Z",
-  "itemCount": 4726,
+  "generatedAt": "2026-11-08T23:41:02.137Z",
+  "itemCount": 4727,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -30,9 +30,8 @@
     },
     {
       "source": "SportExpressen",
-      "count": 0,
-      "ok": false,
-      "error": "HTTP 404 for https://www.expressen.se/rss/sport"
+      "count": 1,
+      "ok": true
     },
     {
       "source": "TV4",
@@ -252,6 +251,49 @@
         {
           "provider": "KB/Svenska tidningar",
           "publication": "Norrköpings Tidningar",
+          "date": "2026-11-08",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "sportexpressen-damallsvenskan-vaxjo-dff-aker-ur-damallsvenskan",
+      "title": "Växjö DFF åker ur damallsvenskan",
+      "summary": "Växjö DFF var piskat att vinna. Så blev det inte. Efter förlusten mot IFK Norrköping åker man ur damallsvenskan.",
+      "source": "SportExpressen",
+      "sourceUrl": "https://www.expressen.se/sport/fotboll/",
+      "articleUrl": "https://www.expressen.se/sport/fotboll/damallsvenskan/vaxjo-dff-aker-ur-damallsvenskan/",
+      "publishedAt": "2026-11-08T15:54:17.000Z",
+      "category": "Nyhet",
+      "tags": [
+        "Extern originalkälla",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "SportExpressen"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "medium",
+        "score": 78,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "sportexpressen",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "SportExpressen",
           "date": "2026-11-08",
           "status": "expected",
           "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."

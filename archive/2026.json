@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "itemCount": 808,
+  "itemCount": 809,
   "items": [
     {
       "id": "ifk-segermal-i-slutminuterna-det-var-en-obeskrivlig-kansla",
@@ -187,6 +187,49 @@
         {
           "provider": "KB/Svenska tidningar",
           "publication": "Norrköpings Tidningar",
+          "date": "2026-11-08",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "sportexpressen-damallsvenskan-vaxjo-dff-aker-ur-damallsvenskan",
+      "title": "Växjö DFF åker ur damallsvenskan",
+      "summary": "Växjö DFF var piskat att vinna. Så blev det inte. Efter förlusten mot IFK Norrköping åker man ur damallsvenskan.",
+      "source": "SportExpressen",
+      "sourceUrl": "https://www.expressen.se/sport/fotboll/",
+      "articleUrl": "https://www.expressen.se/sport/fotboll/damallsvenskan/vaxjo-dff-aker-ur-damallsvenskan/",
+      "publishedAt": "2026-11-08T15:54:17.000Z",
+      "category": "Nyhet",
+      "tags": [
+        "Extern originalkälla",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "SportExpressen"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "medium",
+        "score": 78,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "sportexpressen",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "SportExpressen",
           "date": "2026-11-08",
           "status": "expected",
           "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
