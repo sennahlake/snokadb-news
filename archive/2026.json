@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "itemCount": 798,
+  "itemCount": 799,
   "items": [
     {
       "id": "nt-sa-presterade-ifk-spelarna-i-sista-matchen-mittfaltaren-bast-r23gq27l",
@@ -333,6 +333,50 @@
       "source": "Norrköpings Tidningar",
       "sourceUrl": "https://www.nt.se/sport/fotboll",
       "articleUrl": "https://www.nt.se/sport/fotboll/artikel/curvan-just-nu-har-drar-stora-partyt-igang-i-kvall-/rgo6vm7j",
+      "publishedAt": "2026-11-07T05:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-07",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-sa-var-festen-pa-parken-nar-ifk-firade-allsvenska-platsen-rgo6vm7j",
+      "title": "Så var festen på Parken när IFK firade allsvenska platsen",
+      "summary": "IFK avslutade säsongen med seger inför 1200 IFK-supportrar i Värnamo. När matchen var slut började det stora firandet, hela vägen till Curva Nordahl. NT var med hela dagen – och kvällen. Här kan du återuppleva allt som hände under den här historiska lördagen.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/sa-var-festen-pa-parken-nar-ifk-firade-allsvenska-platsen/rgo6vm7j",
       "publishedAt": "2026-11-07T05:00:00.000Z",
       "category": "Lokal",
       "tags": [
