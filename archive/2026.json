@@ -1,7 +1,152 @@
 {
   "year": 2026,
-  "itemCount": 809,
+  "itemCount": 813,
   "items": [
+    {
+      "id": "nt-ifks-besked-tonaring-skriver-senioravtal-lqpwo81r",
+      "title": "IFK:s besked: Tonåring skriver senioravtal",
+      "summary": "I år har Nova Axelsson debuterat i damallsvenskan och Svenska cupen. Nu meddelar IFK att 17-åringen har skrivit på ett treårigt A-lagskontrakt.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifks-besked-tonaring-skriver-senioravtal/lqpwo81r",
+      "publishedAt": "2026-11-09T16:46:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-09",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "ifk-nova-axelsson-tar-klivet-upp-till-damlaget",
+      "title": "Nova Axelsson tar klivet upp till damlaget",
+      "summary": "Nova Axelsson tar klivet upp till damlaget",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/nova-axelsson-tar-klivet-upp-till-damlaget/",
+      "publishedAt": "2026-11-09T16:00:12.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "ifk-idag-slapps-arskorten",
+      "title": "Idag släpps årskorten!",
+      "summary": "Idag släpps årskorten!",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/idag-slapps-arskorten/",
+      "publishedAt": "2026-11-09T09:21:49.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "ifk-kamraternas-traningsvecka-51",
+      "title": "Kamraternas träningsvecka",
+      "summary": "Kamraternas träningsvecka",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/kamraternas-traningsvecka-51/",
+      "publishedAt": "2026-11-09T07:59:00.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
     {
       "id": "ifk-segermal-i-slutminuterna-det-var-en-obeskrivlig-kansla",
       "title": "Segermål i slutminuterna: “Det var en obeskrivlig känsla”",
