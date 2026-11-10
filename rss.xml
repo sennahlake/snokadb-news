@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Tue, 10 Nov 2026 07:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 19:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Efter succésäsongen – han vinner Spårvagnsligan 2026</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/efter-succesasongen-han-vinner-sparvagnsligan-2026/j82k641j</link>
+      <guid isPermaLink="false">nt-efter-succesasongen-han-vinner-sparvagnsligan-2026-j82k641j</guid>
+      <pubDate>Tue, 10 Nov 2026 19:00:00 GMT</pubDate>
+      <description>Framtiden är oklar men inte det som ligger bakom honom. 2026 hittade Anton Eriksson tillbaka till spelet och självförtroendet – och vann Spårvagnsligan.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>LIVE: Inför avslutningen – följ IFK:s träning</title>
       <link>https://www.nt.se/sport/fotboll/artikel/live-infor-avslutningen-folj-ifks-traning/rmw4venl</link>
@@ -796,14 +804,6 @@
       <guid isPermaLink="false">nt-profilerna-hyllar-ifks-beslut-viktigt-att-bevara-namnet-r493go5j</guid>
       <pubDate>Wed, 21 Oct 2026 07:00:00 GMT</pubDate>
       <description>Idrottsparken fortsätter heta Idrottsparken. För all framtid. – Det känns som det mest naturliga som finns, säger Filip Dagerstål.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>IFK-tränaren: &quot;Fortfarande i festmode&quot;</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/ifk-tranaren-fortfarande-i-festmode/lw624mwj</link>
-      <guid isPermaLink="false">nt-ifk-tranaren-fortfarande-i-festmode-lw624mwj</guid>
-      <pubDate>Wed, 21 Oct 2026 03:00:00 GMT</pubDate>
-      <description>Påverkade festkänslan insatsen mot Örebro? Eldar Abdulic upplevde det. – Allt ifrån disciplin till att vara påkopplade och ta jobbet innan det blev fara, säger tränaren.</description>
       <category>Norrköpings Tidningar</category>
     </item>
   </channel>
