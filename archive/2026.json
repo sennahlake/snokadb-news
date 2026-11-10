@@ -1,7 +1,52 @@
 {
   "year": 2026,
-  "itemCount": 813,
+  "itemCount": 814,
   "items": [
+    {
+      "id": "nt-supporterns-galna-ifk-helg-man-ar-som-en-familj-r49kg25j",
+      "title": "Supporterns galna IFK-helg: \"Man är som en familj\"",
+      "summary": "På plats i Värnamo, Norrköping och Växjö. Firande, kamratskap och lite sömn. Mattias Wettergrens IFK-helg innehöll det mesta. – IFK ger liv, supporterskap och vänner, säger han.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/supporterns-galna-ifk-helg-man-ar-som-en-familj/r49kg25j",
+      "publishedAt": "2026-11-09T19:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-09",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-ifks-besked-tonaring-skriver-senioravtal-lqpwo81r",
       "title": "IFK:s besked: Tonåring skriver senioravtal",

@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Mon, 09 Nov 2026 16:46:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 19:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Supporterns galna IFK-helg: &quot;Man är som en familj&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/supporterns-galna-ifk-helg-man-ar-som-en-familj/r49kg25j</link>
+      <guid isPermaLink="false">nt-supporterns-galna-ifk-helg-man-ar-som-en-familj-r49kg25j</guid>
+      <pubDate>Mon, 09 Nov 2026 19:00:00 GMT</pubDate>
+      <description>På plats i Värnamo, Norrköping och Växjö. Firande, kamratskap och lite sömn. Mattias Wettergrens IFK-helg innehöll det mesta. – IFK ger liv, supporterskap och vänner, säger han.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>IFK:s besked: Tonåring skriver senioravtal</title>
       <link>https://www.nt.se/sport/fotboll/artikel/ifks-besked-tonaring-skriver-senioravtal/lqpwo81r</link>
@@ -796,14 +804,6 @@
       <guid isPermaLink="false">nt-andra-starten-i-ar-ifk-backen-har-borjat-prata-framtid-r23g503l</guid>
       <pubDate>Tue, 20 Oct 2026 20:17:00 GMT</pubDate>
       <description>Andra starten för året. Och med ett kontrakt som går ut. Filip Dagerstål vill inte se slutet på säsongen som en chans spela sig till ett nytt. – Jag tror att det hade låst sig mer än det hjälper, sa mittbacken.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Ett statement för dåtid, nutid och framtid</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/ett-statement-for-datid-nutid-och-framtid/jvz8437r</link>
-      <guid isPermaLink="false">nt-ett-statement-for-datid-nutid-och-framtid-jvz8437r</guid>
-      <pubDate>Tue, 20 Oct 2026 20:02:00 GMT</pubDate>
-      <description>På helig mark tog IFK Norrköping tillfället i akt att göra narr av Örebro SK. Så bra har Peking varit i år – att en nyhet i halvtidspausen kan vara viktigare än matchens resultat.</description>
       <category>Norrköpings Tidningar</category>
     </item>
   </channel>
