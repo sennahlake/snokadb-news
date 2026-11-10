@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Mon, 09 Nov 2026 19:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 07:00:00 GMT</lastBuildDate>
+    <item>
+      <title>LIVE: Inför avslutningen – följ IFK:s träning</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/live-infor-avslutningen-folj-ifks-traning/rmw4venl</link>
+      <guid isPermaLink="false">nt-live-infor-avslutningen-folj-ifks-traning-rmw4venl</guid>
+      <pubDate>Tue, 10 Nov 2026 07:00:00 GMT</pubDate>
+      <description>På söndag avgörs det om IFK får kvala eller klarar sig kvar. NT liverapporterar från tisdagsträningen.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Supporterns galna IFK-helg: &quot;Man är som en familj&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/supporterns-galna-ifk-helg-man-ar-som-en-familj/r49kg25j</link>
@@ -797,14 +805,6 @@
       <pubDate>Tue, 20 Oct 2026 20:43:35 GMT</pubDate>
       <description>Varför har IFK lyckats så bra i år? Hur ska vägen framåt se ut? Vad förväntas ske med truppbygget? Och kan två spelare i ett motståndarlag vara aktuella? Det är några av frågorna som florerar när sportchefen Henrik Jurelius gästar. Medverkande reportrar: Eric Persson och Christer Gustafson.</description>
       <category>Studio Peking</category>
-    </item>
-    <item>
-      <title>Andra starten i år – IFK-backen har börjat prata framtid</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/andra-starten-i-ar-ifk-backen-har-borjat-prata-framtid/r23g503l</link>
-      <guid isPermaLink="false">nt-andra-starten-i-ar-ifk-backen-har-borjat-prata-framtid-r23g503l</guid>
-      <pubDate>Tue, 20 Oct 2026 20:17:00 GMT</pubDate>
-      <description>Andra starten för året. Och med ett kontrakt som går ut. Filip Dagerstål vill inte se slutet på säsongen som en chans spela sig till ett nytt. – Jag tror att det hade låst sig mer än det hjälper, sa mittbacken.</description>
-      <category>Norrköpings Tidningar</category>
     </item>
   </channel>
 </rss>
