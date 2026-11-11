@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Wed, 11 Nov 2026 04:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 07:01:43 GMT</lastBuildDate>
+    <item>
+      <title>Året i superettan</title>
+      <link>https://pod.space/studiopeking/aret-i-superettan</link>
+      <guid isPermaLink="false">studio-peking-aret-i-superettan</guid>
+      <pubDate>Wed, 11 Nov 2026 07:01:43 GMT</pubDate>
+      <description>Vi sammanfattar superettansäsongen och pratar bland annat om årets spelare, årets mål och årets match. Dessutom: nya resonemang om Noel Sernelius framtid – och tre av fyra personer i poddstudion tror att IFK:s drömvärvning finns i Norge. Den fjärde riktar blicken mot Cypern. Medverkande: Eric Persson, Rebecca Candevi, Christer Gustafson och Gabriel Ohlsson.</description>
+      <category>Studio Peking</category>
+    </item>
     <item>
       <title>Spelarna om hjälpen från herrverksamheten: ”Det har höjt oss”</title>
       <link>https://www.nt.se/sport/fotboll/artikel/ifk-norrkoping-kraftsamlar-infor-avgorande-aik-match/r1wk236l</link>
@@ -797,14 +805,6 @@
       <pubDate>Thu, 22 Oct 2026 06:00:00 GMT</pubDate>
       <description>Tre segrar. Det tror Viaplays expert Pär Lagerström IFK behöver för att undvika kval.</description>
       <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Akademifonden: fotbollen ska vara tillgänglig för alla</title>
-      <link>https://ifknorrkoping.se/akademifonden-fotbollen-ska-vara-tillganglig-for-alla/</link>
-      <guid isPermaLink="false">ifk-akademifonden-fotbollen-ska-vara-tillganglig-for-alla</guid>
-      <pubDate>Wed, 21 Oct 2026 10:33:39 GMT</pubDate>
-      <description>Akademifonden: fotbollen ska vara tillgänglig för alla</description>
-      <category>IFK Norrköping</category>
     </item>
   </channel>
 </rss>

@@ -1,7 +1,58 @@
 {
   "year": 2026,
-  "itemCount": 818,
+  "itemCount": 819,
   "items": [
+    {
+      "id": "studio-peking-aret-i-superettan",
+      "title": "Året i superettan",
+      "summary": "Vi sammanfattar superettansäsongen och pratar bland annat om årets spelare, årets mål och årets match. Dessutom: nya resonemang om Noel Sernelius framtid – och tre av fyra personer i poddstudion tror att IFK:s drömvärvning finns i Norge. Den fjärde riktar blicken mot Cypern. Medverkande: Eric Persson, Rebecca Candevi, Christer Gustafson och Gabriel Ohlsson.",
+      "source": "Studio Peking",
+      "sourceUrl": "https://poddtoppen.se/podcast/1738623973/studio-peking",
+      "articleUrl": "https://pod.space/studiopeking/aret-i-superettan",
+      "publishedAt": "2026-11-11T07:01:43.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Studio Peking",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 94,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd",
+          "IFK i artikel-URL",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Noel Sernelius",
+          "slug": "noel-sernelius",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "studio-peking"
+    },
     {
       "id": "nt-ifk-norrkoping-kraftsamlar-infor-avgorande-aik-match-r1wk236l",
       "title": "Spelarna om hjälpen från herrverksamheten: ”Det har höjt oss”",
