@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Tue, 10 Nov 2026 19:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 04:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Spelarna om hjälpen från herrverksamheten: ”Det har höjt oss”</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-norrkoping-kraftsamlar-infor-avgorande-aik-match/r1wk236l</link>
+      <guid isPermaLink="false">nt-ifk-norrkoping-kraftsamlar-infor-avgorande-aik-match-r1wk236l</guid>
+      <pubDate>Wed, 11 Nov 2026 04:00:00 GMT</pubDate>
+      <description>Med nya taktiska ögon och förstärkning i ledarstaben har IFK Norrköping som klubb kraftsamlat – och det har givit resultat. – Man har verkligen känt att klubben har hjälpt till, säger mittfältsankaret Julia Karlernäs.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Efter succésäsongen – han vinner Spårvagnsligan 2026</title>
       <link>https://www.nt.se/sport/fotboll/artikel/efter-succesasongen-han-vinner-sparvagnsligan-2026/j82k641j</link>
@@ -797,14 +805,6 @@
       <pubDate>Wed, 21 Oct 2026 10:33:39 GMT</pubDate>
       <description>Akademifonden: fotbollen ska vara tillgänglig för alla</description>
       <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Profilerna hyllar IFK:s beslut: &quot;Viktigt att bevara namnet&quot;</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/profilerna-hyllar-ifks-beslut-viktigt-att-bevara-namnet/r493go5j</link>
-      <guid isPermaLink="false">nt-profilerna-hyllar-ifks-beslut-viktigt-att-bevara-namnet-r493go5j</guid>
-      <pubDate>Wed, 21 Oct 2026 07:00:00 GMT</pubDate>
-      <description>Idrottsparken fortsätter heta Idrottsparken. För all framtid. – Det känns som det mest naturliga som finns, säger Filip Dagerstål.</description>
-      <category>Norrköpings Tidningar</category>
     </item>
   </channel>
 </rss>

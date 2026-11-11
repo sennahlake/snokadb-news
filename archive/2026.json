@@ -1,7 +1,65 @@
 {
   "year": 2026,
-  "itemCount": 817,
+  "itemCount": 818,
   "items": [
+    {
+      "id": "nt-ifk-norrkoping-kraftsamlar-infor-avgorande-aik-match-r1wk236l",
+      "title": "Spelarna om hjälpen från herrverksamheten: ”Det har höjt oss”",
+      "summary": "Med nya taktiska ögon och förstärkning i ledarstaben har IFK Norrköping som klubb kraftsamlat – och det har givit resultat. – Man har verkligen känt att klubben har hjälpt till, säger mittfältsankaret Julia Karlernäs.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-norrkoping-kraftsamlar-infor-avgorande-aik-match/r1wk236l",
+      "publishedAt": "2026-11-11T04:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Julia Karlernäs",
+          "slug": "julia-karlernas",
+          "side": "Dam",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-11",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-efter-succesasongen-han-vinner-sparvagnsligan-2026-j82k641j",
       "title": "Efter succésäsongen – han vinner Spårvagnsligan 2026",
