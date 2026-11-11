@@ -5,7 +5,31 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Wed, 11 Nov 2026 07:01:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 20:17:58 GMT</lastBuildDate>
+    <item>
+      <title>204. En pust av prutt</title>
+      <link>https://pod.space/genomljuvalivet/204-en-pust-av-prutt</link>
+      <guid isPermaLink="false">genom-ljuva-livet-204-en-pust-av-prutt</guid>
+      <pubDate>Wed, 11 Nov 2026 20:17:58 GMT</pubDate>
+      <description>Vi har avslutat säsongen i på Finnvedsvallen och i ett hus utanför Värnamo. En riktigt slapp resedagbok, matchprat och växande framtidshopp i spelare som utvecklas.</description>
+      <category>Genom Ljuva Livet</category>
+    </item>
+    <item>
+      <title>Hillevie Ströbeck flyttas upp till damlaget</title>
+      <link>https://ifknorrkoping.se/hillevie-strobeck-flyttas-upp-till-damlaget/</link>
+      <guid isPermaLink="false">ifk-hillevie-strobeck-flyttas-upp-till-damlaget</guid>
+      <pubDate>Wed, 11 Nov 2026 17:00:07 GMT</pubDate>
+      <description>Hillevie Ströbeck flyttas upp till damlaget</description>
+      <category>IFK Norrköping</category>
+    </item>
+    <item>
+      <title>Franssons färska möte med IFK: &quot;Jag söker inget annat&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/franssons-farska-mote-med-ifk-jag-soker-inget-annat/jdq8z74r</link>
+      <guid isPermaLink="false">nt-franssons-farska-mote-med-ifk-jag-soker-inget-annat-jdq8z74r</guid>
+      <pubDate>Wed, 11 Nov 2026 14:40:00 GMT</pubDate>
+      <description>Två av IFK:s kulturbärare hoppas alltjämt skriva nya kontrakt. – Jag ser det inte som att resan är slut, säger Alexander Fransson. – Känslan är att de också vill, säger Filip Dagerstål.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Året i superettan</title>
       <link>https://pod.space/studiopeking/aret-i-superettan</link>
@@ -781,30 +805,6 @@
       <pubDate>Fri, 23 Oct 2026 06:28:00 GMT</pubDate>
       <description>Publikinformation: IFK Norrköping-IK Uppsala</description>
       <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Fira hemkomsten på Parken</title>
-      <link>https://ifknorrkoping.se/fira-hemkomsten-pa-parken/</link>
-      <guid isPermaLink="false">ifk-fira-hemkomsten-pa-parken</guid>
-      <pubDate>Thu, 22 Oct 2026 15:00:09 GMT</pubDate>
-      <description>Fira hemkomsten på Parken</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>IFK-duon står i skuggan: &quot;Tar tydliga kliv&quot;</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/ifk-duon-star-i-skuggan-tar-tydliga-kliv/jdq7ey0r</link>
-      <guid isPermaLink="false">nt-ifk-duon-star-i-skuggan-tar-tydliga-kliv-jdq7ey0r</guid>
-      <pubDate>Thu, 22 Oct 2026 10:00:00 GMT</pubDate>
-      <description>Speltiden är knapp, men IFK har inte gett upp Kylian Seka och Mbaye Cissé. – Vi känner att de inte är alldeles för långt ifrån, säger sportchefen Henrik Jurelius.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Experten synar IFK:s läge: &quot;Då kan de slippa kval&quot;</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/experten-synar-ifks-lage-da-kan-de-slippa-kval/rky12qej</link>
-      <guid isPermaLink="false">nt-experten-synar-ifks-lage-da-kan-de-slippa-kval-rky12qej</guid>
-      <pubDate>Thu, 22 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Tre segrar. Det tror Viaplays expert Pär Lagerström IFK behöver för att undvika kval.</description>
-      <category>Norrköpings Tidningar</category>
     </item>
   </channel>
 </rss>

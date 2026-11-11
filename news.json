@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T14:10:28.732Z",
-  "itemCount": 4737,
+  "generatedAt": "2026-11-11T21:24:39.872Z",
+  "itemCount": 4740,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
-      "count": 30,
+      "count": 29,
       "ok": true
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "source": "Genom Ljuva Livet",
-      "count": 203,
+      "count": 204,
       "ok": true
     },
     {
@@ -67,6 +67,144 @@
     }
   ],
   "items": [
+    {
+      "id": "genom-ljuva-livet-204-en-pust-av-prutt",
+      "title": "204. En pust av prutt",
+      "summary": "Vi har avslutat säsongen i på Finnvedsvallen och i ett hus utanför Värnamo. En riktigt slapp resedagbok, matchprat och växande framtidshopp i spelare som utvecklas.",
+      "source": "Genom Ljuva Livet",
+      "sourceUrl": "https://poddtoppen.se/podcast/1728458754/genom-ljuva-livet",
+      "articleUrl": "https://pod.space/genomljuvalivet/204-en-pust-av-prutt",
+      "publishedAt": "2026-11-11T20:17:58.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Genom Ljuva Livet",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "genom-ljuva-livet"
+    },
+    {
+      "id": "ifk-hillevie-strobeck-flyttas-upp-till-damlaget",
+      "title": "Hillevie Ströbeck flyttas upp till damlaget",
+      "summary": "Hillevie Ströbeck flyttas upp till damlaget",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/hillevie-strobeck-flyttas-upp-till-damlaget/",
+      "publishedAt": "2026-11-11T17:00:07.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "nt-franssons-farska-mote-med-ifk-jag-soker-inget-annat-jdq8z74r",
+      "title": "Franssons färska möte med IFK: \"Jag söker inget annat\"",
+      "summary": "Två av IFK:s kulturbärare hoppas alltjämt skriva nya kontrakt. – Jag ser det inte som att resan är slut, säger Alexander Fransson. – Känslan är att de också vill, säger Filip Dagerstål.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/franssons-farska-mote-med-ifk-jag-soker-inget-annat/jdq8z74r",
+      "publishedAt": "2026-11-11T14:40:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Alexander Fransson",
+          "slug": "alexander-fransson",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        },
+        {
+          "name": "Filip Dagerstål",
+          "slug": "filip-dagerstal",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-11",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "studio-peking-aret-i-superettan",
       "title": "Året i superettan",
