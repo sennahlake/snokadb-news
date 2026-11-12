@@ -1,7 +1,65 @@
 {
   "year": 2026,
-  "itemCount": 822,
+  "itemCount": 823,
   "items": [
+    {
+      "id": "nt-ifk-spelarens-tarar-kunde-inte-kontrollera-det-jvzvg3pr",
+      "title": "Då brast det för IFK-spelaren: \"Kunde inte kontrollera det\"",
+      "summary": "Bottendramat tär. Agnes Ekberg upplever nya delar av sitt känslospektrum. – Jag har aldrig varit med om något liknande, säger hon.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-spelarens-tarar-kunde-inte-kontrollera-det/jvzvg3pr",
+      "publishedAt": "2026-11-12T02:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 96,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i rubrik",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Agnes Ekberg",
+          "slug": "agnes-ekberg",
+          "side": "Dam",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-12",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "genom-ljuva-livet-204-en-pust-av-prutt",
       "title": "204. En pust av prutt",

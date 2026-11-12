@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Wed, 11 Nov 2026 20:17:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 02:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Då brast det för IFK-spelaren: &quot;Kunde inte kontrollera det&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-spelarens-tarar-kunde-inte-kontrollera-det/jvzvg3pr</link>
+      <guid isPermaLink="false">nt-ifk-spelarens-tarar-kunde-inte-kontrollera-det-jvzvg3pr</guid>
+      <pubDate>Thu, 12 Nov 2026 02:00:00 GMT</pubDate>
+      <description>Bottendramat tär. Agnes Ekberg upplever nya delar av sitt känslospektrum. – Jag har aldrig varit med om något liknande, säger hon.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>204. En pust av prutt</title>
       <link>https://pod.space/genomljuvalivet/204-en-pust-av-prutt</link>
@@ -796,14 +804,6 @@
       <guid isPermaLink="false">ifk-ekberg-infor-uppsala-vi-kor-in-i-kaklet-och-slutar-inte-spela-forran-domaren-har-blast</guid>
       <pubDate>Fri, 23 Oct 2026 14:41:13 GMT</pubDate>
       <description>Ekberg inför Uppsala: “Vi kör in i kaklet och slutar inte spela förrän domaren har blåst”</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Publikinformation: IFK Norrköping-IK Uppsala</title>
-      <link>https://ifknorrkoping.se/publikinformation-ifk-norrkoping-ik-uppsala/</link>
-      <guid isPermaLink="false">ifk-publikinformation-ifk-norrkoping-ik-uppsala</guid>
-      <pubDate>Fri, 23 Oct 2026 06:28:00 GMT</pubDate>
-      <description>Publikinformation: IFK Norrköping-IK Uppsala</description>
       <category>IFK Norrköping</category>
     </item>
   </channel>
