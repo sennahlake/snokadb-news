@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Thu, 12 Nov 2026 07:46:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 18:00:00 GMT</lastBuildDate>
+    <item>
+      <title>IFK-kuggen aktuell för Tunisiens landslag</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-kuggen-aktuell-for-tunisiens-landslag/r1wkemxl</link>
+      <guid isPermaLink="false">nt-ifk-kuggen-aktuell-for-tunisiens-landslag-r1wkemxl</guid>
+      <pubDate>Thu, 12 Nov 2026 18:00:00 GMT</pubDate>
+      <description>Elias Jemal kan göra Moutaz Neffati sällskap i det tunisiska landslaget. Nyligen var 23-åringen med i VM-nationens bruttotrupp. – Att få sätta på mig tröjan innan min farmor dör skulle vara stort, säger han.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Välkommen på medlemsmöte 30 november</title>
       <link>https://ifknorrkoping.se/valkommen-pa-medlemsmote-30-november/</link>
@@ -797,14 +805,6 @@
       <pubDate>Fri, 23 Oct 2026 16:52:20 GMT</pubDate>
       <description>Vi pratar om att IFK inte lyckades tagga till nog för att slå Örebro, om årets snyggaste (?) mål och en massa annat.</description>
       <category>Genom Ljuva Livet</category>
-    </item>
-    <item>
-      <title>IFK-backen: &quot;Skulle kunna skriva en hel bok&quot;</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/ifk-backen-skulle-kunna-skriva-en-hel-bok/lw62q0wj</link>
-      <guid isPermaLink="false">nt-ifk-backen-skulle-kunna-skriva-en-hel-bok-lw62q0wj</guid>
-      <pubDate>Fri, 23 Oct 2026 14:50:00 GMT</pubDate>
-      <description>Anton Erikssons kommande karriärskapitel är blankt. – Jag har faktiskt inget konkret att ta ställning, säger han.</description>
-      <category>Norrköpings Tidningar</category>
     </item>
   </channel>
 </rss>

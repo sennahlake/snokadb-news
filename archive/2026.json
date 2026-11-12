@@ -1,7 +1,74 @@
 {
   "year": 2026,
-  "itemCount": 824,
+  "itemCount": 825,
   "items": [
+    {
+      "id": "nt-ifk-kuggen-aktuell-for-tunisiens-landslag-r1wkemxl",
+      "title": "IFK-kuggen aktuell för Tunisiens landslag",
+      "summary": "Elias Jemal kan göra Moutaz Neffati sällskap i det tunisiska landslaget. Nyligen var 23-åringen med i VM-nationens bruttotrupp. – Att få sätta på mig tröjan innan min farmor dör skulle vara stort, säger han.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-kuggen-aktuell-for-tunisiens-landslag/r1wkemxl",
+      "publishedAt": "2026-11-12T18:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Elias Jemal",
+          "slug": "elias-jemal",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        },
+        {
+          "name": "Moutaz Neffati",
+          "slug": "moutaz-neffati",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-12",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "ifk-valkommen-pa-medlemsmote-30-november",
       "title": "Välkommen på medlemsmöte 30 november",
