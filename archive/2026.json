@@ -1,7 +1,40 @@
 {
   "year": 2026,
-  "itemCount": 823,
+  "itemCount": 824,
   "items": [
+    {
+      "id": "ifk-valkommen-pa-medlemsmote-30-november",
+      "title": "Välkommen på medlemsmöte 30 november",
+      "summary": "Välkommen på medlemsmöte 30 november",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/valkommen-pa-medlemsmote-30-november/",
+      "publishedAt": "2026-11-12T07:46:32.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
     {
       "id": "nt-ifk-spelarens-tarar-kunde-inte-kontrollera-det-jvzvg3pr",
       "title": "Då brast det för IFK-spelaren: \"Kunde inte kontrollera det\"",
