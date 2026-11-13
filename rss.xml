@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Thu, 12 Nov 2026 18:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 13:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Årets mäktigaste rekord – profilerna tycker till</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/arets-maktigaste-rekord-profilerna-tycker-till/rkywzxej</link>
+      <guid isPermaLink="false">nt-arets-maktigaste-rekord-profilerna-tycker-till-rkywzxej</guid>
+      <pubDate>Fri, 13 Nov 2026 13:00:00 GMT</pubDate>
+      <description>Sejouren i superettan blev kortvarig och IFK lyckades spränga gränser. Vilken bedrift sticker ut mest? – Rekorden är så speciella på olika sätt, säger Viktor Christiansson. – Statyn bör vara på väg, tycker Filip Dagerstål.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>Guide: Kortbane-VM 2026</title>
+      <link>https://www.svt.se/sport/simning/guide-kortbane-vm-2026</link>
+      <guid isPermaLink="false">svt-simning-guide-kortbane-vm-2026</guid>
+      <pubDate>Fri, 13 Nov 2026 10:42:50 GMT</pubDate>
+      <description>Årets kortbane-VM avgörs i Peking i Kina första veckan i december. Se finalpassen i SVT:s kanaler.</description>
+      <category>SVT</category>
+    </item>
     <item>
       <title>IFK-kuggen aktuell för Tunisiens landslag</title>
       <link>https://www.nt.se/sport/fotboll/artikel/ifk-kuggen-aktuell-for-tunisiens-landslag/r1wkemxl</link>
@@ -789,22 +805,6 @@
       <pubDate>Sat, 24 Oct 2026 08:00:00 GMT</pubDate>
       <description>IFK Norrköpings Theo Krantz och Noel Sernelius har fått sina genombrott i superettan. Båda två har Linköpingsklubben Stångebro United gemensamt – en förening som under åren både fått ris och ros för sin tidiga elitsatsning. – För mig innebär det att lika barn leka bäst, säger föreningens tränare och grundare Michael Bornehav.</description>
       <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>IFK-backen flyttade in centralt: &quot;Hon är bekväm med det&quot;</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/ifk-backen-flyttade-in-centralt-hon-ar-bekvam-med-det/rexm4ozl</link>
-      <guid isPermaLink="false">nt-ifk-backen-flyttade-in-centralt-hon-ar-bekvam-med-det-rexm4ozl</guid>
-      <pubDate>Sat, 24 Oct 2026 03:00:00 GMT</pubDate>
-      <description>Hon har gjort en hel säsong som mittback i Sydney FC. I IFK har Deborah-Ann de la Harpe tagit klivet in centralt de senaste matcherna. – Det är annorlunda, men det pushar mig själv, säger hon.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>199. Psykisk terror</title>
-      <link>https://pod.space/genomljuvalivet/199-psykisk-terror</link>
-      <guid isPermaLink="false">genom-ljuva-livet-199-psykisk-terror</guid>
-      <pubDate>Fri, 23 Oct 2026 16:52:20 GMT</pubDate>
-      <description>Vi pratar om att IFK inte lyckades tagga till nog för att slå Örebro, om årets snyggaste (?) mål och en massa annat.</description>
-      <category>Genom Ljuva Livet</category>
     </item>
   </channel>
 </rss>
