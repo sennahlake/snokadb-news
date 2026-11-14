@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T17:01:42.906Z",
-  "itemCount": 4748,
+  "generatedAt": "2026-11-14T21:25:37.882Z",
+  "itemCount": 4749,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -15,7 +15,7 @@
     },
     {
       "source": "FotbollDirekt",
-      "count": 0,
+      "count": 1,
       "ok": true
     },
     {
@@ -67,6 +67,40 @@
     }
   ],
   "items": [
+    {
+      "id": "fotbolldirekt-damallsvenskan-tva-trotjanare-lamnar-ifk-norrkoping",
+      "title": "Två trotjänare lämnar IFK Norrköping",
+      "summary": "\"På återseende\" The post Två trotjänare lämnar IFK Norrköping appeared first on FotbollDirekt .",
+      "source": "FotbollDirekt",
+      "sourceUrl": "https://fotbolldirekt.se/",
+      "articleUrl": "https://fotbolldirekt.se/damallsvenskan/tva-trotjanare-lamnar-ifk-norrkoping/",
+      "publishedAt": "2026-11-14T16:40:39.000Z",
+      "category": "Nyhet",
+      "tags": [
+        "Extern originalkälla",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "FotbollDirekt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK i rubrik"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "fotbolldirekt"
+    },
     {
       "id": "nt-trotjanarna-lamnar-ifk-vi-har-upplevt-sa-mycket-r35kvk8j",
       "title": "Trotjänarna lämnar IFK: \"Vi har upplevt så mycket\"",
