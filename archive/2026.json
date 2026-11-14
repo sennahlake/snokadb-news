@@ -1,7 +1,164 @@
 {
   "year": 2026,
-  "itemCount": 827,
+  "itemCount": 830,
   "items": [
+    {
+      "id": "nt-trotjanarna-lamnar-ifk-vi-har-upplevt-sa-mycket-r35kvk8j",
+      "title": "Trotjänarna lämnar IFK: \"Vi har upplevt så mycket\"",
+      "summary": "Trotjänarna har gjort sitt. Ebba Handfast och Sofia Hjern lämnar IFK efter säsongen.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/trotjanarna-lamnar-ifk-vi-har-upplevt-sa-mycket/r35kvk8j",
+      "publishedAt": "2026-11-14T15:43:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Ebba Handfast",
+          "slug": "ebba-handfast",
+          "side": "Dam",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        },
+        {
+          "name": "Sofia Hjern",
+          "slug": "sofia-hjern",
+          "side": "Dam",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-14",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "ifk-ebba-och-sofia-lamnar-parken-trotjanarna-hyllas-fore-avspark",
+      "title": "Ebba och Sofia lämnar “Parken” – trotjänarna hyllas före avspark",
+      "summary": "Ebba och Sofia lämnar “Parken” – trotjänarna hyllas före avspark",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/ebba-och-sofia-lamnar-parken-trotjanarna-hyllas-fore-avspark/",
+      "publishedAt": "2026-11-14T15:01:38.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "nt-framsta-malskytten-saknas-sa-tanker-ifk-r1wkgp6l",
+      "title": "Främsta målskytten saknas – så tänker IFK",
+      "summary": "Emma Engström är avstängd. Vem ersätter henne när säsongen ska avgöras? – Vi har många som är bra och ser starka ut, säger Stefan Hellberg.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/framsta-malskytten-saknas-sa-tanker-ifk/r1wkgp6l",
+      "publishedAt": "2026-11-14T13:01:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Emma Engström",
+          "slug": "emma-engstrom",
+          "side": "Dam",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-14",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-arets-maktigaste-rekord-profilerna-tycker-till-rkywzxej",
       "title": "Årets mäktigaste rekord – profilerna tycker till",

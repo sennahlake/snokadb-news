@@ -5,7 +5,31 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Fri, 13 Nov 2026 13:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 15:43:00 GMT</lastBuildDate>
+    <item>
+      <title>Trotjänarna lämnar IFK: &quot;Vi har upplevt så mycket&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/trotjanarna-lamnar-ifk-vi-har-upplevt-sa-mycket/r35kvk8j</link>
+      <guid isPermaLink="false">nt-trotjanarna-lamnar-ifk-vi-har-upplevt-sa-mycket-r35kvk8j</guid>
+      <pubDate>Sat, 14 Nov 2026 15:43:00 GMT</pubDate>
+      <description>Trotjänarna har gjort sitt. Ebba Handfast och Sofia Hjern lämnar IFK efter säsongen.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>Ebba och Sofia lämnar “Parken” – trotjänarna hyllas före avspark</title>
+      <link>https://ifknorrkoping.se/ebba-och-sofia-lamnar-parken-trotjanarna-hyllas-fore-avspark/</link>
+      <guid isPermaLink="false">ifk-ebba-och-sofia-lamnar-parken-trotjanarna-hyllas-fore-avspark</guid>
+      <pubDate>Sat, 14 Nov 2026 15:01:38 GMT</pubDate>
+      <description>Ebba och Sofia lämnar “Parken” – trotjänarna hyllas före avspark</description>
+      <category>IFK Norrköping</category>
+    </item>
+    <item>
+      <title>Främsta målskytten saknas – så tänker IFK</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/framsta-malskytten-saknas-sa-tanker-ifk/r1wkgp6l</link>
+      <guid isPermaLink="false">nt-framsta-malskytten-saknas-sa-tanker-ifk-r1wkgp6l</guid>
+      <pubDate>Sat, 14 Nov 2026 13:01:00 GMT</pubDate>
+      <description>Emma Engström är avstängd. Vem ersätter henne när säsongen ska avgöras? – Vi har många som är bra och ser starka ut, säger Stefan Hellberg.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Årets mäktigaste rekord – profilerna tycker till</title>
       <link>https://www.nt.se/sport/fotboll/artikel/arets-maktigaste-rekord-profilerna-tycker-till/rkywzxej</link>
@@ -780,30 +804,6 @@
       <guid isPermaLink="false">nt-viktig-ledning-for-ifk-i-bottenstriden-folj-matchen-har-jdq29vxr</guid>
       <pubDate>Sat, 24 Oct 2026 11:00:00 GMT</pubDate>
       <description>De senaste matchernas poängutdelning har satt IFK i ett lite bättre läge i bottenstriden. Mot IK Uppsala behöver laget ta tre poäng – vi rapporterar direkt från matchen på Idrottsparken.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>LIVE: Fem mål och tre viktiga poäng för IFK</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/malshow-pa-idrottsparken-ifk-korde-over-uppsala/jdq29vxr</link>
-      <guid isPermaLink="false">nt-malshow-pa-idrottsparken-ifk-korde-over-uppsala-jdq29vxr</guid>
-      <pubDate>Sat, 24 Oct 2026 11:00:00 GMT</pubDate>
-      <description>IFK Norrköping tog tre blytunga poäng i bottenstriden efter en övertygande 5–0-seger mot jumbon IK Uppsala. Här är vår rapportering från Idrottsparken.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Truppen mot IK Uppsala</title>
-      <link>https://ifknorrkoping.se/truppen-mot-ik-uppsala-5/</link>
-      <guid isPermaLink="false">ifk-truppen-mot-ik-uppsala-5</guid>
-      <pubDate>Sat, 24 Oct 2026 09:57:59 GMT</pubDate>
-      <description>Truppen mot IK Uppsala</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>IFK-duon har rötterna i unika klubben</title>
-      <link>https://www.nt.se/story-sport/fotboll/artikel/ifk-norrkopings-succeduo-fostrad-i-stangebro-united/jp96gdml</link>
-      <guid isPermaLink="false">nt-ifk-norrkopings-succeduo-fostrad-i-stangebro-united-jp96gdml</guid>
-      <pubDate>Sat, 24 Oct 2026 08:00:00 GMT</pubDate>
-      <description>IFK Norrköpings Theo Krantz och Noel Sernelius har fått sina genombrott i superettan. Båda två har Linköpingsklubben Stångebro United gemensamt – en förening som under åren både fått ris och ros för sin tidiga elitsatsning. – För mig innebär det att lika barn leka bäst, säger föreningens tränare och grundare Michael Bornehav.</description>
       <category>Norrköpings Tidningar</category>
     </item>
   </channel>
