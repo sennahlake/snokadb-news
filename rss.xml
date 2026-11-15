@@ -5,7 +5,31 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sun, 15 Nov 2026 15:58:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 19:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Trotjänarnas känslor: &quot;Då var det svårt att stoppa tårarna&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/trotjanarna-det-ar-klart-det-ar-vemodigt/r1wkkqpl</link>
+      <guid isPermaLink="false">nt-trotjanarna-det-ar-klart-det-ar-vemodigt-r1wkkqpl</guid>
+      <pubDate>Sun, 15 Nov 2026 19:00:00 GMT</pubDate>
+      <description>Resan tog slut – med en glädje och ett firande. Nu är tiden i IFK över för Sofia Hjern och Ebba Handfast. – Jag blir känslosam när jag pratar om det, sa målvakten efter det säkrade kontraktet.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>Det vitblåa jublet över kontraktet – “Det är mycket känslor nu!”</title>
+      <link>https://ifknorrkoping.se/det-vitblaa-jublet-over-kontraktet-det-ar-mycket-kanslor-nu/</link>
+      <guid isPermaLink="false">ifk-det-vitblaa-jublet-over-kontraktet-det-ar-mycket-kanslor-nu</guid>
+      <pubDate>Sun, 15 Nov 2026 17:27:13 GMT</pubDate>
+      <description>Det vitblåa jublet över kontraktet – “Det är mycket känslor nu!”</description>
+      <category>IFK Norrköping</category>
+    </item>
+    <item>
+      <title>Mittfältarens känslodrama: &quot;Där höll jag på att börja gråta&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/mittfaltarens-kanslodrama-dar-holl-jag-pa-att-borja-grata/r23kk57l</link>
+      <guid isPermaLink="false">nt-mittfaltarens-kanslodrama-dar-holl-jag-pa-att-borja-grata-r23kk57l</guid>
+      <pubDate>Sun, 15 Nov 2026 17:07:00 GMT</pubDate>
+      <description>Carrie Jones mål gjorde att IFK säkrade kontraktet på egen hand. Innan dess trodde Matilda Kristell att hon skulle bli syndabock. – Där kände jag att de räddade mig, säger mittfältaren.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>IFK räddade sig själv – här är viktiga frågor för framtiden</title>
       <link>https://www.nt.se/sport/fotboll/artikel/ifk-raddade-sig-sjalv-har-ar-viktiga-fragor-for-framtiden/r9m97mvl</link>
@@ -781,30 +805,6 @@
       <pubDate>Sun, 25 Oct 2026 10:10:26 GMT</pubDate>
       <description>TR IF Inlägget IFK-TRUPPEN MOT NORRBY IF dök först upp på IFK Norrköping .</description>
       <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>IFK jagar revansch från förra mötet – följ matchen mot Norrby här</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/flera-andringar-i-ifk-folj-matchen-mot-norrby/j827qepj</link>
-      <guid isPermaLink="false">nt-flera-andringar-i-ifk-folj-matchen-mot-norrby-j827qepj</guid>
-      <pubDate>Sun, 25 Oct 2026 09:00:00 GMT</pubDate>
-      <description>IFK är på jakt efter seriesegern, det allsvenska avancemanget är redan klart. Idag ställs laget mot Norrby borta – vi rapporterar direkt från matchen.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Klar IFK-seger – säkrade seriesegern mot bottenlaget</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/klar-ifk-seger-sakrade-seriesegern-mot-bottenlaget/j827qepj</link>
-      <guid isPermaLink="false">nt-klar-ifk-seger-sakrade-seriesegern-mot-bottenlaget-j827qepj</guid>
-      <pubDate>Sun, 25 Oct 2026 09:00:00 GMT</pubDate>
-      <description>IFK säkrade seriesegern mot Norrby borta. Efter ett par sena mål blev resultet 4–0.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Klar IFK-seger – säkrade seriesegern mot bottenlaget</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/har-ar-spelarbetygen-assistkungen-i-en-klass-for-sig/j827qepj</link>
-      <guid isPermaLink="false">nt-har-ar-spelarbetygen-assistkungen-i-en-klass-for-sig-j827qepj</guid>
-      <pubDate>Sun, 25 Oct 2026 09:00:00 GMT</pubDate>
-      <description>IFK säkrade seriesegern mot Norrby borta. Efter ett par sena mål blev resultatet 4–0 till gästerna.</description>
-      <category>Norrköpings Tidningar</category>
     </item>
   </channel>
 </rss>

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T17:02:59.683Z",
-  "itemCount": 4754,
+  "generatedAt": "2026-11-15T21:44:01.079Z",
+  "itemCount": 4757,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 4,
+      "count": 5,
       "ok": true
     },
     {
@@ -67,6 +67,173 @@
     }
   ],
   "items": [
+    {
+      "id": "nt-trotjanarna-det-ar-klart-det-ar-vemodigt-r1wkkqpl",
+      "title": "Trotjänarnas känslor: \"Då var det svårt att stoppa tårarna\"",
+      "summary": "Resan tog slut – med en glädje och ett firande. Nu är tiden i IFK över för Sofia Hjern och Ebba Handfast. – Jag blir känslosam när jag pratar om det, sa målvakten efter det säkrade kontraktet.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/trotjanarna-det-ar-klart-det-ar-vemodigt/r1wkkqpl",
+      "publishedAt": "2026-11-15T19:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Ebba Handfast",
+          "slug": "ebba-handfast",
+          "side": "Dam",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        },
+        {
+          "name": "Sofia Hjern",
+          "slug": "sofia-hjern",
+          "side": "Dam",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-15",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "ifk-det-vitblaa-jublet-over-kontraktet-det-ar-mycket-kanslor-nu",
+      "title": "Det vitblåa jublet över kontraktet – “Det är mycket känslor nu!”",
+      "summary": "Det vitblåa jublet över kontraktet – “Det är mycket känslor nu!”",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/det-vitblaa-jublet-over-kontraktet-det-ar-mycket-kanslor-nu/",
+      "publishedAt": "2026-11-15T17:27:13.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "nt-mittfaltarens-kanslodrama-dar-holl-jag-pa-att-borja-grata-r23kk57l",
+      "title": "Mittfältarens känslodrama: \"Där höll jag på att börja gråta\"",
+      "summary": "Carrie Jones mål gjorde att IFK säkrade kontraktet på egen hand. Innan dess trodde Matilda Kristell att hon skulle bli syndabock. – Där kände jag att de räddade mig, säger mittfältaren.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/mittfaltarens-kanslodrama-dar-holl-jag-pa-att-borja-grata/r23kk57l",
+      "publishedAt": "2026-11-15T17:07:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Carrie Jones",
+          "slug": "carrie-jones",
+          "side": "Dam",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        },
+        {
+          "name": "Matilda Kristell",
+          "slug": "matilda-kristell",
+          "side": "Dam",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-15",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-ifk-raddade-sig-sjalv-har-ar-viktiga-fragor-for-framtiden-r9m97mvl",
       "title": "IFK räddade sig själv – här är viktiga frågor för framtiden",
