@@ -5,7 +5,31 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sun, 15 Nov 2026 09:00:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 15:58:00 GMT</lastBuildDate>
+    <item>
+      <title>IFK räddade sig själv – här är viktiga frågor för framtiden</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-raddade-sig-sjalv-har-ar-viktiga-fragor-for-framtiden/r9m97mvl</link>
+      <guid isPermaLink="false">nt-ifk-raddade-sig-sjalv-har-ar-viktiga-fragor-for-framtiden-r9m97mvl</guid>
+      <pubDate>Sun, 15 Nov 2026 15:58:00 GMT</pubDate>
+      <description>Hur IFK räddade säsongen imponerar. Hur laget hamnade i behovet av en räddningsaktion behöver man ta på fullaste allvar.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>Truppen mot AIK</title>
+      <link>https://ifknorrkoping.se/truppen-mot-aik-14/</link>
+      <guid isPermaLink="false">ifk-truppen-mot-aik-14</guid>
+      <pubDate>Sun, 15 Nov 2026 10:19:17 GMT</pubDate>
+      <description>Truppen mot AIK</description>
+      <category>IFK Norrköping</category>
+    </item>
+    <item>
+      <title>LIVE: IFK säkrade allsvenska kontraktet i sista omgången</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-sakrade-allsvenska-kontraktet-i-sista-omgangen/rmw47xml</link>
+      <guid isPermaLink="false">nt-ifk-sakrade-allsvenska-kontraktet-i-sista-omgangen-rmw47xml</guid>
+      <pubDate>Sun, 15 Nov 2026 09:54:00 GMT</pubDate>
+      <description>IFK kryssade mot AIK i damallsvenskans sista omgång.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Publikinformation: IFK Norrköping-AIK</title>
       <link>https://ifknorrkoping.se/publikinformation-ifk-norrkoping-aik-6/</link>
@@ -781,30 +805,6 @@
       <pubDate>Sun, 25 Oct 2026 09:00:00 GMT</pubDate>
       <description>IFK säkrade seriesegern mot Norrby borta. Efter ett par sena mål blev resultatet 4–0 till gästerna.</description>
       <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Brönners roligaste höst är här – “Vill avsluta året på bästa sätt”</title>
-      <link>https://ifknorrkoping.se/bronners-roligaste-host-ar-har-vill-avsluta-aret-pa-basta-satt/</link>
-      <guid isPermaLink="false">ifk-bronners-roligaste-host-ar-har-vill-avsluta-aret-pa-basta-satt</guid>
-      <pubDate>Sun, 25 Oct 2026 07:22:37 GMT</pubDate>
-      <description>Brönners roligaste höst är här – “Vill avsluta året på bästa sätt”</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>IFK-tränarens rutinerade stöd: &quot;Är en gåva för alla&quot;</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/ifk-tranarens-rutinerade-stod-ar-en-gava-for-alla/lzdwpqzr</link>
-      <guid isPermaLink="false">nt-ifk-tranarens-rutinerade-stod-ar-en-gava-for-alla-lzdwpqzr</guid>
-      <pubDate>Sat, 24 Oct 2026 19:00:00 GMT</pubDate>
-      <description>Rob Clark fick ansvaret att rädda IFK kvar i damallsvenskan. Han har valt att ta hjälp av olika delar av klubben. Mot Uppsala satt Stefan Hellberg på bänken.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Storseger och måljubel på Parken – “Vi har en tro på det här nu”</title>
-      <link>https://ifknorrkoping.se/storseger-och-maljubel-pa-parken-vi-har-en-tro-pa-det-har-nu/</link>
-      <guid isPermaLink="false">ifk-storseger-och-maljubel-pa-parken-vi-har-en-tro-pa-det-har-nu</guid>
-      <pubDate>Sat, 24 Oct 2026 17:27:39 GMT</pubDate>
-      <description>Storseger och måljubel på Parken – “Vi har en tro på det här nu”</description>
-      <category>IFK Norrköping</category>
     </item>
   </channel>
 </rss>

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T09:16:46.494Z",
-  "itemCount": 4751,
+  "generatedAt": "2026-11-15T17:02:59.683Z",
+  "itemCount": 4754,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 3,
+      "count": 4,
       "ok": true
     },
     {
@@ -67,6 +67,127 @@
     }
   ],
   "items": [
+    {
+      "id": "nt-ifk-raddade-sig-sjalv-har-ar-viktiga-fragor-for-framtiden-r9m97mvl",
+      "title": "IFK räddade sig själv – här är viktiga frågor för framtiden",
+      "summary": "Hur IFK räddade säsongen imponerar. Hur laget hamnade i behovet av en räddningsaktion behöver man ta på fullaste allvar.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-raddade-sig-sjalv-har-ar-viktiga-fragor-for-framtiden/r9m97mvl",
+      "publishedAt": "2026-11-15T15:58:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-15",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "ifk-truppen-mot-aik-14",
+      "title": "Truppen mot AIK",
+      "summary": "Truppen mot AIK",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/truppen-mot-aik-14/",
+      "publishedAt": "2026-11-15T10:19:17.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "nt-ifk-sakrade-allsvenska-kontraktet-i-sista-omgangen-rmw47xml",
+      "title": "LIVE: IFK säkrade allsvenska kontraktet i sista omgången",
+      "summary": "IFK kryssade mot AIK i damallsvenskans sista omgång.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-sakrade-allsvenska-kontraktet-i-sista-omgangen/rmw47xml",
+      "publishedAt": "2026-11-15T09:54:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-15",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "ifk-publikinformation-ifk-norrkoping-aik-6",
       "title": "Publikinformation: IFK Norrköping-AIK",
