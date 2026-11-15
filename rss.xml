@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sat, 14 Nov 2026 16:40:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 09:00:32 GMT</lastBuildDate>
+    <item>
+      <title>Publikinformation: IFK Norrköping-AIK</title>
+      <link>https://ifknorrkoping.se/publikinformation-ifk-norrkoping-aik-6/</link>
+      <guid isPermaLink="false">ifk-publikinformation-ifk-norrkoping-aik-6</guid>
+      <pubDate>Sun, 15 Nov 2026 09:00:32 GMT</pubDate>
+      <description>Publikinformation: IFK Norrköping-AIK</description>
+      <category>IFK Norrköping</category>
+    </item>
+    <item>
+      <title>IFK jobbar på en förlängning med kaptenen</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-jobbar-pa-en-forlangning-med-kaptenen/r35ke72j</link>
+      <guid isPermaLink="false">nt-ifk-jobbar-pa-en-forlangning-med-kaptenen-r35ke72j</guid>
+      <pubDate>Sun, 15 Nov 2026 04:00:00 GMT</pubDate>
+      <description>IFK vill förlänga och klubbar visar intresse. Carrie Jones tar itu med framtiden efter säsongen. – Allt handlar om här och nu, det är allt jag kan tänka på, säger lagkaptenen.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Två trotjänare lämnar IFK Norrköping</title>
       <link>https://fotbolldirekt.se/damallsvenskan/tva-trotjanare-lamnar-ifk-norrkoping/</link>
@@ -789,22 +805,6 @@
       <pubDate>Sat, 24 Oct 2026 17:27:39 GMT</pubDate>
       <description>Storseger och måljubel på Parken – “Vi har en tro på det här nu”</description>
       <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Analyserna som bäddade för IFK:s målfest</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/analyserna-som-baddade-for-ifks-malfest/r5p7mv1j</link>
-      <guid isPermaLink="false">nt-analyserna-som-baddade-for-ifks-malfest-r5p7mv1j</guid>
-      <pubDate>Sat, 24 Oct 2026 17:20:00 GMT</pubDate>
-      <description>IFK städade av Uppsala. Bakom flera av målen gömmer sig ett metodiskt arbete och en relation som tagit fart. – Hon ska inte ens behöva kolla upp, säger Emma Engström om lagkamraten.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Det fanns bara en väg – och IFK har tagit den chansen</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/det-fanns-bara-en-vag-och-ifk-har-gett-sig-sjalva-chansen/lyxn9p9r</link>
-      <guid isPermaLink="false">nt-det-fanns-bara-en-vag-och-ifk-har-gett-sig-sjalva-chansen-lyxn9p9r</guid>
-      <pubDate>Sat, 24 Oct 2026 17:06:00 GMT</pubDate>
-      <description>IFK har skakat liv i säsongen. Ett par karaktärstest – och en seger som var kalkylerad. Med tunga meriter på tränarbänken. Här är Christer Gustafsons punkter efter storsegern mot Uppsala.</description>
-      <category>Norrköpings Tidningar</category>
     </item>
   </channel>
 </rss>

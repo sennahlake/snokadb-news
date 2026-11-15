@@ -1,7 +1,98 @@
 {
   "year": 2026,
-  "itemCount": 831,
+  "itemCount": 833,
   "items": [
+    {
+      "id": "ifk-publikinformation-ifk-norrkoping-aik-6",
+      "title": "Publikinformation: IFK Norrköping-AIK",
+      "summary": "Publikinformation: IFK Norrköping-AIK",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/publikinformation-ifk-norrkoping-aik-6/",
+      "publishedAt": "2026-11-15T09:00:32.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla",
+          "IFK i rubrik"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "nt-ifk-jobbar-pa-en-forlangning-med-kaptenen-r35ke72j",
+      "title": "IFK jobbar på en förlängning med kaptenen",
+      "summary": "IFK vill förlänga och klubbar visar intresse. Carrie Jones tar itu med framtiden efter säsongen. – Allt handlar om här och nu, det är allt jag kan tänka på, säger lagkaptenen.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-jobbar-pa-en-forlangning-med-kaptenen/r35ke72j",
+      "publishedAt": "2026-11-15T04:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Carrie Jones",
+          "slug": "carrie-jones",
+          "side": "Dam",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-15",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "fotbolldirekt-damallsvenskan-tva-trotjanare-lamnar-ifk-norrkoping",
       "title": "Två trotjänare lämnar IFK Norrköping",
