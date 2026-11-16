@@ -5,7 +5,31 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sun, 15 Nov 2026 19:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 07:54:53 GMT</lastBuildDate>
+    <item>
+      <title>Kamraternas träningsvecka</title>
+      <link>https://ifknorrkoping.se/kamraternas-traningsvecka-52/</link>
+      <guid isPermaLink="false">ifk-kamraternas-traningsvecka-52</guid>
+      <pubDate>Mon, 16 Nov 2026 07:54:53 GMT</pubDate>
+      <description>Kamraternas träningsvecka</description>
+      <category>IFK Norrköping</category>
+    </item>
+    <item>
+      <title>IFK-mittfältarens kontrakt går ut – svaret om framtiden</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-mittfaltarens-kontrakt-gar-ut-svaret-om-framtiden/rxqwwn8j</link>
+      <guid isPermaLink="false">nt-ifk-mittfaltarens-kontrakt-gar-ut-svaret-om-framtiden-rxqwwn8j</guid>
+      <pubDate>Mon, 16 Nov 2026 04:00:00 GMT</pubDate>
+      <description>Julia Karlernäs kom till IFK förra sommaren. Nu går kontraktet ut – men hon är öppen för en fortsättning. – Jag tycker att det är en fantastisk klubb, konstaterade mittfältaren efter 1–1 mot AIK.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>Christopher Telo</title>
+      <link>https://pod.space/studiopeking/christopher-telo</link>
+      <guid isPermaLink="false">studio-peking-christopher-telo</guid>
+      <pubDate>Mon, 16 Nov 2026 03:00:00 GMT</pubDate>
+      <description>Scouting och partnerskap istället för fotbollsspelande. Vi gästas av Christopher Telo som berättar om livet efter den aktiva karriären. Medverkande: Eric Persson och Christer Gustafson.</description>
+      <category>Studio Peking</category>
+    </item>
     <item>
       <title>Trotjänarnas känslor: &quot;Då var det svårt att stoppa tårarna&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/trotjanarna-det-ar-klart-det-ar-vemodigt/r1wkkqpl</link>
@@ -781,30 +805,6 @@
       <pubDate>Sun, 25 Oct 2026 15:50:00 GMT</pubDate>
       <description>Noel Sernelius har skrivit in sig i historieböckerna. – Det sitter i ryggmärgen att spela fram andra, säger assistkungen.</description>
       <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>20-åringen i IFK är bäst genom tiderna: &quot;Outstanding&quot;</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/20-aringen-i-ifk-ar-bast-genom-tiderna-outstanding/r23g02xl</link>
-      <guid isPermaLink="false">nt-20-aringen-i-ifk-ar-bast-genom-tiderna-outstanding-r23g02xl</guid>
-      <pubDate>Sun, 25 Oct 2026 15:50:00 GMT</pubDate>
-      <description>Noel Sernelius har skrivit in sig i historieböckerna. – Det sitter i ryggmärgen att spela fram andra, säger assistkungen.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Medlemsmakt kan skapa sådana här scener</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/medlemsmakt-kan-skapa-sadana-har-scener/r1wgm51l</link>
-      <guid isPermaLink="false">nt-medlemsmakt-kan-skapa-sadana-har-scener-r1wgm51l</guid>
-      <pubDate>Sun, 25 Oct 2026 15:25:00 GMT</pubDate>
-      <description>Rekord på rekord. Ser ni hur Jakob Simsek, Noel Sernelius och IFK Norrköping ler?</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>IFK-TRUPPEN MOT NORRBY IF</title>
-      <link>https://ifknorrkoping.se/ifk-truppen-mot-norrby-if-3/</link>
-      <guid isPermaLink="false">ifk-ifk-truppen-mot-norrby-if-3</guid>
-      <pubDate>Sun, 25 Oct 2026 10:10:26 GMT</pubDate>
-      <description>TR IF Inlägget IFK-TRUPPEN MOT NORRBY IF dök först upp på IFK Norrköping .</description>
-      <category>IFK Norrköping</category>
     </item>
   </channel>
 </rss>

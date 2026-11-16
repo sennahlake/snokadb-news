@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T21:44:01.079Z",
-  "itemCount": 4757,
+  "generatedAt": "2026-11-16T09:33:17.097Z",
+  "itemCount": 4760,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -57,7 +57,7 @@
     },
     {
       "source": "Studio Peking",
-      "count": 150,
+      "count": 151,
       "ok": true
     },
     {
@@ -67,6 +67,134 @@
     }
   ],
   "items": [
+    {
+      "id": "ifk-kamraternas-traningsvecka-52",
+      "title": "Kamraternas träningsvecka",
+      "summary": "Kamraternas träningsvecka",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/kamraternas-traningsvecka-52/",
+      "publishedAt": "2026-11-16T07:54:53.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
+    {
+      "id": "nt-ifk-mittfaltarens-kontrakt-gar-ut-svaret-om-framtiden-rxqwwn8j",
+      "title": "IFK-mittfältarens kontrakt går ut – svaret om framtiden",
+      "summary": "Julia Karlernäs kom till IFK förra sommaren. Nu går kontraktet ut – men hon är öppen för en fortsättning. – Jag tycker att det är en fantastisk klubb, konstaterade mittfältaren efter 1–1 mot AIK.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-mittfaltarens-kontrakt-gar-ut-svaret-om-framtiden/rxqwwn8j",
+      "publishedAt": "2026-11-16T04:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Julia Karlernäs",
+          "slug": "julia-karlernas",
+          "side": "Dam",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-16",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "studio-peking-christopher-telo",
+      "title": "Christopher Telo",
+      "summary": "Scouting och partnerskap istället för fotbollsspelande. Vi gästas av Christopher Telo som berättar om livet efter den aktiva karriären. Medverkande: Eric Persson och Christer Gustafson.",
+      "source": "Studio Peking",
+      "sourceUrl": "https://poddtoppen.se/podcast/1738623973/studio-peking",
+      "articleUrl": "https://pod.space/studiopeking/christopher-telo",
+      "publishedAt": "2026-11-16T03:00:00.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Studio Peking",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd",
+          "IFK i artikel-URL"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "studio-peking"
+    },
     {
       "id": "nt-trotjanarna-det-ar-klart-det-ar-vemodigt-r1wkkqpl",
       "title": "Trotjänarnas känslor: \"Då var det svårt att stoppa tårarna\"",
