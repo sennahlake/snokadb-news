@@ -5,7 +5,31 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Mon, 16 Nov 2026 07:54:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 16:53:00 GMT</lastBuildDate>
+    <item>
+      <title>Han finns på IFK:s önskelista: &quot;Väldigt skicklig spelare&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/han-finns-pa-ifks-onskelista-valdigt-skicklig-spelare/rkywwvvj</link>
+      <guid isPermaLink="false">nt-han-finns-pa-ifks-onskelista-valdigt-skicklig-spelare-rkywwvvj</guid>
+      <pubDate>Mon, 16 Nov 2026 16:53:00 GMT</pubDate>
+      <description>Anton Eriksson kommer inte spela mer i år. Parallellt med den framtidsfrågan finns Emil Engqvist fortsatt på IFK:s radar, enligt NT:s uppgifter. – Sådana spelare växer inte på träd, säger tränaren Eldar Abdulic.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>IFK försöker behålla målvakten: &quot;Positivt möte&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-forsoker-behalla-malvakten-positivt-mote/j82kke4j</link>
+      <guid isPermaLink="false">nt-ifk-forsoker-behalla-malvakten-positivt-mote-j82kke4j</guid>
+      <pubDate>Mon, 16 Nov 2026 13:27:00 GMT</pubDate>
+      <description>Hugo Fagerberg vill varken bekräfta eller dementera det, men enligt NT:s uppgifter jobbar IFK för att den inlånade målvakten ska stanna. Samtidigt finns intresse från Ettan.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>Räddade IFK kvar – nu är framtiden oviss för succétränaren</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/raddade-ifk-kvar-nu-ar-framtiden-oviss-for-succetranaren/rex250wl</link>
+      <guid isPermaLink="false">nt-raddade-ifk-kvar-nu-ar-framtiden-oviss-for-succetranaren-rex250wl</guid>
+      <pubDate>Mon, 16 Nov 2026 13:00:00 GMT</pubDate>
+      <description>Rob Clark fick laget att övervinna både rädsla och ångest – och räddade kvar IFK. Men vad händer med tränaren nu? – Mitt beslut kommer att tas utifrån hur mitt privata liv är, säger han.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Kamraternas träningsvecka</title>
       <link>https://ifknorrkoping.se/kamraternas-traningsvecka-52/</link>
@@ -781,30 +805,6 @@
       <pubDate>Mon, 26 Oct 2026 09:43:51 GMT</pubDate>
       <description>Kamraternas träningsvecka</description>
       <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>4-0 säkrade seriesegern i Borås – Aleksanjans sköna måldubbel</title>
-      <link>https://ifknorrkoping.se/4-0-sakrade-seriesegern-i-boras-aleksanjans-skona-maldubbel/</link>
-      <guid isPermaLink="false">ifk-4-0-sakrade-seriesegern-i-boras-aleksanjans-skona-maldubbel</guid>
-      <pubDate>Sun, 25 Oct 2026 18:39:16 GMT</pubDate>
-      <description>4-0 säkrade seriesegern i Borås – Aleksanjans sköna måldubbel</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>IFK planerar för målvaktsbyte – igen</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/ifk-planerar-for-malvaktsbyte-igen/lw6y2gwj</link>
-      <guid isPermaLink="false">nt-ifk-planerar-for-malvaktsbyte-igen-lw6y2gwj</guid>
-      <pubDate>Sun, 25 Oct 2026 18:11:00 GMT</pubDate>
-      <description>David Mitov Nilsson fick en belöning mot Norrby. Härnäst vill IFK att Hugo Fagerberg bockar av sin superettandebut. – Det är få förunnat att ha den här målvaktsmiljön, säger tränaren Eldar Abdulic.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>IFK-profilens rekordnivå: &quot;Många har snackat&quot;</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/ifk-profilens-rekordniva-manga-har-snackat/r23g02xl</link>
-      <guid isPermaLink="false">nt-ifk-profilens-rekordniva-manga-har-snackat-r23g02xl</guid>
-      <pubDate>Sun, 25 Oct 2026 15:50:00 GMT</pubDate>
-      <description>Noel Sernelius har skrivit in sig i historieböckerna. – Det sitter i ryggmärgen att spela fram andra, säger assistkungen.</description>
-      <category>Norrköpings Tidningar</category>
     </item>
   </channel>
 </rss>

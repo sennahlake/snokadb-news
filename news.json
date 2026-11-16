@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T09:33:17.097Z",
-  "itemCount": 4760,
+  "generatedAt": "2026-11-16T20:23:38.767Z",
+  "itemCount": 4763,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,12 +10,12 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 5,
+      "count": 3,
       "ok": true
     },
     {
       "source": "FotbollDirekt",
-      "count": 1,
+      "count": 0,
       "ok": true
     },
     {
@@ -67,6 +67,164 @@
     }
   ],
   "items": [
+    {
+      "id": "nt-han-finns-pa-ifks-onskelista-valdigt-skicklig-spelare-rkywwvvj",
+      "title": "Han finns på IFK:s önskelista: \"Väldigt skicklig spelare\"",
+      "summary": "Anton Eriksson kommer inte spela mer i år. Parallellt med den framtidsfrågan finns Emil Engqvist fortsatt på IFK:s radar, enligt NT:s uppgifter. – Sådana spelare växer inte på träd, säger tränaren Eldar Abdulic.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/han-finns-pa-ifks-onskelista-valdigt-skicklig-spelare/rkywwvvj",
+      "publishedAt": "2026-11-16T16:53:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Anton Eriksson",
+          "slug": "anton-eriksson",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-16",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-ifk-forsoker-behalla-malvakten-positivt-mote-j82kke4j",
+      "title": "IFK försöker behålla målvakten: \"Positivt möte\"",
+      "summary": "Hugo Fagerberg vill varken bekräfta eller dementera det, men enligt NT:s uppgifter jobbar IFK för att den inlånade målvakten ska stanna. Samtidigt finns intresse från Ettan.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-forsoker-behalla-malvakten-positivt-mote/j82kke4j",
+      "publishedAt": "2026-11-16T13:27:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Hugo Fagerberg",
+          "slug": "hugo-fagerberg",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-16",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-raddade-ifk-kvar-nu-ar-framtiden-oviss-for-succetranaren-rex250wl",
+      "title": "Räddade IFK kvar – nu är framtiden oviss för succétränaren",
+      "summary": "Rob Clark fick laget att övervinna både rädsla och ångest – och räddade kvar IFK. Men vad händer med tränaren nu? – Mitt beslut kommer att tas utifrån hur mitt privata liv är, säger han.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/raddade-ifk-kvar-nu-ar-framtiden-oviss-for-succetranaren/rex250wl",
+      "publishedAt": "2026-11-16T13:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-16",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "ifk-kamraternas-traningsvecka-52",
       "title": "Kamraternas träningsvecka",
