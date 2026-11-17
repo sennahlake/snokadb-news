@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "itemCount": 974,
+  "itemCount": 973,
   "sides": {
-    "Herr": 779,
+    "Herr": 778,
     "Dam": 195
   },
   "players": [
@@ -3343,14 +3343,6 @@
         2010,
         2011,
         2012
-      ]
-    },
-    {
-      "name": "Hans Eriksson",
-      "slug": "hans-eriksson",
-      "side": "Herr",
-      "seasons": [
-        1986
       ]
     },
     {
