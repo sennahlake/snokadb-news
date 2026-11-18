@@ -1,7 +1,64 @@
 {
   "year": 2026,
-  "itemCount": 845,
+  "itemCount": 846,
   "items": [
+    {
+      "id": "nt-tranarens-fragor-han-kan-fa-arets-sista-chans-jo53141l",
+      "title": "Tränarens frågor – han kan få sista chansen för året",
+      "summary": "När IFK träningsmatchar mot Kups söker Eldar Abdulic svar. Bland annat från Fabian Holst-Larsen. – Kan vi få honom att spela som den ytterback vi vill att han ska spela?",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/tranarens-fragor-han-kan-fa-arets-sista-chans/jo53141l",
+      "publishedAt": "2026-11-18T03:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Fabian Holst-Larsen",
+          "slug": "fabian-holst-larsen",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-18",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-han-finns-pa-ifks-onskelista-valdigt-skicklig-spelare-rkywwvvj",
       "title": "Han finns på IFK:s önskelista: \"Väldigt skicklig spelare\"",
