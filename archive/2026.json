@@ -1,7 +1,53 @@
 {
   "year": 2026,
-  "itemCount": 846,
+  "itemCount": 847,
   "items": [
+    {
+      "id": "nt-varfor-fortsatter-idrotten-bygga-murar-mellan-herr-och-dam-lyx5e2pr",
+      "title": "Varför fortsätter idrotten bygga murar mellan herr och dam?",
+      "summary": "Herr- och damverksamheter har länge levt sida vid sida, men sällan särskilt nära varandra. När IFK Norrköpings damlag hamnade i en svår situation blev herrsidans kompetens en viktig resurs. Tänk om det inte behöver krävas en kris för att idrotten ska börja samarbeta över verksamhetsgränserna?",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/varfor-fortsatter-idrotten-bygga-murar-mellan-herr-och-dam/lyx5e2pr",
+      "publishedAt": "2026-11-18T18:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-18",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-tranarens-fragor-han-kan-fa-arets-sista-chans-jo53141l",
       "title": "Tränarens frågor – han kan få sista chansen för året",
