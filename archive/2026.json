@@ -1,7 +1,122 @@
 {
   "year": 2026,
-  "itemCount": 848,
+  "itemCount": 850,
   "items": [
+    {
+      "id": "nt-sernelius-har-ett-svart-vagval-framfor-sig-jdq8n2xr",
+      "title": "Sernelius har ett svårt vägval framför sig",
+      "summary": "I årets sista match spelade IFK 1–1 mot Kups. Men framför allt: Framtidsfrågan kring Noel Sernelius kan bli en följetong.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/sernelius-har-ett-svart-vagval-framfor-sig/jdq8n2xr",
+      "publishedAt": "2026-11-19T16:35:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Noel Sernelius",
+          "slug": "noel-sernelius",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-19",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-succemittfaltaren-jag-ar-oppen-for-olika-forslag-r35km82j",
+      "title": "Succémittfältaren: \"Jag är öppen för olika förslag\"",
+      "summary": "Noel Sernelius har ett år kvar på kontraktet med IFK Norrköping. Klubben vill förlänga, men mittfältaren håller dörren öppen för andra alternativ. Nu berättar 20-åringen om tankarna kring framtiden. – Man får ta in alla aspekter – som speltid och vilken plan klubben har för en, säger han.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/succemittfaltaren-jag-ar-oppen-for-olika-forslag/r35km82j",
+      "publishedAt": "2026-11-19T16:19:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Noel Sernelius",
+          "slug": "noel-sernelius",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-19",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "ifk-truppen-mot-kups",
       "title": "Truppen mot KuPS",
@@ -12,7 +127,8 @@
       "publishedAt": "2026-11-19T11:13:26.000Z",
       "category": "Officiellt",
       "tags": [
-        "Officiellt"
+        "Officiellt",
+        "Herr"
       ],
       "keywords": [
         "IFK Norrköping",

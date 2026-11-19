@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Thu, 19 Nov 2026 11:13:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 16:35:00 GMT</lastBuildDate>
+    <item>
+      <title>Sernelius har ett svårt vägval framför sig</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/sernelius-har-ett-svart-vagval-framfor-sig/jdq8n2xr</link>
+      <guid isPermaLink="false">nt-sernelius-har-ett-svart-vagval-framfor-sig-jdq8n2xr</guid>
+      <pubDate>Thu, 19 Nov 2026 16:35:00 GMT</pubDate>
+      <description>I årets sista match spelade IFK 1–1 mot Kups. Men framför allt: Framtidsfrågan kring Noel Sernelius kan bli en följetong.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>Succémittfältaren: &quot;Jag är öppen för olika förslag&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/succemittfaltaren-jag-ar-oppen-for-olika-forslag/r35km82j</link>
+      <guid isPermaLink="false">nt-succemittfaltaren-jag-ar-oppen-for-olika-forslag-r35km82j</guid>
+      <pubDate>Thu, 19 Nov 2026 16:19:00 GMT</pubDate>
+      <description>Noel Sernelius har ett år kvar på kontraktet med IFK Norrköping. Klubben vill förlänga, men mittfältaren håller dörren öppen för andra alternativ. Nu berättar 20-åringen om tankarna kring framtiden. – Man får ta in alla aspekter – som speltid och vilken plan klubben har för en, säger han.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Truppen mot KuPS</title>
       <link>https://ifknorrkoping.se/truppen-mot-kups/</link>
@@ -789,22 +805,6 @@
       <pubDate>Wed, 28 Oct 2026 09:00:18 GMT</pubDate>
       <description>Stefan Hellberg ansluter till damlagets ledarstab</description>
       <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Efter måljublet – Nyman kan få ny roll: &quot;Vi är inte låsta&quot;</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/efter-maljublet-nyman-kan-fa-ny-roll-vi-ar-inte-lasta/r35vg8ej</link>
-      <guid isPermaLink="false">nt-efter-maljublet-nyman-kan-fa-ny-roll-vi-ar-inte-lasta-r35vg8ej</guid>
-      <pubDate>Tue, 27 Oct 2026 17:00:00 GMT</pubDate>
-      <description>Ska Albert Aleksanjan springa in i framtiden som central forward? Eldar Abdulic anser att Christoffer Nyman kan spela på andra positioner. – Vi har allt sånt i bakhuvudet, säger tränaren.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>201. Allt är så gött</title>
-      <link>https://pod.space/genomljuvalivet/201-allt-ar-sa-gott</link>
-      <guid isPermaLink="false">genom-ljuva-livet-201-allt-ar-sa-gott</guid>
-      <pubDate>Mon, 26 Oct 2026 17:09:08 GMT</pubDate>
-      <description>Norrby borta! Aleksanjan! Allsvensk ångest! Brönner! Neffati! Goa tider!</description>
-      <category>Genom Ljuva Livet</category>
     </item>
   </channel>
 </rss>
