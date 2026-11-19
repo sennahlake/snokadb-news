@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Wed, 18 Nov 2026 18:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 11:13:26 GMT</lastBuildDate>
+    <item>
+      <title>Truppen mot KuPS</title>
+      <link>https://ifknorrkoping.se/truppen-mot-kups/</link>
+      <guid isPermaLink="false">ifk-truppen-mot-kups</guid>
+      <pubDate>Thu, 19 Nov 2026 11:13:26 GMT</pubDate>
+      <description>Truppen mot KuPS</description>
+      <category>IFK Norrköping</category>
+    </item>
     <item>
       <title>Varför fortsätter idrotten bygga murar mellan herr och dam?</title>
       <link>https://www.nt.se/sport/fotboll/artikel/varfor-fortsatter-idrotten-bygga-murar-mellan-herr-och-dam/lyx5e2pr</link>
@@ -797,14 +805,6 @@
       <pubDate>Mon, 26 Oct 2026 17:09:08 GMT</pubDate>
       <description>Norrby borta! Aleksanjan! Allsvensk ångest! Brönner! Neffati! Goa tider!</description>
       <category>Genom Ljuva Livet</category>
-    </item>
-    <item>
-      <title>Lät IFK-målskytten döpa sonen: ”Det är en liten Ryan”</title>
-      <link>https://www.tv4.se/artikel/3bKR2z0gxCPwObWGWfMV6P/laet-ifk-malskytten-doepa-sonen-det-aer-en-liten-ryan</link>
-      <guid isPermaLink="false">tv4-3bkr2z0gxcpwobwgwfmv6p-laet-ifk-malskytten-doepa-sonen-det-aer-en-liten-ryan</guid>
-      <pubDate>Mon, 26 Oct 2026 17:06:04 GMT</pubDate>
-      <description>Det var pappa Liam som kläckte den ovanliga idén, som Norrköpings Tidningar först berättade om. Den första IFK Norrköping-spelaren som gjorde mål mot GIF Sundsvall skulle få ge namn åt parets ännu ofödda son. I den 25:e minuten slog Ryan Nelson till. Och plötsligt hade Carro och Liam inte bara ett mål att fira. De hade också ett namn på sin bebis. – Det var kul att det blev ett sånt namnval, säger</description>
-      <category>TV4</category>
     </item>
   </channel>
 </rss>

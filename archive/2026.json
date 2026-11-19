@@ -1,7 +1,40 @@
 {
   "year": 2026,
-  "itemCount": 847,
+  "itemCount": 848,
   "items": [
+    {
+      "id": "ifk-truppen-mot-kups",
+      "title": "Truppen mot KuPS",
+      "summary": "Truppen mot KuPS",
+      "source": "IFK Norrköping",
+      "sourceUrl": "https://ifknorrkoping.se/nyheter/",
+      "articleUrl": "https://ifknorrkoping.se/truppen-mot-kups/",
+      "publishedAt": "2026-11-19T11:13:26.000Z",
+      "category": "Officiellt",
+      "tags": [
+        "Officiellt"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Officiellt"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri läsning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 100,
+        "matchedBy": [
+          "Originalkälla",
+          "Officiell klubbkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "ifk"
+    },
     {
       "id": "nt-varfor-fortsatter-idrotten-bygga-murar-mellan-herr-och-dam-lyx5e2pr",
       "title": "Varför fortsätter idrotten bygga murar mellan herr och dam?",
