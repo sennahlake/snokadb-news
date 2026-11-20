@@ -1,7 +1,45 @@
 {
   "year": 2026,
-  "itemCount": 851,
+  "itemCount": 852,
   "items": [
+    {
+      "id": "genom-ljuva-livet-200-jubileum-fyllepodd-med-alla",
+      "title": "200. JUBILEUM (fyllepodd med alla)",
+      "summary": "Var hundrade avsnitt av GLL är alla vi känner med och så dricker vi massor öl och sladdrar om favoritspelare från 00-talet men också annat kul. Hur känns det med Allsvenskan nästa år? Vad tänker alla kring Noel? Och vem är bäst på IFK-quiz? Häng med på en helt vanlig ölkväll med IFK-gänget fast den råkar spelas in!",
+      "source": "Genom Ljuva Livet",
+      "sourceUrl": "https://poddtoppen.se/podcast/1728458754/genom-ljuva-livet",
+      "articleUrl": "https://pod.space/genomljuvalivet/200-jubileum-fyllepodd-med-alla",
+      "publishedAt": "2026-11-20T19:05:44.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Genom Ljuva Livet",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "genom-ljuva-livet"
+    },
     {
       "id": "nt-avslojar-backen-intresserar-ifk-r9m9o9xl",
       "title": "Avslöjar: Backen intresserar IFK",

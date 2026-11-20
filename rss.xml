@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Fri, 20 Nov 2026 10:46:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 19:05:44 GMT</lastBuildDate>
+    <item>
+      <title>200. JUBILEUM (fyllepodd med alla)</title>
+      <link>https://pod.space/genomljuvalivet/200-jubileum-fyllepodd-med-alla</link>
+      <guid isPermaLink="false">genom-ljuva-livet-200-jubileum-fyllepodd-med-alla</guid>
+      <pubDate>Fri, 20 Nov 2026 19:05:44 GMT</pubDate>
+      <description>Var hundrade avsnitt av GLL är alla vi känner med och så dricker vi massor öl och sladdrar om favoritspelare från 00-talet men också annat kul. Hur känns det med Allsvenskan nästa år? Vad tänker alla kring Noel? Och vem är bäst på IFK-quiz? Häng med på en helt vanlig ölkväll med IFK-gänget fast den råkar spelas in!</description>
+      <category>Genom Ljuva Livet</category>
+    </item>
     <item>
       <title>Avslöjar: Backen intresserar IFK</title>
       <link>https://www.nt.se/sport/fotboll/artikel/avslojar-backen-intresserar-ifk/r9m9o9xl</link>
@@ -797,14 +805,6 @@
       <pubDate>Wed, 28 Oct 2026 10:07:35 GMT</pubDate>
       <description>Tar över Peking The post Beskedet: Hellberg kliver in som huvudtränare appeared first on FotbollDirekt .</description>
       <category>FotbollDirekt</category>
-    </item>
-    <item>
-      <title>Därför kliver Stefan Hellberg in i tränarrollen i IFK igen</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/darfor-kliver-hellberg-in-i-tranarrollen-i-ifk/rxqy96yj</link>
-      <guid isPermaLink="false">nt-darfor-kliver-hellberg-in-i-tranarrollen-i-ifk-rxqy96yj</guid>
-      <pubDate>Wed, 28 Oct 2026 09:16:00 GMT</pubDate>
-      <description>Stefan Hellberg kommer att finnas med runt IFK-damerna säsongen ut. Officiellt kommer han att agera huvudtränare tillsammans med Rob Clark eftersom han har nödvändig Uefa Pro-licens. – Det finns en jäkla vilja att reda ut det här, säger han.</description>
-      <category>Norrköpings Tidningar</category>
     </item>
   </channel>
 </rss>
