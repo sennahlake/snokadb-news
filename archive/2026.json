@@ -1,7 +1,51 @@
 {
   "year": 2026,
-  "itemCount": 850,
+  "itemCount": 851,
   "items": [
+    {
+      "id": "nt-avslojar-backen-intresserar-ifk-r9m9o9xl",
+      "title": "Avslöjar: Backen intresserar IFK",
+      "summary": "IFK:s sportsliga ledning har följt Gustaf Bruzelius över en längre tid och diskuterar fortsatt namnet internt, enligt uppgifter till NT.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/avslojar-backen-intresserar-ifk/r9m9o9xl",
+      "publishedAt": "2026-11-20T10:46:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-20",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-sernelius-har-ett-svart-vagval-framfor-sig-jdq8n2xr",
       "title": "Sernelius har ett svårt vägval framför sig",

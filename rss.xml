@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Thu, 19 Nov 2026 16:35:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 10:46:00 GMT</lastBuildDate>
+    <item>
+      <title>Avslöjar: Backen intresserar IFK</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/avslojar-backen-intresserar-ifk/r9m9o9xl</link>
+      <guid isPermaLink="false">nt-avslojar-backen-intresserar-ifk-r9m9o9xl</guid>
+      <pubDate>Fri, 20 Nov 2026 10:46:00 GMT</pubDate>
+      <description>IFK:s sportsliga ledning har följt Gustaf Bruzelius över en längre tid och diskuterar fortsatt namnet internt, enligt uppgifter till NT.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Sernelius har ett svårt vägval framför sig</title>
       <link>https://www.nt.se/sport/fotboll/artikel/sernelius-har-ett-svart-vagval-framfor-sig/jdq8n2xr</link>
@@ -797,14 +805,6 @@
       <pubDate>Wed, 28 Oct 2026 09:16:00 GMT</pubDate>
       <description>Stefan Hellberg kommer att finnas med runt IFK-damerna säsongen ut. Officiellt kommer han att agera huvudtränare tillsammans med Rob Clark eftersom han har nödvändig Uefa Pro-licens. – Det finns en jäkla vilja att reda ut det här, säger han.</description>
       <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Stefan Hellberg ansluter till damlagets ledarstab</title>
-      <link>https://ifknorrkoping.se/stefan-hellberg-ansluter-till-damlagets-ledarstab/</link>
-      <guid isPermaLink="false">ifk-stefan-hellberg-ansluter-till-damlagets-ledarstab</guid>
-      <pubDate>Wed, 28 Oct 2026 09:00:18 GMT</pubDate>
-      <description>Stefan Hellberg ansluter till damlagets ledarstab</description>
-      <category>IFK Norrköping</category>
     </item>
   </channel>
 </rss>
