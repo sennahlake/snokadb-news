@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T20:05:43.941Z",
-  "itemCount": 4770,
+  "generatedAt": "2026-11-21T17:26:30.014Z",
+  "itemCount": 4773,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 1,
+      "count": 3,
       "ok": true
     },
     {
@@ -67,6 +67,177 @@
     }
   ],
   "items": [
+    {
+      "id": "nt-ifk-backen-forsoker-passa-in-inte-ett-lost-case-lyx5d5zr",
+      "title": "IFK-backen försöker passa in: \"Inte ett lost case\"",
+      "summary": "Traditionella takter eller nyskapande tänk? – Jag försöker anpassa mig till spelstilen, säger Fabian Holst-Larsen.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/ifk-backen-forsoker-passa-in-inte-ett-lost-case/lyx5d5zr",
+      "publishedAt": "2026-11-21T16:30:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Fabian Holst-Larsen",
+          "slug": "fabian-holst-larsen",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-21",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-tank-om-noel-sernelius-borjar-spela-for-ett-annat-lag-lyx545vr",
+      "title": "Tänk om Noel Sernelius börjar spela för ett annat lag",
+      "summary": "Nu är superettanåret snart slut och det känns som att sluta högstadiet.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/tank-om-noel-sernelius-borjar-spela-for-ett-annat-lag/lyx545vr",
+      "publishedAt": "2026-11-21T14:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Noel Sernelius",
+          "slug": "noel-sernelius",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-21",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-efter-en-kanslosam-sasong-hon-vinner-sparvagnsligan-r5pkkd1j",
+      "title": "Efter en känslosam säsong – hon vinner Spårvagnsligan",
+      "summary": "2026 fick ett bra slut för Ebba Handfast. Vad som händer nu är mer oklart. Fortsättningen finns inte i IFK. – Det var inget lätt beslut, säger vinnaren av Spårvagnsligan 2026.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/efter-en-kanslosam-sasong-hon-vinner-sparvagnsligan/r5pkkd1j",
+      "publishedAt": "2026-11-21T11:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Ebba Handfast",
+          "slug": "ebba-handfast",
+          "side": "Dam",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-21",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "genom-ljuva-livet-200-jubileum-fyllepodd-med-alla",
       "title": "200. JUBILEUM (fyllepodd med alla)",

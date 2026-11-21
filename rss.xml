@@ -5,7 +5,31 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Fri, 20 Nov 2026 19:05:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 16:30:00 GMT</lastBuildDate>
+    <item>
+      <title>IFK-backen försöker passa in: &quot;Inte ett lost case&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/ifk-backen-forsoker-passa-in-inte-ett-lost-case/lyx5d5zr</link>
+      <guid isPermaLink="false">nt-ifk-backen-forsoker-passa-in-inte-ett-lost-case-lyx5d5zr</guid>
+      <pubDate>Sat, 21 Nov 2026 16:30:00 GMT</pubDate>
+      <description>Traditionella takter eller nyskapande tänk? – Jag försöker anpassa mig till spelstilen, säger Fabian Holst-Larsen.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>Tänk om Noel Sernelius börjar spela för ett annat lag</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/tank-om-noel-sernelius-borjar-spela-for-ett-annat-lag/lyx545vr</link>
+      <guid isPermaLink="false">nt-tank-om-noel-sernelius-borjar-spela-for-ett-annat-lag-lyx545vr</guid>
+      <pubDate>Sat, 21 Nov 2026 14:00:00 GMT</pubDate>
+      <description>Nu är superettanåret snart slut och det känns som att sluta högstadiet.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>Efter en känslosam säsong – hon vinner Spårvagnsligan</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/efter-en-kanslosam-sasong-hon-vinner-sparvagnsligan/r5pkkd1j</link>
+      <guid isPermaLink="false">nt-efter-en-kanslosam-sasong-hon-vinner-sparvagnsligan-r5pkkd1j</guid>
+      <pubDate>Sat, 21 Nov 2026 11:00:00 GMT</pubDate>
+      <description>2026 fick ett bra slut för Ebba Handfast. Vad som händer nu är mer oklart. Fortsättningen finns inte i IFK. – Det var inget lätt beslut, säger vinnaren av Spårvagnsligan 2026.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>200. JUBILEUM (fyllepodd med alla)</title>
       <link>https://pod.space/genomljuvalivet/200-jubileum-fyllepodd-med-alla</link>
@@ -781,30 +805,6 @@
       <pubDate>Thu, 29 Oct 2026 07:00:00 GMT</pubDate>
       <description>Förlänga eller gå skilda vägar? Anton Eriksson har inte fått något besked från IFK. – Jag vet inte hur snacket går där, vad de prioriterar och var jag är i processen, säger mittbacken i Studio Peking.</description>
       <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>IFK-basen: &quot;Vi kommer fortsätta med samma strategi&quot;</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/ifk-basen-vi-kommer-fortsatta-med-samma-strategi/jo50kg8l</link>
-      <guid isPermaLink="false">nt-ifk-basen-vi-kommer-fortsatta-med-samma-strategi-jo50kg8l</guid>
-      <pubDate>Wed, 28 Oct 2026 18:00:00 GMT</pubDate>
-      <description>Om IFK blivit kvar i superettan hade de ekonomiska konsekvenserna påverkat hela föreningen. När det vankas allsvensk comeback är Martin Gyllix tydlig. – Vi kommer inte skena iväg och lägga vansinniga pengar på spelare, säger han.</description>
-      <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>Anton Eriksson</title>
-      <link>https://pod.space/studiopeking/anton-eriksson</link>
-      <guid isPermaLink="false">studio-peking-anton-eriksson</guid>
-      <pubDate>Wed, 28 Oct 2026 12:28:05 GMT</pubDate>
-      <description>IFK-backen gästar veckans avsnitt där det bland annat pratas kontraktsläge, åren i klubben och hans stora intresse vid sidan av planen.</description>
-      <category>Studio Peking</category>
-    </item>
-    <item>
-      <title>Beskedet: Hellberg kliver in som huvudtränare</title>
-      <link>https://fotbolldirekt.se/damallsvenskan/beskedet-hellberg-kliver-in-som-huvudtranare/</link>
-      <guid isPermaLink="false">fotbolldirekt-damallsvenskan-beskedet-hellberg-kliver-in-som-huvudtranare</guid>
-      <pubDate>Wed, 28 Oct 2026 10:07:35 GMT</pubDate>
-      <description>Tar över Peking The post Beskedet: Hellberg kliver in som huvudtränare appeared first on FotbollDirekt .</description>
-      <category>FotbollDirekt</category>
     </item>
   </channel>
 </rss>
