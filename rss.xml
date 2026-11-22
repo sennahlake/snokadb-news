@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sat, 21 Nov 2026 16:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 03:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Från IFK:s läktare till spel i guldjakten: &quot;Coolt&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/fran-ifks-laktare-till-spel-i-guldjakten-coolt/lw6nzewj</link>
+      <guid isPermaLink="false">nt-fran-ifks-laktare-till-spel-i-guldjakten-coolt-lw6nzewj</guid>
+      <pubDate>Sun, 22 Nov 2026 03:00:00 GMT</pubDate>
+      <description>Hammarby har accelererat medan Sirius tappat fart. Mitt i allsvenskans guldstrid står Åke Andersson. – Jag har försökt göra allt jag kan och njuta lite också, säger den förre IFK-spelaren.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>IFK-backen försöker passa in: &quot;Inte ett lost case&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/ifk-backen-forsoker-passa-in-inte-ett-lost-case/lyx5d5zr</link>
@@ -797,14 +805,6 @@
       <pubDate>Thu, 29 Oct 2026 08:06:36 GMT</pubDate>
       <description>IFK Norrköping har gått upp i allsvenskan. För Elias Jemal har allt gått uppåt sen han träffade sin fru. – Jag visste ju vem jag gifte mig med. Men samtidigt, varför ska jag visa hur vårt liv är?</description>
       <category>SportExpressen</category>
-    </item>
-    <item>
-      <title>Inväntar IFK-svar: &quot;Helt klart på deras bord&quot;</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/invantar-ifk-svar-helt-klart-pa-deras-bord/r0egz1dj</link>
-      <guid isPermaLink="false">nt-invantar-ifk-svar-helt-klart-pa-deras-bord-r0egz1dj</guid>
-      <pubDate>Thu, 29 Oct 2026 07:00:00 GMT</pubDate>
-      <description>Förlänga eller gå skilda vägar? Anton Eriksson har inte fått något besked från IFK. – Jag vet inte hur snacket går där, vad de prioriterar och var jag är i processen, säger mittbacken i Studio Peking.</description>
-      <category>Norrköpings Tidningar</category>
     </item>
   </channel>
 </rss>

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T17:26:30.014Z",
-  "itemCount": 4773,
+  "generatedAt": "2026-11-22T03:07:52.914Z",
+  "itemCount": 4774,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,7 +10,7 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 3,
+      "count": 4,
       "ok": true
     },
     {
@@ -67,6 +67,64 @@
     }
   ],
   "items": [
+    {
+      "id": "nt-fran-ifks-laktare-till-spel-i-guldjakten-coolt-lw6nzewj",
+      "title": "Från IFK:s läktare till spel i guldjakten: \"Coolt\"",
+      "summary": "Hammarby har accelererat medan Sirius tappat fart. Mitt i allsvenskans guldstrid står Åke Andersson. – Jag har försökt göra allt jag kan och njuta lite också, säger den förre IFK-spelaren.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/fran-ifks-laktare-till-spel-i-guldjakten-coolt/lw6nzewj",
+      "publishedAt": "2026-11-22T03:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "IFK i ingress",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Åke Andersson",
+          "slug": "ake-andersson",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-22",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-ifk-backen-forsoker-passa-in-inte-ett-lost-case-lyx5d5zr",
       "title": "IFK-backen försöker passa in: \"Inte ett lost case\"",
