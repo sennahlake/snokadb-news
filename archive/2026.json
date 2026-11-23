@@ -1,7 +1,112 @@
 {
   "year": 2026,
-  "itemCount": 856,
+  "itemCount": 858,
   "items": [
+    {
+      "id": "studio-peking-sa-var-ifk-s-damlags-2026",
+      "title": "Så var IFK:s damlags 2026",
+      "summary": "Vi sammanfattar säsongen 2026 och pratar bland annat om årets spelare, årets mål och årets match. Dessutom resonerar panelen kring IFK-profilen med utgående kontrakt och listar potentiella nyförvärv. Medverkande: Eric Persson, Rebecca Candevi, Christer Gustafson och Gabriel Ohlsson.",
+      "source": "Studio Peking",
+      "sourceUrl": "https://poddtoppen.se/podcast/1738623973/studio-peking",
+      "articleUrl": "https://pod.space/studiopeking/sa-var-ifks-damlags-2026",
+      "publishedAt": "2026-11-23T17:07:21.000Z",
+      "category": "Podd",
+      "tags": [
+        "Extern originalkälla",
+        "Podd",
+        "Supporter"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "Studio Peking",
+        "Podd",
+        "Supporter"
+      ],
+      "access": {
+        "type": "free",
+        "label": "Fri lyssning"
+      },
+      "relevance": {
+        "level": "high",
+        "score": 90,
+        "matchedBy": [
+          "Originalkälla",
+          "IFK-podd",
+          "IFK i artikel-URL"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "studio-peking"
+    },
+    {
+      "id": "nt-tackar-nyman-for-stodet-det-har-ar-mitt-hem-jvzvqy7r",
+      "title": "Tackar Nyman för stödet: \"Det här är mitt hem\"",
+      "summary": "När Abdoulie Tamba tillbringade en givande tid i Finland visade Christoffer Nyman att han brydde sig. – Jag skulle älska att stanna här, säger 20-åringen.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/tackar-nyman-for-stodet-det-har-ar-mitt-hem/jvzvqy7r",
+      "publishedAt": "2026-11-23T10:30:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Abdoulie Tamba",
+          "slug": "abdoulie-tamba",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        },
+        {
+          "name": "Christoffer Nyman",
+          "slug": "christoffer-nyman",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-23",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-fran-ifks-laktare-till-spel-i-guldjakten-coolt-lw6nzewj",
       "title": "Från IFK:s läktare till spel i guldjakten: \"Coolt\"",

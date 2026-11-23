@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Sun, 22 Nov 2026 03:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 17:07:21 GMT</lastBuildDate>
+    <item>
+      <title>Så var IFK:s damlags 2026</title>
+      <link>https://pod.space/studiopeking/sa-var-ifks-damlags-2026</link>
+      <guid isPermaLink="false">studio-peking-sa-var-ifk-s-damlags-2026</guid>
+      <pubDate>Mon, 23 Nov 2026 17:07:21 GMT</pubDate>
+      <description>Vi sammanfattar säsongen 2026 och pratar bland annat om årets spelare, årets mål och årets match. Dessutom resonerar panelen kring IFK-profilen med utgående kontrakt och listar potentiella nyförvärv. Medverkande: Eric Persson, Rebecca Candevi, Christer Gustafson och Gabriel Ohlsson.</description>
+      <category>Studio Peking</category>
+    </item>
+    <item>
+      <title>Tackar Nyman för stödet: &quot;Det här är mitt hem&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/tackar-nyman-for-stodet-det-har-ar-mitt-hem/jvzvqy7r</link>
+      <guid isPermaLink="false">nt-tackar-nyman-for-stodet-det-har-ar-mitt-hem-jvzvqy7r</guid>
+      <pubDate>Mon, 23 Nov 2026 10:30:00 GMT</pubDate>
+      <description>När Abdoulie Tamba tillbringade en givande tid i Finland visade Christoffer Nyman att han brydde sig. – Jag skulle älska att stanna här, säger 20-åringen.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Från IFK:s läktare till spel i guldjakten: &quot;Coolt&quot;</title>
       <link>https://www.nt.se/sport/fotboll/artikel/fran-ifks-laktare-till-spel-i-guldjakten-coolt/lw6nzewj</link>
@@ -789,22 +805,6 @@
       <pubDate>Thu, 29 Oct 2026 19:00:00 GMT</pubDate>
       <description>Stor fotbollskunskap och en trygghet. Så beskriver IFK-spelarna Stefan Hellberg. – Det är inspirerande att ha en så pass kunnig person så nära oss, säger Matilda Kristell.</description>
       <category>Norrköpings Tidningar</category>
-    </item>
-    <item>
-      <title>IFK Norrköping byter biljettsystem inför säsongen 2027</title>
-      <link>https://ifknorrkoping.se/ifk-norrkoping-byter-biljettsystem-infor-sasongen-2027/</link>
-      <guid isPermaLink="false">ifk-ifk-norrkoping-byter-biljettsystem-infor-sasongen-2027</guid>
-      <pubDate>Thu, 29 Oct 2026 14:05:40 GMT</pubDate>
-      <description>IFK Norrköping byter biljettsystem inför säsongen 2027</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Elias Jemals resa till allsvenskan: ”Skulle aldrig göra det i dag”</title>
-      <link>https://www.expressen.se/sport/fotboll/allsvenskan/elias-jemals-resa-till-allsvenskan-skulle-aldrig-gora-det-i-dag/</link>
-      <guid isPermaLink="false">sportexpressen-allsvenskan-elias-jemals-resa-till-allsvenskan-skulle-aldrig-gora-det-i-dag</guid>
-      <pubDate>Thu, 29 Oct 2026 08:06:36 GMT</pubDate>
-      <description>IFK Norrköping har gått upp i allsvenskan. För Elias Jemal har allt gått uppåt sen han träffade sin fru. – Jag visste ju vem jag gifte mig med. Men samtidigt, varför ska jag visa hur vårt liv är?</description>
-      <category>SportExpressen</category>
     </item>
   </channel>
 </rss>
