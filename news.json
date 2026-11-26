@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T21:15:51.647Z",
-  "itemCount": 4776,
+  "generatedAt": "2026-11-26T15:06:05.910Z",
+  "itemCount": 4778,
   "sourceSummary": [
     {
       "source": "IFK Norrköping",
@@ -10,13 +10,14 @@
     },
     {
       "source": "Norrköpings Tidningar",
-      "count": 1,
+      "count": 2,
       "ok": true
     },
     {
       "source": "FotbollDirekt",
       "count": 0,
-      "ok": true
+      "ok": false,
+      "error": "HTTP 403 for https://fotbolldirekt.se/feed/"
     },
     {
       "source": "SVT",
@@ -67,6 +68,107 @@
     }
   ],
   "items": [
+    {
+      "id": "nt-avslojar-ifk-gar-skilda-vagar-med-sportchefen-lyxpk7zr",
+      "title": "Avslöjar: IFK går skilda vägar med sportchefen",
+      "summary": "IFK:s damallsvenska säsong blev motig. Nu har klubben beslutat sig för avbryta samarbetet med sportchefen Dennis Popperyd, enligt uppgifter till NT.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/avslojar-ifk-gar-skilda-vagar-med-sportchefen/lyxpk7zr",
+      "publishedAt": "2026-11-26T11:59:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 88,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla"
+        ]
+      },
+      "players": [],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-26",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
+    {
+      "id": "nt-malvaktens-stottepelare-en-sjukt-bra-kompanjon-r49k7w1j",
+      "title": "Målvaktens stöttepelare: \"En sjukt bra kompanjon\"",
+      "summary": "Ett tufft år mentalt. Då har Ebba Steen blivit nära vän med målvaktskonkurrenten. – Jag kommer sakna henne väldigt mycket, säger 22-åringen.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/malvaktens-stottepelare-en-sjukt-bra-kompanjon/r49k7w1j",
+      "publishedAt": "2026-11-26T09:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Dam"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Ebba Steen",
+          "slug": "ebba-steen",
+          "side": "Dam",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-26",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "studio-peking-sa-var-ifk-s-damlags-2026",
       "title": "Så var IFK:s damlags 2026",

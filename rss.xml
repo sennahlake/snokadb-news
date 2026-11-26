@@ -5,7 +5,23 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Mon, 23 Nov 2026 17:07:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 11:59:00 GMT</lastBuildDate>
+    <item>
+      <title>Avslöjar: IFK går skilda vägar med sportchefen</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/avslojar-ifk-gar-skilda-vagar-med-sportchefen/lyxpk7zr</link>
+      <guid isPermaLink="false">nt-avslojar-ifk-gar-skilda-vagar-med-sportchefen-lyxpk7zr</guid>
+      <pubDate>Thu, 26 Nov 2026 11:59:00 GMT</pubDate>
+      <description>IFK:s damallsvenska säsong blev motig. Nu har klubben beslutat sig för avbryta samarbetet med sportchefen Dennis Popperyd, enligt uppgifter till NT.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
+    <item>
+      <title>Målvaktens stöttepelare: &quot;En sjukt bra kompanjon&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/malvaktens-stottepelare-en-sjukt-bra-kompanjon/r49k7w1j</link>
+      <guid isPermaLink="false">nt-malvaktens-stottepelare-en-sjukt-bra-kompanjon-r49k7w1j</guid>
+      <pubDate>Thu, 26 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Ett tufft år mentalt. Då har Ebba Steen blivit nära vän med målvaktskonkurrenten. – Jag kommer sakna henne väldigt mycket, säger 22-åringen.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Så var IFK:s damlags 2026</title>
       <link>https://pod.space/studiopeking/sa-var-ifks-damlags-2026</link>
@@ -789,22 +805,6 @@
       <pubDate>Fri, 30 Oct 2026 12:21:21 GMT</pubDate>
       <description>Publikinformation: IFK Norrköping-Östersunds FK</description>
       <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>126. Hej då Varböld, Nodick United och Dålige</title>
-      <link>https://soundcloud.com/user-154683921/126-hej-da-varboeld-nodick</link>
-      <guid isPermaLink="false">snokasnack-126-hej-da-varbold-nodick-united-och-dalige</guid>
-      <pubDate>Thu, 29 Oct 2026 20:28:43 GMT</pubDate>
-      <description>Ett helt vanligt avsnitt via videolänk. Vi snackar om avancemanget och blickar framåt med tillförsikt.</description>
-      <category>Snokasnack</category>
-    </item>
-    <item>
-      <title>Välkomnar Hellbergs intåg: &quot;Stor kunskapsbank&quot;</title>
-      <link>https://www.nt.se/sport/fotboll/artikel/valkomnar-hellbergs-intag-stor-kunskapsbank/rxqyxxgj</link>
-      <guid isPermaLink="false">nt-valkomnar-hellbergs-intag-stor-kunskapsbank-rxqyxxgj</guid>
-      <pubDate>Thu, 29 Oct 2026 19:00:00 GMT</pubDate>
-      <description>Stor fotbollskunskap och en trygghet. Så beskriver IFK-spelarna Stefan Hellberg. – Det är inspirerande att ha en så pass kunnig person så nära oss, säger Matilda Kristell.</description>
-      <category>Norrköpings Tidningar</category>
     </item>
   </channel>
 </rss>
