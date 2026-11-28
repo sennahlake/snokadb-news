@@ -1,7 +1,64 @@
 {
   "year": 2026,
-  "itemCount": 860,
+  "itemCount": 861,
   "items": [
+    {
+      "id": "nt-bronner-soker-framtidssvar-kanske-det-som-saknas-lqp2n7er",
+      "title": "Brönner söker framtidssvar: \"Kanske det som saknas\"",
+      "summary": "Är Axel Brönner på väg mot ett vägskäl? 18-åringen medger åtminstone att han behöver ta sig en funderare kring framtiden. – Jag vill känna lite mer förtroende från staben, säger han.",
+      "source": "Norrköpings Tidningar",
+      "sourceUrl": "https://www.nt.se/sport/fotboll",
+      "articleUrl": "https://www.nt.se/sport/fotboll/artikel/bronner-soker-framtidssvar-kanske-det-som-saknas/lqp2n7er",
+      "publishedAt": "2026-11-27T19:00:00.000Z",
+      "category": "Lokal",
+      "tags": [
+        "Extern originalkälla",
+        "Lokal",
+        "Herr"
+      ],
+      "keywords": [
+        "IFK Norrköping",
+        "NT"
+      ],
+      "access": {
+        "type": "paywalled",
+        "label": "Låst",
+        "allowWhenHidingPaywalled": true
+      },
+      "relevance": {
+        "level": "high",
+        "score": 92,
+        "matchedBy": [
+          "Originalkälla",
+          "Lokal originalkälla",
+          "Kopplad spelare"
+        ]
+      },
+      "players": [
+        {
+          "name": "Axel Brönner",
+          "slug": "axel-bronner",
+          "side": "Herr",
+          "relation": "current",
+          "currentSeason": 2026,
+          "seasons": [
+            2026
+          ]
+        }
+      ],
+      "leaders": [],
+      "matches": [],
+      "fetchSource": "nt",
+      "archiveRefs": [
+        {
+          "provider": "KB/Svenska tidningar",
+          "publication": "Norrköpings Tidningar",
+          "date": "2026-11-27",
+          "status": "expected",
+          "note": "Metadata sparad för framtida sökning i KB/Svenska tidningar."
+        }
+      ]
+    },
     {
       "id": "nt-avslojar-ifk-gar-skilda-vagar-med-sportchefen-lyxpk7zr",
       "title": "Avslöjar: IFK går skilda vägar med sportchefen",

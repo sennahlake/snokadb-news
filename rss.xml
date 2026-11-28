@@ -5,7 +5,15 @@
     <link>https://snokadb.se/nyheter</link>
     <description>Samlat nyhetsflöde för IFK Norrköping (metadata/länkar, inte fulltext).</description>
     <language>sv-se</language>
-    <lastBuildDate>Thu, 26 Nov 2026 11:59:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 19:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Brönner söker framtidssvar: &quot;Kanske det som saknas&quot;</title>
+      <link>https://www.nt.se/sport/fotboll/artikel/bronner-soker-framtidssvar-kanske-det-som-saknas/lqp2n7er</link>
+      <guid isPermaLink="false">nt-bronner-soker-framtidssvar-kanske-det-som-saknas-lqp2n7er</guid>
+      <pubDate>Fri, 27 Nov 2026 19:00:00 GMT</pubDate>
+      <description>Är Axel Brönner på väg mot ett vägskäl? 18-åringen medger åtminstone att han behöver ta sig en funderare kring framtiden. – Jag vill känna lite mer förtroende från staben, säger han.</description>
+      <category>Norrköpings Tidningar</category>
+    </item>
     <item>
       <title>Avslöjar: IFK går skilda vägar med sportchefen</title>
       <link>https://www.nt.se/sport/fotboll/artikel/avslojar-ifk-gar-skilda-vagar-med-sportchefen/lyxpk7zr</link>
@@ -796,14 +804,6 @@
       <guid isPermaLink="false">ifk-superettans-sista-match-pa-parken-otroligt-glad-over-var-resa-i-ar</guid>
       <pubDate>Fri, 30 Oct 2026 14:08:44 GMT</pubDate>
       <description>Superettans sista match på Parken – “Otroligt glad över vår resa i år”</description>
-      <category>IFK Norrköping</category>
-    </item>
-    <item>
-      <title>Publikinformation: IFK Norrköping-Östersunds FK</title>
-      <link>https://ifknorrkoping.se/publikinformation-ifk-norrkoping-ostersunds-fk-2/</link>
-      <guid isPermaLink="false">ifk-publikinformation-ifk-norrkoping-ostersunds-fk-2</guid>
-      <pubDate>Fri, 30 Oct 2026 12:21:21 GMT</pubDate>
-      <description>Publikinformation: IFK Norrköping-Östersunds FK</description>
       <category>IFK Norrköping</category>
     </item>
   </channel>
